@@ -1,0 +1,781 @@
+NAME 1,NAME 2
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Bronn
+Tyrion Lannister,Renly Baratheon
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Talisa Maegyr
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Ros
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,The Tickler
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Spice King
+Tyrion Lannister,Xaro Xhoan Daxos
+Tyrion Lannister,Gendry
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Pyat Pree
+Tyrion Lannister,Doreah
+Tyrion Lannister,Irri
+Tyrion Lannister,Kovarro
+Tyrion Lannister,Hot Pie
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Gregor 'The Mountain' Clegane
+Tyrion Lannister,Dontos Hollard
+Tyrion Lannister,Rennick
+Tyrion Lannister,Polliver
+Tyrion Lannister,Daisy
+Tyrion Lannister,Amory Lorch
+Tyrion Lannister,Silk King
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Davos Seaworth
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Robb Stark
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Stannis Baratheon
+Catelyn Stark,Melisandre
+Catelyn Stark,Bronn
+Catelyn Stark,Renly Baratheon
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Talisa Maegyr
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Ros
+Catelyn Stark,Meryn Trant
+Catelyn Stark,The Tickler
+Catelyn Stark,Jorah Mormont
+Catelyn Stark,Margaery Tyrell
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Spice King
+Catelyn Stark,Xaro Xhoan Daxos
+Catelyn Stark,Gendry
+Catelyn Stark,Lancel Lannister
+Catelyn Stark,Pyat Pree
+Catelyn Stark,Doreah
+Catelyn Stark,Irri
+Catelyn Stark,Kovarro
+Catelyn Stark,Hot Pie
+Catelyn Stark,Loras Tyrell
+Catelyn Stark,Gregor 'The Mountain' Clegane
+Catelyn Stark,Dontos Hollard
+Catelyn Stark,Rennick
+Catelyn Stark,Polliver
+Catelyn Stark,Daisy
+Catelyn Stark,Amory Lorch
+Catelyn Stark,Silk King
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Renly Baratheon
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Talisa Maegyr
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,The Tickler
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Spice King
+Daenerys Targaryen,Xaro Xhoan Daxos
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Lancel Lannister
+Daenerys Targaryen,Pyat Pree
+Daenerys Targaryen,Doreah
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Kovarro
+Daenerys Targaryen,Hot Pie
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Gregor 'The Mountain' Clegane
+Daenerys Targaryen,Dontos Hollard
+Daenerys Targaryen,Rennick
+Daenerys Targaryen,Polliver
+Daenerys Targaryen,Daisy
+Daenerys Targaryen,Amory Lorch
+Daenerys Targaryen,Silk King
+Petyr 'Littlefinger' Baelish,Tywin Lannister
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Robb Stark
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Renly Baratheon
+Petyr 'Littlefinger' Baelish,Roose Bolton
+Petyr 'Littlefinger' Baelish,Talisa Maegyr
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Ros
+Petyr 'Littlefinger' Baelish,Meryn Trant
+Petyr 'Littlefinger' Baelish,The Tickler
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Sandor 'The Hound' Clegane
+Petyr 'Littlefinger' Baelish,Spice King
+Petyr 'Littlefinger' Baelish,Xaro Xhoan Daxos
+Petyr 'Littlefinger' Baelish,Gendry
+Petyr 'Littlefinger' Baelish,Lancel Lannister
+Petyr 'Littlefinger' Baelish,Pyat Pree
+Petyr 'Littlefinger' Baelish,Doreah
+Petyr 'Littlefinger' Baelish,Irri
+Petyr 'Littlefinger' Baelish,Kovarro
+Petyr 'Littlefinger' Baelish,Hot Pie
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Gregor 'The Mountain' Clegane
+Petyr 'Littlefinger' Baelish,Dontos Hollard
+Petyr 'Littlefinger' Baelish,Rennick
+Petyr 'Littlefinger' Baelish,Polliver
+Petyr 'Littlefinger' Baelish,Daisy
+Petyr 'Littlefinger' Baelish,Amory Lorch
+Petyr 'Littlefinger' Baelish,Silk King
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Robb Stark
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Melisandre
+Tywin Lannister,Bronn
+Tywin Lannister,Renly Baratheon
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Talisa Maegyr
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Ros
+Tywin Lannister,Meryn Trant
+Tywin Lannister,The Tickler
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Spice King
+Tywin Lannister,Xaro Xhoan Daxos
+Tywin Lannister,Gendry
+Tywin Lannister,Lancel Lannister
+Tywin Lannister,Pyat Pree
+Tywin Lannister,Doreah
+Tywin Lannister,Irri
+Tywin Lannister,Kovarro
+Tywin Lannister,Hot Pie
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Gregor 'The Mountain' Clegane
+Tywin Lannister,Dontos Hollard
+Tywin Lannister,Rennick
+Tywin Lannister,Polliver
+Tywin Lannister,Daisy
+Tywin Lannister,Amory Lorch
+Tywin Lannister,Silk King
+Davos Seaworth,Joffrey Baratheon
+Davos Seaworth,Robb Stark
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Arya Stark
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Melisandre
+Davos Seaworth,Bronn
+Davos Seaworth,Renly Baratheon
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Talisa Maegyr
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Ros
+Davos Seaworth,Meryn Trant
+Davos Seaworth,The Tickler
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Margaery Tyrell
+Davos Seaworth,Sandor 'The Hound' Clegane
+Davos Seaworth,Spice King
+Davos Seaworth,Xaro Xhoan Daxos
+Davos Seaworth,Gendry
+Davos Seaworth,Lancel Lannister
+Davos Seaworth,Pyat Pree
+Davos Seaworth,Doreah
+Davos Seaworth,Irri
+Davos Seaworth,Kovarro
+Davos Seaworth,Hot Pie
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Gregor 'The Mountain' Clegane
+Davos Seaworth,Dontos Hollard
+Davos Seaworth,Rennick
+Davos Seaworth,Polliver
+Davos Seaworth,Daisy
+Davos Seaworth,Amory Lorch
+Davos Seaworth,Silk King
+Joffrey Baratheon,Robb Stark
+Joffrey Baratheon,Sansa Stark
+Joffrey Baratheon,Arya Stark
+Joffrey Baratheon,Stannis Baratheon
+Joffrey Baratheon,Melisandre
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Renly Baratheon
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Talisa Maegyr
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Ros
+Joffrey Baratheon,Meryn Trant
+Joffrey Baratheon,The Tickler
+Joffrey Baratheon,Jorah Mormont
+Joffrey Baratheon,Margaery Tyrell
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Spice King
+Joffrey Baratheon,Xaro Xhoan Daxos
+Joffrey Baratheon,Gendry
+Joffrey Baratheon,Lancel Lannister
+Joffrey Baratheon,Pyat Pree
+Joffrey Baratheon,Doreah
+Joffrey Baratheon,Irri
+Joffrey Baratheon,Kovarro
+Joffrey Baratheon,Hot Pie
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Gregor 'The Mountain' Clegane
+Joffrey Baratheon,Dontos Hollard
+Joffrey Baratheon,Rennick
+Joffrey Baratheon,Polliver
+Joffrey Baratheon,Daisy
+Joffrey Baratheon,Amory Lorch
+Joffrey Baratheon,Silk King
+Robb Stark,Sansa Stark
+Robb Stark,Arya Stark
+Robb Stark,Stannis Baratheon
+Robb Stark,Melisandre
+Robb Stark,Bronn
+Robb Stark,Renly Baratheon
+Robb Stark,Roose Bolton
+Robb Stark,Talisa Maegyr
+Robb Stark,Brienne of Tarth
+Robb Stark,Ros
+Robb Stark,Meryn Trant
+Robb Stark,The Tickler
+Robb Stark,Jorah Mormont
+Robb Stark,Margaery Tyrell
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Spice King
+Robb Stark,Xaro Xhoan Daxos
+Robb Stark,Gendry
+Robb Stark,Lancel Lannister
+Robb Stark,Pyat Pree
+Robb Stark,Doreah
+Robb Stark,Irri
+Robb Stark,Kovarro
+Robb Stark,Hot Pie
+Robb Stark,Loras Tyrell
+Robb Stark,Gregor 'The Mountain' Clegane
+Robb Stark,Dontos Hollard
+Robb Stark,Rennick
+Robb Stark,Polliver
+Robb Stark,Daisy
+Robb Stark,Amory Lorch
+Robb Stark,Silk King
+Sansa Stark,Arya Stark
+Sansa Stark,Stannis Baratheon
+Sansa Stark,Melisandre
+Sansa Stark,Bronn
+Sansa Stark,Renly Baratheon
+Sansa Stark,Roose Bolton
+Sansa Stark,Talisa Maegyr
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Ros
+Sansa Stark,Meryn Trant
+Sansa Stark,The Tickler
+Sansa Stark,Jorah Mormont
+Sansa Stark,Margaery Tyrell
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Spice King
+Sansa Stark,Xaro Xhoan Daxos
+Sansa Stark,Gendry
+Sansa Stark,Lancel Lannister
+Sansa Stark,Pyat Pree
+Sansa Stark,Doreah
+Sansa Stark,Irri
+Sansa Stark,Kovarro
+Sansa Stark,Hot Pie
+Sansa Stark,Loras Tyrell
+Sansa Stark,Gregor 'The Mountain' Clegane
+Sansa Stark,Dontos Hollard
+Sansa Stark,Rennick
+Sansa Stark,Polliver
+Sansa Stark,Daisy
+Sansa Stark,Amory Lorch
+Sansa Stark,Silk King
+Arya Stark,Stannis Baratheon
+Arya Stark,Melisandre
+Arya Stark,Bronn
+Arya Stark,Renly Baratheon
+Arya Stark,Roose Bolton
+Arya Stark,Talisa Maegyr
+Arya Stark,Brienne of Tarth
+Arya Stark,Ros
+Arya Stark,Meryn Trant
+Arya Stark,The Tickler
+Arya Stark,Jorah Mormont
+Arya Stark,Margaery Tyrell
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Spice King
+Arya Stark,Xaro Xhoan Daxos
+Arya Stark,Gendry
+Arya Stark,Lancel Lannister
+Arya Stark,Pyat Pree
+Arya Stark,Doreah
+Arya Stark,Irri
+Arya Stark,Kovarro
+Arya Stark,Hot Pie
+Arya Stark,Loras Tyrell
+Arya Stark,Gregor 'The Mountain' Clegane
+Arya Stark,Dontos Hollard
+Arya Stark,Rennick
+Arya Stark,Polliver
+Arya Stark,Daisy
+Arya Stark,Amory Lorch
+Arya Stark,Silk King
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Bronn
+Stannis Baratheon,Renly Baratheon
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Talisa Maegyr
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Ros
+Stannis Baratheon,Meryn Trant
+Stannis Baratheon,The Tickler
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,Margaery Tyrell
+Stannis Baratheon,Sandor 'The Hound' Clegane
+Stannis Baratheon,Spice King
+Stannis Baratheon,Xaro Xhoan Daxos
+Stannis Baratheon,Gendry
+Stannis Baratheon,Lancel Lannister
+Stannis Baratheon,Pyat Pree
+Stannis Baratheon,Doreah
+Stannis Baratheon,Irri
+Stannis Baratheon,Kovarro
+Stannis Baratheon,Hot Pie
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Gregor 'The Mountain' Clegane
+Stannis Baratheon,Dontos Hollard
+Stannis Baratheon,Rennick
+Stannis Baratheon,Polliver
+Stannis Baratheon,Daisy
+Stannis Baratheon,Amory Lorch
+Stannis Baratheon,Silk King
+Melisandre,Bronn
+Melisandre,Renly Baratheon
+Melisandre,Roose Bolton
+Melisandre,Talisa Maegyr
+Melisandre,Brienne of Tarth
+Melisandre,Ros
+Melisandre,Meryn Trant
+Melisandre,The Tickler
+Melisandre,Jorah Mormont
+Melisandre,Margaery Tyrell
+Melisandre,Sandor 'The Hound' Clegane
+Melisandre,Spice King
+Melisandre,Xaro Xhoan Daxos
+Melisandre,Gendry
+Melisandre,Lancel Lannister
+Melisandre,Pyat Pree
+Melisandre,Doreah
+Melisandre,Irri
+Melisandre,Kovarro
+Melisandre,Hot Pie
+Melisandre,Loras Tyrell
+Melisandre,Gregor 'The Mountain' Clegane
+Melisandre,Dontos Hollard
+Melisandre,Rennick
+Melisandre,Polliver
+Melisandre,Daisy
+Melisandre,Amory Lorch
+Melisandre,Silk King
+Bronn,Renly Baratheon
+Bronn,Roose Bolton
+Bronn,Talisa Maegyr
+Bronn,Brienne of Tarth
+Bronn,Ros
+Bronn,Meryn Trant
+Bronn,The Tickler
+Bronn,Jorah Mormont
+Bronn,Margaery Tyrell
+Bronn,Sandor 'The Hound' Clegane
+Bronn,Spice King
+Bronn,Xaro Xhoan Daxos
+Bronn,Gendry
+Bronn,Lancel Lannister
+Bronn,Pyat Pree
+Bronn,Doreah
+Bronn,Irri
+Bronn,Kovarro
+Bronn,Hot Pie
+Bronn,Loras Tyrell
+Bronn,Gregor 'The Mountain' Clegane
+Bronn,Dontos Hollard
+Bronn,Rennick
+Bronn,Polliver
+Bronn,Daisy
+Bronn,Amory Lorch
+Bronn,Silk King
+Renly Baratheon,Roose Bolton
+Renly Baratheon,Talisa Maegyr
+Renly Baratheon,Brienne of Tarth
+Renly Baratheon,Ros
+Renly Baratheon,Meryn Trant
+Renly Baratheon,The Tickler
+Renly Baratheon,Jorah Mormont
+Renly Baratheon,Margaery Tyrell
+Renly Baratheon,Sandor 'The Hound' Clegane
+Renly Baratheon,Spice King
+Renly Baratheon,Xaro Xhoan Daxos
+Renly Baratheon,Gendry
+Renly Baratheon,Lancel Lannister
+Renly Baratheon,Pyat Pree
+Renly Baratheon,Doreah
+Renly Baratheon,Irri
+Renly Baratheon,Kovarro
+Renly Baratheon,Hot Pie
+Renly Baratheon,Loras Tyrell
+Renly Baratheon,Gregor 'The Mountain' Clegane
+Renly Baratheon,Dontos Hollard
+Renly Baratheon,Rennick
+Renly Baratheon,Polliver
+Renly Baratheon,Daisy
+Renly Baratheon,Amory Lorch
+Renly Baratheon,Silk King
+Roose Bolton,Talisa Maegyr
+Roose Bolton,Brienne of Tarth
+Roose Bolton,Ros
+Roose Bolton,Meryn Trant
+Roose Bolton,The Tickler
+Roose Bolton,Jorah Mormont
+Roose Bolton,Margaery Tyrell
+Roose Bolton,Sandor 'The Hound' Clegane
+Roose Bolton,Spice King
+Roose Bolton,Xaro Xhoan Daxos
+Roose Bolton,Gendry
+Roose Bolton,Lancel Lannister
+Roose Bolton,Pyat Pree
+Roose Bolton,Doreah
+Roose Bolton,Irri
+Roose Bolton,Kovarro
+Roose Bolton,Hot Pie
+Roose Bolton,Loras Tyrell
+Roose Bolton,Gregor 'The Mountain' Clegane
+Roose Bolton,Dontos Hollard
+Roose Bolton,Rennick
+Roose Bolton,Polliver
+Roose Bolton,Daisy
+Roose Bolton,Amory Lorch
+Roose Bolton,Silk King
+Talisa Maegyr,Brienne of Tarth
+Talisa Maegyr,Ros
+Talisa Maegyr,Meryn Trant
+Talisa Maegyr,The Tickler
+Talisa Maegyr,Jorah Mormont
+Talisa Maegyr,Margaery Tyrell
+Talisa Maegyr,Sandor 'The Hound' Clegane
+Talisa Maegyr,Spice King
+Talisa Maegyr,Xaro Xhoan Daxos
+Talisa Maegyr,Gendry
+Talisa Maegyr,Lancel Lannister
+Talisa Maegyr,Pyat Pree
+Talisa Maegyr,Doreah
+Talisa Maegyr,Irri
+Talisa Maegyr,Kovarro
+Talisa Maegyr,Hot Pie
+Talisa Maegyr,Loras Tyrell
+Talisa Maegyr,Gregor 'The Mountain' Clegane
+Talisa Maegyr,Dontos Hollard
+Talisa Maegyr,Rennick
+Talisa Maegyr,Polliver
+Talisa Maegyr,Daisy
+Talisa Maegyr,Amory Lorch
+Talisa Maegyr,Silk King
+Brienne of Tarth,Ros
+Brienne of Tarth,Meryn Trant
+Brienne of Tarth,The Tickler
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Margaery Tyrell
+Brienne of Tarth,Sandor 'The Hound' Clegane
+Brienne of Tarth,Spice King
+Brienne of Tarth,Xaro Xhoan Daxos
+Brienne of Tarth,Gendry
+Brienne of Tarth,Lancel Lannister
+Brienne of Tarth,Pyat Pree
+Brienne of Tarth,Doreah
+Brienne of Tarth,Irri
+Brienne of Tarth,Kovarro
+Brienne of Tarth,Hot Pie
+Brienne of Tarth,Loras Tyrell
+Brienne of Tarth,Gregor 'The Mountain' Clegane
+Brienne of Tarth,Dontos Hollard
+Brienne of Tarth,Rennick
+Brienne of Tarth,Polliver
+Brienne of Tarth,Daisy
+Brienne of Tarth,Amory Lorch
+Brienne of Tarth,Silk King
+Ros,Meryn Trant
+Ros,The Tickler
+Ros,Jorah Mormont
+Ros,Margaery Tyrell
+Ros,Sandor 'The Hound' Clegane
+Ros,Spice King
+Ros,Xaro Xhoan Daxos
+Ros,Gendry
+Ros,Lancel Lannister
+Ros,Pyat Pree
+Ros,Doreah
+Ros,Irri
+Ros,Kovarro
+Ros,Hot Pie
+Ros,Loras Tyrell
+Ros,Gregor 'The Mountain' Clegane
+Ros,Dontos Hollard
+Ros,Rennick
+Ros,Polliver
+Ros,Daisy
+Ros,Amory Lorch
+Ros,Silk King
+Meryn Trant,The Tickler
+Meryn Trant,Jorah Mormont
+Meryn Trant,Margaery Tyrell
+Meryn Trant,Sandor 'The Hound' Clegane
+Meryn Trant,Spice King
+Meryn Trant,Xaro Xhoan Daxos
+Meryn Trant,Gendry
+Meryn Trant,Lancel Lannister
+Meryn Trant,Pyat Pree
+Meryn Trant,Doreah
+Meryn Trant,Irri
+Meryn Trant,Kovarro
+Meryn Trant,Hot Pie
+Meryn Trant,Loras Tyrell
+Meryn Trant,Gregor 'The Mountain' Clegane
+Meryn Trant,Dontos Hollard
+Meryn Trant,Rennick
+Meryn Trant,Polliver
+Meryn Trant,Daisy
+Meryn Trant,Amory Lorch
+Meryn Trant,Silk King
+The Tickler,Jorah Mormont
+The Tickler,Margaery Tyrell
+The Tickler,Sandor 'The Hound' Clegane
+The Tickler,Spice King
+The Tickler,Xaro Xhoan Daxos
+The Tickler,Gendry
+The Tickler,Lancel Lannister
+The Tickler,Pyat Pree
+The Tickler,Doreah
+The Tickler,Irri
+The Tickler,Kovarro
+The Tickler,Hot Pie
+The Tickler,Loras Tyrell
+The Tickler,Gregor 'The Mountain' Clegane
+The Tickler,Dontos Hollard
+The Tickler,Rennick
+The Tickler,Polliver
+The Tickler,Daisy
+The Tickler,Amory Lorch
+The Tickler,Silk King
+Jorah Mormont,Margaery Tyrell
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Spice King
+Jorah Mormont,Xaro Xhoan Daxos
+Jorah Mormont,Gendry
+Jorah Mormont,Lancel Lannister
+Jorah Mormont,Pyat Pree
+Jorah Mormont,Doreah
+Jorah Mormont,Irri
+Jorah Mormont,Kovarro
+Jorah Mormont,Hot Pie
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Gregor 'The Mountain' Clegane
+Jorah Mormont,Dontos Hollard
+Jorah Mormont,Rennick
+Jorah Mormont,Polliver
+Jorah Mormont,Daisy
+Jorah Mormont,Amory Lorch
+Jorah Mormont,Silk King
+Margaery Tyrell,Sandor 'The Hound' Clegane
+Margaery Tyrell,Spice King
+Margaery Tyrell,Xaro Xhoan Daxos
+Margaery Tyrell,Gendry
+Margaery Tyrell,Lancel Lannister
+Margaery Tyrell,Pyat Pree
+Margaery Tyrell,Doreah
+Margaery Tyrell,Irri
+Margaery Tyrell,Kovarro
+Margaery Tyrell,Hot Pie
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Gregor 'The Mountain' Clegane
+Margaery Tyrell,Dontos Hollard
+Margaery Tyrell,Rennick
+Margaery Tyrell,Polliver
+Margaery Tyrell,Daisy
+Margaery Tyrell,Amory Lorch
+Margaery Tyrell,Silk King
+Sandor 'The Hound' Clegane,Spice King
+Sandor 'The Hound' Clegane,Xaro Xhoan Daxos
+Sandor 'The Hound' Clegane,Gendry
+Sandor 'The Hound' Clegane,Lancel Lannister
+Sandor 'The Hound' Clegane,Pyat Pree
+Sandor 'The Hound' Clegane,Doreah
+Sandor 'The Hound' Clegane,Irri
+Sandor 'The Hound' Clegane,Kovarro
+Sandor 'The Hound' Clegane,Hot Pie
+Sandor 'The Hound' Clegane,Loras Tyrell
+Sandor 'The Hound' Clegane,Gregor 'The Mountain' Clegane
+Sandor 'The Hound' Clegane,Dontos Hollard
+Sandor 'The Hound' Clegane,Rennick
+Sandor 'The Hound' Clegane,Polliver
+Sandor 'The Hound' Clegane,Daisy
+Sandor 'The Hound' Clegane,Amory Lorch
+Sandor 'The Hound' Clegane,Silk King
+Spice King,Xaro Xhoan Daxos
+Spice King,Gendry
+Spice King,Lancel Lannister
+Spice King,Pyat Pree
+Spice King,Doreah
+Spice King,Irri
+Spice King,Kovarro
+Spice King,Hot Pie
+Spice King,Loras Tyrell
+Spice King,Gregor 'The Mountain' Clegane
+Spice King,Dontos Hollard
+Spice King,Rennick
+Spice King,Polliver
+Spice King,Daisy
+Spice King,Amory Lorch
+Spice King,Silk King
+Xaro Xhoan Daxos,Gendry
+Xaro Xhoan Daxos,Lancel Lannister
+Xaro Xhoan Daxos,Pyat Pree
+Xaro Xhoan Daxos,Doreah
+Xaro Xhoan Daxos,Irri
+Xaro Xhoan Daxos,Kovarro
+Xaro Xhoan Daxos,Hot Pie
+Xaro Xhoan Daxos,Loras Tyrell
+Xaro Xhoan Daxos,Gregor 'The Mountain' Clegane
+Xaro Xhoan Daxos,Dontos Hollard
+Xaro Xhoan Daxos,Rennick
+Xaro Xhoan Daxos,Polliver
+Xaro Xhoan Daxos,Daisy
+Xaro Xhoan Daxos,Amory Lorch
+Xaro Xhoan Daxos,Silk King
+Gendry,Lancel Lannister
+Gendry,Pyat Pree
+Gendry,Doreah
+Gendry,Irri
+Gendry,Kovarro
+Gendry,Hot Pie
+Gendry,Loras Tyrell
+Gendry,Gregor 'The Mountain' Clegane
+Gendry,Dontos Hollard
+Gendry,Rennick
+Gendry,Polliver
+Gendry,Daisy
+Gendry,Amory Lorch
+Gendry,Silk King
+Lancel Lannister,Pyat Pree
+Lancel Lannister,Doreah
+Lancel Lannister,Irri
+Lancel Lannister,Kovarro
+Lancel Lannister,Hot Pie
+Lancel Lannister,Loras Tyrell
+Lancel Lannister,Gregor 'The Mountain' Clegane
+Lancel Lannister,Dontos Hollard
+Lancel Lannister,Rennick
+Lancel Lannister,Polliver
+Lancel Lannister,Daisy
+Lancel Lannister,Amory Lorch
+Lancel Lannister,Silk King
+Pyat Pree,Doreah
+Pyat Pree,Irri
+Pyat Pree,Kovarro
+Pyat Pree,Hot Pie
+Pyat Pree,Loras Tyrell
+Pyat Pree,Gregor 'The Mountain' Clegane
+Pyat Pree,Dontos Hollard
+Pyat Pree,Rennick
+Pyat Pree,Polliver
+Pyat Pree,Daisy
+Pyat Pree,Amory Lorch
+Pyat Pree,Silk King
+Doreah,Irri
+Doreah,Kovarro
+Doreah,Hot Pie
+Doreah,Loras Tyrell
+Doreah,Gregor 'The Mountain' Clegane
+Doreah,Dontos Hollard
+Doreah,Rennick
+Doreah,Polliver
+Doreah,Daisy
+Doreah,Amory Lorch
+Doreah,Silk King
+Irri,Kovarro
+Irri,Hot Pie
+Irri,Loras Tyrell
+Irri,Gregor 'The Mountain' Clegane
+Irri,Dontos Hollard
+Irri,Rennick
+Irri,Polliver
+Irri,Daisy
+Irri,Amory Lorch
+Irri,Silk King
+Kovarro,Hot Pie
+Kovarro,Loras Tyrell
+Kovarro,Gregor 'The Mountain' Clegane
+Kovarro,Dontos Hollard
+Kovarro,Rennick
+Kovarro,Polliver
+Kovarro,Daisy
+Kovarro,Amory Lorch
+Kovarro,Silk King
+Hot Pie,Loras Tyrell
+Hot Pie,Gregor 'The Mountain' Clegane
+Hot Pie,Dontos Hollard
+Hot Pie,Rennick
+Hot Pie,Polliver
+Hot Pie,Daisy
+Hot Pie,Amory Lorch
+Hot Pie,Silk King
+Loras Tyrell,Gregor 'The Mountain' Clegane
+Loras Tyrell,Dontos Hollard
+Loras Tyrell,Rennick
+Loras Tyrell,Polliver
+Loras Tyrell,Daisy
+Loras Tyrell,Amory Lorch
+Loras Tyrell,Silk King
+Gregor 'The Mountain' Clegane,Dontos Hollard
+Gregor 'The Mountain' Clegane,Rennick
+Gregor 'The Mountain' Clegane,Polliver
+Gregor 'The Mountain' Clegane,Daisy
+Gregor 'The Mountain' Clegane,Amory Lorch
+Gregor 'The Mountain' Clegane,Silk King
+Dontos Hollard,Rennick
+Dontos Hollard,Polliver
+Dontos Hollard,Daisy
+Dontos Hollard,Amory Lorch
+Dontos Hollard,Silk King
+Rennick,Polliver
+Rennick,Daisy
+Rennick,Amory Lorch
+Rennick,Silk King
+Polliver,Daisy
+Polliver,Amory Lorch
+Polliver,Silk King
+Daisy,Amory Lorch
+Daisy,Silk King
+Amory Lorch,Silk King

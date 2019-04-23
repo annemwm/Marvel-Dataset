@@ -1,0 +1,529 @@
+NAME 1,NAME 2
+Bruce Wayne / Batman,Joker
+Bruce Wayne / Batman,Harvey Dent
+Bruce Wayne / Batman,Alfred
+Bruce Wayne / Batman,Rachel
+Bruce Wayne / Batman,Commissioner Gordon
+Bruce Wayne / Batman,Fox
+Bruce Wayne / Batman,Ramirez
+Bruce Wayne / Batman,Wuertz
+Bruce Wayne / Batman,Dr. Jonathan Crane / Scarecrow
+Bruce Wayne / Batman,Lau
+Bruce Wayne / Batman,Maroni
+Bruce Wayne / Batman,Chechen
+Bruce Wayne / Batman,Mike Engel
+Bruce Wayne / Batman,Stephens
+Bruce Wayne / Batman,Loeb
+Bruce Wayne / Batman,Reese
+Bruce Wayne / Batman,Barbara Gordon
+Bruce Wayne / Batman,"James Gordon, Jr."
+Bruce Wayne / Batman,Rossi
+Bruce Wayne / Batman,Dopey
+Bruce Wayne / Batman,Happy
+Bruce Wayne / Batman,Grumpy
+Bruce Wayne / Batman,Gambol
+Bruce Wayne / Batman,Chuckles
+Bruce Wayne / Batman,Natascha
+Bruce Wayne / Batman,Judge Surrillo
+Bruce Wayne / Batman,Brian
+Bruce Wayne / Batman,Judge Freel
+Bruce Wayne / Batman,Murphy
+Bruce Wayne / Batman,Polk
+Bruce Wayne / Batman,Berg
+Bruce Wayne / Batman,Evans
+Joker,Harvey Dent
+Joker,Alfred
+Joker,Rachel
+Joker,Commissioner Gordon
+Joker,Fox
+Joker,Ramirez
+Joker,Wuertz
+Joker,Dr. Jonathan Crane / Scarecrow
+Joker,Lau
+Joker,Maroni
+Joker,Chechen
+Joker,Mike Engel
+Joker,Stephens
+Joker,Loeb
+Joker,Reese
+Joker,Barbara Gordon
+Joker,"James Gordon, Jr."
+Joker,Rossi
+Joker,Dopey
+Joker,Happy
+Joker,Grumpy
+Joker,Gambol
+Joker,Chuckles
+Joker,Natascha
+Joker,Judge Surrillo
+Joker,Brian
+Joker,Judge Freel
+Joker,Murphy
+Joker,Polk
+Joker,Berg
+Joker,Evans
+Harvey Dent,Alfred
+Harvey Dent,Rachel
+Harvey Dent,Commissioner Gordon
+Harvey Dent,Fox
+Harvey Dent,Ramirez
+Harvey Dent,Wuertz
+Harvey Dent,Dr. Jonathan Crane / Scarecrow
+Harvey Dent,Lau
+Harvey Dent,Maroni
+Harvey Dent,Chechen
+Harvey Dent,Mike Engel
+Harvey Dent,Stephens
+Harvey Dent,Loeb
+Harvey Dent,Reese
+Harvey Dent,Barbara Gordon
+Harvey Dent,"James Gordon, Jr."
+Harvey Dent,Rossi
+Harvey Dent,Dopey
+Harvey Dent,Happy
+Harvey Dent,Grumpy
+Harvey Dent,Gambol
+Harvey Dent,Chuckles
+Harvey Dent,Natascha
+Harvey Dent,Judge Surrillo
+Harvey Dent,Brian
+Harvey Dent,Judge Freel
+Harvey Dent,Murphy
+Harvey Dent,Polk
+Harvey Dent,Berg
+Harvey Dent,Evans
+Alfred,Rachel
+Alfred,Commissioner Gordon
+Alfred,Fox
+Alfred,Ramirez
+Alfred,Wuertz
+Alfred,Dr. Jonathan Crane / Scarecrow
+Alfred,Lau
+Alfred,Maroni
+Alfred,Chechen
+Alfred,Mike Engel
+Alfred,Stephens
+Alfred,Loeb
+Alfred,Reese
+Alfred,Barbara Gordon
+Alfred,"James Gordon, Jr."
+Alfred,Rossi
+Alfred,Dopey
+Alfred,Happy
+Alfred,Grumpy
+Alfred,Gambol
+Alfred,Chuckles
+Alfred,Natascha
+Alfred,Judge Surrillo
+Alfred,Brian
+Alfred,Judge Freel
+Alfred,Murphy
+Alfred,Polk
+Alfred,Berg
+Alfred,Evans
+Rachel,Commissioner Gordon
+Rachel,Fox
+Rachel,Ramirez
+Rachel,Wuertz
+Rachel,Dr. Jonathan Crane / Scarecrow
+Rachel,Lau
+Rachel,Maroni
+Rachel,Chechen
+Rachel,Mike Engel
+Rachel,Stephens
+Rachel,Loeb
+Rachel,Reese
+Rachel,Barbara Gordon
+Rachel,"James Gordon, Jr."
+Rachel,Rossi
+Rachel,Dopey
+Rachel,Happy
+Rachel,Grumpy
+Rachel,Gambol
+Rachel,Chuckles
+Rachel,Natascha
+Rachel,Judge Surrillo
+Rachel,Brian
+Rachel,Judge Freel
+Rachel,Murphy
+Rachel,Polk
+Rachel,Berg
+Rachel,Evans
+Commissioner Gordon,Fox
+Commissioner Gordon,Ramirez
+Commissioner Gordon,Wuertz
+Commissioner Gordon,Dr. Jonathan Crane / Scarecrow
+Commissioner Gordon,Lau
+Commissioner Gordon,Maroni
+Commissioner Gordon,Chechen
+Commissioner Gordon,Mike Engel
+Commissioner Gordon,Stephens
+Commissioner Gordon,Loeb
+Commissioner Gordon,Reese
+Commissioner Gordon,Barbara Gordon
+Commissioner Gordon,"James Gordon, Jr."
+Commissioner Gordon,Rossi
+Commissioner Gordon,Dopey
+Commissioner Gordon,Happy
+Commissioner Gordon,Grumpy
+Commissioner Gordon,Gambol
+Commissioner Gordon,Chuckles
+Commissioner Gordon,Natascha
+Commissioner Gordon,Judge Surrillo
+Commissioner Gordon,Brian
+Commissioner Gordon,Judge Freel
+Commissioner Gordon,Murphy
+Commissioner Gordon,Polk
+Commissioner Gordon,Berg
+Commissioner Gordon,Evans
+Fox,Ramirez
+Fox,Wuertz
+Fox,Dr. Jonathan Crane / Scarecrow
+Fox,Lau
+Fox,Maroni
+Fox,Chechen
+Fox,Mike Engel
+Fox,Stephens
+Fox,Loeb
+Fox,Reese
+Fox,Barbara Gordon
+Fox,"James Gordon, Jr."
+Fox,Rossi
+Fox,Dopey
+Fox,Happy
+Fox,Grumpy
+Fox,Gambol
+Fox,Chuckles
+Fox,Natascha
+Fox,Judge Surrillo
+Fox,Brian
+Fox,Judge Freel
+Fox,Murphy
+Fox,Polk
+Fox,Berg
+Fox,Evans
+Ramirez,Wuertz
+Ramirez,Dr. Jonathan Crane / Scarecrow
+Ramirez,Lau
+Ramirez,Maroni
+Ramirez,Chechen
+Ramirez,Mike Engel
+Ramirez,Stephens
+Ramirez,Loeb
+Ramirez,Reese
+Ramirez,Barbara Gordon
+Ramirez,"James Gordon, Jr."
+Ramirez,Rossi
+Ramirez,Dopey
+Ramirez,Happy
+Ramirez,Grumpy
+Ramirez,Gambol
+Ramirez,Chuckles
+Ramirez,Natascha
+Ramirez,Judge Surrillo
+Ramirez,Brian
+Ramirez,Judge Freel
+Ramirez,Murphy
+Ramirez,Polk
+Ramirez,Berg
+Ramirez,Evans
+Wuertz,Dr. Jonathan Crane / Scarecrow
+Wuertz,Lau
+Wuertz,Maroni
+Wuertz,Chechen
+Wuertz,Mike Engel
+Wuertz,Stephens
+Wuertz,Loeb
+Wuertz,Reese
+Wuertz,Barbara Gordon
+Wuertz,"James Gordon, Jr."
+Wuertz,Rossi
+Wuertz,Dopey
+Wuertz,Happy
+Wuertz,Grumpy
+Wuertz,Gambol
+Wuertz,Chuckles
+Wuertz,Natascha
+Wuertz,Judge Surrillo
+Wuertz,Brian
+Wuertz,Judge Freel
+Wuertz,Murphy
+Wuertz,Polk
+Wuertz,Berg
+Wuertz,Evans
+Dr. Jonathan Crane / Scarecrow,Lau
+Dr. Jonathan Crane / Scarecrow,Maroni
+Dr. Jonathan Crane / Scarecrow,Chechen
+Dr. Jonathan Crane / Scarecrow,Mike Engel
+Dr. Jonathan Crane / Scarecrow,Stephens
+Dr. Jonathan Crane / Scarecrow,Loeb
+Dr. Jonathan Crane / Scarecrow,Reese
+Dr. Jonathan Crane / Scarecrow,Barbara Gordon
+Dr. Jonathan Crane / Scarecrow,"James Gordon, Jr."
+Dr. Jonathan Crane / Scarecrow,Rossi
+Dr. Jonathan Crane / Scarecrow,Dopey
+Dr. Jonathan Crane / Scarecrow,Happy
+Dr. Jonathan Crane / Scarecrow,Grumpy
+Dr. Jonathan Crane / Scarecrow,Gambol
+Dr. Jonathan Crane / Scarecrow,Chuckles
+Dr. Jonathan Crane / Scarecrow,Natascha
+Dr. Jonathan Crane / Scarecrow,Judge Surrillo
+Dr. Jonathan Crane / Scarecrow,Brian
+Dr. Jonathan Crane / Scarecrow,Judge Freel
+Dr. Jonathan Crane / Scarecrow,Murphy
+Dr. Jonathan Crane / Scarecrow,Polk
+Dr. Jonathan Crane / Scarecrow,Berg
+Dr. Jonathan Crane / Scarecrow,Evans
+Lau,Maroni
+Lau,Chechen
+Lau,Mike Engel
+Lau,Stephens
+Lau,Loeb
+Lau,Reese
+Lau,Barbara Gordon
+Lau,"James Gordon, Jr."
+Lau,Rossi
+Lau,Dopey
+Lau,Happy
+Lau,Grumpy
+Lau,Gambol
+Lau,Chuckles
+Lau,Natascha
+Lau,Judge Surrillo
+Lau,Brian
+Lau,Judge Freel
+Lau,Murphy
+Lau,Polk
+Lau,Berg
+Lau,Evans
+Maroni,Chechen
+Maroni,Mike Engel
+Maroni,Stephens
+Maroni,Loeb
+Maroni,Reese
+Maroni,Barbara Gordon
+Maroni,"James Gordon, Jr."
+Maroni,Rossi
+Maroni,Dopey
+Maroni,Happy
+Maroni,Grumpy
+Maroni,Gambol
+Maroni,Chuckles
+Maroni,Natascha
+Maroni,Judge Surrillo
+Maroni,Brian
+Maroni,Judge Freel
+Maroni,Murphy
+Maroni,Polk
+Maroni,Berg
+Maroni,Evans
+Chechen,Mike Engel
+Chechen,Stephens
+Chechen,Loeb
+Chechen,Reese
+Chechen,Barbara Gordon
+Chechen,"James Gordon, Jr."
+Chechen,Rossi
+Chechen,Dopey
+Chechen,Happy
+Chechen,Grumpy
+Chechen,Gambol
+Chechen,Chuckles
+Chechen,Natascha
+Chechen,Judge Surrillo
+Chechen,Brian
+Chechen,Judge Freel
+Chechen,Murphy
+Chechen,Polk
+Chechen,Berg
+Chechen,Evans
+Mike Engel,Stephens
+Mike Engel,Loeb
+Mike Engel,Reese
+Mike Engel,Barbara Gordon
+Mike Engel,"James Gordon, Jr."
+Mike Engel,Rossi
+Mike Engel,Dopey
+Mike Engel,Happy
+Mike Engel,Grumpy
+Mike Engel,Gambol
+Mike Engel,Chuckles
+Mike Engel,Natascha
+Mike Engel,Judge Surrillo
+Mike Engel,Brian
+Mike Engel,Judge Freel
+Mike Engel,Murphy
+Mike Engel,Polk
+Mike Engel,Berg
+Mike Engel,Evans
+Stephens,Loeb
+Stephens,Reese
+Stephens,Barbara Gordon
+Stephens,"James Gordon, Jr."
+Stephens,Rossi
+Stephens,Dopey
+Stephens,Happy
+Stephens,Grumpy
+Stephens,Gambol
+Stephens,Chuckles
+Stephens,Natascha
+Stephens,Judge Surrillo
+Stephens,Brian
+Stephens,Judge Freel
+Stephens,Murphy
+Stephens,Polk
+Stephens,Berg
+Stephens,Evans
+Loeb,Reese
+Loeb,Barbara Gordon
+Loeb,"James Gordon, Jr."
+Loeb,Rossi
+Loeb,Dopey
+Loeb,Happy
+Loeb,Grumpy
+Loeb,Gambol
+Loeb,Chuckles
+Loeb,Natascha
+Loeb,Judge Surrillo
+Loeb,Brian
+Loeb,Judge Freel
+Loeb,Murphy
+Loeb,Polk
+Loeb,Berg
+Loeb,Evans
+Reese,Barbara Gordon
+Reese,"James Gordon, Jr."
+Reese,Rossi
+Reese,Dopey
+Reese,Happy
+Reese,Grumpy
+Reese,Gambol
+Reese,Chuckles
+Reese,Natascha
+Reese,Judge Surrillo
+Reese,Brian
+Reese,Judge Freel
+Reese,Murphy
+Reese,Polk
+Reese,Berg
+Reese,Evans
+Barbara Gordon,"James Gordon, Jr."
+Barbara Gordon,Rossi
+Barbara Gordon,Dopey
+Barbara Gordon,Happy
+Barbara Gordon,Grumpy
+Barbara Gordon,Gambol
+Barbara Gordon,Chuckles
+Barbara Gordon,Natascha
+Barbara Gordon,Judge Surrillo
+Barbara Gordon,Brian
+Barbara Gordon,Judge Freel
+Barbara Gordon,Murphy
+Barbara Gordon,Polk
+Barbara Gordon,Berg
+Barbara Gordon,Evans
+"James Gordon, Jr.",Rossi
+"James Gordon, Jr.",Dopey
+"James Gordon, Jr.",Happy
+"James Gordon, Jr.",Grumpy
+"James Gordon, Jr.",Gambol
+"James Gordon, Jr.",Chuckles
+"James Gordon, Jr.",Natascha
+"James Gordon, Jr.",Judge Surrillo
+"James Gordon, Jr.",Brian
+"James Gordon, Jr.",Judge Freel
+"James Gordon, Jr.",Murphy
+"James Gordon, Jr.",Polk
+"James Gordon, Jr.",Berg
+"James Gordon, Jr.",Evans
+Rossi,Dopey
+Rossi,Happy
+Rossi,Grumpy
+Rossi,Gambol
+Rossi,Chuckles
+Rossi,Natascha
+Rossi,Judge Surrillo
+Rossi,Brian
+Rossi,Judge Freel
+Rossi,Murphy
+Rossi,Polk
+Rossi,Berg
+Rossi,Evans
+Dopey,Happy
+Dopey,Grumpy
+Dopey,Gambol
+Dopey,Chuckles
+Dopey,Natascha
+Dopey,Judge Surrillo
+Dopey,Brian
+Dopey,Judge Freel
+Dopey,Murphy
+Dopey,Polk
+Dopey,Berg
+Dopey,Evans
+Happy,Grumpy
+Happy,Gambol
+Happy,Chuckles
+Happy,Natascha
+Happy,Judge Surrillo
+Happy,Brian
+Happy,Judge Freel
+Happy,Murphy
+Happy,Polk
+Happy,Berg
+Happy,Evans
+Grumpy,Gambol
+Grumpy,Chuckles
+Grumpy,Natascha
+Grumpy,Judge Surrillo
+Grumpy,Brian
+Grumpy,Judge Freel
+Grumpy,Murphy
+Grumpy,Polk
+Grumpy,Berg
+Grumpy,Evans
+Gambol,Chuckles
+Gambol,Natascha
+Gambol,Judge Surrillo
+Gambol,Brian
+Gambol,Judge Freel
+Gambol,Murphy
+Gambol,Polk
+Gambol,Berg
+Gambol,Evans
+Chuckles,Natascha
+Chuckles,Judge Surrillo
+Chuckles,Brian
+Chuckles,Judge Freel
+Chuckles,Murphy
+Chuckles,Polk
+Chuckles,Berg
+Chuckles,Evans
+Natascha,Judge Surrillo
+Natascha,Brian
+Natascha,Judge Freel
+Natascha,Murphy
+Natascha,Polk
+Natascha,Berg
+Natascha,Evans
+Judge Surrillo,Brian
+Judge Surrillo,Judge Freel
+Judge Surrillo,Murphy
+Judge Surrillo,Polk
+Judge Surrillo,Berg
+Judge Surrillo,Evans
+Brian,Judge Freel
+Brian,Murphy
+Brian,Polk
+Brian,Berg
+Brian,Evans
+Judge Freel,Murphy
+Judge Freel,Polk
+Judge Freel,Berg
+Judge Freel,Evans
+Murphy,Polk
+Murphy,Berg
+Murphy,Evans
+Polk,Berg
+Polk,Evans
+Berg,Evans

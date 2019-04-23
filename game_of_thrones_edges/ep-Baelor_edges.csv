@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Eddard 'Ned' Stark,Catelyn Stark
+Eddard 'Ned' Stark,Jaime Lannister
+Eddard 'Ned' Stark,Cersei Lannister
+Eddard 'Ned' Stark,Daenerys Targaryen
+Eddard 'Ned' Stark,Jon Snow
+Eddard 'Ned' Stark,Robb Stark
+Eddard 'Ned' Stark,Sansa Stark
+Eddard 'Ned' Stark,Arya Stark
+Eddard 'Ned' Stark,Theon Greyjoy
+Eddard 'Ned' Stark,Joffrey Baratheon
+Eddard 'Ned' Stark,Tyrion Lannister
+Eddard 'Ned' Stark,Lord Varys
+Eddard 'Ned' Stark,Bronn
+Eddard 'Ned' Stark,Jeor Mormont
+Eddard 'Ned' Stark,Rodrik Cassel
+Eddard 'Ned' Stark,Tywin Lannister
+Eddard 'Ned' Stark,Samwell Tarly
+Eddard 'Ned' Stark,Maester Aemon
+Eddard 'Ned' Stark,Shae
+Eddard 'Ned' Stark,Walder Frey
+Eddard 'Ned' Stark,Ilyn Payne
+Eddard 'Ned' Stark,Qotho
+Eddard 'Ned' Stark,Khal Drogo
+Eddard 'Ned' Stark,Joyeuse Frey
+Eddard 'Ned' Stark,Jorah Mormont
+Eddard 'Ned' Stark,Petyr 'Littlefinger' Baelish
+Eddard 'Ned' Stark,Sandor 'The Hound' Clegane
+Eddard 'Ned' Stark,Yoren
+Eddard 'Ned' Stark,Grand Maester Pycelle
+Eddard 'Ned' Stark,Greatjon Umber
+Eddard 'Ned' Stark,Grenn
+Eddard 'Ned' Stark,Pypar
+Eddard 'Ned' Stark,Rast
+Eddard 'Ned' Stark,Shagga
+Eddard 'Ned' Stark,Mirri Maz Duur
+Eddard 'Ned' Stark,Irri
+Eddard 'Ned' Stark,Doreah
+Eddard 'Ned' Stark,Rakharo
+Eddard 'Ned' Stark,Kevan Lannister
+Eddard 'Ned' Stark,Stevron Frey
+Eddard 'Ned' Stark,Ryger Rivers
+Catelyn Stark,Jaime Lannister
+Catelyn Stark,Cersei Lannister
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Jon Snow
+Catelyn Stark,Robb Stark
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Tyrion Lannister
+Catelyn Stark,Lord Varys
+Catelyn Stark,Bronn
+Catelyn Stark,Jeor Mormont
+Catelyn Stark,Rodrik Cassel
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Samwell Tarly
+Catelyn Stark,Maester Aemon
+Catelyn Stark,Shae
+Catelyn Stark,Walder Frey
+Catelyn Stark,Ilyn Payne
+Catelyn Stark,Qotho
+Catelyn Stark,Khal Drogo
+Catelyn Stark,Joyeuse Frey
+Catelyn Stark,Jorah Mormont
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Yoren
+Catelyn Stark,Grand Maester Pycelle
+Catelyn Stark,Greatjon Umber
+Catelyn Stark,Grenn
+Catelyn Stark,Pypar
+Catelyn Stark,Rast
+Catelyn Stark,Shagga
+Catelyn Stark,Mirri Maz Duur
+Catelyn Stark,Irri
+Catelyn Stark,Doreah
+Catelyn Stark,Rakharo
+Catelyn Stark,Kevan Lannister
+Catelyn Stark,Stevron Frey
+Catelyn Stark,Ryger Rivers
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Robb Stark
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Tyrion Lannister
+Jaime Lannister,Lord Varys
+Jaime Lannister,Bronn
+Jaime Lannister,Jeor Mormont
+Jaime Lannister,Rodrik Cassel
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Maester Aemon
+Jaime Lannister,Shae
+Jaime Lannister,Walder Frey
+Jaime Lannister,Ilyn Payne
+Jaime Lannister,Qotho
+Jaime Lannister,Khal Drogo
+Jaime Lannister,Joyeuse Frey
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Yoren
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Greatjon Umber
+Jaime Lannister,Grenn
+Jaime Lannister,Pypar
+Jaime Lannister,Rast
+Jaime Lannister,Shagga
+Jaime Lannister,Mirri Maz Duur
+Jaime Lannister,Irri
+Jaime Lannister,Doreah
+Jaime Lannister,Rakharo
+Jaime Lannister,Kevan Lannister
+Jaime Lannister,Stevron Frey
+Jaime Lannister,Ryger Rivers
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Robb Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Tyrion Lannister
+Cersei Lannister,Lord Varys
+Cersei Lannister,Bronn
+Cersei Lannister,Jeor Mormont
+Cersei Lannister,Rodrik Cassel
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Maester Aemon
+Cersei Lannister,Shae
+Cersei Lannister,Walder Frey
+Cersei Lannister,Ilyn Payne
+Cersei Lannister,Qotho
+Cersei Lannister,Khal Drogo
+Cersei Lannister,Joyeuse Frey
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Yoren
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Greatjon Umber
+Cersei Lannister,Grenn
+Cersei Lannister,Pypar
+Cersei Lannister,Rast
+Cersei Lannister,Shagga
+Cersei Lannister,Mirri Maz Duur
+Cersei Lannister,Irri
+Cersei Lannister,Doreah
+Cersei Lannister,Rakharo
+Cersei Lannister,Kevan Lannister
+Cersei Lannister,Stevron Frey
+Cersei Lannister,Ryger Rivers
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Tyrion Lannister
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Jeor Mormont
+Daenerys Targaryen,Rodrik Cassel
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Walder Frey
+Daenerys Targaryen,Ilyn Payne
+Daenerys Targaryen,Qotho
+Daenerys Targaryen,Khal Drogo
+Daenerys Targaryen,Joyeuse Frey
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Yoren
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Greatjon Umber
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Pypar
+Daenerys Targaryen,Rast
+Daenerys Targaryen,Shagga
+Daenerys Targaryen,Mirri Maz Duur
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Doreah
+Daenerys Targaryen,Rakharo
+Daenerys Targaryen,Kevan Lannister
+Daenerys Targaryen,Stevron Frey
+Daenerys Targaryen,Ryger Rivers
+Jon Snow,Robb Stark
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Theon Greyjoy
+Jon Snow,Joffrey Baratheon
+Jon Snow,Tyrion Lannister
+Jon Snow,Lord Varys
+Jon Snow,Bronn
+Jon Snow,Jeor Mormont
+Jon Snow,Rodrik Cassel
+Jon Snow,Tywin Lannister
+Jon Snow,Samwell Tarly
+Jon Snow,Maester Aemon
+Jon Snow,Shae
+Jon Snow,Walder Frey
+Jon Snow,Ilyn Payne
+Jon Snow,Qotho
+Jon Snow,Khal Drogo
+Jon Snow,Joyeuse Frey
+Jon Snow,Jorah Mormont
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Yoren
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Greatjon Umber
+Jon Snow,Grenn
+Jon Snow,Pypar
+Jon Snow,Rast
+Jon Snow,Shagga
+Jon Snow,Mirri Maz Duur
+Jon Snow,Irri
+Jon Snow,Doreah
+Jon Snow,Rakharo
+Jon Snow,Kevan Lannister
+Jon Snow,Stevron Frey
+Jon Snow,Ryger Rivers
+Robb Stark,Sansa Stark
+Robb Stark,Arya Stark
+Robb Stark,Theon Greyjoy
+Robb Stark,Joffrey Baratheon
+Robb Stark,Tyrion Lannister
+Robb Stark,Lord Varys
+Robb Stark,Bronn
+Robb Stark,Jeor Mormont
+Robb Stark,Rodrik Cassel
+Robb Stark,Tywin Lannister
+Robb Stark,Samwell Tarly
+Robb Stark,Maester Aemon
+Robb Stark,Shae
+Robb Stark,Walder Frey
+Robb Stark,Ilyn Payne
+Robb Stark,Qotho
+Robb Stark,Khal Drogo
+Robb Stark,Joyeuse Frey
+Robb Stark,Jorah Mormont
+Robb Stark,Petyr 'Littlefinger' Baelish
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Yoren
+Robb Stark,Grand Maester Pycelle
+Robb Stark,Greatjon Umber
+Robb Stark,Grenn
+Robb Stark,Pypar
+Robb Stark,Rast
+Robb Stark,Shagga
+Robb Stark,Mirri Maz Duur
+Robb Stark,Irri
+Robb Stark,Doreah
+Robb Stark,Rakharo
+Robb Stark,Kevan Lannister
+Robb Stark,Stevron Frey
+Robb Stark,Ryger Rivers
+Sansa Stark,Arya Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Tyrion Lannister
+Sansa Stark,Lord Varys
+Sansa Stark,Bronn
+Sansa Stark,Jeor Mormont
+Sansa Stark,Rodrik Cassel
+Sansa Stark,Tywin Lannister
+Sansa Stark,Samwell Tarly
+Sansa Stark,Maester Aemon
+Sansa Stark,Shae
+Sansa Stark,Walder Frey
+Sansa Stark,Ilyn Payne
+Sansa Stark,Qotho
+Sansa Stark,Khal Drogo
+Sansa Stark,Joyeuse Frey
+Sansa Stark,Jorah Mormont
+Sansa Stark,Petyr 'Littlefinger' Baelish
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Yoren
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Greatjon Umber
+Sansa Stark,Grenn
+Sansa Stark,Pypar
+Sansa Stark,Rast
+Sansa Stark,Shagga
+Sansa Stark,Mirri Maz Duur
+Sansa Stark,Irri
+Sansa Stark,Doreah
+Sansa Stark,Rakharo
+Sansa Stark,Kevan Lannister
+Sansa Stark,Stevron Frey
+Sansa Stark,Ryger Rivers
+Arya Stark,Theon Greyjoy
+Arya Stark,Joffrey Baratheon
+Arya Stark,Tyrion Lannister
+Arya Stark,Lord Varys
+Arya Stark,Bronn
+Arya Stark,Jeor Mormont
+Arya Stark,Rodrik Cassel
+Arya Stark,Tywin Lannister
+Arya Stark,Samwell Tarly
+Arya Stark,Maester Aemon
+Arya Stark,Shae
+Arya Stark,Walder Frey
+Arya Stark,Ilyn Payne
+Arya Stark,Qotho
+Arya Stark,Khal Drogo
+Arya Stark,Joyeuse Frey
+Arya Stark,Jorah Mormont
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Yoren
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Greatjon Umber
+Arya Stark,Grenn
+Arya Stark,Pypar
+Arya Stark,Rast
+Arya Stark,Shagga
+Arya Stark,Mirri Maz Duur
+Arya Stark,Irri
+Arya Stark,Doreah
+Arya Stark,Rakharo
+Arya Stark,Kevan Lannister
+Arya Stark,Stevron Frey
+Arya Stark,Ryger Rivers
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Tyrion Lannister
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Bronn
+Theon Greyjoy,Jeor Mormont
+Theon Greyjoy,Rodrik Cassel
+Theon Greyjoy,Tywin Lannister
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Maester Aemon
+Theon Greyjoy,Shae
+Theon Greyjoy,Walder Frey
+Theon Greyjoy,Ilyn Payne
+Theon Greyjoy,Qotho
+Theon Greyjoy,Khal Drogo
+Theon Greyjoy,Joyeuse Frey
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Petyr 'Littlefinger' Baelish
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Yoren
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Greatjon Umber
+Theon Greyjoy,Grenn
+Theon Greyjoy,Pypar
+Theon Greyjoy,Rast
+Theon Greyjoy,Shagga
+Theon Greyjoy,Mirri Maz Duur
+Theon Greyjoy,Irri
+Theon Greyjoy,Doreah
+Theon Greyjoy,Rakharo
+Theon Greyjoy,Kevan Lannister
+Theon Greyjoy,Stevron Frey
+Theon Greyjoy,Ryger Rivers
+Joffrey Baratheon,Tyrion Lannister
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Jeor Mormont
+Joffrey Baratheon,Rodrik Cassel
+Joffrey Baratheon,Tywin Lannister
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Maester Aemon
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Walder Frey
+Joffrey Baratheon,Ilyn Payne
+Joffrey Baratheon,Qotho
+Joffrey Baratheon,Khal Drogo
+Joffrey Baratheon,Joyeuse Frey
+Joffrey Baratheon,Jorah Mormont
+Joffrey Baratheon,Petyr 'Littlefinger' Baelish
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Yoren
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Greatjon Umber
+Joffrey Baratheon,Grenn
+Joffrey Baratheon,Pypar
+Joffrey Baratheon,Rast
+Joffrey Baratheon,Shagga
+Joffrey Baratheon,Mirri Maz Duur
+Joffrey Baratheon,Irri
+Joffrey Baratheon,Doreah
+Joffrey Baratheon,Rakharo
+Joffrey Baratheon,Kevan Lannister
+Joffrey Baratheon,Stevron Frey
+Joffrey Baratheon,Ryger Rivers
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Bronn
+Tyrion Lannister,Jeor Mormont
+Tyrion Lannister,Rodrik Cassel
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Maester Aemon
+Tyrion Lannister,Shae
+Tyrion Lannister,Walder Frey
+Tyrion Lannister,Ilyn Payne
+Tyrion Lannister,Qotho
+Tyrion Lannister,Khal Drogo
+Tyrion Lannister,Joyeuse Frey
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Yoren
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Greatjon Umber
+Tyrion Lannister,Grenn
+Tyrion Lannister,Pypar
+Tyrion Lannister,Rast
+Tyrion Lannister,Shagga
+Tyrion Lannister,Mirri Maz Duur
+Tyrion Lannister,Irri
+Tyrion Lannister,Doreah
+Tyrion Lannister,Rakharo
+Tyrion Lannister,Kevan Lannister
+Tyrion Lannister,Stevron Frey
+Tyrion Lannister,Ryger Rivers
+Lord Varys,Bronn
+Lord Varys,Jeor Mormont
+Lord Varys,Rodrik Cassel
+Lord Varys,Tywin Lannister
+Lord Varys,Samwell Tarly
+Lord Varys,Maester Aemon
+Lord Varys,Shae
+Lord Varys,Walder Frey
+Lord Varys,Ilyn Payne
+Lord Varys,Qotho
+Lord Varys,Khal Drogo
+Lord Varys,Joyeuse Frey
+Lord Varys,Jorah Mormont
+Lord Varys,Petyr 'Littlefinger' Baelish
+Lord Varys,Sandor 'The Hound' Clegane
+Lord Varys,Yoren
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Greatjon Umber
+Lord Varys,Grenn
+Lord Varys,Pypar
+Lord Varys,Rast
+Lord Varys,Shagga
+Lord Varys,Mirri Maz Duur
+Lord Varys,Irri
+Lord Varys,Doreah
+Lord Varys,Rakharo
+Lord Varys,Kevan Lannister
+Lord Varys,Stevron Frey
+Lord Varys,Ryger Rivers
+Bronn,Jeor Mormont
+Bronn,Rodrik Cassel
+Bronn,Tywin Lannister
+Bronn,Samwell Tarly
+Bronn,Maester Aemon
+Bronn,Shae
+Bronn,Walder Frey
+Bronn,Ilyn Payne
+Bronn,Qotho
+Bronn,Khal Drogo
+Bronn,Joyeuse Frey
+Bronn,Jorah Mormont
+Bronn,Petyr 'Littlefinger' Baelish
+Bronn,Sandor 'The Hound' Clegane
+Bronn,Yoren
+Bronn,Grand Maester Pycelle
+Bronn,Greatjon Umber
+Bronn,Grenn
+Bronn,Pypar
+Bronn,Rast
+Bronn,Shagga
+Bronn,Mirri Maz Duur
+Bronn,Irri
+Bronn,Doreah
+Bronn,Rakharo
+Bronn,Kevan Lannister
+Bronn,Stevron Frey
+Bronn,Ryger Rivers
+Jeor Mormont,Rodrik Cassel
+Jeor Mormont,Tywin Lannister
+Jeor Mormont,Samwell Tarly
+Jeor Mormont,Maester Aemon
+Jeor Mormont,Shae
+Jeor Mormont,Walder Frey
+Jeor Mormont,Ilyn Payne
+Jeor Mormont,Qotho
+Jeor Mormont,Khal Drogo
+Jeor Mormont,Joyeuse Frey
+Jeor Mormont,Jorah Mormont
+Jeor Mormont,Petyr 'Littlefinger' Baelish
+Jeor Mormont,Sandor 'The Hound' Clegane
+Jeor Mormont,Yoren
+Jeor Mormont,Grand Maester Pycelle
+Jeor Mormont,Greatjon Umber
+Jeor Mormont,Grenn
+Jeor Mormont,Pypar
+Jeor Mormont,Rast
+Jeor Mormont,Shagga
+Jeor Mormont,Mirri Maz Duur
+Jeor Mormont,Irri
+Jeor Mormont,Doreah
+Jeor Mormont,Rakharo
+Jeor Mormont,Kevan Lannister
+Jeor Mormont,Stevron Frey
+Jeor Mormont,Ryger Rivers
+Rodrik Cassel,Tywin Lannister
+Rodrik Cassel,Samwell Tarly
+Rodrik Cassel,Maester Aemon
+Rodrik Cassel,Shae
+Rodrik Cassel,Walder Frey
+Rodrik Cassel,Ilyn Payne
+Rodrik Cassel,Qotho
+Rodrik Cassel,Khal Drogo
+Rodrik Cassel,Joyeuse Frey
+Rodrik Cassel,Jorah Mormont
+Rodrik Cassel,Petyr 'Littlefinger' Baelish
+Rodrik Cassel,Sandor 'The Hound' Clegane
+Rodrik Cassel,Yoren
+Rodrik Cassel,Grand Maester Pycelle
+Rodrik Cassel,Greatjon Umber
+Rodrik Cassel,Grenn
+Rodrik Cassel,Pypar
+Rodrik Cassel,Rast
+Rodrik Cassel,Shagga
+Rodrik Cassel,Mirri Maz Duur
+Rodrik Cassel,Irri
+Rodrik Cassel,Doreah
+Rodrik Cassel,Rakharo
+Rodrik Cassel,Kevan Lannister
+Rodrik Cassel,Stevron Frey
+Rodrik Cassel,Ryger Rivers
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Maester Aemon
+Tywin Lannister,Shae
+Tywin Lannister,Walder Frey
+Tywin Lannister,Ilyn Payne
+Tywin Lannister,Qotho
+Tywin Lannister,Khal Drogo
+Tywin Lannister,Joyeuse Frey
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Petyr 'Littlefinger' Baelish
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Yoren
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Greatjon Umber
+Tywin Lannister,Grenn
+Tywin Lannister,Pypar
+Tywin Lannister,Rast
+Tywin Lannister,Shagga
+Tywin Lannister,Mirri Maz Duur
+Tywin Lannister,Irri
+Tywin Lannister,Doreah
+Tywin Lannister,Rakharo
+Tywin Lannister,Kevan Lannister
+Tywin Lannister,Stevron Frey
+Tywin Lannister,Ryger Rivers
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Shae
+Samwell Tarly,Walder Frey
+Samwell Tarly,Ilyn Payne
+Samwell Tarly,Qotho
+Samwell Tarly,Khal Drogo
+Samwell Tarly,Joyeuse Frey
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Petyr 'Littlefinger' Baelish
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Yoren
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Greatjon Umber
+Samwell Tarly,Grenn
+Samwell Tarly,Pypar
+Samwell Tarly,Rast
+Samwell Tarly,Shagga
+Samwell Tarly,Mirri Maz Duur
+Samwell Tarly,Irri
+Samwell Tarly,Doreah
+Samwell Tarly,Rakharo
+Samwell Tarly,Kevan Lannister
+Samwell Tarly,Stevron Frey
+Samwell Tarly,Ryger Rivers
+Maester Aemon,Shae
+Maester Aemon,Walder Frey
+Maester Aemon,Ilyn Payne
+Maester Aemon,Qotho
+Maester Aemon,Khal Drogo
+Maester Aemon,Joyeuse Frey
+Maester Aemon,Jorah Mormont
+Maester Aemon,Petyr 'Littlefinger' Baelish
+Maester Aemon,Sandor 'The Hound' Clegane
+Maester Aemon,Yoren
+Maester Aemon,Grand Maester Pycelle
+Maester Aemon,Greatjon Umber
+Maester Aemon,Grenn
+Maester Aemon,Pypar
+Maester Aemon,Rast
+Maester Aemon,Shagga
+Maester Aemon,Mirri Maz Duur
+Maester Aemon,Irri
+Maester Aemon,Doreah
+Maester Aemon,Rakharo
+Maester Aemon,Kevan Lannister
+Maester Aemon,Stevron Frey
+Maester Aemon,Ryger Rivers
+Shae,Walder Frey
+Shae,Ilyn Payne
+Shae,Qotho
+Shae,Khal Drogo
+Shae,Joyeuse Frey
+Shae,Jorah Mormont
+Shae,Petyr 'Littlefinger' Baelish
+Shae,Sandor 'The Hound' Clegane
+Shae,Yoren
+Shae,Grand Maester Pycelle
+Shae,Greatjon Umber
+Shae,Grenn
+Shae,Pypar
+Shae,Rast
+Shae,Shagga
+Shae,Mirri Maz Duur
+Shae,Irri
+Shae,Doreah
+Shae,Rakharo
+Shae,Kevan Lannister
+Shae,Stevron Frey
+Shae,Ryger Rivers
+Walder Frey,Ilyn Payne
+Walder Frey,Qotho
+Walder Frey,Khal Drogo
+Walder Frey,Joyeuse Frey
+Walder Frey,Jorah Mormont
+Walder Frey,Petyr 'Littlefinger' Baelish
+Walder Frey,Sandor 'The Hound' Clegane
+Walder Frey,Yoren
+Walder Frey,Grand Maester Pycelle
+Walder Frey,Greatjon Umber
+Walder Frey,Grenn
+Walder Frey,Pypar
+Walder Frey,Rast
+Walder Frey,Shagga
+Walder Frey,Mirri Maz Duur
+Walder Frey,Irri
+Walder Frey,Doreah
+Walder Frey,Rakharo
+Walder Frey,Kevan Lannister
+Walder Frey,Stevron Frey
+Walder Frey,Ryger Rivers
+Ilyn Payne,Qotho
+Ilyn Payne,Khal Drogo
+Ilyn Payne,Joyeuse Frey
+Ilyn Payne,Jorah Mormont
+Ilyn Payne,Petyr 'Littlefinger' Baelish
+Ilyn Payne,Sandor 'The Hound' Clegane
+Ilyn Payne,Yoren
+Ilyn Payne,Grand Maester Pycelle
+Ilyn Payne,Greatjon Umber
+Ilyn Payne,Grenn
+Ilyn Payne,Pypar
+Ilyn Payne,Rast
+Ilyn Payne,Shagga
+Ilyn Payne,Mirri Maz Duur
+Ilyn Payne,Irri
+Ilyn Payne,Doreah
+Ilyn Payne,Rakharo
+Ilyn Payne,Kevan Lannister
+Ilyn Payne,Stevron Frey
+Ilyn Payne,Ryger Rivers
+Qotho,Khal Drogo
+Qotho,Joyeuse Frey
+Qotho,Jorah Mormont
+Qotho,Petyr 'Littlefinger' Baelish
+Qotho,Sandor 'The Hound' Clegane
+Qotho,Yoren
+Qotho,Grand Maester Pycelle
+Qotho,Greatjon Umber
+Qotho,Grenn
+Qotho,Pypar
+Qotho,Rast
+Qotho,Shagga
+Qotho,Mirri Maz Duur
+Qotho,Irri
+Qotho,Doreah
+Qotho,Rakharo
+Qotho,Kevan Lannister
+Qotho,Stevron Frey
+Qotho,Ryger Rivers
+Khal Drogo,Joyeuse Frey
+Khal Drogo,Jorah Mormont
+Khal Drogo,Petyr 'Littlefinger' Baelish
+Khal Drogo,Sandor 'The Hound' Clegane
+Khal Drogo,Yoren
+Khal Drogo,Grand Maester Pycelle
+Khal Drogo,Greatjon Umber
+Khal Drogo,Grenn
+Khal Drogo,Pypar
+Khal Drogo,Rast
+Khal Drogo,Shagga
+Khal Drogo,Mirri Maz Duur
+Khal Drogo,Irri
+Khal Drogo,Doreah
+Khal Drogo,Rakharo
+Khal Drogo,Kevan Lannister
+Khal Drogo,Stevron Frey
+Khal Drogo,Ryger Rivers
+Joyeuse Frey,Jorah Mormont
+Joyeuse Frey,Petyr 'Littlefinger' Baelish
+Joyeuse Frey,Sandor 'The Hound' Clegane
+Joyeuse Frey,Yoren
+Joyeuse Frey,Grand Maester Pycelle
+Joyeuse Frey,Greatjon Umber
+Joyeuse Frey,Grenn
+Joyeuse Frey,Pypar
+Joyeuse Frey,Rast
+Joyeuse Frey,Shagga
+Joyeuse Frey,Mirri Maz Duur
+Joyeuse Frey,Irri
+Joyeuse Frey,Doreah
+Joyeuse Frey,Rakharo
+Joyeuse Frey,Kevan Lannister
+Joyeuse Frey,Stevron Frey
+Joyeuse Frey,Ryger Rivers
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Yoren
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Greatjon Umber
+Jorah Mormont,Grenn
+Jorah Mormont,Pypar
+Jorah Mormont,Rast
+Jorah Mormont,Shagga
+Jorah Mormont,Mirri Maz Duur
+Jorah Mormont,Irri
+Jorah Mormont,Doreah
+Jorah Mormont,Rakharo
+Jorah Mormont,Kevan Lannister
+Jorah Mormont,Stevron Frey
+Jorah Mormont,Ryger Rivers
+Petyr 'Littlefinger' Baelish,Sandor 'The Hound' Clegane
+Petyr 'Littlefinger' Baelish,Yoren
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Greatjon Umber
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Pypar
+Petyr 'Littlefinger' Baelish,Rast
+Petyr 'Littlefinger' Baelish,Shagga
+Petyr 'Littlefinger' Baelish,Mirri Maz Duur
+Petyr 'Littlefinger' Baelish,Irri
+Petyr 'Littlefinger' Baelish,Doreah
+Petyr 'Littlefinger' Baelish,Rakharo
+Petyr 'Littlefinger' Baelish,Kevan Lannister
+Petyr 'Littlefinger' Baelish,Stevron Frey
+Petyr 'Littlefinger' Baelish,Ryger Rivers
+Sandor 'The Hound' Clegane,Yoren
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Greatjon Umber
+Sandor 'The Hound' Clegane,Grenn
+Sandor 'The Hound' Clegane,Pypar
+Sandor 'The Hound' Clegane,Rast
+Sandor 'The Hound' Clegane,Shagga
+Sandor 'The Hound' Clegane,Mirri Maz Duur
+Sandor 'The Hound' Clegane,Irri
+Sandor 'The Hound' Clegane,Doreah
+Sandor 'The Hound' Clegane,Rakharo
+Sandor 'The Hound' Clegane,Kevan Lannister
+Sandor 'The Hound' Clegane,Stevron Frey
+Sandor 'The Hound' Clegane,Ryger Rivers
+Yoren,Grand Maester Pycelle
+Yoren,Greatjon Umber
+Yoren,Grenn
+Yoren,Pypar
+Yoren,Rast
+Yoren,Shagga
+Yoren,Mirri Maz Duur
+Yoren,Irri
+Yoren,Doreah
+Yoren,Rakharo
+Yoren,Kevan Lannister
+Yoren,Stevron Frey
+Yoren,Ryger Rivers
+Grand Maester Pycelle,Greatjon Umber
+Grand Maester Pycelle,Grenn
+Grand Maester Pycelle,Pypar
+Grand Maester Pycelle,Rast
+Grand Maester Pycelle,Shagga
+Grand Maester Pycelle,Mirri Maz Duur
+Grand Maester Pycelle,Irri
+Grand Maester Pycelle,Doreah
+Grand Maester Pycelle,Rakharo
+Grand Maester Pycelle,Kevan Lannister
+Grand Maester Pycelle,Stevron Frey
+Grand Maester Pycelle,Ryger Rivers
+Greatjon Umber,Grenn
+Greatjon Umber,Pypar
+Greatjon Umber,Rast
+Greatjon Umber,Shagga
+Greatjon Umber,Mirri Maz Duur
+Greatjon Umber,Irri
+Greatjon Umber,Doreah
+Greatjon Umber,Rakharo
+Greatjon Umber,Kevan Lannister
+Greatjon Umber,Stevron Frey
+Greatjon Umber,Ryger Rivers
+Grenn,Pypar
+Grenn,Rast
+Grenn,Shagga
+Grenn,Mirri Maz Duur
+Grenn,Irri
+Grenn,Doreah
+Grenn,Rakharo
+Grenn,Kevan Lannister
+Grenn,Stevron Frey
+Grenn,Ryger Rivers
+Pypar,Rast
+Pypar,Shagga
+Pypar,Mirri Maz Duur
+Pypar,Irri
+Pypar,Doreah
+Pypar,Rakharo
+Pypar,Kevan Lannister
+Pypar,Stevron Frey
+Pypar,Ryger Rivers
+Rast,Shagga
+Rast,Mirri Maz Duur
+Rast,Irri
+Rast,Doreah
+Rast,Rakharo
+Rast,Kevan Lannister
+Rast,Stevron Frey
+Rast,Ryger Rivers
+Shagga,Mirri Maz Duur
+Shagga,Irri
+Shagga,Doreah
+Shagga,Rakharo
+Shagga,Kevan Lannister
+Shagga,Stevron Frey
+Shagga,Ryger Rivers
+Mirri Maz Duur,Irri
+Mirri Maz Duur,Doreah
+Mirri Maz Duur,Rakharo
+Mirri Maz Duur,Kevan Lannister
+Mirri Maz Duur,Stevron Frey
+Mirri Maz Duur,Ryger Rivers
+Irri,Doreah
+Irri,Rakharo
+Irri,Kevan Lannister
+Irri,Stevron Frey
+Irri,Ryger Rivers
+Doreah,Rakharo
+Doreah,Kevan Lannister
+Doreah,Stevron Frey
+Doreah,Ryger Rivers
+Rakharo,Kevan Lannister
+Rakharo,Stevron Frey
+Rakharo,Ryger Rivers
+Kevan Lannister,Stevron Frey
+Kevan Lannister,Ryger Rivers
+Stevron Frey,Ryger Rivers

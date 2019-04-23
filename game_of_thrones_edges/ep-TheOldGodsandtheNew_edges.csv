@@ -1,0 +1,821 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Xaro Xhoan Daxos
+Tyrion Lannister,Spice King
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Amory Lorch
+Tyrion Lannister,Myrcella Baratheon
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Shae
+Tyrion Lannister,Maester Luwin
+Tyrion Lannister,Rodrik Cassel
+Tyrion Lannister,Osha
+Tyrion Lannister,Jaqen H'ghar
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Talisa Maegyr
+Tyrion Lannister,Qhorin Halfhand
+Tyrion Lannister,Dagmer Cleftjaw
+Tyrion Lannister,Black Lorren
+Tyrion Lannister,Irri
+Tyrion Lannister,Hodor
+Tyrion Lannister,Kovarro
+Tyrion Lannister,High Septon
+Tyrion Lannister,Farlen
+Tyrion Lannister,Drennan
+Tyrion Lannister,Rickon Stark
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Jacks
+Tyrion Lannister,Quent
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Jon Snow
+Cersei Lannister,Robb Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Xaro Xhoan Daxos
+Cersei Lannister,Spice King
+Cersei Lannister,Ygritte
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Amory Lorch
+Cersei Lannister,Myrcella Baratheon
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Bran Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Shae
+Cersei Lannister,Maester Luwin
+Cersei Lannister,Rodrik Cassel
+Cersei Lannister,Osha
+Cersei Lannister,Jaqen H'ghar
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Talisa Maegyr
+Cersei Lannister,Qhorin Halfhand
+Cersei Lannister,Dagmer Cleftjaw
+Cersei Lannister,Black Lorren
+Cersei Lannister,Irri
+Cersei Lannister,Hodor
+Cersei Lannister,Kovarro
+Cersei Lannister,High Septon
+Cersei Lannister,Farlen
+Cersei Lannister,Drennan
+Cersei Lannister,Rickon Stark
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Jacks
+Cersei Lannister,Quent
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Jon Snow
+Catelyn Stark,Robb Stark
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Xaro Xhoan Daxos
+Catelyn Stark,Spice King
+Catelyn Stark,Ygritte
+Catelyn Stark,Meryn Trant
+Catelyn Stark,Amory Lorch
+Catelyn Stark,Myrcella Baratheon
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Bran Stark
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Shae
+Catelyn Stark,Maester Luwin
+Catelyn Stark,Rodrik Cassel
+Catelyn Stark,Osha
+Catelyn Stark,Jaqen H'ghar
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Talisa Maegyr
+Catelyn Stark,Qhorin Halfhand
+Catelyn Stark,Dagmer Cleftjaw
+Catelyn Stark,Black Lorren
+Catelyn Stark,Irri
+Catelyn Stark,Hodor
+Catelyn Stark,Kovarro
+Catelyn Stark,High Septon
+Catelyn Stark,Farlen
+Catelyn Stark,Drennan
+Catelyn Stark,Rickon Stark
+Catelyn Stark,Tommen Baratheon
+Catelyn Stark,Jacks
+Catelyn Stark,Quent
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Xaro Xhoan Daxos
+Daenerys Targaryen,Spice King
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,Amory Lorch
+Daenerys Targaryen,Myrcella Baratheon
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Maester Luwin
+Daenerys Targaryen,Rodrik Cassel
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Jaqen H'ghar
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Talisa Maegyr
+Daenerys Targaryen,Qhorin Halfhand
+Daenerys Targaryen,Dagmer Cleftjaw
+Daenerys Targaryen,Black Lorren
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Kovarro
+Daenerys Targaryen,High Septon
+Daenerys Targaryen,Farlen
+Daenerys Targaryen,Drennan
+Daenerys Targaryen,Rickon Stark
+Daenerys Targaryen,Tommen Baratheon
+Daenerys Targaryen,Jacks
+Daenerys Targaryen,Quent
+Petyr 'Littlefinger' Baelish,Jon Snow
+Petyr 'Littlefinger' Baelish,Robb Stark
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Sandor 'The Hound' Clegane
+Petyr 'Littlefinger' Baelish,Roose Bolton
+Petyr 'Littlefinger' Baelish,Xaro Xhoan Daxos
+Petyr 'Littlefinger' Baelish,Spice King
+Petyr 'Littlefinger' Baelish,Ygritte
+Petyr 'Littlefinger' Baelish,Meryn Trant
+Petyr 'Littlefinger' Baelish,Amory Lorch
+Petyr 'Littlefinger' Baelish,Myrcella Baratheon
+Petyr 'Littlefinger' Baelish,Tywin Lannister
+Petyr 'Littlefinger' Baelish,Bran Stark
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Shae
+Petyr 'Littlefinger' Baelish,Maester Luwin
+Petyr 'Littlefinger' Baelish,Rodrik Cassel
+Petyr 'Littlefinger' Baelish,Osha
+Petyr 'Littlefinger' Baelish,Jaqen H'ghar
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Talisa Maegyr
+Petyr 'Littlefinger' Baelish,Qhorin Halfhand
+Petyr 'Littlefinger' Baelish,Dagmer Cleftjaw
+Petyr 'Littlefinger' Baelish,Black Lorren
+Petyr 'Littlefinger' Baelish,Irri
+Petyr 'Littlefinger' Baelish,Hodor
+Petyr 'Littlefinger' Baelish,Kovarro
+Petyr 'Littlefinger' Baelish,High Septon
+Petyr 'Littlefinger' Baelish,Farlen
+Petyr 'Littlefinger' Baelish,Drennan
+Petyr 'Littlefinger' Baelish,Rickon Stark
+Petyr 'Littlefinger' Baelish,Tommen Baratheon
+Petyr 'Littlefinger' Baelish,Jacks
+Petyr 'Littlefinger' Baelish,Quent
+Jon Snow,Robb Stark
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Joffrey Baratheon
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Roose Bolton
+Jon Snow,Xaro Xhoan Daxos
+Jon Snow,Spice King
+Jon Snow,Ygritte
+Jon Snow,Meryn Trant
+Jon Snow,Amory Lorch
+Jon Snow,Myrcella Baratheon
+Jon Snow,Tywin Lannister
+Jon Snow,Bran Stark
+Jon Snow,Theon Greyjoy
+Jon Snow,Shae
+Jon Snow,Maester Luwin
+Jon Snow,Rodrik Cassel
+Jon Snow,Osha
+Jon Snow,Jaqen H'ghar
+Jon Snow,Brienne of Tarth
+Jon Snow,Talisa Maegyr
+Jon Snow,Qhorin Halfhand
+Jon Snow,Dagmer Cleftjaw
+Jon Snow,Black Lorren
+Jon Snow,Irri
+Jon Snow,Hodor
+Jon Snow,Kovarro
+Jon Snow,High Septon
+Jon Snow,Farlen
+Jon Snow,Drennan
+Jon Snow,Rickon Stark
+Jon Snow,Tommen Baratheon
+Jon Snow,Jacks
+Jon Snow,Quent
+Robb Stark,Sansa Stark
+Robb Stark,Arya Stark
+Robb Stark,Joffrey Baratheon
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Roose Bolton
+Robb Stark,Xaro Xhoan Daxos
+Robb Stark,Spice King
+Robb Stark,Ygritte
+Robb Stark,Meryn Trant
+Robb Stark,Amory Lorch
+Robb Stark,Myrcella Baratheon
+Robb Stark,Tywin Lannister
+Robb Stark,Bran Stark
+Robb Stark,Theon Greyjoy
+Robb Stark,Shae
+Robb Stark,Maester Luwin
+Robb Stark,Rodrik Cassel
+Robb Stark,Osha
+Robb Stark,Jaqen H'ghar
+Robb Stark,Brienne of Tarth
+Robb Stark,Talisa Maegyr
+Robb Stark,Qhorin Halfhand
+Robb Stark,Dagmer Cleftjaw
+Robb Stark,Black Lorren
+Robb Stark,Irri
+Robb Stark,Hodor
+Robb Stark,Kovarro
+Robb Stark,High Septon
+Robb Stark,Farlen
+Robb Stark,Drennan
+Robb Stark,Rickon Stark
+Robb Stark,Tommen Baratheon
+Robb Stark,Jacks
+Robb Stark,Quent
+Sansa Stark,Arya Stark
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Roose Bolton
+Sansa Stark,Xaro Xhoan Daxos
+Sansa Stark,Spice King
+Sansa Stark,Ygritte
+Sansa Stark,Meryn Trant
+Sansa Stark,Amory Lorch
+Sansa Stark,Myrcella Baratheon
+Sansa Stark,Tywin Lannister
+Sansa Stark,Bran Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Shae
+Sansa Stark,Maester Luwin
+Sansa Stark,Rodrik Cassel
+Sansa Stark,Osha
+Sansa Stark,Jaqen H'ghar
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Talisa Maegyr
+Sansa Stark,Qhorin Halfhand
+Sansa Stark,Dagmer Cleftjaw
+Sansa Stark,Black Lorren
+Sansa Stark,Irri
+Sansa Stark,Hodor
+Sansa Stark,Kovarro
+Sansa Stark,High Septon
+Sansa Stark,Farlen
+Sansa Stark,Drennan
+Sansa Stark,Rickon Stark
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Jacks
+Sansa Stark,Quent
+Arya Stark,Joffrey Baratheon
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Roose Bolton
+Arya Stark,Xaro Xhoan Daxos
+Arya Stark,Spice King
+Arya Stark,Ygritte
+Arya Stark,Meryn Trant
+Arya Stark,Amory Lorch
+Arya Stark,Myrcella Baratheon
+Arya Stark,Tywin Lannister
+Arya Stark,Bran Stark
+Arya Stark,Theon Greyjoy
+Arya Stark,Shae
+Arya Stark,Maester Luwin
+Arya Stark,Rodrik Cassel
+Arya Stark,Osha
+Arya Stark,Jaqen H'ghar
+Arya Stark,Brienne of Tarth
+Arya Stark,Talisa Maegyr
+Arya Stark,Qhorin Halfhand
+Arya Stark,Dagmer Cleftjaw
+Arya Stark,Black Lorren
+Arya Stark,Irri
+Arya Stark,Hodor
+Arya Stark,Kovarro
+Arya Stark,High Septon
+Arya Stark,Farlen
+Arya Stark,Drennan
+Arya Stark,Rickon Stark
+Arya Stark,Tommen Baratheon
+Arya Stark,Jacks
+Arya Stark,Quent
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Xaro Xhoan Daxos
+Joffrey Baratheon,Spice King
+Joffrey Baratheon,Ygritte
+Joffrey Baratheon,Meryn Trant
+Joffrey Baratheon,Amory Lorch
+Joffrey Baratheon,Myrcella Baratheon
+Joffrey Baratheon,Tywin Lannister
+Joffrey Baratheon,Bran Stark
+Joffrey Baratheon,Theon Greyjoy
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Maester Luwin
+Joffrey Baratheon,Rodrik Cassel
+Joffrey Baratheon,Osha
+Joffrey Baratheon,Jaqen H'ghar
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Talisa Maegyr
+Joffrey Baratheon,Qhorin Halfhand
+Joffrey Baratheon,Dagmer Cleftjaw
+Joffrey Baratheon,Black Lorren
+Joffrey Baratheon,Irri
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Kovarro
+Joffrey Baratheon,High Septon
+Joffrey Baratheon,Farlen
+Joffrey Baratheon,Drennan
+Joffrey Baratheon,Rickon Stark
+Joffrey Baratheon,Tommen Baratheon
+Joffrey Baratheon,Jacks
+Joffrey Baratheon,Quent
+Sandor 'The Hound' Clegane,Roose Bolton
+Sandor 'The Hound' Clegane,Xaro Xhoan Daxos
+Sandor 'The Hound' Clegane,Spice King
+Sandor 'The Hound' Clegane,Ygritte
+Sandor 'The Hound' Clegane,Meryn Trant
+Sandor 'The Hound' Clegane,Amory Lorch
+Sandor 'The Hound' Clegane,Myrcella Baratheon
+Sandor 'The Hound' Clegane,Tywin Lannister
+Sandor 'The Hound' Clegane,Bran Stark
+Sandor 'The Hound' Clegane,Theon Greyjoy
+Sandor 'The Hound' Clegane,Shae
+Sandor 'The Hound' Clegane,Maester Luwin
+Sandor 'The Hound' Clegane,Rodrik Cassel
+Sandor 'The Hound' Clegane,Osha
+Sandor 'The Hound' Clegane,Jaqen H'ghar
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Talisa Maegyr
+Sandor 'The Hound' Clegane,Qhorin Halfhand
+Sandor 'The Hound' Clegane,Dagmer Cleftjaw
+Sandor 'The Hound' Clegane,Black Lorren
+Sandor 'The Hound' Clegane,Irri
+Sandor 'The Hound' Clegane,Hodor
+Sandor 'The Hound' Clegane,Kovarro
+Sandor 'The Hound' Clegane,High Septon
+Sandor 'The Hound' Clegane,Farlen
+Sandor 'The Hound' Clegane,Drennan
+Sandor 'The Hound' Clegane,Rickon Stark
+Sandor 'The Hound' Clegane,Tommen Baratheon
+Sandor 'The Hound' Clegane,Jacks
+Sandor 'The Hound' Clegane,Quent
+Roose Bolton,Xaro Xhoan Daxos
+Roose Bolton,Spice King
+Roose Bolton,Ygritte
+Roose Bolton,Meryn Trant
+Roose Bolton,Amory Lorch
+Roose Bolton,Myrcella Baratheon
+Roose Bolton,Tywin Lannister
+Roose Bolton,Bran Stark
+Roose Bolton,Theon Greyjoy
+Roose Bolton,Shae
+Roose Bolton,Maester Luwin
+Roose Bolton,Rodrik Cassel
+Roose Bolton,Osha
+Roose Bolton,Jaqen H'ghar
+Roose Bolton,Brienne of Tarth
+Roose Bolton,Talisa Maegyr
+Roose Bolton,Qhorin Halfhand
+Roose Bolton,Dagmer Cleftjaw
+Roose Bolton,Black Lorren
+Roose Bolton,Irri
+Roose Bolton,Hodor
+Roose Bolton,Kovarro
+Roose Bolton,High Septon
+Roose Bolton,Farlen
+Roose Bolton,Drennan
+Roose Bolton,Rickon Stark
+Roose Bolton,Tommen Baratheon
+Roose Bolton,Jacks
+Roose Bolton,Quent
+Xaro Xhoan Daxos,Spice King
+Xaro Xhoan Daxos,Ygritte
+Xaro Xhoan Daxos,Meryn Trant
+Xaro Xhoan Daxos,Amory Lorch
+Xaro Xhoan Daxos,Myrcella Baratheon
+Xaro Xhoan Daxos,Tywin Lannister
+Xaro Xhoan Daxos,Bran Stark
+Xaro Xhoan Daxos,Theon Greyjoy
+Xaro Xhoan Daxos,Shae
+Xaro Xhoan Daxos,Maester Luwin
+Xaro Xhoan Daxos,Rodrik Cassel
+Xaro Xhoan Daxos,Osha
+Xaro Xhoan Daxos,Jaqen H'ghar
+Xaro Xhoan Daxos,Brienne of Tarth
+Xaro Xhoan Daxos,Talisa Maegyr
+Xaro Xhoan Daxos,Qhorin Halfhand
+Xaro Xhoan Daxos,Dagmer Cleftjaw
+Xaro Xhoan Daxos,Black Lorren
+Xaro Xhoan Daxos,Irri
+Xaro Xhoan Daxos,Hodor
+Xaro Xhoan Daxos,Kovarro
+Xaro Xhoan Daxos,High Septon
+Xaro Xhoan Daxos,Farlen
+Xaro Xhoan Daxos,Drennan
+Xaro Xhoan Daxos,Rickon Stark
+Xaro Xhoan Daxos,Tommen Baratheon
+Xaro Xhoan Daxos,Jacks
+Xaro Xhoan Daxos,Quent
+Spice King,Ygritte
+Spice King,Meryn Trant
+Spice King,Amory Lorch
+Spice King,Myrcella Baratheon
+Spice King,Tywin Lannister
+Spice King,Bran Stark
+Spice King,Theon Greyjoy
+Spice King,Shae
+Spice King,Maester Luwin
+Spice King,Rodrik Cassel
+Spice King,Osha
+Spice King,Jaqen H'ghar
+Spice King,Brienne of Tarth
+Spice King,Talisa Maegyr
+Spice King,Qhorin Halfhand
+Spice King,Dagmer Cleftjaw
+Spice King,Black Lorren
+Spice King,Irri
+Spice King,Hodor
+Spice King,Kovarro
+Spice King,High Septon
+Spice King,Farlen
+Spice King,Drennan
+Spice King,Rickon Stark
+Spice King,Tommen Baratheon
+Spice King,Jacks
+Spice King,Quent
+Ygritte,Meryn Trant
+Ygritte,Amory Lorch
+Ygritte,Myrcella Baratheon
+Ygritte,Tywin Lannister
+Ygritte,Bran Stark
+Ygritte,Theon Greyjoy
+Ygritte,Shae
+Ygritte,Maester Luwin
+Ygritte,Rodrik Cassel
+Ygritte,Osha
+Ygritte,Jaqen H'ghar
+Ygritte,Brienne of Tarth
+Ygritte,Talisa Maegyr
+Ygritte,Qhorin Halfhand
+Ygritte,Dagmer Cleftjaw
+Ygritte,Black Lorren
+Ygritte,Irri
+Ygritte,Hodor
+Ygritte,Kovarro
+Ygritte,High Septon
+Ygritte,Farlen
+Ygritte,Drennan
+Ygritte,Rickon Stark
+Ygritte,Tommen Baratheon
+Ygritte,Jacks
+Ygritte,Quent
+Meryn Trant,Amory Lorch
+Meryn Trant,Myrcella Baratheon
+Meryn Trant,Tywin Lannister
+Meryn Trant,Bran Stark
+Meryn Trant,Theon Greyjoy
+Meryn Trant,Shae
+Meryn Trant,Maester Luwin
+Meryn Trant,Rodrik Cassel
+Meryn Trant,Osha
+Meryn Trant,Jaqen H'ghar
+Meryn Trant,Brienne of Tarth
+Meryn Trant,Talisa Maegyr
+Meryn Trant,Qhorin Halfhand
+Meryn Trant,Dagmer Cleftjaw
+Meryn Trant,Black Lorren
+Meryn Trant,Irri
+Meryn Trant,Hodor
+Meryn Trant,Kovarro
+Meryn Trant,High Septon
+Meryn Trant,Farlen
+Meryn Trant,Drennan
+Meryn Trant,Rickon Stark
+Meryn Trant,Tommen Baratheon
+Meryn Trant,Jacks
+Meryn Trant,Quent
+Amory Lorch,Myrcella Baratheon
+Amory Lorch,Tywin Lannister
+Amory Lorch,Bran Stark
+Amory Lorch,Theon Greyjoy
+Amory Lorch,Shae
+Amory Lorch,Maester Luwin
+Amory Lorch,Rodrik Cassel
+Amory Lorch,Osha
+Amory Lorch,Jaqen H'ghar
+Amory Lorch,Brienne of Tarth
+Amory Lorch,Talisa Maegyr
+Amory Lorch,Qhorin Halfhand
+Amory Lorch,Dagmer Cleftjaw
+Amory Lorch,Black Lorren
+Amory Lorch,Irri
+Amory Lorch,Hodor
+Amory Lorch,Kovarro
+Amory Lorch,High Septon
+Amory Lorch,Farlen
+Amory Lorch,Drennan
+Amory Lorch,Rickon Stark
+Amory Lorch,Tommen Baratheon
+Amory Lorch,Jacks
+Amory Lorch,Quent
+Myrcella Baratheon,Tywin Lannister
+Myrcella Baratheon,Bran Stark
+Myrcella Baratheon,Theon Greyjoy
+Myrcella Baratheon,Shae
+Myrcella Baratheon,Maester Luwin
+Myrcella Baratheon,Rodrik Cassel
+Myrcella Baratheon,Osha
+Myrcella Baratheon,Jaqen H'ghar
+Myrcella Baratheon,Brienne of Tarth
+Myrcella Baratheon,Talisa Maegyr
+Myrcella Baratheon,Qhorin Halfhand
+Myrcella Baratheon,Dagmer Cleftjaw
+Myrcella Baratheon,Black Lorren
+Myrcella Baratheon,Irri
+Myrcella Baratheon,Hodor
+Myrcella Baratheon,Kovarro
+Myrcella Baratheon,High Septon
+Myrcella Baratheon,Farlen
+Myrcella Baratheon,Drennan
+Myrcella Baratheon,Rickon Stark
+Myrcella Baratheon,Tommen Baratheon
+Myrcella Baratheon,Jacks
+Myrcella Baratheon,Quent
+Tywin Lannister,Bran Stark
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Shae
+Tywin Lannister,Maester Luwin
+Tywin Lannister,Rodrik Cassel
+Tywin Lannister,Osha
+Tywin Lannister,Jaqen H'ghar
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Talisa Maegyr
+Tywin Lannister,Qhorin Halfhand
+Tywin Lannister,Dagmer Cleftjaw
+Tywin Lannister,Black Lorren
+Tywin Lannister,Irri
+Tywin Lannister,Hodor
+Tywin Lannister,Kovarro
+Tywin Lannister,High Septon
+Tywin Lannister,Farlen
+Tywin Lannister,Drennan
+Tywin Lannister,Rickon Stark
+Tywin Lannister,Tommen Baratheon
+Tywin Lannister,Jacks
+Tywin Lannister,Quent
+Bran Stark,Theon Greyjoy
+Bran Stark,Shae
+Bran Stark,Maester Luwin
+Bran Stark,Rodrik Cassel
+Bran Stark,Osha
+Bran Stark,Jaqen H'ghar
+Bran Stark,Brienne of Tarth
+Bran Stark,Talisa Maegyr
+Bran Stark,Qhorin Halfhand
+Bran Stark,Dagmer Cleftjaw
+Bran Stark,Black Lorren
+Bran Stark,Irri
+Bran Stark,Hodor
+Bran Stark,Kovarro
+Bran Stark,High Septon
+Bran Stark,Farlen
+Bran Stark,Drennan
+Bran Stark,Rickon Stark
+Bran Stark,Tommen Baratheon
+Bran Stark,Jacks
+Bran Stark,Quent
+Theon Greyjoy,Shae
+Theon Greyjoy,Maester Luwin
+Theon Greyjoy,Rodrik Cassel
+Theon Greyjoy,Osha
+Theon Greyjoy,Jaqen H'ghar
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Talisa Maegyr
+Theon Greyjoy,Qhorin Halfhand
+Theon Greyjoy,Dagmer Cleftjaw
+Theon Greyjoy,Black Lorren
+Theon Greyjoy,Irri
+Theon Greyjoy,Hodor
+Theon Greyjoy,Kovarro
+Theon Greyjoy,High Septon
+Theon Greyjoy,Farlen
+Theon Greyjoy,Drennan
+Theon Greyjoy,Rickon Stark
+Theon Greyjoy,Tommen Baratheon
+Theon Greyjoy,Jacks
+Theon Greyjoy,Quent
+Shae,Maester Luwin
+Shae,Rodrik Cassel
+Shae,Osha
+Shae,Jaqen H'ghar
+Shae,Brienne of Tarth
+Shae,Talisa Maegyr
+Shae,Qhorin Halfhand
+Shae,Dagmer Cleftjaw
+Shae,Black Lorren
+Shae,Irri
+Shae,Hodor
+Shae,Kovarro
+Shae,High Septon
+Shae,Farlen
+Shae,Drennan
+Shae,Rickon Stark
+Shae,Tommen Baratheon
+Shae,Jacks
+Shae,Quent
+Maester Luwin,Rodrik Cassel
+Maester Luwin,Osha
+Maester Luwin,Jaqen H'ghar
+Maester Luwin,Brienne of Tarth
+Maester Luwin,Talisa Maegyr
+Maester Luwin,Qhorin Halfhand
+Maester Luwin,Dagmer Cleftjaw
+Maester Luwin,Black Lorren
+Maester Luwin,Irri
+Maester Luwin,Hodor
+Maester Luwin,Kovarro
+Maester Luwin,High Septon
+Maester Luwin,Farlen
+Maester Luwin,Drennan
+Maester Luwin,Rickon Stark
+Maester Luwin,Tommen Baratheon
+Maester Luwin,Jacks
+Maester Luwin,Quent
+Rodrik Cassel,Osha
+Rodrik Cassel,Jaqen H'ghar
+Rodrik Cassel,Brienne of Tarth
+Rodrik Cassel,Talisa Maegyr
+Rodrik Cassel,Qhorin Halfhand
+Rodrik Cassel,Dagmer Cleftjaw
+Rodrik Cassel,Black Lorren
+Rodrik Cassel,Irri
+Rodrik Cassel,Hodor
+Rodrik Cassel,Kovarro
+Rodrik Cassel,High Septon
+Rodrik Cassel,Farlen
+Rodrik Cassel,Drennan
+Rodrik Cassel,Rickon Stark
+Rodrik Cassel,Tommen Baratheon
+Rodrik Cassel,Jacks
+Rodrik Cassel,Quent
+Osha,Jaqen H'ghar
+Osha,Brienne of Tarth
+Osha,Talisa Maegyr
+Osha,Qhorin Halfhand
+Osha,Dagmer Cleftjaw
+Osha,Black Lorren
+Osha,Irri
+Osha,Hodor
+Osha,Kovarro
+Osha,High Septon
+Osha,Farlen
+Osha,Drennan
+Osha,Rickon Stark
+Osha,Tommen Baratheon
+Osha,Jacks
+Osha,Quent
+Jaqen H'ghar,Brienne of Tarth
+Jaqen H'ghar,Talisa Maegyr
+Jaqen H'ghar,Qhorin Halfhand
+Jaqen H'ghar,Dagmer Cleftjaw
+Jaqen H'ghar,Black Lorren
+Jaqen H'ghar,Irri
+Jaqen H'ghar,Hodor
+Jaqen H'ghar,Kovarro
+Jaqen H'ghar,High Septon
+Jaqen H'ghar,Farlen
+Jaqen H'ghar,Drennan
+Jaqen H'ghar,Rickon Stark
+Jaqen H'ghar,Tommen Baratheon
+Jaqen H'ghar,Jacks
+Jaqen H'ghar,Quent
+Brienne of Tarth,Talisa Maegyr
+Brienne of Tarth,Qhorin Halfhand
+Brienne of Tarth,Dagmer Cleftjaw
+Brienne of Tarth,Black Lorren
+Brienne of Tarth,Irri
+Brienne of Tarth,Hodor
+Brienne of Tarth,Kovarro
+Brienne of Tarth,High Septon
+Brienne of Tarth,Farlen
+Brienne of Tarth,Drennan
+Brienne of Tarth,Rickon Stark
+Brienne of Tarth,Tommen Baratheon
+Brienne of Tarth,Jacks
+Brienne of Tarth,Quent
+Talisa Maegyr,Qhorin Halfhand
+Talisa Maegyr,Dagmer Cleftjaw
+Talisa Maegyr,Black Lorren
+Talisa Maegyr,Irri
+Talisa Maegyr,Hodor
+Talisa Maegyr,Kovarro
+Talisa Maegyr,High Septon
+Talisa Maegyr,Farlen
+Talisa Maegyr,Drennan
+Talisa Maegyr,Rickon Stark
+Talisa Maegyr,Tommen Baratheon
+Talisa Maegyr,Jacks
+Talisa Maegyr,Quent
+Qhorin Halfhand,Dagmer Cleftjaw
+Qhorin Halfhand,Black Lorren
+Qhorin Halfhand,Irri
+Qhorin Halfhand,Hodor
+Qhorin Halfhand,Kovarro
+Qhorin Halfhand,High Septon
+Qhorin Halfhand,Farlen
+Qhorin Halfhand,Drennan
+Qhorin Halfhand,Rickon Stark
+Qhorin Halfhand,Tommen Baratheon
+Qhorin Halfhand,Jacks
+Qhorin Halfhand,Quent
+Dagmer Cleftjaw,Black Lorren
+Dagmer Cleftjaw,Irri
+Dagmer Cleftjaw,Hodor
+Dagmer Cleftjaw,Kovarro
+Dagmer Cleftjaw,High Septon
+Dagmer Cleftjaw,Farlen
+Dagmer Cleftjaw,Drennan
+Dagmer Cleftjaw,Rickon Stark
+Dagmer Cleftjaw,Tommen Baratheon
+Dagmer Cleftjaw,Jacks
+Dagmer Cleftjaw,Quent
+Black Lorren,Irri
+Black Lorren,Hodor
+Black Lorren,Kovarro
+Black Lorren,High Septon
+Black Lorren,Farlen
+Black Lorren,Drennan
+Black Lorren,Rickon Stark
+Black Lorren,Tommen Baratheon
+Black Lorren,Jacks
+Black Lorren,Quent
+Irri,Hodor
+Irri,Kovarro
+Irri,High Septon
+Irri,Farlen
+Irri,Drennan
+Irri,Rickon Stark
+Irri,Tommen Baratheon
+Irri,Jacks
+Irri,Quent
+Hodor,Kovarro
+Hodor,High Septon
+Hodor,Farlen
+Hodor,Drennan
+Hodor,Rickon Stark
+Hodor,Tommen Baratheon
+Hodor,Jacks
+Hodor,Quent
+Kovarro,High Septon
+Kovarro,Farlen
+Kovarro,Drennan
+Kovarro,Rickon Stark
+Kovarro,Tommen Baratheon
+Kovarro,Jacks
+Kovarro,Quent
+High Septon,Farlen
+High Septon,Drennan
+High Septon,Rickon Stark
+High Septon,Tommen Baratheon
+High Septon,Jacks
+High Septon,Quent
+Farlen,Drennan
+Farlen,Rickon Stark
+Farlen,Tommen Baratheon
+Farlen,Jacks
+Farlen,Quent
+Drennan,Rickon Stark
+Drennan,Tommen Baratheon
+Drennan,Jacks
+Drennan,Quent
+Rickon Stark,Tommen Baratheon
+Rickon Stark,Jacks
+Rickon Stark,Quent
+Tommen Baratheon,Jacks
+Tommen Baratheon,Quent
+Jacks,Quent

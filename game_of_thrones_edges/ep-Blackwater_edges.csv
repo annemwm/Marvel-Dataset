@@ -1,0 +1,254 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Bronn
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Shae
+Tyrion Lannister,Hallyne
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Matthos Seaworth
+Tyrion Lannister,Armeca
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Imry Florent
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Dontos Hollard
+Tyrion Lannister,Ilyn Payne
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Mandon Moore
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Bronn
+Cersei Lannister,Lord Varys
+Cersei Lannister,Shae
+Cersei Lannister,Hallyne
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Lancel Lannister
+Cersei Lannister,Matthos Seaworth
+Cersei Lannister,Armeca
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Imry Florent
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Dontos Hollard
+Cersei Lannister,Ilyn Payne
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Mandon Moore
+Joffrey Baratheon,Sansa Stark
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Stannis Baratheon
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Hallyne
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Lancel Lannister
+Joffrey Baratheon,Matthos Seaworth
+Joffrey Baratheon,Armeca
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Imry Florent
+Joffrey Baratheon,Tywin Lannister
+Joffrey Baratheon,Davos Seaworth
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Dontos Hollard
+Joffrey Baratheon,Ilyn Payne
+Joffrey Baratheon,Tommen Baratheon
+Joffrey Baratheon,Mandon Moore
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Stannis Baratheon
+Sansa Stark,Bronn
+Sansa Stark,Lord Varys
+Sansa Stark,Shae
+Sansa Stark,Hallyne
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Lancel Lannister
+Sansa Stark,Matthos Seaworth
+Sansa Stark,Armeca
+Sansa Stark,Podrick Payne
+Sansa Stark,Imry Florent
+Sansa Stark,Tywin Lannister
+Sansa Stark,Davos Seaworth
+Sansa Stark,Loras Tyrell
+Sansa Stark,Dontos Hollard
+Sansa Stark,Ilyn Payne
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Mandon Moore
+Sandor 'The Hound' Clegane,Stannis Baratheon
+Sandor 'The Hound' Clegane,Bronn
+Sandor 'The Hound' Clegane,Lord Varys
+Sandor 'The Hound' Clegane,Shae
+Sandor 'The Hound' Clegane,Hallyne
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Lancel Lannister
+Sandor 'The Hound' Clegane,Matthos Seaworth
+Sandor 'The Hound' Clegane,Armeca
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Imry Florent
+Sandor 'The Hound' Clegane,Tywin Lannister
+Sandor 'The Hound' Clegane,Davos Seaworth
+Sandor 'The Hound' Clegane,Loras Tyrell
+Sandor 'The Hound' Clegane,Dontos Hollard
+Sandor 'The Hound' Clegane,Ilyn Payne
+Sandor 'The Hound' Clegane,Tommen Baratheon
+Sandor 'The Hound' Clegane,Mandon Moore
+Stannis Baratheon,Bronn
+Stannis Baratheon,Lord Varys
+Stannis Baratheon,Shae
+Stannis Baratheon,Hallyne
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Lancel Lannister
+Stannis Baratheon,Matthos Seaworth
+Stannis Baratheon,Armeca
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Imry Florent
+Stannis Baratheon,Tywin Lannister
+Stannis Baratheon,Davos Seaworth
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Dontos Hollard
+Stannis Baratheon,Ilyn Payne
+Stannis Baratheon,Tommen Baratheon
+Stannis Baratheon,Mandon Moore
+Bronn,Lord Varys
+Bronn,Shae
+Bronn,Hallyne
+Bronn,Grand Maester Pycelle
+Bronn,Lancel Lannister
+Bronn,Matthos Seaworth
+Bronn,Armeca
+Bronn,Podrick Payne
+Bronn,Imry Florent
+Bronn,Tywin Lannister
+Bronn,Davos Seaworth
+Bronn,Loras Tyrell
+Bronn,Dontos Hollard
+Bronn,Ilyn Payne
+Bronn,Tommen Baratheon
+Bronn,Mandon Moore
+Lord Varys,Shae
+Lord Varys,Hallyne
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Lancel Lannister
+Lord Varys,Matthos Seaworth
+Lord Varys,Armeca
+Lord Varys,Podrick Payne
+Lord Varys,Imry Florent
+Lord Varys,Tywin Lannister
+Lord Varys,Davos Seaworth
+Lord Varys,Loras Tyrell
+Lord Varys,Dontos Hollard
+Lord Varys,Ilyn Payne
+Lord Varys,Tommen Baratheon
+Lord Varys,Mandon Moore
+Shae,Hallyne
+Shae,Grand Maester Pycelle
+Shae,Lancel Lannister
+Shae,Matthos Seaworth
+Shae,Armeca
+Shae,Podrick Payne
+Shae,Imry Florent
+Shae,Tywin Lannister
+Shae,Davos Seaworth
+Shae,Loras Tyrell
+Shae,Dontos Hollard
+Shae,Ilyn Payne
+Shae,Tommen Baratheon
+Shae,Mandon Moore
+Hallyne,Grand Maester Pycelle
+Hallyne,Lancel Lannister
+Hallyne,Matthos Seaworth
+Hallyne,Armeca
+Hallyne,Podrick Payne
+Hallyne,Imry Florent
+Hallyne,Tywin Lannister
+Hallyne,Davos Seaworth
+Hallyne,Loras Tyrell
+Hallyne,Dontos Hollard
+Hallyne,Ilyn Payne
+Hallyne,Tommen Baratheon
+Hallyne,Mandon Moore
+Grand Maester Pycelle,Lancel Lannister
+Grand Maester Pycelle,Matthos Seaworth
+Grand Maester Pycelle,Armeca
+Grand Maester Pycelle,Podrick Payne
+Grand Maester Pycelle,Imry Florent
+Grand Maester Pycelle,Tywin Lannister
+Grand Maester Pycelle,Davos Seaworth
+Grand Maester Pycelle,Loras Tyrell
+Grand Maester Pycelle,Dontos Hollard
+Grand Maester Pycelle,Ilyn Payne
+Grand Maester Pycelle,Tommen Baratheon
+Grand Maester Pycelle,Mandon Moore
+Lancel Lannister,Matthos Seaworth
+Lancel Lannister,Armeca
+Lancel Lannister,Podrick Payne
+Lancel Lannister,Imry Florent
+Lancel Lannister,Tywin Lannister
+Lancel Lannister,Davos Seaworth
+Lancel Lannister,Loras Tyrell
+Lancel Lannister,Dontos Hollard
+Lancel Lannister,Ilyn Payne
+Lancel Lannister,Tommen Baratheon
+Lancel Lannister,Mandon Moore
+Matthos Seaworth,Armeca
+Matthos Seaworth,Podrick Payne
+Matthos Seaworth,Imry Florent
+Matthos Seaworth,Tywin Lannister
+Matthos Seaworth,Davos Seaworth
+Matthos Seaworth,Loras Tyrell
+Matthos Seaworth,Dontos Hollard
+Matthos Seaworth,Ilyn Payne
+Matthos Seaworth,Tommen Baratheon
+Matthos Seaworth,Mandon Moore
+Armeca,Podrick Payne
+Armeca,Imry Florent
+Armeca,Tywin Lannister
+Armeca,Davos Seaworth
+Armeca,Loras Tyrell
+Armeca,Dontos Hollard
+Armeca,Ilyn Payne
+Armeca,Tommen Baratheon
+Armeca,Mandon Moore
+Podrick Payne,Imry Florent
+Podrick Payne,Tywin Lannister
+Podrick Payne,Davos Seaworth
+Podrick Payne,Loras Tyrell
+Podrick Payne,Dontos Hollard
+Podrick Payne,Ilyn Payne
+Podrick Payne,Tommen Baratheon
+Podrick Payne,Mandon Moore
+Imry Florent,Tywin Lannister
+Imry Florent,Davos Seaworth
+Imry Florent,Loras Tyrell
+Imry Florent,Dontos Hollard
+Imry Florent,Ilyn Payne
+Imry Florent,Tommen Baratheon
+Imry Florent,Mandon Moore
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Dontos Hollard
+Tywin Lannister,Ilyn Payne
+Tywin Lannister,Tommen Baratheon
+Tywin Lannister,Mandon Moore
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Dontos Hollard
+Davos Seaworth,Ilyn Payne
+Davos Seaworth,Tommen Baratheon
+Davos Seaworth,Mandon Moore
+Loras Tyrell,Dontos Hollard
+Loras Tyrell,Ilyn Payne
+Loras Tyrell,Tommen Baratheon
+Loras Tyrell,Mandon Moore
+Dontos Hollard,Ilyn Payne
+Dontos Hollard,Tommen Baratheon
+Dontos Hollard,Mandon Moore
+Ilyn Payne,Tommen Baratheon
+Ilyn Payne,Mandon Moore
+Tommen Baratheon,Mandon Moore

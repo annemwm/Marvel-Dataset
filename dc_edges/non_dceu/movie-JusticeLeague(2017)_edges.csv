@@ -1,0 +1,631 @@
+NAME 1,NAME 2
+Batman / Bruce Wayne,Superman / Clark Kent
+Batman / Bruce Wayne,Lois Lane
+Batman / Bruce Wayne,Wonder Woman / Diana Prince
+Batman / Bruce Wayne,The Flash / Barry Allen
+Batman / Bruce Wayne,Aquaman / Arthur Curry
+Batman / Bruce Wayne,Cyborg / Victor Stone
+Batman / Bruce Wayne,Alfred
+Batman / Bruce Wayne,Martha Kent
+Batman / Bruce Wayne,Queen Hippolyta
+Batman / Bruce Wayne,Commissioner Gordon
+Batman / Bruce Wayne,Steppenwolf
+Batman / Bruce Wayne,Mera
+Batman / Bruce Wayne,Silas Stone
+Batman / Bruce Wayne,Menalippe
+Batman / Bruce Wayne,Ancient Atlantean King
+Batman / Bruce Wayne,Black Clad Alpha
+Batman / Bruce Wayne,German Archaeologist
+Batman / Bruce Wayne,Detective Crispus Allen
+Batman / Bruce Wayne,Ancient King of Men
+Batman / Bruce Wayne,Philippus
+Batman / Bruce Wayne,Officer Ben Sadowsky
+Batman / Bruce Wayne,Elinore Stone
+Batman / Bruce Wayne,Henry Allen
+Batman / Bruce Wayne,Lex Luthor
+Batman / Bruce Wayne,Mr. Wilson
+Batman / Bruce Wayne,Mayor
+Batman / Bruce Wayne,Ares
+Batman / Bruce Wayne,Zeus
+Batman / Bruce Wayne,Venelia
+Batman / Bruce Wayne,Penthesilea
+Batman / Bruce Wayne,Trigona
+Batman / Bruce Wayne,Euboea
+Batman / Bruce Wayne,Howard the Janitor
+Batman / Bruce Wayne,Artemis
+Batman / Bruce Wayne,Garrett Bowman
+Superman / Clark Kent,Lois Lane
+Superman / Clark Kent,Wonder Woman / Diana Prince
+Superman / Clark Kent,The Flash / Barry Allen
+Superman / Clark Kent,Aquaman / Arthur Curry
+Superman / Clark Kent,Cyborg / Victor Stone
+Superman / Clark Kent,Alfred
+Superman / Clark Kent,Martha Kent
+Superman / Clark Kent,Queen Hippolyta
+Superman / Clark Kent,Commissioner Gordon
+Superman / Clark Kent,Steppenwolf
+Superman / Clark Kent,Mera
+Superman / Clark Kent,Silas Stone
+Superman / Clark Kent,Menalippe
+Superman / Clark Kent,Ancient Atlantean King
+Superman / Clark Kent,Black Clad Alpha
+Superman / Clark Kent,German Archaeologist
+Superman / Clark Kent,Detective Crispus Allen
+Superman / Clark Kent,Ancient King of Men
+Superman / Clark Kent,Philippus
+Superman / Clark Kent,Officer Ben Sadowsky
+Superman / Clark Kent,Elinore Stone
+Superman / Clark Kent,Henry Allen
+Superman / Clark Kent,Lex Luthor
+Superman / Clark Kent,Mr. Wilson
+Superman / Clark Kent,Mayor
+Superman / Clark Kent,Ares
+Superman / Clark Kent,Zeus
+Superman / Clark Kent,Venelia
+Superman / Clark Kent,Penthesilea
+Superman / Clark Kent,Trigona
+Superman / Clark Kent,Euboea
+Superman / Clark Kent,Howard the Janitor
+Superman / Clark Kent,Artemis
+Superman / Clark Kent,Garrett Bowman
+Lois Lane,Wonder Woman / Diana Prince
+Lois Lane,The Flash / Barry Allen
+Lois Lane,Aquaman / Arthur Curry
+Lois Lane,Cyborg / Victor Stone
+Lois Lane,Alfred
+Lois Lane,Martha Kent
+Lois Lane,Queen Hippolyta
+Lois Lane,Commissioner Gordon
+Lois Lane,Steppenwolf
+Lois Lane,Mera
+Lois Lane,Silas Stone
+Lois Lane,Menalippe
+Lois Lane,Ancient Atlantean King
+Lois Lane,Black Clad Alpha
+Lois Lane,German Archaeologist
+Lois Lane,Detective Crispus Allen
+Lois Lane,Ancient King of Men
+Lois Lane,Philippus
+Lois Lane,Officer Ben Sadowsky
+Lois Lane,Elinore Stone
+Lois Lane,Henry Allen
+Lois Lane,Lex Luthor
+Lois Lane,Mr. Wilson
+Lois Lane,Mayor
+Lois Lane,Ares
+Lois Lane,Zeus
+Lois Lane,Venelia
+Lois Lane,Penthesilea
+Lois Lane,Trigona
+Lois Lane,Euboea
+Lois Lane,Howard the Janitor
+Lois Lane,Artemis
+Lois Lane,Garrett Bowman
+Wonder Woman / Diana Prince,The Flash / Barry Allen
+Wonder Woman / Diana Prince,Aquaman / Arthur Curry
+Wonder Woman / Diana Prince,Cyborg / Victor Stone
+Wonder Woman / Diana Prince,Alfred
+Wonder Woman / Diana Prince,Martha Kent
+Wonder Woman / Diana Prince,Queen Hippolyta
+Wonder Woman / Diana Prince,Commissioner Gordon
+Wonder Woman / Diana Prince,Steppenwolf
+Wonder Woman / Diana Prince,Mera
+Wonder Woman / Diana Prince,Silas Stone
+Wonder Woman / Diana Prince,Menalippe
+Wonder Woman / Diana Prince,Ancient Atlantean King
+Wonder Woman / Diana Prince,Black Clad Alpha
+Wonder Woman / Diana Prince,German Archaeologist
+Wonder Woman / Diana Prince,Detective Crispus Allen
+Wonder Woman / Diana Prince,Ancient King of Men
+Wonder Woman / Diana Prince,Philippus
+Wonder Woman / Diana Prince,Officer Ben Sadowsky
+Wonder Woman / Diana Prince,Elinore Stone
+Wonder Woman / Diana Prince,Henry Allen
+Wonder Woman / Diana Prince,Lex Luthor
+Wonder Woman / Diana Prince,Mr. Wilson
+Wonder Woman / Diana Prince,Mayor
+Wonder Woman / Diana Prince,Ares
+Wonder Woman / Diana Prince,Zeus
+Wonder Woman / Diana Prince,Venelia
+Wonder Woman / Diana Prince,Penthesilea
+Wonder Woman / Diana Prince,Trigona
+Wonder Woman / Diana Prince,Euboea
+Wonder Woman / Diana Prince,Howard the Janitor
+Wonder Woman / Diana Prince,Artemis
+Wonder Woman / Diana Prince,Garrett Bowman
+The Flash / Barry Allen,Aquaman / Arthur Curry
+The Flash / Barry Allen,Cyborg / Victor Stone
+The Flash / Barry Allen,Alfred
+The Flash / Barry Allen,Martha Kent
+The Flash / Barry Allen,Queen Hippolyta
+The Flash / Barry Allen,Commissioner Gordon
+The Flash / Barry Allen,Steppenwolf
+The Flash / Barry Allen,Mera
+The Flash / Barry Allen,Silas Stone
+The Flash / Barry Allen,Menalippe
+The Flash / Barry Allen,Ancient Atlantean King
+The Flash / Barry Allen,Black Clad Alpha
+The Flash / Barry Allen,German Archaeologist
+The Flash / Barry Allen,Detective Crispus Allen
+The Flash / Barry Allen,Ancient King of Men
+The Flash / Barry Allen,Philippus
+The Flash / Barry Allen,Officer Ben Sadowsky
+The Flash / Barry Allen,Elinore Stone
+The Flash / Barry Allen,Henry Allen
+The Flash / Barry Allen,Lex Luthor
+The Flash / Barry Allen,Mr. Wilson
+The Flash / Barry Allen,Mayor
+The Flash / Barry Allen,Ares
+The Flash / Barry Allen,Zeus
+The Flash / Barry Allen,Venelia
+The Flash / Barry Allen,Penthesilea
+The Flash / Barry Allen,Trigona
+The Flash / Barry Allen,Euboea
+The Flash / Barry Allen,Howard the Janitor
+The Flash / Barry Allen,Artemis
+The Flash / Barry Allen,Garrett Bowman
+Aquaman / Arthur Curry,Cyborg / Victor Stone
+Aquaman / Arthur Curry,Alfred
+Aquaman / Arthur Curry,Martha Kent
+Aquaman / Arthur Curry,Queen Hippolyta
+Aquaman / Arthur Curry,Commissioner Gordon
+Aquaman / Arthur Curry,Steppenwolf
+Aquaman / Arthur Curry,Mera
+Aquaman / Arthur Curry,Silas Stone
+Aquaman / Arthur Curry,Menalippe
+Aquaman / Arthur Curry,Ancient Atlantean King
+Aquaman / Arthur Curry,Black Clad Alpha
+Aquaman / Arthur Curry,German Archaeologist
+Aquaman / Arthur Curry,Detective Crispus Allen
+Aquaman / Arthur Curry,Ancient King of Men
+Aquaman / Arthur Curry,Philippus
+Aquaman / Arthur Curry,Officer Ben Sadowsky
+Aquaman / Arthur Curry,Elinore Stone
+Aquaman / Arthur Curry,Henry Allen
+Aquaman / Arthur Curry,Lex Luthor
+Aquaman / Arthur Curry,Mr. Wilson
+Aquaman / Arthur Curry,Mayor
+Aquaman / Arthur Curry,Ares
+Aquaman / Arthur Curry,Zeus
+Aquaman / Arthur Curry,Venelia
+Aquaman / Arthur Curry,Penthesilea
+Aquaman / Arthur Curry,Trigona
+Aquaman / Arthur Curry,Euboea
+Aquaman / Arthur Curry,Howard the Janitor
+Aquaman / Arthur Curry,Artemis
+Aquaman / Arthur Curry,Garrett Bowman
+Cyborg / Victor Stone,Alfred
+Cyborg / Victor Stone,Martha Kent
+Cyborg / Victor Stone,Queen Hippolyta
+Cyborg / Victor Stone,Commissioner Gordon
+Cyborg / Victor Stone,Steppenwolf
+Cyborg / Victor Stone,Mera
+Cyborg / Victor Stone,Silas Stone
+Cyborg / Victor Stone,Menalippe
+Cyborg / Victor Stone,Ancient Atlantean King
+Cyborg / Victor Stone,Black Clad Alpha
+Cyborg / Victor Stone,German Archaeologist
+Cyborg / Victor Stone,Detective Crispus Allen
+Cyborg / Victor Stone,Ancient King of Men
+Cyborg / Victor Stone,Philippus
+Cyborg / Victor Stone,Officer Ben Sadowsky
+Cyborg / Victor Stone,Elinore Stone
+Cyborg / Victor Stone,Henry Allen
+Cyborg / Victor Stone,Lex Luthor
+Cyborg / Victor Stone,Mr. Wilson
+Cyborg / Victor Stone,Mayor
+Cyborg / Victor Stone,Ares
+Cyborg / Victor Stone,Zeus
+Cyborg / Victor Stone,Venelia
+Cyborg / Victor Stone,Penthesilea
+Cyborg / Victor Stone,Trigona
+Cyborg / Victor Stone,Euboea
+Cyborg / Victor Stone,Howard the Janitor
+Cyborg / Victor Stone,Artemis
+Cyborg / Victor Stone,Garrett Bowman
+Alfred,Martha Kent
+Alfred,Queen Hippolyta
+Alfred,Commissioner Gordon
+Alfred,Steppenwolf
+Alfred,Mera
+Alfred,Silas Stone
+Alfred,Menalippe
+Alfred,Ancient Atlantean King
+Alfred,Black Clad Alpha
+Alfred,German Archaeologist
+Alfred,Detective Crispus Allen
+Alfred,Ancient King of Men
+Alfred,Philippus
+Alfred,Officer Ben Sadowsky
+Alfred,Elinore Stone
+Alfred,Henry Allen
+Alfred,Lex Luthor
+Alfred,Mr. Wilson
+Alfred,Mayor
+Alfred,Ares
+Alfred,Zeus
+Alfred,Venelia
+Alfred,Penthesilea
+Alfred,Trigona
+Alfred,Euboea
+Alfred,Howard the Janitor
+Alfred,Artemis
+Alfred,Garrett Bowman
+Martha Kent,Queen Hippolyta
+Martha Kent,Commissioner Gordon
+Martha Kent,Steppenwolf
+Martha Kent,Mera
+Martha Kent,Silas Stone
+Martha Kent,Menalippe
+Martha Kent,Ancient Atlantean King
+Martha Kent,Black Clad Alpha
+Martha Kent,German Archaeologist
+Martha Kent,Detective Crispus Allen
+Martha Kent,Ancient King of Men
+Martha Kent,Philippus
+Martha Kent,Officer Ben Sadowsky
+Martha Kent,Elinore Stone
+Martha Kent,Henry Allen
+Martha Kent,Lex Luthor
+Martha Kent,Mr. Wilson
+Martha Kent,Mayor
+Martha Kent,Ares
+Martha Kent,Zeus
+Martha Kent,Venelia
+Martha Kent,Penthesilea
+Martha Kent,Trigona
+Martha Kent,Euboea
+Martha Kent,Howard the Janitor
+Martha Kent,Artemis
+Martha Kent,Garrett Bowman
+Queen Hippolyta,Commissioner Gordon
+Queen Hippolyta,Steppenwolf
+Queen Hippolyta,Mera
+Queen Hippolyta,Silas Stone
+Queen Hippolyta,Menalippe
+Queen Hippolyta,Ancient Atlantean King
+Queen Hippolyta,Black Clad Alpha
+Queen Hippolyta,German Archaeologist
+Queen Hippolyta,Detective Crispus Allen
+Queen Hippolyta,Ancient King of Men
+Queen Hippolyta,Philippus
+Queen Hippolyta,Officer Ben Sadowsky
+Queen Hippolyta,Elinore Stone
+Queen Hippolyta,Henry Allen
+Queen Hippolyta,Lex Luthor
+Queen Hippolyta,Mr. Wilson
+Queen Hippolyta,Mayor
+Queen Hippolyta,Ares
+Queen Hippolyta,Zeus
+Queen Hippolyta,Venelia
+Queen Hippolyta,Penthesilea
+Queen Hippolyta,Trigona
+Queen Hippolyta,Euboea
+Queen Hippolyta,Howard the Janitor
+Queen Hippolyta,Artemis
+Queen Hippolyta,Garrett Bowman
+Commissioner Gordon,Steppenwolf
+Commissioner Gordon,Mera
+Commissioner Gordon,Silas Stone
+Commissioner Gordon,Menalippe
+Commissioner Gordon,Ancient Atlantean King
+Commissioner Gordon,Black Clad Alpha
+Commissioner Gordon,German Archaeologist
+Commissioner Gordon,Detective Crispus Allen
+Commissioner Gordon,Ancient King of Men
+Commissioner Gordon,Philippus
+Commissioner Gordon,Officer Ben Sadowsky
+Commissioner Gordon,Elinore Stone
+Commissioner Gordon,Henry Allen
+Commissioner Gordon,Lex Luthor
+Commissioner Gordon,Mr. Wilson
+Commissioner Gordon,Mayor
+Commissioner Gordon,Ares
+Commissioner Gordon,Zeus
+Commissioner Gordon,Venelia
+Commissioner Gordon,Penthesilea
+Commissioner Gordon,Trigona
+Commissioner Gordon,Euboea
+Commissioner Gordon,Howard the Janitor
+Commissioner Gordon,Artemis
+Commissioner Gordon,Garrett Bowman
+Steppenwolf,Mera
+Steppenwolf,Silas Stone
+Steppenwolf,Menalippe
+Steppenwolf,Ancient Atlantean King
+Steppenwolf,Black Clad Alpha
+Steppenwolf,German Archaeologist
+Steppenwolf,Detective Crispus Allen
+Steppenwolf,Ancient King of Men
+Steppenwolf,Philippus
+Steppenwolf,Officer Ben Sadowsky
+Steppenwolf,Elinore Stone
+Steppenwolf,Henry Allen
+Steppenwolf,Lex Luthor
+Steppenwolf,Mr. Wilson
+Steppenwolf,Mayor
+Steppenwolf,Ares
+Steppenwolf,Zeus
+Steppenwolf,Venelia
+Steppenwolf,Penthesilea
+Steppenwolf,Trigona
+Steppenwolf,Euboea
+Steppenwolf,Howard the Janitor
+Steppenwolf,Artemis
+Steppenwolf,Garrett Bowman
+Mera,Silas Stone
+Mera,Menalippe
+Mera,Ancient Atlantean King
+Mera,Black Clad Alpha
+Mera,German Archaeologist
+Mera,Detective Crispus Allen
+Mera,Ancient King of Men
+Mera,Philippus
+Mera,Officer Ben Sadowsky
+Mera,Elinore Stone
+Mera,Henry Allen
+Mera,Lex Luthor
+Mera,Mr. Wilson
+Mera,Mayor
+Mera,Ares
+Mera,Zeus
+Mera,Venelia
+Mera,Penthesilea
+Mera,Trigona
+Mera,Euboea
+Mera,Howard the Janitor
+Mera,Artemis
+Mera,Garrett Bowman
+Silas Stone,Menalippe
+Silas Stone,Ancient Atlantean King
+Silas Stone,Black Clad Alpha
+Silas Stone,German Archaeologist
+Silas Stone,Detective Crispus Allen
+Silas Stone,Ancient King of Men
+Silas Stone,Philippus
+Silas Stone,Officer Ben Sadowsky
+Silas Stone,Elinore Stone
+Silas Stone,Henry Allen
+Silas Stone,Lex Luthor
+Silas Stone,Mr. Wilson
+Silas Stone,Mayor
+Silas Stone,Ares
+Silas Stone,Zeus
+Silas Stone,Venelia
+Silas Stone,Penthesilea
+Silas Stone,Trigona
+Silas Stone,Euboea
+Silas Stone,Howard the Janitor
+Silas Stone,Artemis
+Silas Stone,Garrett Bowman
+Menalippe,Ancient Atlantean King
+Menalippe,Black Clad Alpha
+Menalippe,German Archaeologist
+Menalippe,Detective Crispus Allen
+Menalippe,Ancient King of Men
+Menalippe,Philippus
+Menalippe,Officer Ben Sadowsky
+Menalippe,Elinore Stone
+Menalippe,Henry Allen
+Menalippe,Lex Luthor
+Menalippe,Mr. Wilson
+Menalippe,Mayor
+Menalippe,Ares
+Menalippe,Zeus
+Menalippe,Venelia
+Menalippe,Penthesilea
+Menalippe,Trigona
+Menalippe,Euboea
+Menalippe,Howard the Janitor
+Menalippe,Artemis
+Menalippe,Garrett Bowman
+Ancient Atlantean King,Black Clad Alpha
+Ancient Atlantean King,German Archaeologist
+Ancient Atlantean King,Detective Crispus Allen
+Ancient Atlantean King,Ancient King of Men
+Ancient Atlantean King,Philippus
+Ancient Atlantean King,Officer Ben Sadowsky
+Ancient Atlantean King,Elinore Stone
+Ancient Atlantean King,Henry Allen
+Ancient Atlantean King,Lex Luthor
+Ancient Atlantean King,Mr. Wilson
+Ancient Atlantean King,Mayor
+Ancient Atlantean King,Ares
+Ancient Atlantean King,Zeus
+Ancient Atlantean King,Venelia
+Ancient Atlantean King,Penthesilea
+Ancient Atlantean King,Trigona
+Ancient Atlantean King,Euboea
+Ancient Atlantean King,Howard the Janitor
+Ancient Atlantean King,Artemis
+Ancient Atlantean King,Garrett Bowman
+Black Clad Alpha,German Archaeologist
+Black Clad Alpha,Detective Crispus Allen
+Black Clad Alpha,Ancient King of Men
+Black Clad Alpha,Philippus
+Black Clad Alpha,Officer Ben Sadowsky
+Black Clad Alpha,Elinore Stone
+Black Clad Alpha,Henry Allen
+Black Clad Alpha,Lex Luthor
+Black Clad Alpha,Mr. Wilson
+Black Clad Alpha,Mayor
+Black Clad Alpha,Ares
+Black Clad Alpha,Zeus
+Black Clad Alpha,Venelia
+Black Clad Alpha,Penthesilea
+Black Clad Alpha,Trigona
+Black Clad Alpha,Euboea
+Black Clad Alpha,Howard the Janitor
+Black Clad Alpha,Artemis
+Black Clad Alpha,Garrett Bowman
+German Archaeologist,Detective Crispus Allen
+German Archaeologist,Ancient King of Men
+German Archaeologist,Philippus
+German Archaeologist,Officer Ben Sadowsky
+German Archaeologist,Elinore Stone
+German Archaeologist,Henry Allen
+German Archaeologist,Lex Luthor
+German Archaeologist,Mr. Wilson
+German Archaeologist,Mayor
+German Archaeologist,Ares
+German Archaeologist,Zeus
+German Archaeologist,Venelia
+German Archaeologist,Penthesilea
+German Archaeologist,Trigona
+German Archaeologist,Euboea
+German Archaeologist,Howard the Janitor
+German Archaeologist,Artemis
+German Archaeologist,Garrett Bowman
+Detective Crispus Allen,Ancient King of Men
+Detective Crispus Allen,Philippus
+Detective Crispus Allen,Officer Ben Sadowsky
+Detective Crispus Allen,Elinore Stone
+Detective Crispus Allen,Henry Allen
+Detective Crispus Allen,Lex Luthor
+Detective Crispus Allen,Mr. Wilson
+Detective Crispus Allen,Mayor
+Detective Crispus Allen,Ares
+Detective Crispus Allen,Zeus
+Detective Crispus Allen,Venelia
+Detective Crispus Allen,Penthesilea
+Detective Crispus Allen,Trigona
+Detective Crispus Allen,Euboea
+Detective Crispus Allen,Howard the Janitor
+Detective Crispus Allen,Artemis
+Detective Crispus Allen,Garrett Bowman
+Ancient King of Men,Philippus
+Ancient King of Men,Officer Ben Sadowsky
+Ancient King of Men,Elinore Stone
+Ancient King of Men,Henry Allen
+Ancient King of Men,Lex Luthor
+Ancient King of Men,Mr. Wilson
+Ancient King of Men,Mayor
+Ancient King of Men,Ares
+Ancient King of Men,Zeus
+Ancient King of Men,Venelia
+Ancient King of Men,Penthesilea
+Ancient King of Men,Trigona
+Ancient King of Men,Euboea
+Ancient King of Men,Howard the Janitor
+Ancient King of Men,Artemis
+Ancient King of Men,Garrett Bowman
+Philippus,Officer Ben Sadowsky
+Philippus,Elinore Stone
+Philippus,Henry Allen
+Philippus,Lex Luthor
+Philippus,Mr. Wilson
+Philippus,Mayor
+Philippus,Ares
+Philippus,Zeus
+Philippus,Venelia
+Philippus,Penthesilea
+Philippus,Trigona
+Philippus,Euboea
+Philippus,Howard the Janitor
+Philippus,Artemis
+Philippus,Garrett Bowman
+Officer Ben Sadowsky,Elinore Stone
+Officer Ben Sadowsky,Henry Allen
+Officer Ben Sadowsky,Lex Luthor
+Officer Ben Sadowsky,Mr. Wilson
+Officer Ben Sadowsky,Mayor
+Officer Ben Sadowsky,Ares
+Officer Ben Sadowsky,Zeus
+Officer Ben Sadowsky,Venelia
+Officer Ben Sadowsky,Penthesilea
+Officer Ben Sadowsky,Trigona
+Officer Ben Sadowsky,Euboea
+Officer Ben Sadowsky,Howard the Janitor
+Officer Ben Sadowsky,Artemis
+Officer Ben Sadowsky,Garrett Bowman
+Elinore Stone,Henry Allen
+Elinore Stone,Lex Luthor
+Elinore Stone,Mr. Wilson
+Elinore Stone,Mayor
+Elinore Stone,Ares
+Elinore Stone,Zeus
+Elinore Stone,Venelia
+Elinore Stone,Penthesilea
+Elinore Stone,Trigona
+Elinore Stone,Euboea
+Elinore Stone,Howard the Janitor
+Elinore Stone,Artemis
+Elinore Stone,Garrett Bowman
+Henry Allen,Lex Luthor
+Henry Allen,Mr. Wilson
+Henry Allen,Mayor
+Henry Allen,Ares
+Henry Allen,Zeus
+Henry Allen,Venelia
+Henry Allen,Penthesilea
+Henry Allen,Trigona
+Henry Allen,Euboea
+Henry Allen,Howard the Janitor
+Henry Allen,Artemis
+Henry Allen,Garrett Bowman
+Lex Luthor,Mr. Wilson
+Lex Luthor,Mayor
+Lex Luthor,Ares
+Lex Luthor,Zeus
+Lex Luthor,Venelia
+Lex Luthor,Penthesilea
+Lex Luthor,Trigona
+Lex Luthor,Euboea
+Lex Luthor,Howard the Janitor
+Lex Luthor,Artemis
+Lex Luthor,Garrett Bowman
+Mr. Wilson,Mayor
+Mr. Wilson,Ares
+Mr. Wilson,Zeus
+Mr. Wilson,Venelia
+Mr. Wilson,Penthesilea
+Mr. Wilson,Trigona
+Mr. Wilson,Euboea
+Mr. Wilson,Howard the Janitor
+Mr. Wilson,Artemis
+Mr. Wilson,Garrett Bowman
+Mayor,Ares
+Mayor,Zeus
+Mayor,Venelia
+Mayor,Penthesilea
+Mayor,Trigona
+Mayor,Euboea
+Mayor,Howard the Janitor
+Mayor,Artemis
+Mayor,Garrett Bowman
+Ares,Zeus
+Ares,Venelia
+Ares,Penthesilea
+Ares,Trigona
+Ares,Euboea
+Ares,Howard the Janitor
+Ares,Artemis
+Ares,Garrett Bowman
+Zeus,Venelia
+Zeus,Penthesilea
+Zeus,Trigona
+Zeus,Euboea
+Zeus,Howard the Janitor
+Zeus,Artemis
+Zeus,Garrett Bowman
+Venelia,Penthesilea
+Venelia,Trigona
+Venelia,Euboea
+Venelia,Howard the Janitor
+Venelia,Artemis
+Venelia,Garrett Bowman
+Penthesilea,Trigona
+Penthesilea,Euboea
+Penthesilea,Howard the Janitor
+Penthesilea,Artemis
+Penthesilea,Garrett Bowman
+Trigona,Euboea
+Trigona,Howard the Janitor
+Trigona,Artemis
+Trigona,Garrett Bowman
+Euboea,Howard the Janitor
+Euboea,Artemis
+Euboea,Garrett Bowman
+Howard the Janitor,Artemis
+Howard the Janitor,Garrett Bowman
+Artemis,Garrett Bowman

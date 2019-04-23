@@ -1,0 +1,821 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Ramsay Snow
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Oberyn Martell
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Missandei
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Anya Waynwood
+Tyrion Lannister,Gregor Clegane
+Tyrion Lannister,Donnel Waynwood
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Gilly
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Mace Tyrell
+Tyrion Lannister,Styr
+Tyrion Lannister,Grenn
+Tyrion Lannister,Pypar
+Tyrion Lannister,Yohn Royce
+Tyrion Lannister,Ralf Kenning
+Tyrion Lannister,Robin Arryn
+Tyrion Lannister,Adrack Humble
+Tyrion Lannister,Vance Corbray
+Tyrion Lannister,Kegs
+Tyrion Lannister,Black Jack Bulwer
+Tyrion Lannister,Mully
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Ramsay Snow
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Oberyn Martell
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Grey Worm
+Jaime Lannister,Missandei
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Anya Waynwood
+Jaime Lannister,Gregor Clegane
+Jaime Lannister,Donnel Waynwood
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Jon Snow
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Ygritte
+Jaime Lannister,Tormund Giantsbane
+Jaime Lannister,Gilly
+Jaime Lannister,Lord Varys
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Mace Tyrell
+Jaime Lannister,Styr
+Jaime Lannister,Grenn
+Jaime Lannister,Pypar
+Jaime Lannister,Yohn Royce
+Jaime Lannister,Ralf Kenning
+Jaime Lannister,Robin Arryn
+Jaime Lannister,Adrack Humble
+Jaime Lannister,Vance Corbray
+Jaime Lannister,Kegs
+Jaime Lannister,Black Jack Bulwer
+Jaime Lannister,Mully
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Ramsay Snow
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Oberyn Martell
+Daenerys Targaryen,Ellaria Sand
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Anya Waynwood
+Daenerys Targaryen,Gregor Clegane
+Daenerys Targaryen,Donnel Waynwood
+Daenerys Targaryen,Cersei Lannister
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Mace Tyrell
+Daenerys Targaryen,Styr
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Pypar
+Daenerys Targaryen,Yohn Royce
+Daenerys Targaryen,Ralf Kenning
+Daenerys Targaryen,Robin Arryn
+Daenerys Targaryen,Adrack Humble
+Daenerys Targaryen,Vance Corbray
+Daenerys Targaryen,Kegs
+Daenerys Targaryen,Black Jack Bulwer
+Daenerys Targaryen,Mully
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Ramsay Snow
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Oberyn Martell
+Tywin Lannister,Ellaria Sand
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Grey Worm
+Tywin Lannister,Missandei
+Tywin Lannister,Eddison Tollett
+Tywin Lannister,Anya Waynwood
+Tywin Lannister,Gregor Clegane
+Tywin Lannister,Donnel Waynwood
+Tywin Lannister,Cersei Lannister
+Tywin Lannister,Jon Snow
+Tywin Lannister,Petyr 'Littlefinger' Baelish
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Ygritte
+Tywin Lannister,Tormund Giantsbane
+Tywin Lannister,Gilly
+Tywin Lannister,Lord Varys
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Mace Tyrell
+Tywin Lannister,Styr
+Tywin Lannister,Grenn
+Tywin Lannister,Pypar
+Tywin Lannister,Yohn Royce
+Tywin Lannister,Ralf Kenning
+Tywin Lannister,Robin Arryn
+Tywin Lannister,Adrack Humble
+Tywin Lannister,Vance Corbray
+Tywin Lannister,Kegs
+Tywin Lannister,Black Jack Bulwer
+Tywin Lannister,Mully
+Theon Greyjoy,Sansa Stark
+Theon Greyjoy,Arya Stark
+Theon Greyjoy,Ramsay Snow
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Oberyn Martell
+Theon Greyjoy,Ellaria Sand
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Grey Worm
+Theon Greyjoy,Missandei
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,Anya Waynwood
+Theon Greyjoy,Gregor Clegane
+Theon Greyjoy,Donnel Waynwood
+Theon Greyjoy,Cersei Lannister
+Theon Greyjoy,Jon Snow
+Theon Greyjoy,Petyr 'Littlefinger' Baelish
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Ygritte
+Theon Greyjoy,Tormund Giantsbane
+Theon Greyjoy,Gilly
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Barristan Selmy
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Mace Tyrell
+Theon Greyjoy,Styr
+Theon Greyjoy,Grenn
+Theon Greyjoy,Pypar
+Theon Greyjoy,Yohn Royce
+Theon Greyjoy,Ralf Kenning
+Theon Greyjoy,Robin Arryn
+Theon Greyjoy,Adrack Humble
+Theon Greyjoy,Vance Corbray
+Theon Greyjoy,Kegs
+Theon Greyjoy,Black Jack Bulwer
+Theon Greyjoy,Mully
+Sansa Stark,Arya Stark
+Sansa Stark,Ramsay Snow
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Jorah Mormont
+Sansa Stark,Oberyn Martell
+Sansa Stark,Ellaria Sand
+Sansa Stark,Roose Bolton
+Sansa Stark,Grey Worm
+Sansa Stark,Missandei
+Sansa Stark,Eddison Tollett
+Sansa Stark,Anya Waynwood
+Sansa Stark,Gregor Clegane
+Sansa Stark,Donnel Waynwood
+Sansa Stark,Cersei Lannister
+Sansa Stark,Jon Snow
+Sansa Stark,Petyr 'Littlefinger' Baelish
+Sansa Stark,Samwell Tarly
+Sansa Stark,Ygritte
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Gilly
+Sansa Stark,Lord Varys
+Sansa Stark,Barristan Selmy
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Mace Tyrell
+Sansa Stark,Styr
+Sansa Stark,Grenn
+Sansa Stark,Pypar
+Sansa Stark,Yohn Royce
+Sansa Stark,Ralf Kenning
+Sansa Stark,Robin Arryn
+Sansa Stark,Adrack Humble
+Sansa Stark,Vance Corbray
+Sansa Stark,Kegs
+Sansa Stark,Black Jack Bulwer
+Sansa Stark,Mully
+Arya Stark,Ramsay Snow
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Jorah Mormont
+Arya Stark,Oberyn Martell
+Arya Stark,Ellaria Sand
+Arya Stark,Roose Bolton
+Arya Stark,Grey Worm
+Arya Stark,Missandei
+Arya Stark,Eddison Tollett
+Arya Stark,Anya Waynwood
+Arya Stark,Gregor Clegane
+Arya Stark,Donnel Waynwood
+Arya Stark,Cersei Lannister
+Arya Stark,Jon Snow
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Samwell Tarly
+Arya Stark,Ygritte
+Arya Stark,Tormund Giantsbane
+Arya Stark,Gilly
+Arya Stark,Lord Varys
+Arya Stark,Barristan Selmy
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Mace Tyrell
+Arya Stark,Styr
+Arya Stark,Grenn
+Arya Stark,Pypar
+Arya Stark,Yohn Royce
+Arya Stark,Ralf Kenning
+Arya Stark,Robin Arryn
+Arya Stark,Adrack Humble
+Arya Stark,Vance Corbray
+Arya Stark,Kegs
+Arya Stark,Black Jack Bulwer
+Arya Stark,Mully
+Ramsay Snow,Sandor 'The Hound' Clegane
+Ramsay Snow,Jorah Mormont
+Ramsay Snow,Oberyn Martell
+Ramsay Snow,Ellaria Sand
+Ramsay Snow,Roose Bolton
+Ramsay Snow,Grey Worm
+Ramsay Snow,Missandei
+Ramsay Snow,Eddison Tollett
+Ramsay Snow,Anya Waynwood
+Ramsay Snow,Gregor Clegane
+Ramsay Snow,Donnel Waynwood
+Ramsay Snow,Cersei Lannister
+Ramsay Snow,Jon Snow
+Ramsay Snow,Petyr 'Littlefinger' Baelish
+Ramsay Snow,Samwell Tarly
+Ramsay Snow,Ygritte
+Ramsay Snow,Tormund Giantsbane
+Ramsay Snow,Gilly
+Ramsay Snow,Lord Varys
+Ramsay Snow,Barristan Selmy
+Ramsay Snow,Grand Maester Pycelle
+Ramsay Snow,Mace Tyrell
+Ramsay Snow,Styr
+Ramsay Snow,Grenn
+Ramsay Snow,Pypar
+Ramsay Snow,Yohn Royce
+Ramsay Snow,Ralf Kenning
+Ramsay Snow,Robin Arryn
+Ramsay Snow,Adrack Humble
+Ramsay Snow,Vance Corbray
+Ramsay Snow,Kegs
+Ramsay Snow,Black Jack Bulwer
+Ramsay Snow,Mully
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Oberyn Martell
+Sandor 'The Hound' Clegane,Ellaria Sand
+Sandor 'The Hound' Clegane,Roose Bolton
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Eddison Tollett
+Sandor 'The Hound' Clegane,Anya Waynwood
+Sandor 'The Hound' Clegane,Gregor Clegane
+Sandor 'The Hound' Clegane,Donnel Waynwood
+Sandor 'The Hound' Clegane,Cersei Lannister
+Sandor 'The Hound' Clegane,Jon Snow
+Sandor 'The Hound' Clegane,Petyr 'Littlefinger' Baelish
+Sandor 'The Hound' Clegane,Samwell Tarly
+Sandor 'The Hound' Clegane,Ygritte
+Sandor 'The Hound' Clegane,Tormund Giantsbane
+Sandor 'The Hound' Clegane,Gilly
+Sandor 'The Hound' Clegane,Lord Varys
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Mace Tyrell
+Sandor 'The Hound' Clegane,Styr
+Sandor 'The Hound' Clegane,Grenn
+Sandor 'The Hound' Clegane,Pypar
+Sandor 'The Hound' Clegane,Yohn Royce
+Sandor 'The Hound' Clegane,Ralf Kenning
+Sandor 'The Hound' Clegane,Robin Arryn
+Sandor 'The Hound' Clegane,Adrack Humble
+Sandor 'The Hound' Clegane,Vance Corbray
+Sandor 'The Hound' Clegane,Kegs
+Sandor 'The Hound' Clegane,Black Jack Bulwer
+Sandor 'The Hound' Clegane,Mully
+Jorah Mormont,Oberyn Martell
+Jorah Mormont,Ellaria Sand
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Grey Worm
+Jorah Mormont,Missandei
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Anya Waynwood
+Jorah Mormont,Gregor Clegane
+Jorah Mormont,Donnel Waynwood
+Jorah Mormont,Cersei Lannister
+Jorah Mormont,Jon Snow
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Ygritte
+Jorah Mormont,Tormund Giantsbane
+Jorah Mormont,Gilly
+Jorah Mormont,Lord Varys
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Mace Tyrell
+Jorah Mormont,Styr
+Jorah Mormont,Grenn
+Jorah Mormont,Pypar
+Jorah Mormont,Yohn Royce
+Jorah Mormont,Ralf Kenning
+Jorah Mormont,Robin Arryn
+Jorah Mormont,Adrack Humble
+Jorah Mormont,Vance Corbray
+Jorah Mormont,Kegs
+Jorah Mormont,Black Jack Bulwer
+Jorah Mormont,Mully
+Oberyn Martell,Ellaria Sand
+Oberyn Martell,Roose Bolton
+Oberyn Martell,Grey Worm
+Oberyn Martell,Missandei
+Oberyn Martell,Eddison Tollett
+Oberyn Martell,Anya Waynwood
+Oberyn Martell,Gregor Clegane
+Oberyn Martell,Donnel Waynwood
+Oberyn Martell,Cersei Lannister
+Oberyn Martell,Jon Snow
+Oberyn Martell,Petyr 'Littlefinger' Baelish
+Oberyn Martell,Samwell Tarly
+Oberyn Martell,Ygritte
+Oberyn Martell,Tormund Giantsbane
+Oberyn Martell,Gilly
+Oberyn Martell,Lord Varys
+Oberyn Martell,Barristan Selmy
+Oberyn Martell,Grand Maester Pycelle
+Oberyn Martell,Mace Tyrell
+Oberyn Martell,Styr
+Oberyn Martell,Grenn
+Oberyn Martell,Pypar
+Oberyn Martell,Yohn Royce
+Oberyn Martell,Ralf Kenning
+Oberyn Martell,Robin Arryn
+Oberyn Martell,Adrack Humble
+Oberyn Martell,Vance Corbray
+Oberyn Martell,Kegs
+Oberyn Martell,Black Jack Bulwer
+Oberyn Martell,Mully
+Ellaria Sand,Roose Bolton
+Ellaria Sand,Grey Worm
+Ellaria Sand,Missandei
+Ellaria Sand,Eddison Tollett
+Ellaria Sand,Anya Waynwood
+Ellaria Sand,Gregor Clegane
+Ellaria Sand,Donnel Waynwood
+Ellaria Sand,Cersei Lannister
+Ellaria Sand,Jon Snow
+Ellaria Sand,Petyr 'Littlefinger' Baelish
+Ellaria Sand,Samwell Tarly
+Ellaria Sand,Ygritte
+Ellaria Sand,Tormund Giantsbane
+Ellaria Sand,Gilly
+Ellaria Sand,Lord Varys
+Ellaria Sand,Barristan Selmy
+Ellaria Sand,Grand Maester Pycelle
+Ellaria Sand,Mace Tyrell
+Ellaria Sand,Styr
+Ellaria Sand,Grenn
+Ellaria Sand,Pypar
+Ellaria Sand,Yohn Royce
+Ellaria Sand,Ralf Kenning
+Ellaria Sand,Robin Arryn
+Ellaria Sand,Adrack Humble
+Ellaria Sand,Vance Corbray
+Ellaria Sand,Kegs
+Ellaria Sand,Black Jack Bulwer
+Ellaria Sand,Mully
+Roose Bolton,Grey Worm
+Roose Bolton,Missandei
+Roose Bolton,Eddison Tollett
+Roose Bolton,Anya Waynwood
+Roose Bolton,Gregor Clegane
+Roose Bolton,Donnel Waynwood
+Roose Bolton,Cersei Lannister
+Roose Bolton,Jon Snow
+Roose Bolton,Petyr 'Littlefinger' Baelish
+Roose Bolton,Samwell Tarly
+Roose Bolton,Ygritte
+Roose Bolton,Tormund Giantsbane
+Roose Bolton,Gilly
+Roose Bolton,Lord Varys
+Roose Bolton,Barristan Selmy
+Roose Bolton,Grand Maester Pycelle
+Roose Bolton,Mace Tyrell
+Roose Bolton,Styr
+Roose Bolton,Grenn
+Roose Bolton,Pypar
+Roose Bolton,Yohn Royce
+Roose Bolton,Ralf Kenning
+Roose Bolton,Robin Arryn
+Roose Bolton,Adrack Humble
+Roose Bolton,Vance Corbray
+Roose Bolton,Kegs
+Roose Bolton,Black Jack Bulwer
+Roose Bolton,Mully
+Grey Worm,Missandei
+Grey Worm,Eddison Tollett
+Grey Worm,Anya Waynwood
+Grey Worm,Gregor Clegane
+Grey Worm,Donnel Waynwood
+Grey Worm,Cersei Lannister
+Grey Worm,Jon Snow
+Grey Worm,Petyr 'Littlefinger' Baelish
+Grey Worm,Samwell Tarly
+Grey Worm,Ygritte
+Grey Worm,Tormund Giantsbane
+Grey Worm,Gilly
+Grey Worm,Lord Varys
+Grey Worm,Barristan Selmy
+Grey Worm,Grand Maester Pycelle
+Grey Worm,Mace Tyrell
+Grey Worm,Styr
+Grey Worm,Grenn
+Grey Worm,Pypar
+Grey Worm,Yohn Royce
+Grey Worm,Ralf Kenning
+Grey Worm,Robin Arryn
+Grey Worm,Adrack Humble
+Grey Worm,Vance Corbray
+Grey Worm,Kegs
+Grey Worm,Black Jack Bulwer
+Grey Worm,Mully
+Missandei,Eddison Tollett
+Missandei,Anya Waynwood
+Missandei,Gregor Clegane
+Missandei,Donnel Waynwood
+Missandei,Cersei Lannister
+Missandei,Jon Snow
+Missandei,Petyr 'Littlefinger' Baelish
+Missandei,Samwell Tarly
+Missandei,Ygritte
+Missandei,Tormund Giantsbane
+Missandei,Gilly
+Missandei,Lord Varys
+Missandei,Barristan Selmy
+Missandei,Grand Maester Pycelle
+Missandei,Mace Tyrell
+Missandei,Styr
+Missandei,Grenn
+Missandei,Pypar
+Missandei,Yohn Royce
+Missandei,Ralf Kenning
+Missandei,Robin Arryn
+Missandei,Adrack Humble
+Missandei,Vance Corbray
+Missandei,Kegs
+Missandei,Black Jack Bulwer
+Missandei,Mully
+Eddison Tollett,Anya Waynwood
+Eddison Tollett,Gregor Clegane
+Eddison Tollett,Donnel Waynwood
+Eddison Tollett,Cersei Lannister
+Eddison Tollett,Jon Snow
+Eddison Tollett,Petyr 'Littlefinger' Baelish
+Eddison Tollett,Samwell Tarly
+Eddison Tollett,Ygritte
+Eddison Tollett,Tormund Giantsbane
+Eddison Tollett,Gilly
+Eddison Tollett,Lord Varys
+Eddison Tollett,Barristan Selmy
+Eddison Tollett,Grand Maester Pycelle
+Eddison Tollett,Mace Tyrell
+Eddison Tollett,Styr
+Eddison Tollett,Grenn
+Eddison Tollett,Pypar
+Eddison Tollett,Yohn Royce
+Eddison Tollett,Ralf Kenning
+Eddison Tollett,Robin Arryn
+Eddison Tollett,Adrack Humble
+Eddison Tollett,Vance Corbray
+Eddison Tollett,Kegs
+Eddison Tollett,Black Jack Bulwer
+Eddison Tollett,Mully
+Anya Waynwood,Gregor Clegane
+Anya Waynwood,Donnel Waynwood
+Anya Waynwood,Cersei Lannister
+Anya Waynwood,Jon Snow
+Anya Waynwood,Petyr 'Littlefinger' Baelish
+Anya Waynwood,Samwell Tarly
+Anya Waynwood,Ygritte
+Anya Waynwood,Tormund Giantsbane
+Anya Waynwood,Gilly
+Anya Waynwood,Lord Varys
+Anya Waynwood,Barristan Selmy
+Anya Waynwood,Grand Maester Pycelle
+Anya Waynwood,Mace Tyrell
+Anya Waynwood,Styr
+Anya Waynwood,Grenn
+Anya Waynwood,Pypar
+Anya Waynwood,Yohn Royce
+Anya Waynwood,Ralf Kenning
+Anya Waynwood,Robin Arryn
+Anya Waynwood,Adrack Humble
+Anya Waynwood,Vance Corbray
+Anya Waynwood,Kegs
+Anya Waynwood,Black Jack Bulwer
+Anya Waynwood,Mully
+Gregor Clegane,Donnel Waynwood
+Gregor Clegane,Cersei Lannister
+Gregor Clegane,Jon Snow
+Gregor Clegane,Petyr 'Littlefinger' Baelish
+Gregor Clegane,Samwell Tarly
+Gregor Clegane,Ygritte
+Gregor Clegane,Tormund Giantsbane
+Gregor Clegane,Gilly
+Gregor Clegane,Lord Varys
+Gregor Clegane,Barristan Selmy
+Gregor Clegane,Grand Maester Pycelle
+Gregor Clegane,Mace Tyrell
+Gregor Clegane,Styr
+Gregor Clegane,Grenn
+Gregor Clegane,Pypar
+Gregor Clegane,Yohn Royce
+Gregor Clegane,Ralf Kenning
+Gregor Clegane,Robin Arryn
+Gregor Clegane,Adrack Humble
+Gregor Clegane,Vance Corbray
+Gregor Clegane,Kegs
+Gregor Clegane,Black Jack Bulwer
+Gregor Clegane,Mully
+Donnel Waynwood,Cersei Lannister
+Donnel Waynwood,Jon Snow
+Donnel Waynwood,Petyr 'Littlefinger' Baelish
+Donnel Waynwood,Samwell Tarly
+Donnel Waynwood,Ygritte
+Donnel Waynwood,Tormund Giantsbane
+Donnel Waynwood,Gilly
+Donnel Waynwood,Lord Varys
+Donnel Waynwood,Barristan Selmy
+Donnel Waynwood,Grand Maester Pycelle
+Donnel Waynwood,Mace Tyrell
+Donnel Waynwood,Styr
+Donnel Waynwood,Grenn
+Donnel Waynwood,Pypar
+Donnel Waynwood,Yohn Royce
+Donnel Waynwood,Ralf Kenning
+Donnel Waynwood,Robin Arryn
+Donnel Waynwood,Adrack Humble
+Donnel Waynwood,Vance Corbray
+Donnel Waynwood,Kegs
+Donnel Waynwood,Black Jack Bulwer
+Donnel Waynwood,Mully
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Ygritte
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Gilly
+Cersei Lannister,Lord Varys
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Mace Tyrell
+Cersei Lannister,Styr
+Cersei Lannister,Grenn
+Cersei Lannister,Pypar
+Cersei Lannister,Yohn Royce
+Cersei Lannister,Ralf Kenning
+Cersei Lannister,Robin Arryn
+Cersei Lannister,Adrack Humble
+Cersei Lannister,Vance Corbray
+Cersei Lannister,Kegs
+Cersei Lannister,Black Jack Bulwer
+Cersei Lannister,Mully
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Samwell Tarly
+Jon Snow,Ygritte
+Jon Snow,Tormund Giantsbane
+Jon Snow,Gilly
+Jon Snow,Lord Varys
+Jon Snow,Barristan Selmy
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Mace Tyrell
+Jon Snow,Styr
+Jon Snow,Grenn
+Jon Snow,Pypar
+Jon Snow,Yohn Royce
+Jon Snow,Ralf Kenning
+Jon Snow,Robin Arryn
+Jon Snow,Adrack Humble
+Jon Snow,Vance Corbray
+Jon Snow,Kegs
+Jon Snow,Black Jack Bulwer
+Jon Snow,Mully
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Ygritte
+Petyr 'Littlefinger' Baelish,Tormund Giantsbane
+Petyr 'Littlefinger' Baelish,Gilly
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Barristan Selmy
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Mace Tyrell
+Petyr 'Littlefinger' Baelish,Styr
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Pypar
+Petyr 'Littlefinger' Baelish,Yohn Royce
+Petyr 'Littlefinger' Baelish,Ralf Kenning
+Petyr 'Littlefinger' Baelish,Robin Arryn
+Petyr 'Littlefinger' Baelish,Adrack Humble
+Petyr 'Littlefinger' Baelish,Vance Corbray
+Petyr 'Littlefinger' Baelish,Kegs
+Petyr 'Littlefinger' Baelish,Black Jack Bulwer
+Petyr 'Littlefinger' Baelish,Mully
+Samwell Tarly,Ygritte
+Samwell Tarly,Tormund Giantsbane
+Samwell Tarly,Gilly
+Samwell Tarly,Lord Varys
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Mace Tyrell
+Samwell Tarly,Styr
+Samwell Tarly,Grenn
+Samwell Tarly,Pypar
+Samwell Tarly,Yohn Royce
+Samwell Tarly,Ralf Kenning
+Samwell Tarly,Robin Arryn
+Samwell Tarly,Adrack Humble
+Samwell Tarly,Vance Corbray
+Samwell Tarly,Kegs
+Samwell Tarly,Black Jack Bulwer
+Samwell Tarly,Mully
+Ygritte,Tormund Giantsbane
+Ygritte,Gilly
+Ygritte,Lord Varys
+Ygritte,Barristan Selmy
+Ygritte,Grand Maester Pycelle
+Ygritte,Mace Tyrell
+Ygritte,Styr
+Ygritte,Grenn
+Ygritte,Pypar
+Ygritte,Yohn Royce
+Ygritte,Ralf Kenning
+Ygritte,Robin Arryn
+Ygritte,Adrack Humble
+Ygritte,Vance Corbray
+Ygritte,Kegs
+Ygritte,Black Jack Bulwer
+Ygritte,Mully
+Tormund Giantsbane,Gilly
+Tormund Giantsbane,Lord Varys
+Tormund Giantsbane,Barristan Selmy
+Tormund Giantsbane,Grand Maester Pycelle
+Tormund Giantsbane,Mace Tyrell
+Tormund Giantsbane,Styr
+Tormund Giantsbane,Grenn
+Tormund Giantsbane,Pypar
+Tormund Giantsbane,Yohn Royce
+Tormund Giantsbane,Ralf Kenning
+Tormund Giantsbane,Robin Arryn
+Tormund Giantsbane,Adrack Humble
+Tormund Giantsbane,Vance Corbray
+Tormund Giantsbane,Kegs
+Tormund Giantsbane,Black Jack Bulwer
+Tormund Giantsbane,Mully
+Gilly,Lord Varys
+Gilly,Barristan Selmy
+Gilly,Grand Maester Pycelle
+Gilly,Mace Tyrell
+Gilly,Styr
+Gilly,Grenn
+Gilly,Pypar
+Gilly,Yohn Royce
+Gilly,Ralf Kenning
+Gilly,Robin Arryn
+Gilly,Adrack Humble
+Gilly,Vance Corbray
+Gilly,Kegs
+Gilly,Black Jack Bulwer
+Gilly,Mully
+Lord Varys,Barristan Selmy
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Mace Tyrell
+Lord Varys,Styr
+Lord Varys,Grenn
+Lord Varys,Pypar
+Lord Varys,Yohn Royce
+Lord Varys,Ralf Kenning
+Lord Varys,Robin Arryn
+Lord Varys,Adrack Humble
+Lord Varys,Vance Corbray
+Lord Varys,Kegs
+Lord Varys,Black Jack Bulwer
+Lord Varys,Mully
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Mace Tyrell
+Barristan Selmy,Styr
+Barristan Selmy,Grenn
+Barristan Selmy,Pypar
+Barristan Selmy,Yohn Royce
+Barristan Selmy,Ralf Kenning
+Barristan Selmy,Robin Arryn
+Barristan Selmy,Adrack Humble
+Barristan Selmy,Vance Corbray
+Barristan Selmy,Kegs
+Barristan Selmy,Black Jack Bulwer
+Barristan Selmy,Mully
+Grand Maester Pycelle,Mace Tyrell
+Grand Maester Pycelle,Styr
+Grand Maester Pycelle,Grenn
+Grand Maester Pycelle,Pypar
+Grand Maester Pycelle,Yohn Royce
+Grand Maester Pycelle,Ralf Kenning
+Grand Maester Pycelle,Robin Arryn
+Grand Maester Pycelle,Adrack Humble
+Grand Maester Pycelle,Vance Corbray
+Grand Maester Pycelle,Kegs
+Grand Maester Pycelle,Black Jack Bulwer
+Grand Maester Pycelle,Mully
+Mace Tyrell,Styr
+Mace Tyrell,Grenn
+Mace Tyrell,Pypar
+Mace Tyrell,Yohn Royce
+Mace Tyrell,Ralf Kenning
+Mace Tyrell,Robin Arryn
+Mace Tyrell,Adrack Humble
+Mace Tyrell,Vance Corbray
+Mace Tyrell,Kegs
+Mace Tyrell,Black Jack Bulwer
+Mace Tyrell,Mully
+Styr,Grenn
+Styr,Pypar
+Styr,Yohn Royce
+Styr,Ralf Kenning
+Styr,Robin Arryn
+Styr,Adrack Humble
+Styr,Vance Corbray
+Styr,Kegs
+Styr,Black Jack Bulwer
+Styr,Mully
+Grenn,Pypar
+Grenn,Yohn Royce
+Grenn,Ralf Kenning
+Grenn,Robin Arryn
+Grenn,Adrack Humble
+Grenn,Vance Corbray
+Grenn,Kegs
+Grenn,Black Jack Bulwer
+Grenn,Mully
+Pypar,Yohn Royce
+Pypar,Ralf Kenning
+Pypar,Robin Arryn
+Pypar,Adrack Humble
+Pypar,Vance Corbray
+Pypar,Kegs
+Pypar,Black Jack Bulwer
+Pypar,Mully
+Yohn Royce,Ralf Kenning
+Yohn Royce,Robin Arryn
+Yohn Royce,Adrack Humble
+Yohn Royce,Vance Corbray
+Yohn Royce,Kegs
+Yohn Royce,Black Jack Bulwer
+Yohn Royce,Mully
+Ralf Kenning,Robin Arryn
+Ralf Kenning,Adrack Humble
+Ralf Kenning,Vance Corbray
+Ralf Kenning,Kegs
+Ralf Kenning,Black Jack Bulwer
+Ralf Kenning,Mully
+Robin Arryn,Adrack Humble
+Robin Arryn,Vance Corbray
+Robin Arryn,Kegs
+Robin Arryn,Black Jack Bulwer
+Robin Arryn,Mully
+Adrack Humble,Vance Corbray
+Adrack Humble,Kegs
+Adrack Humble,Black Jack Bulwer
+Adrack Humble,Mully
+Vance Corbray,Kegs
+Vance Corbray,Black Jack Bulwer
+Vance Corbray,Mully
+Kegs,Black Jack Bulwer
+Kegs,Mully
+Black Jack Bulwer,Mully

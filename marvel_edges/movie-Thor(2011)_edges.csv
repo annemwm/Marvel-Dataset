@@ -1,0 +1,277 @@
+NAME 1,NAME 2
+Thor,Jane Foster
+Thor,Loki
+Thor,Odin
+Thor,Erik Selvig
+Thor,Darcy Lewis
+Thor,Agent Phil Coulson
+Thor,King Laufey
+Thor,Heimdall
+Thor,Volstagg
+Thor,Hogun
+Thor,Fandral
+Thor,Sif
+Thor,Frigga
+Thor,Agent Jasper Sitwell
+Thor,Agent Jackson
+Thor,Agent Garrett
+Thor,Agent Cale
+Thor,Stan Lee
+Thor,Nick Fury
+Thor,Clint Barton / Hawkeye
+Thor,Isabela Alvarez
+Thor,Agent Delancey
+Thor,Pete
+Jane Foster,Loki
+Jane Foster,Odin
+Jane Foster,Erik Selvig
+Jane Foster,Darcy Lewis
+Jane Foster,Agent Phil Coulson
+Jane Foster,King Laufey
+Jane Foster,Heimdall
+Jane Foster,Volstagg
+Jane Foster,Hogun
+Jane Foster,Fandral
+Jane Foster,Sif
+Jane Foster,Frigga
+Jane Foster,Agent Jasper Sitwell
+Jane Foster,Agent Jackson
+Jane Foster,Agent Garrett
+Jane Foster,Agent Cale
+Jane Foster,Stan Lee
+Jane Foster,Nick Fury
+Jane Foster,Clint Barton / Hawkeye
+Jane Foster,Isabela Alvarez
+Jane Foster,Agent Delancey
+Jane Foster,Pete
+Loki,Odin
+Loki,Erik Selvig
+Loki,Darcy Lewis
+Loki,Agent Phil Coulson
+Loki,King Laufey
+Loki,Heimdall
+Loki,Volstagg
+Loki,Hogun
+Loki,Fandral
+Loki,Sif
+Loki,Frigga
+Loki,Agent Jasper Sitwell
+Loki,Agent Jackson
+Loki,Agent Garrett
+Loki,Agent Cale
+Loki,Stan Lee
+Loki,Nick Fury
+Loki,Clint Barton / Hawkeye
+Loki,Isabela Alvarez
+Loki,Agent Delancey
+Loki,Pete
+Odin,Erik Selvig
+Odin,Darcy Lewis
+Odin,Agent Phil Coulson
+Odin,King Laufey
+Odin,Heimdall
+Odin,Volstagg
+Odin,Hogun
+Odin,Fandral
+Odin,Sif
+Odin,Frigga
+Odin,Agent Jasper Sitwell
+Odin,Agent Jackson
+Odin,Agent Garrett
+Odin,Agent Cale
+Odin,Stan Lee
+Odin,Nick Fury
+Odin,Clint Barton / Hawkeye
+Odin,Isabela Alvarez
+Odin,Agent Delancey
+Odin,Pete
+Erik Selvig,Darcy Lewis
+Erik Selvig,Agent Phil Coulson
+Erik Selvig,King Laufey
+Erik Selvig,Heimdall
+Erik Selvig,Volstagg
+Erik Selvig,Hogun
+Erik Selvig,Fandral
+Erik Selvig,Sif
+Erik Selvig,Frigga
+Erik Selvig,Agent Jasper Sitwell
+Erik Selvig,Agent Jackson
+Erik Selvig,Agent Garrett
+Erik Selvig,Agent Cale
+Erik Selvig,Stan Lee
+Erik Selvig,Nick Fury
+Erik Selvig,Clint Barton / Hawkeye
+Erik Selvig,Isabela Alvarez
+Erik Selvig,Agent Delancey
+Erik Selvig,Pete
+Darcy Lewis,Agent Phil Coulson
+Darcy Lewis,King Laufey
+Darcy Lewis,Heimdall
+Darcy Lewis,Volstagg
+Darcy Lewis,Hogun
+Darcy Lewis,Fandral
+Darcy Lewis,Sif
+Darcy Lewis,Frigga
+Darcy Lewis,Agent Jasper Sitwell
+Darcy Lewis,Agent Jackson
+Darcy Lewis,Agent Garrett
+Darcy Lewis,Agent Cale
+Darcy Lewis,Stan Lee
+Darcy Lewis,Nick Fury
+Darcy Lewis,Clint Barton / Hawkeye
+Darcy Lewis,Isabela Alvarez
+Darcy Lewis,Agent Delancey
+Darcy Lewis,Pete
+Agent Phil Coulson,King Laufey
+Agent Phil Coulson,Heimdall
+Agent Phil Coulson,Volstagg
+Agent Phil Coulson,Hogun
+Agent Phil Coulson,Fandral
+Agent Phil Coulson,Sif
+Agent Phil Coulson,Frigga
+Agent Phil Coulson,Agent Jasper Sitwell
+Agent Phil Coulson,Agent Jackson
+Agent Phil Coulson,Agent Garrett
+Agent Phil Coulson,Agent Cale
+Agent Phil Coulson,Stan Lee
+Agent Phil Coulson,Nick Fury
+Agent Phil Coulson,Clint Barton / Hawkeye
+Agent Phil Coulson,Isabela Alvarez
+Agent Phil Coulson,Agent Delancey
+Agent Phil Coulson,Pete
+King Laufey,Heimdall
+King Laufey,Volstagg
+King Laufey,Hogun
+King Laufey,Fandral
+King Laufey,Sif
+King Laufey,Frigga
+King Laufey,Agent Jasper Sitwell
+King Laufey,Agent Jackson
+King Laufey,Agent Garrett
+King Laufey,Agent Cale
+King Laufey,Stan Lee
+King Laufey,Nick Fury
+King Laufey,Clint Barton / Hawkeye
+King Laufey,Isabela Alvarez
+King Laufey,Agent Delancey
+King Laufey,Pete
+Heimdall,Volstagg
+Heimdall,Hogun
+Heimdall,Fandral
+Heimdall,Sif
+Heimdall,Frigga
+Heimdall,Agent Jasper Sitwell
+Heimdall,Agent Jackson
+Heimdall,Agent Garrett
+Heimdall,Agent Cale
+Heimdall,Stan Lee
+Heimdall,Nick Fury
+Heimdall,Clint Barton / Hawkeye
+Heimdall,Isabela Alvarez
+Heimdall,Agent Delancey
+Heimdall,Pete
+Volstagg,Hogun
+Volstagg,Fandral
+Volstagg,Sif
+Volstagg,Frigga
+Volstagg,Agent Jasper Sitwell
+Volstagg,Agent Jackson
+Volstagg,Agent Garrett
+Volstagg,Agent Cale
+Volstagg,Stan Lee
+Volstagg,Nick Fury
+Volstagg,Clint Barton / Hawkeye
+Volstagg,Isabela Alvarez
+Volstagg,Agent Delancey
+Volstagg,Pete
+Hogun,Fandral
+Hogun,Sif
+Hogun,Frigga
+Hogun,Agent Jasper Sitwell
+Hogun,Agent Jackson
+Hogun,Agent Garrett
+Hogun,Agent Cale
+Hogun,Stan Lee
+Hogun,Nick Fury
+Hogun,Clint Barton / Hawkeye
+Hogun,Isabela Alvarez
+Hogun,Agent Delancey
+Hogun,Pete
+Fandral,Sif
+Fandral,Frigga
+Fandral,Agent Jasper Sitwell
+Fandral,Agent Jackson
+Fandral,Agent Garrett
+Fandral,Agent Cale
+Fandral,Stan Lee
+Fandral,Nick Fury
+Fandral,Clint Barton / Hawkeye
+Fandral,Isabela Alvarez
+Fandral,Agent Delancey
+Fandral,Pete
+Sif,Frigga
+Sif,Agent Jasper Sitwell
+Sif,Agent Jackson
+Sif,Agent Garrett
+Sif,Agent Cale
+Sif,Stan Lee
+Sif,Nick Fury
+Sif,Clint Barton / Hawkeye
+Sif,Isabela Alvarez
+Sif,Agent Delancey
+Sif,Pete
+Frigga,Agent Jasper Sitwell
+Frigga,Agent Jackson
+Frigga,Agent Garrett
+Frigga,Agent Cale
+Frigga,Stan Lee
+Frigga,Nick Fury
+Frigga,Clint Barton / Hawkeye
+Frigga,Isabela Alvarez
+Frigga,Agent Delancey
+Frigga,Pete
+Agent Jasper Sitwell,Agent Jackson
+Agent Jasper Sitwell,Agent Garrett
+Agent Jasper Sitwell,Agent Cale
+Agent Jasper Sitwell,Stan Lee
+Agent Jasper Sitwell,Nick Fury
+Agent Jasper Sitwell,Clint Barton / Hawkeye
+Agent Jasper Sitwell,Isabela Alvarez
+Agent Jasper Sitwell,Agent Delancey
+Agent Jasper Sitwell,Pete
+Agent Jackson,Agent Garrett
+Agent Jackson,Agent Cale
+Agent Jackson,Stan Lee
+Agent Jackson,Nick Fury
+Agent Jackson,Clint Barton / Hawkeye
+Agent Jackson,Isabela Alvarez
+Agent Jackson,Agent Delancey
+Agent Jackson,Pete
+Agent Garrett,Agent Cale
+Agent Garrett,Stan Lee
+Agent Garrett,Nick Fury
+Agent Garrett,Clint Barton / Hawkeye
+Agent Garrett,Isabela Alvarez
+Agent Garrett,Agent Delancey
+Agent Garrett,Pete
+Agent Cale,Stan Lee
+Agent Cale,Nick Fury
+Agent Cale,Clint Barton / Hawkeye
+Agent Cale,Isabela Alvarez
+Agent Cale,Agent Delancey
+Agent Cale,Pete
+Stan Lee,Nick Fury
+Stan Lee,Clint Barton / Hawkeye
+Stan Lee,Isabela Alvarez
+Stan Lee,Agent Delancey
+Stan Lee,Pete
+Nick Fury,Clint Barton / Hawkeye
+Nick Fury,Isabela Alvarez
+Nick Fury,Agent Delancey
+Nick Fury,Pete
+Clint Barton / Hawkeye,Isabela Alvarez
+Clint Barton / Hawkeye,Agent Delancey
+Clint Barton / Hawkeye,Pete
+Isabela Alvarez,Agent Delancey
+Isabela Alvarez,Pete
+Agent Delancey,Pete

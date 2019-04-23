@@ -1,0 +1,562 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Missandei
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Bronn
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Euron Greyjoy
+Tyrion Lannister,Yara Greyjoy
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Tycho Nestoris
+Tyrion Lannister,Tyene Sand
+Tyrion Lannister,Meera Reed
+Tyrion Lannister,Gregor Clegane
+Tyrion Lannister,Randyll Tarly
+Tyrion Lannister,Dickon Tarly
+Tyrion Lannister,Harrag
+Tyrion Lannister,Qhono
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Archmaester Ebrose
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Yohn Royce
+Tyrion Lannister,Maester Wolkan
+Tyrion Lannister,Bernadette
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Melisandre
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Missandei
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Bran Stark
+Jaime Lannister,Lord Varys
+Jaime Lannister,Bronn
+Jaime Lannister,Olenna Tyrell
+Jaime Lannister,Euron Greyjoy
+Jaime Lannister,Yara Greyjoy
+Jaime Lannister,Grey Worm
+Jaime Lannister,Tycho Nestoris
+Jaime Lannister,Tyene Sand
+Jaime Lannister,Meera Reed
+Jaime Lannister,Gregor Clegane
+Jaime Lannister,Randyll Tarly
+Jaime Lannister,Dickon Tarly
+Jaime Lannister,Harrag
+Jaime Lannister,Qhono
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Archmaester Ebrose
+Jaime Lannister,Qyburn
+Jaime Lannister,Yohn Royce
+Jaime Lannister,Maester Wolkan
+Jaime Lannister,Bernadette
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Melisandre
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Missandei
+Cersei Lannister,Ellaria Sand
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Bran Stark
+Cersei Lannister,Lord Varys
+Cersei Lannister,Bronn
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Euron Greyjoy
+Cersei Lannister,Yara Greyjoy
+Cersei Lannister,Grey Worm
+Cersei Lannister,Tycho Nestoris
+Cersei Lannister,Tyene Sand
+Cersei Lannister,Meera Reed
+Cersei Lannister,Gregor Clegane
+Cersei Lannister,Randyll Tarly
+Cersei Lannister,Dickon Tarly
+Cersei Lannister,Harrag
+Cersei Lannister,Qhono
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Archmaester Ebrose
+Cersei Lannister,Qyburn
+Cersei Lannister,Yohn Royce
+Cersei Lannister,Maester Wolkan
+Cersei Lannister,Bernadette
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Ellaria Sand
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Olenna Tyrell
+Daenerys Targaryen,Euron Greyjoy
+Daenerys Targaryen,Yara Greyjoy
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Tycho Nestoris
+Daenerys Targaryen,Tyene Sand
+Daenerys Targaryen,Meera Reed
+Daenerys Targaryen,Gregor Clegane
+Daenerys Targaryen,Randyll Tarly
+Daenerys Targaryen,Dickon Tarly
+Daenerys Targaryen,Harrag
+Daenerys Targaryen,Qhono
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Archmaester Ebrose
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Yohn Royce
+Daenerys Targaryen,Maester Wolkan
+Daenerys Targaryen,Bernadette
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Davos Seaworth
+Jon Snow,Melisandre
+Jon Snow,Sansa Stark
+Jon Snow,Missandei
+Jon Snow,Ellaria Sand
+Jon Snow,Theon Greyjoy
+Jon Snow,Samwell Tarly
+Jon Snow,Bran Stark
+Jon Snow,Lord Varys
+Jon Snow,Bronn
+Jon Snow,Olenna Tyrell
+Jon Snow,Euron Greyjoy
+Jon Snow,Yara Greyjoy
+Jon Snow,Grey Worm
+Jon Snow,Tycho Nestoris
+Jon Snow,Tyene Sand
+Jon Snow,Meera Reed
+Jon Snow,Gregor Clegane
+Jon Snow,Randyll Tarly
+Jon Snow,Dickon Tarly
+Jon Snow,Harrag
+Jon Snow,Qhono
+Jon Snow,Jorah Mormont
+Jon Snow,Archmaester Ebrose
+Jon Snow,Qyburn
+Jon Snow,Yohn Royce
+Jon Snow,Maester Wolkan
+Jon Snow,Bernadette
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Missandei
+Petyr 'Littlefinger' Baelish,Ellaria Sand
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Bran Stark
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Olenna Tyrell
+Petyr 'Littlefinger' Baelish,Euron Greyjoy
+Petyr 'Littlefinger' Baelish,Yara Greyjoy
+Petyr 'Littlefinger' Baelish,Grey Worm
+Petyr 'Littlefinger' Baelish,Tycho Nestoris
+Petyr 'Littlefinger' Baelish,Tyene Sand
+Petyr 'Littlefinger' Baelish,Meera Reed
+Petyr 'Littlefinger' Baelish,Gregor Clegane
+Petyr 'Littlefinger' Baelish,Randyll Tarly
+Petyr 'Littlefinger' Baelish,Dickon Tarly
+Petyr 'Littlefinger' Baelish,Harrag
+Petyr 'Littlefinger' Baelish,Qhono
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Archmaester Ebrose
+Petyr 'Littlefinger' Baelish,Qyburn
+Petyr 'Littlefinger' Baelish,Yohn Royce
+Petyr 'Littlefinger' Baelish,Maester Wolkan
+Petyr 'Littlefinger' Baelish,Bernadette
+Davos Seaworth,Melisandre
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Missandei
+Davos Seaworth,Ellaria Sand
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Bran Stark
+Davos Seaworth,Lord Varys
+Davos Seaworth,Bronn
+Davos Seaworth,Olenna Tyrell
+Davos Seaworth,Euron Greyjoy
+Davos Seaworth,Yara Greyjoy
+Davos Seaworth,Grey Worm
+Davos Seaworth,Tycho Nestoris
+Davos Seaworth,Tyene Sand
+Davos Seaworth,Meera Reed
+Davos Seaworth,Gregor Clegane
+Davos Seaworth,Randyll Tarly
+Davos Seaworth,Dickon Tarly
+Davos Seaworth,Harrag
+Davos Seaworth,Qhono
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Archmaester Ebrose
+Davos Seaworth,Qyburn
+Davos Seaworth,Yohn Royce
+Davos Seaworth,Maester Wolkan
+Davos Seaworth,Bernadette
+Melisandre,Sansa Stark
+Melisandre,Missandei
+Melisandre,Ellaria Sand
+Melisandre,Theon Greyjoy
+Melisandre,Samwell Tarly
+Melisandre,Bran Stark
+Melisandre,Lord Varys
+Melisandre,Bronn
+Melisandre,Olenna Tyrell
+Melisandre,Euron Greyjoy
+Melisandre,Yara Greyjoy
+Melisandre,Grey Worm
+Melisandre,Tycho Nestoris
+Melisandre,Tyene Sand
+Melisandre,Meera Reed
+Melisandre,Gregor Clegane
+Melisandre,Randyll Tarly
+Melisandre,Dickon Tarly
+Melisandre,Harrag
+Melisandre,Qhono
+Melisandre,Jorah Mormont
+Melisandre,Archmaester Ebrose
+Melisandre,Qyburn
+Melisandre,Yohn Royce
+Melisandre,Maester Wolkan
+Melisandre,Bernadette
+Sansa Stark,Missandei
+Sansa Stark,Ellaria Sand
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Samwell Tarly
+Sansa Stark,Bran Stark
+Sansa Stark,Lord Varys
+Sansa Stark,Bronn
+Sansa Stark,Olenna Tyrell
+Sansa Stark,Euron Greyjoy
+Sansa Stark,Yara Greyjoy
+Sansa Stark,Grey Worm
+Sansa Stark,Tycho Nestoris
+Sansa Stark,Tyene Sand
+Sansa Stark,Meera Reed
+Sansa Stark,Gregor Clegane
+Sansa Stark,Randyll Tarly
+Sansa Stark,Dickon Tarly
+Sansa Stark,Harrag
+Sansa Stark,Qhono
+Sansa Stark,Jorah Mormont
+Sansa Stark,Archmaester Ebrose
+Sansa Stark,Qyburn
+Sansa Stark,Yohn Royce
+Sansa Stark,Maester Wolkan
+Sansa Stark,Bernadette
+Missandei,Ellaria Sand
+Missandei,Theon Greyjoy
+Missandei,Samwell Tarly
+Missandei,Bran Stark
+Missandei,Lord Varys
+Missandei,Bronn
+Missandei,Olenna Tyrell
+Missandei,Euron Greyjoy
+Missandei,Yara Greyjoy
+Missandei,Grey Worm
+Missandei,Tycho Nestoris
+Missandei,Tyene Sand
+Missandei,Meera Reed
+Missandei,Gregor Clegane
+Missandei,Randyll Tarly
+Missandei,Dickon Tarly
+Missandei,Harrag
+Missandei,Qhono
+Missandei,Jorah Mormont
+Missandei,Archmaester Ebrose
+Missandei,Qyburn
+Missandei,Yohn Royce
+Missandei,Maester Wolkan
+Missandei,Bernadette
+Ellaria Sand,Theon Greyjoy
+Ellaria Sand,Samwell Tarly
+Ellaria Sand,Bran Stark
+Ellaria Sand,Lord Varys
+Ellaria Sand,Bronn
+Ellaria Sand,Olenna Tyrell
+Ellaria Sand,Euron Greyjoy
+Ellaria Sand,Yara Greyjoy
+Ellaria Sand,Grey Worm
+Ellaria Sand,Tycho Nestoris
+Ellaria Sand,Tyene Sand
+Ellaria Sand,Meera Reed
+Ellaria Sand,Gregor Clegane
+Ellaria Sand,Randyll Tarly
+Ellaria Sand,Dickon Tarly
+Ellaria Sand,Harrag
+Ellaria Sand,Qhono
+Ellaria Sand,Jorah Mormont
+Ellaria Sand,Archmaester Ebrose
+Ellaria Sand,Qyburn
+Ellaria Sand,Yohn Royce
+Ellaria Sand,Maester Wolkan
+Ellaria Sand,Bernadette
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Bronn
+Theon Greyjoy,Olenna Tyrell
+Theon Greyjoy,Euron Greyjoy
+Theon Greyjoy,Yara Greyjoy
+Theon Greyjoy,Grey Worm
+Theon Greyjoy,Tycho Nestoris
+Theon Greyjoy,Tyene Sand
+Theon Greyjoy,Meera Reed
+Theon Greyjoy,Gregor Clegane
+Theon Greyjoy,Randyll Tarly
+Theon Greyjoy,Dickon Tarly
+Theon Greyjoy,Harrag
+Theon Greyjoy,Qhono
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Archmaester Ebrose
+Theon Greyjoy,Qyburn
+Theon Greyjoy,Yohn Royce
+Theon Greyjoy,Maester Wolkan
+Theon Greyjoy,Bernadette
+Samwell Tarly,Bran Stark
+Samwell Tarly,Lord Varys
+Samwell Tarly,Bronn
+Samwell Tarly,Olenna Tyrell
+Samwell Tarly,Euron Greyjoy
+Samwell Tarly,Yara Greyjoy
+Samwell Tarly,Grey Worm
+Samwell Tarly,Tycho Nestoris
+Samwell Tarly,Tyene Sand
+Samwell Tarly,Meera Reed
+Samwell Tarly,Gregor Clegane
+Samwell Tarly,Randyll Tarly
+Samwell Tarly,Dickon Tarly
+Samwell Tarly,Harrag
+Samwell Tarly,Qhono
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Archmaester Ebrose
+Samwell Tarly,Qyburn
+Samwell Tarly,Yohn Royce
+Samwell Tarly,Maester Wolkan
+Samwell Tarly,Bernadette
+Bran Stark,Lord Varys
+Bran Stark,Bronn
+Bran Stark,Olenna Tyrell
+Bran Stark,Euron Greyjoy
+Bran Stark,Yara Greyjoy
+Bran Stark,Grey Worm
+Bran Stark,Tycho Nestoris
+Bran Stark,Tyene Sand
+Bran Stark,Meera Reed
+Bran Stark,Gregor Clegane
+Bran Stark,Randyll Tarly
+Bran Stark,Dickon Tarly
+Bran Stark,Harrag
+Bran Stark,Qhono
+Bran Stark,Jorah Mormont
+Bran Stark,Archmaester Ebrose
+Bran Stark,Qyburn
+Bran Stark,Yohn Royce
+Bran Stark,Maester Wolkan
+Bran Stark,Bernadette
+Lord Varys,Bronn
+Lord Varys,Olenna Tyrell
+Lord Varys,Euron Greyjoy
+Lord Varys,Yara Greyjoy
+Lord Varys,Grey Worm
+Lord Varys,Tycho Nestoris
+Lord Varys,Tyene Sand
+Lord Varys,Meera Reed
+Lord Varys,Gregor Clegane
+Lord Varys,Randyll Tarly
+Lord Varys,Dickon Tarly
+Lord Varys,Harrag
+Lord Varys,Qhono
+Lord Varys,Jorah Mormont
+Lord Varys,Archmaester Ebrose
+Lord Varys,Qyburn
+Lord Varys,Yohn Royce
+Lord Varys,Maester Wolkan
+Lord Varys,Bernadette
+Bronn,Olenna Tyrell
+Bronn,Euron Greyjoy
+Bronn,Yara Greyjoy
+Bronn,Grey Worm
+Bronn,Tycho Nestoris
+Bronn,Tyene Sand
+Bronn,Meera Reed
+Bronn,Gregor Clegane
+Bronn,Randyll Tarly
+Bronn,Dickon Tarly
+Bronn,Harrag
+Bronn,Qhono
+Bronn,Jorah Mormont
+Bronn,Archmaester Ebrose
+Bronn,Qyburn
+Bronn,Yohn Royce
+Bronn,Maester Wolkan
+Bronn,Bernadette
+Olenna Tyrell,Euron Greyjoy
+Olenna Tyrell,Yara Greyjoy
+Olenna Tyrell,Grey Worm
+Olenna Tyrell,Tycho Nestoris
+Olenna Tyrell,Tyene Sand
+Olenna Tyrell,Meera Reed
+Olenna Tyrell,Gregor Clegane
+Olenna Tyrell,Randyll Tarly
+Olenna Tyrell,Dickon Tarly
+Olenna Tyrell,Harrag
+Olenna Tyrell,Qhono
+Olenna Tyrell,Jorah Mormont
+Olenna Tyrell,Archmaester Ebrose
+Olenna Tyrell,Qyburn
+Olenna Tyrell,Yohn Royce
+Olenna Tyrell,Maester Wolkan
+Olenna Tyrell,Bernadette
+Euron Greyjoy,Yara Greyjoy
+Euron Greyjoy,Grey Worm
+Euron Greyjoy,Tycho Nestoris
+Euron Greyjoy,Tyene Sand
+Euron Greyjoy,Meera Reed
+Euron Greyjoy,Gregor Clegane
+Euron Greyjoy,Randyll Tarly
+Euron Greyjoy,Dickon Tarly
+Euron Greyjoy,Harrag
+Euron Greyjoy,Qhono
+Euron Greyjoy,Jorah Mormont
+Euron Greyjoy,Archmaester Ebrose
+Euron Greyjoy,Qyburn
+Euron Greyjoy,Yohn Royce
+Euron Greyjoy,Maester Wolkan
+Euron Greyjoy,Bernadette
+Yara Greyjoy,Grey Worm
+Yara Greyjoy,Tycho Nestoris
+Yara Greyjoy,Tyene Sand
+Yara Greyjoy,Meera Reed
+Yara Greyjoy,Gregor Clegane
+Yara Greyjoy,Randyll Tarly
+Yara Greyjoy,Dickon Tarly
+Yara Greyjoy,Harrag
+Yara Greyjoy,Qhono
+Yara Greyjoy,Jorah Mormont
+Yara Greyjoy,Archmaester Ebrose
+Yara Greyjoy,Qyburn
+Yara Greyjoy,Yohn Royce
+Yara Greyjoy,Maester Wolkan
+Yara Greyjoy,Bernadette
+Grey Worm,Tycho Nestoris
+Grey Worm,Tyene Sand
+Grey Worm,Meera Reed
+Grey Worm,Gregor Clegane
+Grey Worm,Randyll Tarly
+Grey Worm,Dickon Tarly
+Grey Worm,Harrag
+Grey Worm,Qhono
+Grey Worm,Jorah Mormont
+Grey Worm,Archmaester Ebrose
+Grey Worm,Qyburn
+Grey Worm,Yohn Royce
+Grey Worm,Maester Wolkan
+Grey Worm,Bernadette
+Tycho Nestoris,Tyene Sand
+Tycho Nestoris,Meera Reed
+Tycho Nestoris,Gregor Clegane
+Tycho Nestoris,Randyll Tarly
+Tycho Nestoris,Dickon Tarly
+Tycho Nestoris,Harrag
+Tycho Nestoris,Qhono
+Tycho Nestoris,Jorah Mormont
+Tycho Nestoris,Archmaester Ebrose
+Tycho Nestoris,Qyburn
+Tycho Nestoris,Yohn Royce
+Tycho Nestoris,Maester Wolkan
+Tycho Nestoris,Bernadette
+Tyene Sand,Meera Reed
+Tyene Sand,Gregor Clegane
+Tyene Sand,Randyll Tarly
+Tyene Sand,Dickon Tarly
+Tyene Sand,Harrag
+Tyene Sand,Qhono
+Tyene Sand,Jorah Mormont
+Tyene Sand,Archmaester Ebrose
+Tyene Sand,Qyburn
+Tyene Sand,Yohn Royce
+Tyene Sand,Maester Wolkan
+Tyene Sand,Bernadette
+Meera Reed,Gregor Clegane
+Meera Reed,Randyll Tarly
+Meera Reed,Dickon Tarly
+Meera Reed,Harrag
+Meera Reed,Qhono
+Meera Reed,Jorah Mormont
+Meera Reed,Archmaester Ebrose
+Meera Reed,Qyburn
+Meera Reed,Yohn Royce
+Meera Reed,Maester Wolkan
+Meera Reed,Bernadette
+Gregor Clegane,Randyll Tarly
+Gregor Clegane,Dickon Tarly
+Gregor Clegane,Harrag
+Gregor Clegane,Qhono
+Gregor Clegane,Jorah Mormont
+Gregor Clegane,Archmaester Ebrose
+Gregor Clegane,Qyburn
+Gregor Clegane,Yohn Royce
+Gregor Clegane,Maester Wolkan
+Gregor Clegane,Bernadette
+Randyll Tarly,Dickon Tarly
+Randyll Tarly,Harrag
+Randyll Tarly,Qhono
+Randyll Tarly,Jorah Mormont
+Randyll Tarly,Archmaester Ebrose
+Randyll Tarly,Qyburn
+Randyll Tarly,Yohn Royce
+Randyll Tarly,Maester Wolkan
+Randyll Tarly,Bernadette
+Dickon Tarly,Harrag
+Dickon Tarly,Qhono
+Dickon Tarly,Jorah Mormont
+Dickon Tarly,Archmaester Ebrose
+Dickon Tarly,Qyburn
+Dickon Tarly,Yohn Royce
+Dickon Tarly,Maester Wolkan
+Dickon Tarly,Bernadette
+Harrag,Qhono
+Harrag,Jorah Mormont
+Harrag,Archmaester Ebrose
+Harrag,Qyburn
+Harrag,Yohn Royce
+Harrag,Maester Wolkan
+Harrag,Bernadette
+Qhono,Jorah Mormont
+Qhono,Archmaester Ebrose
+Qhono,Qyburn
+Qhono,Yohn Royce
+Qhono,Maester Wolkan
+Qhono,Bernadette
+Jorah Mormont,Archmaester Ebrose
+Jorah Mormont,Qyburn
+Jorah Mormont,Yohn Royce
+Jorah Mormont,Maester Wolkan
+Jorah Mormont,Bernadette
+Archmaester Ebrose,Qyburn
+Archmaester Ebrose,Yohn Royce
+Archmaester Ebrose,Maester Wolkan
+Archmaester Ebrose,Bernadette
+Qyburn,Yohn Royce
+Qyburn,Maester Wolkan
+Qyburn,Bernadette
+Yohn Royce,Maester Wolkan
+Yohn Royce,Bernadette
+Maester Wolkan,Bernadette

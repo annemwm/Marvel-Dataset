@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Gilly
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Ramsay Bolton
+Tyrion Lannister,Bronn
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,High Sparrow
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Obara Sand
+Tyrion Lannister,Myrcella Baratheon
+Tyrion Lannister,Septa Unella
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Maester Aemon
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Areo Hotah
+Tyrion Lannister,Yezzan zo Qaggaz
+Tyrion Lannister,Tyene Sand
+Tyrion Lannister,Nymeria Sand
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Hizdahr zo Loraq
+Tyrion Lannister,Olly
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Malko
+Tyrion Lannister,Othell Yarwyck
+Tyrion Lannister,Bowen Marsh
+Tyrion Lannister,Derek
+Tyrion Lannister,Brant
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Melisandre
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Tormund Giantsbane
+Jaime Lannister,Gilly
+Jaime Lannister,Tommen Baratheon
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Ramsay Bolton
+Jaime Lannister,Bronn
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Olenna Tyrell
+Jaime Lannister,High Sparrow
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Obara Sand
+Jaime Lannister,Myrcella Baratheon
+Jaime Lannister,Septa Unella
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Maester Aemon
+Jaime Lannister,Alliser Thorne
+Jaime Lannister,Areo Hotah
+Jaime Lannister,Yezzan zo Qaggaz
+Jaime Lannister,Tyene Sand
+Jaime Lannister,Nymeria Sand
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Hizdahr zo Loraq
+Jaime Lannister,Olly
+Jaime Lannister,Lancel Lannister
+Jaime Lannister,Malko
+Jaime Lannister,Othell Yarwyck
+Jaime Lannister,Bowen Marsh
+Jaime Lannister,Derek
+Jaime Lannister,Brant
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Melisandre
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Gilly
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Ramsay Bolton
+Cersei Lannister,Bronn
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,High Sparrow
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Obara Sand
+Cersei Lannister,Myrcella Baratheon
+Cersei Lannister,Septa Unella
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Maester Aemon
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Areo Hotah
+Cersei Lannister,Yezzan zo Qaggaz
+Cersei Lannister,Tyene Sand
+Cersei Lannister,Nymeria Sand
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Hizdahr zo Loraq
+Cersei Lannister,Olly
+Cersei Lannister,Lancel Lannister
+Cersei Lannister,Malko
+Cersei Lannister,Othell Yarwyck
+Cersei Lannister,Bowen Marsh
+Cersei Lannister,Derek
+Cersei Lannister,Brant
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Tommen Baratheon
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Ramsay Bolton
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Olenna Tyrell
+Daenerys Targaryen,High Sparrow
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Obara Sand
+Daenerys Targaryen,Myrcella Baratheon
+Daenerys Targaryen,Septa Unella
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Areo Hotah
+Daenerys Targaryen,Yezzan zo Qaggaz
+Daenerys Targaryen,Tyene Sand
+Daenerys Targaryen,Nymeria Sand
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Hizdahr zo Loraq
+Daenerys Targaryen,Olly
+Daenerys Targaryen,Lancel Lannister
+Daenerys Targaryen,Malko
+Daenerys Targaryen,Othell Yarwyck
+Daenerys Targaryen,Bowen Marsh
+Daenerys Targaryen,Derek
+Daenerys Targaryen,Brant
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Stannis Baratheon
+Jon Snow,Davos Seaworth
+Jon Snow,Melisandre
+Jon Snow,Samwell Tarly
+Jon Snow,Tormund Giantsbane
+Jon Snow,Gilly
+Jon Snow,Tommen Baratheon
+Jon Snow,Sansa Stark
+Jon Snow,Ramsay Bolton
+Jon Snow,Bronn
+Jon Snow,Daario Naharis
+Jon Snow,Jorah Mormont
+Jon Snow,Olenna Tyrell
+Jon Snow,High Sparrow
+Jon Snow,Eddison Tollett
+Jon Snow,Obara Sand
+Jon Snow,Myrcella Baratheon
+Jon Snow,Septa Unella
+Jon Snow,Margaery Tyrell
+Jon Snow,Theon Greyjoy
+Jon Snow,Brienne of Tarth
+Jon Snow,Maester Aemon
+Jon Snow,Alliser Thorne
+Jon Snow,Areo Hotah
+Jon Snow,Yezzan zo Qaggaz
+Jon Snow,Tyene Sand
+Jon Snow,Nymeria Sand
+Jon Snow,Podrick Payne
+Jon Snow,Hizdahr zo Loraq
+Jon Snow,Olly
+Jon Snow,Lancel Lannister
+Jon Snow,Malko
+Jon Snow,Othell Yarwyck
+Jon Snow,Bowen Marsh
+Jon Snow,Derek
+Jon Snow,Brant
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Tormund Giantsbane
+Petyr 'Littlefinger' Baelish,Gilly
+Petyr 'Littlefinger' Baelish,Tommen Baratheon
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Ramsay Bolton
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Daario Naharis
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Olenna Tyrell
+Petyr 'Littlefinger' Baelish,High Sparrow
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Obara Sand
+Petyr 'Littlefinger' Baelish,Myrcella Baratheon
+Petyr 'Littlefinger' Baelish,Septa Unella
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Maester Aemon
+Petyr 'Littlefinger' Baelish,Alliser Thorne
+Petyr 'Littlefinger' Baelish,Areo Hotah
+Petyr 'Littlefinger' Baelish,Yezzan zo Qaggaz
+Petyr 'Littlefinger' Baelish,Tyene Sand
+Petyr 'Littlefinger' Baelish,Nymeria Sand
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Hizdahr zo Loraq
+Petyr 'Littlefinger' Baelish,Olly
+Petyr 'Littlefinger' Baelish,Lancel Lannister
+Petyr 'Littlefinger' Baelish,Malko
+Petyr 'Littlefinger' Baelish,Othell Yarwyck
+Petyr 'Littlefinger' Baelish,Bowen Marsh
+Petyr 'Littlefinger' Baelish,Derek
+Petyr 'Littlefinger' Baelish,Brant
+Stannis Baratheon,Davos Seaworth
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Tormund Giantsbane
+Stannis Baratheon,Gilly
+Stannis Baratheon,Tommen Baratheon
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Ramsay Bolton
+Stannis Baratheon,Bronn
+Stannis Baratheon,Daario Naharis
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,Olenna Tyrell
+Stannis Baratheon,High Sparrow
+Stannis Baratheon,Eddison Tollett
+Stannis Baratheon,Obara Sand
+Stannis Baratheon,Myrcella Baratheon
+Stannis Baratheon,Septa Unella
+Stannis Baratheon,Margaery Tyrell
+Stannis Baratheon,Theon Greyjoy
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Maester Aemon
+Stannis Baratheon,Alliser Thorne
+Stannis Baratheon,Areo Hotah
+Stannis Baratheon,Yezzan zo Qaggaz
+Stannis Baratheon,Tyene Sand
+Stannis Baratheon,Nymeria Sand
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Hizdahr zo Loraq
+Stannis Baratheon,Olly
+Stannis Baratheon,Lancel Lannister
+Stannis Baratheon,Malko
+Stannis Baratheon,Othell Yarwyck
+Stannis Baratheon,Bowen Marsh
+Stannis Baratheon,Derek
+Stannis Baratheon,Brant
+Davos Seaworth,Melisandre
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Tormund Giantsbane
+Davos Seaworth,Gilly
+Davos Seaworth,Tommen Baratheon
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Ramsay Bolton
+Davos Seaworth,Bronn
+Davos Seaworth,Daario Naharis
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Olenna Tyrell
+Davos Seaworth,High Sparrow
+Davos Seaworth,Eddison Tollett
+Davos Seaworth,Obara Sand
+Davos Seaworth,Myrcella Baratheon
+Davos Seaworth,Septa Unella
+Davos Seaworth,Margaery Tyrell
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Maester Aemon
+Davos Seaworth,Alliser Thorne
+Davos Seaworth,Areo Hotah
+Davos Seaworth,Yezzan zo Qaggaz
+Davos Seaworth,Tyene Sand
+Davos Seaworth,Nymeria Sand
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Hizdahr zo Loraq
+Davos Seaworth,Olly
+Davos Seaworth,Lancel Lannister
+Davos Seaworth,Malko
+Davos Seaworth,Othell Yarwyck
+Davos Seaworth,Bowen Marsh
+Davos Seaworth,Derek
+Davos Seaworth,Brant
+Melisandre,Samwell Tarly
+Melisandre,Tormund Giantsbane
+Melisandre,Gilly
+Melisandre,Tommen Baratheon
+Melisandre,Sansa Stark
+Melisandre,Ramsay Bolton
+Melisandre,Bronn
+Melisandre,Daario Naharis
+Melisandre,Jorah Mormont
+Melisandre,Olenna Tyrell
+Melisandre,High Sparrow
+Melisandre,Eddison Tollett
+Melisandre,Obara Sand
+Melisandre,Myrcella Baratheon
+Melisandre,Septa Unella
+Melisandre,Margaery Tyrell
+Melisandre,Theon Greyjoy
+Melisandre,Brienne of Tarth
+Melisandre,Maester Aemon
+Melisandre,Alliser Thorne
+Melisandre,Areo Hotah
+Melisandre,Yezzan zo Qaggaz
+Melisandre,Tyene Sand
+Melisandre,Nymeria Sand
+Melisandre,Podrick Payne
+Melisandre,Hizdahr zo Loraq
+Melisandre,Olly
+Melisandre,Lancel Lannister
+Melisandre,Malko
+Melisandre,Othell Yarwyck
+Melisandre,Bowen Marsh
+Melisandre,Derek
+Melisandre,Brant
+Samwell Tarly,Tormund Giantsbane
+Samwell Tarly,Gilly
+Samwell Tarly,Tommen Baratheon
+Samwell Tarly,Sansa Stark
+Samwell Tarly,Ramsay Bolton
+Samwell Tarly,Bronn
+Samwell Tarly,Daario Naharis
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Olenna Tyrell
+Samwell Tarly,High Sparrow
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Obara Sand
+Samwell Tarly,Myrcella Baratheon
+Samwell Tarly,Septa Unella
+Samwell Tarly,Margaery Tyrell
+Samwell Tarly,Theon Greyjoy
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Areo Hotah
+Samwell Tarly,Yezzan zo Qaggaz
+Samwell Tarly,Tyene Sand
+Samwell Tarly,Nymeria Sand
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Hizdahr zo Loraq
+Samwell Tarly,Olly
+Samwell Tarly,Lancel Lannister
+Samwell Tarly,Malko
+Samwell Tarly,Othell Yarwyck
+Samwell Tarly,Bowen Marsh
+Samwell Tarly,Derek
+Samwell Tarly,Brant
+Tormund Giantsbane,Gilly
+Tormund Giantsbane,Tommen Baratheon
+Tormund Giantsbane,Sansa Stark
+Tormund Giantsbane,Ramsay Bolton
+Tormund Giantsbane,Bronn
+Tormund Giantsbane,Daario Naharis
+Tormund Giantsbane,Jorah Mormont
+Tormund Giantsbane,Olenna Tyrell
+Tormund Giantsbane,High Sparrow
+Tormund Giantsbane,Eddison Tollett
+Tormund Giantsbane,Obara Sand
+Tormund Giantsbane,Myrcella Baratheon
+Tormund Giantsbane,Septa Unella
+Tormund Giantsbane,Margaery Tyrell
+Tormund Giantsbane,Theon Greyjoy
+Tormund Giantsbane,Brienne of Tarth
+Tormund Giantsbane,Maester Aemon
+Tormund Giantsbane,Alliser Thorne
+Tormund Giantsbane,Areo Hotah
+Tormund Giantsbane,Yezzan zo Qaggaz
+Tormund Giantsbane,Tyene Sand
+Tormund Giantsbane,Nymeria Sand
+Tormund Giantsbane,Podrick Payne
+Tormund Giantsbane,Hizdahr zo Loraq
+Tormund Giantsbane,Olly
+Tormund Giantsbane,Lancel Lannister
+Tormund Giantsbane,Malko
+Tormund Giantsbane,Othell Yarwyck
+Tormund Giantsbane,Bowen Marsh
+Tormund Giantsbane,Derek
+Tormund Giantsbane,Brant
+Gilly,Tommen Baratheon
+Gilly,Sansa Stark
+Gilly,Ramsay Bolton
+Gilly,Bronn
+Gilly,Daario Naharis
+Gilly,Jorah Mormont
+Gilly,Olenna Tyrell
+Gilly,High Sparrow
+Gilly,Eddison Tollett
+Gilly,Obara Sand
+Gilly,Myrcella Baratheon
+Gilly,Septa Unella
+Gilly,Margaery Tyrell
+Gilly,Theon Greyjoy
+Gilly,Brienne of Tarth
+Gilly,Maester Aemon
+Gilly,Alliser Thorne
+Gilly,Areo Hotah
+Gilly,Yezzan zo Qaggaz
+Gilly,Tyene Sand
+Gilly,Nymeria Sand
+Gilly,Podrick Payne
+Gilly,Hizdahr zo Loraq
+Gilly,Olly
+Gilly,Lancel Lannister
+Gilly,Malko
+Gilly,Othell Yarwyck
+Gilly,Bowen Marsh
+Gilly,Derek
+Gilly,Brant
+Tommen Baratheon,Sansa Stark
+Tommen Baratheon,Ramsay Bolton
+Tommen Baratheon,Bronn
+Tommen Baratheon,Daario Naharis
+Tommen Baratheon,Jorah Mormont
+Tommen Baratheon,Olenna Tyrell
+Tommen Baratheon,High Sparrow
+Tommen Baratheon,Eddison Tollett
+Tommen Baratheon,Obara Sand
+Tommen Baratheon,Myrcella Baratheon
+Tommen Baratheon,Septa Unella
+Tommen Baratheon,Margaery Tyrell
+Tommen Baratheon,Theon Greyjoy
+Tommen Baratheon,Brienne of Tarth
+Tommen Baratheon,Maester Aemon
+Tommen Baratheon,Alliser Thorne
+Tommen Baratheon,Areo Hotah
+Tommen Baratheon,Yezzan zo Qaggaz
+Tommen Baratheon,Tyene Sand
+Tommen Baratheon,Nymeria Sand
+Tommen Baratheon,Podrick Payne
+Tommen Baratheon,Hizdahr zo Loraq
+Tommen Baratheon,Olly
+Tommen Baratheon,Lancel Lannister
+Tommen Baratheon,Malko
+Tommen Baratheon,Othell Yarwyck
+Tommen Baratheon,Bowen Marsh
+Tommen Baratheon,Derek
+Tommen Baratheon,Brant
+Sansa Stark,Ramsay Bolton
+Sansa Stark,Bronn
+Sansa Stark,Daario Naharis
+Sansa Stark,Jorah Mormont
+Sansa Stark,Olenna Tyrell
+Sansa Stark,High Sparrow
+Sansa Stark,Eddison Tollett
+Sansa Stark,Obara Sand
+Sansa Stark,Myrcella Baratheon
+Sansa Stark,Septa Unella
+Sansa Stark,Margaery Tyrell
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Maester Aemon
+Sansa Stark,Alliser Thorne
+Sansa Stark,Areo Hotah
+Sansa Stark,Yezzan zo Qaggaz
+Sansa Stark,Tyene Sand
+Sansa Stark,Nymeria Sand
+Sansa Stark,Podrick Payne
+Sansa Stark,Hizdahr zo Loraq
+Sansa Stark,Olly
+Sansa Stark,Lancel Lannister
+Sansa Stark,Malko
+Sansa Stark,Othell Yarwyck
+Sansa Stark,Bowen Marsh
+Sansa Stark,Derek
+Sansa Stark,Brant
+Ramsay Bolton,Bronn
+Ramsay Bolton,Daario Naharis
+Ramsay Bolton,Jorah Mormont
+Ramsay Bolton,Olenna Tyrell
+Ramsay Bolton,High Sparrow
+Ramsay Bolton,Eddison Tollett
+Ramsay Bolton,Obara Sand
+Ramsay Bolton,Myrcella Baratheon
+Ramsay Bolton,Septa Unella
+Ramsay Bolton,Margaery Tyrell
+Ramsay Bolton,Theon Greyjoy
+Ramsay Bolton,Brienne of Tarth
+Ramsay Bolton,Maester Aemon
+Ramsay Bolton,Alliser Thorne
+Ramsay Bolton,Areo Hotah
+Ramsay Bolton,Yezzan zo Qaggaz
+Ramsay Bolton,Tyene Sand
+Ramsay Bolton,Nymeria Sand
+Ramsay Bolton,Podrick Payne
+Ramsay Bolton,Hizdahr zo Loraq
+Ramsay Bolton,Olly
+Ramsay Bolton,Lancel Lannister
+Ramsay Bolton,Malko
+Ramsay Bolton,Othell Yarwyck
+Ramsay Bolton,Bowen Marsh
+Ramsay Bolton,Derek
+Ramsay Bolton,Brant
+Bronn,Daario Naharis
+Bronn,Jorah Mormont
+Bronn,Olenna Tyrell
+Bronn,High Sparrow
+Bronn,Eddison Tollett
+Bronn,Obara Sand
+Bronn,Myrcella Baratheon
+Bronn,Septa Unella
+Bronn,Margaery Tyrell
+Bronn,Theon Greyjoy
+Bronn,Brienne of Tarth
+Bronn,Maester Aemon
+Bronn,Alliser Thorne
+Bronn,Areo Hotah
+Bronn,Yezzan zo Qaggaz
+Bronn,Tyene Sand
+Bronn,Nymeria Sand
+Bronn,Podrick Payne
+Bronn,Hizdahr zo Loraq
+Bronn,Olly
+Bronn,Lancel Lannister
+Bronn,Malko
+Bronn,Othell Yarwyck
+Bronn,Bowen Marsh
+Bronn,Derek
+Bronn,Brant
+Daario Naharis,Jorah Mormont
+Daario Naharis,Olenna Tyrell
+Daario Naharis,High Sparrow
+Daario Naharis,Eddison Tollett
+Daario Naharis,Obara Sand
+Daario Naharis,Myrcella Baratheon
+Daario Naharis,Septa Unella
+Daario Naharis,Margaery Tyrell
+Daario Naharis,Theon Greyjoy
+Daario Naharis,Brienne of Tarth
+Daario Naharis,Maester Aemon
+Daario Naharis,Alliser Thorne
+Daario Naharis,Areo Hotah
+Daario Naharis,Yezzan zo Qaggaz
+Daario Naharis,Tyene Sand
+Daario Naharis,Nymeria Sand
+Daario Naharis,Podrick Payne
+Daario Naharis,Hizdahr zo Loraq
+Daario Naharis,Olly
+Daario Naharis,Lancel Lannister
+Daario Naharis,Malko
+Daario Naharis,Othell Yarwyck
+Daario Naharis,Bowen Marsh
+Daario Naharis,Derek
+Daario Naharis,Brant
+Jorah Mormont,Olenna Tyrell
+Jorah Mormont,High Sparrow
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Obara Sand
+Jorah Mormont,Myrcella Baratheon
+Jorah Mormont,Septa Unella
+Jorah Mormont,Margaery Tyrell
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Maester Aemon
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Areo Hotah
+Jorah Mormont,Yezzan zo Qaggaz
+Jorah Mormont,Tyene Sand
+Jorah Mormont,Nymeria Sand
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Hizdahr zo Loraq
+Jorah Mormont,Olly
+Jorah Mormont,Lancel Lannister
+Jorah Mormont,Malko
+Jorah Mormont,Othell Yarwyck
+Jorah Mormont,Bowen Marsh
+Jorah Mormont,Derek
+Jorah Mormont,Brant
+Olenna Tyrell,High Sparrow
+Olenna Tyrell,Eddison Tollett
+Olenna Tyrell,Obara Sand
+Olenna Tyrell,Myrcella Baratheon
+Olenna Tyrell,Septa Unella
+Olenna Tyrell,Margaery Tyrell
+Olenna Tyrell,Theon Greyjoy
+Olenna Tyrell,Brienne of Tarth
+Olenna Tyrell,Maester Aemon
+Olenna Tyrell,Alliser Thorne
+Olenna Tyrell,Areo Hotah
+Olenna Tyrell,Yezzan zo Qaggaz
+Olenna Tyrell,Tyene Sand
+Olenna Tyrell,Nymeria Sand
+Olenna Tyrell,Podrick Payne
+Olenna Tyrell,Hizdahr zo Loraq
+Olenna Tyrell,Olly
+Olenna Tyrell,Lancel Lannister
+Olenna Tyrell,Malko
+Olenna Tyrell,Othell Yarwyck
+Olenna Tyrell,Bowen Marsh
+Olenna Tyrell,Derek
+Olenna Tyrell,Brant
+High Sparrow,Eddison Tollett
+High Sparrow,Obara Sand
+High Sparrow,Myrcella Baratheon
+High Sparrow,Septa Unella
+High Sparrow,Margaery Tyrell
+High Sparrow,Theon Greyjoy
+High Sparrow,Brienne of Tarth
+High Sparrow,Maester Aemon
+High Sparrow,Alliser Thorne
+High Sparrow,Areo Hotah
+High Sparrow,Yezzan zo Qaggaz
+High Sparrow,Tyene Sand
+High Sparrow,Nymeria Sand
+High Sparrow,Podrick Payne
+High Sparrow,Hizdahr zo Loraq
+High Sparrow,Olly
+High Sparrow,Lancel Lannister
+High Sparrow,Malko
+High Sparrow,Othell Yarwyck
+High Sparrow,Bowen Marsh
+High Sparrow,Derek
+High Sparrow,Brant
+Eddison Tollett,Obara Sand
+Eddison Tollett,Myrcella Baratheon
+Eddison Tollett,Septa Unella
+Eddison Tollett,Margaery Tyrell
+Eddison Tollett,Theon Greyjoy
+Eddison Tollett,Brienne of Tarth
+Eddison Tollett,Maester Aemon
+Eddison Tollett,Alliser Thorne
+Eddison Tollett,Areo Hotah
+Eddison Tollett,Yezzan zo Qaggaz
+Eddison Tollett,Tyene Sand
+Eddison Tollett,Nymeria Sand
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Hizdahr zo Loraq
+Eddison Tollett,Olly
+Eddison Tollett,Lancel Lannister
+Eddison Tollett,Malko
+Eddison Tollett,Othell Yarwyck
+Eddison Tollett,Bowen Marsh
+Eddison Tollett,Derek
+Eddison Tollett,Brant
+Obara Sand,Myrcella Baratheon
+Obara Sand,Septa Unella
+Obara Sand,Margaery Tyrell
+Obara Sand,Theon Greyjoy
+Obara Sand,Brienne of Tarth
+Obara Sand,Maester Aemon
+Obara Sand,Alliser Thorne
+Obara Sand,Areo Hotah
+Obara Sand,Yezzan zo Qaggaz
+Obara Sand,Tyene Sand
+Obara Sand,Nymeria Sand
+Obara Sand,Podrick Payne
+Obara Sand,Hizdahr zo Loraq
+Obara Sand,Olly
+Obara Sand,Lancel Lannister
+Obara Sand,Malko
+Obara Sand,Othell Yarwyck
+Obara Sand,Bowen Marsh
+Obara Sand,Derek
+Obara Sand,Brant
+Myrcella Baratheon,Septa Unella
+Myrcella Baratheon,Margaery Tyrell
+Myrcella Baratheon,Theon Greyjoy
+Myrcella Baratheon,Brienne of Tarth
+Myrcella Baratheon,Maester Aemon
+Myrcella Baratheon,Alliser Thorne
+Myrcella Baratheon,Areo Hotah
+Myrcella Baratheon,Yezzan zo Qaggaz
+Myrcella Baratheon,Tyene Sand
+Myrcella Baratheon,Nymeria Sand
+Myrcella Baratheon,Podrick Payne
+Myrcella Baratheon,Hizdahr zo Loraq
+Myrcella Baratheon,Olly
+Myrcella Baratheon,Lancel Lannister
+Myrcella Baratheon,Malko
+Myrcella Baratheon,Othell Yarwyck
+Myrcella Baratheon,Bowen Marsh
+Myrcella Baratheon,Derek
+Myrcella Baratheon,Brant
+Septa Unella,Margaery Tyrell
+Septa Unella,Theon Greyjoy
+Septa Unella,Brienne of Tarth
+Septa Unella,Maester Aemon
+Septa Unella,Alliser Thorne
+Septa Unella,Areo Hotah
+Septa Unella,Yezzan zo Qaggaz
+Septa Unella,Tyene Sand
+Septa Unella,Nymeria Sand
+Septa Unella,Podrick Payne
+Septa Unella,Hizdahr zo Loraq
+Septa Unella,Olly
+Septa Unella,Lancel Lannister
+Septa Unella,Malko
+Septa Unella,Othell Yarwyck
+Septa Unella,Bowen Marsh
+Septa Unella,Derek
+Septa Unella,Brant
+Margaery Tyrell,Theon Greyjoy
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,Maester Aemon
+Margaery Tyrell,Alliser Thorne
+Margaery Tyrell,Areo Hotah
+Margaery Tyrell,Yezzan zo Qaggaz
+Margaery Tyrell,Tyene Sand
+Margaery Tyrell,Nymeria Sand
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Hizdahr zo Loraq
+Margaery Tyrell,Olly
+Margaery Tyrell,Lancel Lannister
+Margaery Tyrell,Malko
+Margaery Tyrell,Othell Yarwyck
+Margaery Tyrell,Bowen Marsh
+Margaery Tyrell,Derek
+Margaery Tyrell,Brant
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Maester Aemon
+Theon Greyjoy,Alliser Thorne
+Theon Greyjoy,Areo Hotah
+Theon Greyjoy,Yezzan zo Qaggaz
+Theon Greyjoy,Tyene Sand
+Theon Greyjoy,Nymeria Sand
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Hizdahr zo Loraq
+Theon Greyjoy,Olly
+Theon Greyjoy,Lancel Lannister
+Theon Greyjoy,Malko
+Theon Greyjoy,Othell Yarwyck
+Theon Greyjoy,Bowen Marsh
+Theon Greyjoy,Derek
+Theon Greyjoy,Brant
+Brienne of Tarth,Maester Aemon
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Areo Hotah
+Brienne of Tarth,Yezzan zo Qaggaz
+Brienne of Tarth,Tyene Sand
+Brienne of Tarth,Nymeria Sand
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Hizdahr zo Loraq
+Brienne of Tarth,Olly
+Brienne of Tarth,Lancel Lannister
+Brienne of Tarth,Malko
+Brienne of Tarth,Othell Yarwyck
+Brienne of Tarth,Bowen Marsh
+Brienne of Tarth,Derek
+Brienne of Tarth,Brant
+Maester Aemon,Alliser Thorne
+Maester Aemon,Areo Hotah
+Maester Aemon,Yezzan zo Qaggaz
+Maester Aemon,Tyene Sand
+Maester Aemon,Nymeria Sand
+Maester Aemon,Podrick Payne
+Maester Aemon,Hizdahr zo Loraq
+Maester Aemon,Olly
+Maester Aemon,Lancel Lannister
+Maester Aemon,Malko
+Maester Aemon,Othell Yarwyck
+Maester Aemon,Bowen Marsh
+Maester Aemon,Derek
+Maester Aemon,Brant
+Alliser Thorne,Areo Hotah
+Alliser Thorne,Yezzan zo Qaggaz
+Alliser Thorne,Tyene Sand
+Alliser Thorne,Nymeria Sand
+Alliser Thorne,Podrick Payne
+Alliser Thorne,Hizdahr zo Loraq
+Alliser Thorne,Olly
+Alliser Thorne,Lancel Lannister
+Alliser Thorne,Malko
+Alliser Thorne,Othell Yarwyck
+Alliser Thorne,Bowen Marsh
+Alliser Thorne,Derek
+Alliser Thorne,Brant
+Areo Hotah,Yezzan zo Qaggaz
+Areo Hotah,Tyene Sand
+Areo Hotah,Nymeria Sand
+Areo Hotah,Podrick Payne
+Areo Hotah,Hizdahr zo Loraq
+Areo Hotah,Olly
+Areo Hotah,Lancel Lannister
+Areo Hotah,Malko
+Areo Hotah,Othell Yarwyck
+Areo Hotah,Bowen Marsh
+Areo Hotah,Derek
+Areo Hotah,Brant
+Yezzan zo Qaggaz,Tyene Sand
+Yezzan zo Qaggaz,Nymeria Sand
+Yezzan zo Qaggaz,Podrick Payne
+Yezzan zo Qaggaz,Hizdahr zo Loraq
+Yezzan zo Qaggaz,Olly
+Yezzan zo Qaggaz,Lancel Lannister
+Yezzan zo Qaggaz,Malko
+Yezzan zo Qaggaz,Othell Yarwyck
+Yezzan zo Qaggaz,Bowen Marsh
+Yezzan zo Qaggaz,Derek
+Yezzan zo Qaggaz,Brant
+Tyene Sand,Nymeria Sand
+Tyene Sand,Podrick Payne
+Tyene Sand,Hizdahr zo Loraq
+Tyene Sand,Olly
+Tyene Sand,Lancel Lannister
+Tyene Sand,Malko
+Tyene Sand,Othell Yarwyck
+Tyene Sand,Bowen Marsh
+Tyene Sand,Derek
+Tyene Sand,Brant
+Nymeria Sand,Podrick Payne
+Nymeria Sand,Hizdahr zo Loraq
+Nymeria Sand,Olly
+Nymeria Sand,Lancel Lannister
+Nymeria Sand,Malko
+Nymeria Sand,Othell Yarwyck
+Nymeria Sand,Bowen Marsh
+Nymeria Sand,Derek
+Nymeria Sand,Brant
+Podrick Payne,Hizdahr zo Loraq
+Podrick Payne,Olly
+Podrick Payne,Lancel Lannister
+Podrick Payne,Malko
+Podrick Payne,Othell Yarwyck
+Podrick Payne,Bowen Marsh
+Podrick Payne,Derek
+Podrick Payne,Brant
+Hizdahr zo Loraq,Olly
+Hizdahr zo Loraq,Lancel Lannister
+Hizdahr zo Loraq,Malko
+Hizdahr zo Loraq,Othell Yarwyck
+Hizdahr zo Loraq,Bowen Marsh
+Hizdahr zo Loraq,Derek
+Hizdahr zo Loraq,Brant
+Olly,Lancel Lannister
+Olly,Malko
+Olly,Othell Yarwyck
+Olly,Bowen Marsh
+Olly,Derek
+Olly,Brant
+Lancel Lannister,Malko
+Lancel Lannister,Othell Yarwyck
+Lancel Lannister,Bowen Marsh
+Lancel Lannister,Derek
+Lancel Lannister,Brant
+Malko,Othell Yarwyck
+Malko,Bowen Marsh
+Malko,Derek
+Malko,Brant
+Othell Yarwyck,Bowen Marsh
+Othell Yarwyck,Derek
+Othell Yarwyck,Brant
+Bowen Marsh,Derek
+Bowen Marsh,Brant
+Derek,Brant

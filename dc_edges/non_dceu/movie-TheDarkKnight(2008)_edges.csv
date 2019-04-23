@@ -1,0 +1,667 @@
+NAME 1,NAME 2
+Bruce Wayne,Joker
+Bruce Wayne,Harvey Dent
+Bruce Wayne,Alfred
+Bruce Wayne,Rachel
+Bruce Wayne,Gordon
+Bruce Wayne,Lucius Fox
+Bruce Wayne,Ramirez
+Bruce Wayne,Wuertz
+Bruce Wayne,Scarecrow
+Bruce Wayne,Lau
+Bruce Wayne,Mayor
+Bruce Wayne,Maroni
+Bruce Wayne,Chechen
+Bruce Wayne,Mike Engel
+Bruce Wayne,Stephens
+Bruce Wayne,Loeb
+Bruce Wayne,Reese
+Bruce Wayne,Barbara Gordon
+Bruce Wayne,"James Gordon, Jr."
+Bruce Wayne,Rossi
+Bruce Wayne,Dopey
+Bruce Wayne,Happy
+Bruce Wayne,Grumpy
+Bruce Wayne,Gambol
+Bruce Wayne,Chuckles
+Bruce Wayne,Bank Manager
+Bruce Wayne,Natascha
+Bruce Wayne,Judge Surrillo
+Bruce Wayne,Brian
+Bruce Wayne,Judge Freel
+Bruce Wayne,Maroni's Mistress
+Bruce Wayne,Murphy
+Bruce Wayne,Polk
+Bruce Wayne,Berg
+Bruce Wayne,Evans
+Bruce Wayne,Gordon's Daughter
+Joker,Harvey Dent
+Joker,Alfred
+Joker,Rachel
+Joker,Gordon
+Joker,Lucius Fox
+Joker,Ramirez
+Joker,Wuertz
+Joker,Scarecrow
+Joker,Lau
+Joker,Mayor
+Joker,Maroni
+Joker,Chechen
+Joker,Mike Engel
+Joker,Stephens
+Joker,Loeb
+Joker,Reese
+Joker,Barbara Gordon
+Joker,"James Gordon, Jr."
+Joker,Rossi
+Joker,Dopey
+Joker,Happy
+Joker,Grumpy
+Joker,Gambol
+Joker,Chuckles
+Joker,Bank Manager
+Joker,Natascha
+Joker,Judge Surrillo
+Joker,Brian
+Joker,Judge Freel
+Joker,Maroni's Mistress
+Joker,Murphy
+Joker,Polk
+Joker,Berg
+Joker,Evans
+Joker,Gordon's Daughter
+Harvey Dent,Alfred
+Harvey Dent,Rachel
+Harvey Dent,Gordon
+Harvey Dent,Lucius Fox
+Harvey Dent,Ramirez
+Harvey Dent,Wuertz
+Harvey Dent,Scarecrow
+Harvey Dent,Lau
+Harvey Dent,Mayor
+Harvey Dent,Maroni
+Harvey Dent,Chechen
+Harvey Dent,Mike Engel
+Harvey Dent,Stephens
+Harvey Dent,Loeb
+Harvey Dent,Reese
+Harvey Dent,Barbara Gordon
+Harvey Dent,"James Gordon, Jr."
+Harvey Dent,Rossi
+Harvey Dent,Dopey
+Harvey Dent,Happy
+Harvey Dent,Grumpy
+Harvey Dent,Gambol
+Harvey Dent,Chuckles
+Harvey Dent,Bank Manager
+Harvey Dent,Natascha
+Harvey Dent,Judge Surrillo
+Harvey Dent,Brian
+Harvey Dent,Judge Freel
+Harvey Dent,Maroni's Mistress
+Harvey Dent,Murphy
+Harvey Dent,Polk
+Harvey Dent,Berg
+Harvey Dent,Evans
+Harvey Dent,Gordon's Daughter
+Alfred,Rachel
+Alfred,Gordon
+Alfred,Lucius Fox
+Alfred,Ramirez
+Alfred,Wuertz
+Alfred,Scarecrow
+Alfred,Lau
+Alfred,Mayor
+Alfred,Maroni
+Alfred,Chechen
+Alfred,Mike Engel
+Alfred,Stephens
+Alfred,Loeb
+Alfred,Reese
+Alfred,Barbara Gordon
+Alfred,"James Gordon, Jr."
+Alfred,Rossi
+Alfred,Dopey
+Alfred,Happy
+Alfred,Grumpy
+Alfred,Gambol
+Alfred,Chuckles
+Alfred,Bank Manager
+Alfred,Natascha
+Alfred,Judge Surrillo
+Alfred,Brian
+Alfred,Judge Freel
+Alfred,Maroni's Mistress
+Alfred,Murphy
+Alfred,Polk
+Alfred,Berg
+Alfred,Evans
+Alfred,Gordon's Daughter
+Rachel,Gordon
+Rachel,Lucius Fox
+Rachel,Ramirez
+Rachel,Wuertz
+Rachel,Scarecrow
+Rachel,Lau
+Rachel,Mayor
+Rachel,Maroni
+Rachel,Chechen
+Rachel,Mike Engel
+Rachel,Stephens
+Rachel,Loeb
+Rachel,Reese
+Rachel,Barbara Gordon
+Rachel,"James Gordon, Jr."
+Rachel,Rossi
+Rachel,Dopey
+Rachel,Happy
+Rachel,Grumpy
+Rachel,Gambol
+Rachel,Chuckles
+Rachel,Bank Manager
+Rachel,Natascha
+Rachel,Judge Surrillo
+Rachel,Brian
+Rachel,Judge Freel
+Rachel,Maroni's Mistress
+Rachel,Murphy
+Rachel,Polk
+Rachel,Berg
+Rachel,Evans
+Rachel,Gordon's Daughter
+Gordon,Lucius Fox
+Gordon,Ramirez
+Gordon,Wuertz
+Gordon,Scarecrow
+Gordon,Lau
+Gordon,Mayor
+Gordon,Maroni
+Gordon,Chechen
+Gordon,Mike Engel
+Gordon,Stephens
+Gordon,Loeb
+Gordon,Reese
+Gordon,Barbara Gordon
+Gordon,"James Gordon, Jr."
+Gordon,Rossi
+Gordon,Dopey
+Gordon,Happy
+Gordon,Grumpy
+Gordon,Gambol
+Gordon,Chuckles
+Gordon,Bank Manager
+Gordon,Natascha
+Gordon,Judge Surrillo
+Gordon,Brian
+Gordon,Judge Freel
+Gordon,Maroni's Mistress
+Gordon,Murphy
+Gordon,Polk
+Gordon,Berg
+Gordon,Evans
+Gordon,Gordon's Daughter
+Lucius Fox,Ramirez
+Lucius Fox,Wuertz
+Lucius Fox,Scarecrow
+Lucius Fox,Lau
+Lucius Fox,Mayor
+Lucius Fox,Maroni
+Lucius Fox,Chechen
+Lucius Fox,Mike Engel
+Lucius Fox,Stephens
+Lucius Fox,Loeb
+Lucius Fox,Reese
+Lucius Fox,Barbara Gordon
+Lucius Fox,"James Gordon, Jr."
+Lucius Fox,Rossi
+Lucius Fox,Dopey
+Lucius Fox,Happy
+Lucius Fox,Grumpy
+Lucius Fox,Gambol
+Lucius Fox,Chuckles
+Lucius Fox,Bank Manager
+Lucius Fox,Natascha
+Lucius Fox,Judge Surrillo
+Lucius Fox,Brian
+Lucius Fox,Judge Freel
+Lucius Fox,Maroni's Mistress
+Lucius Fox,Murphy
+Lucius Fox,Polk
+Lucius Fox,Berg
+Lucius Fox,Evans
+Lucius Fox,Gordon's Daughter
+Ramirez,Wuertz
+Ramirez,Scarecrow
+Ramirez,Lau
+Ramirez,Mayor
+Ramirez,Maroni
+Ramirez,Chechen
+Ramirez,Mike Engel
+Ramirez,Stephens
+Ramirez,Loeb
+Ramirez,Reese
+Ramirez,Barbara Gordon
+Ramirez,"James Gordon, Jr."
+Ramirez,Rossi
+Ramirez,Dopey
+Ramirez,Happy
+Ramirez,Grumpy
+Ramirez,Gambol
+Ramirez,Chuckles
+Ramirez,Bank Manager
+Ramirez,Natascha
+Ramirez,Judge Surrillo
+Ramirez,Brian
+Ramirez,Judge Freel
+Ramirez,Maroni's Mistress
+Ramirez,Murphy
+Ramirez,Polk
+Ramirez,Berg
+Ramirez,Evans
+Ramirez,Gordon's Daughter
+Wuertz,Scarecrow
+Wuertz,Lau
+Wuertz,Mayor
+Wuertz,Maroni
+Wuertz,Chechen
+Wuertz,Mike Engel
+Wuertz,Stephens
+Wuertz,Loeb
+Wuertz,Reese
+Wuertz,Barbara Gordon
+Wuertz,"James Gordon, Jr."
+Wuertz,Rossi
+Wuertz,Dopey
+Wuertz,Happy
+Wuertz,Grumpy
+Wuertz,Gambol
+Wuertz,Chuckles
+Wuertz,Bank Manager
+Wuertz,Natascha
+Wuertz,Judge Surrillo
+Wuertz,Brian
+Wuertz,Judge Freel
+Wuertz,Maroni's Mistress
+Wuertz,Murphy
+Wuertz,Polk
+Wuertz,Berg
+Wuertz,Evans
+Wuertz,Gordon's Daughter
+Scarecrow,Lau
+Scarecrow,Mayor
+Scarecrow,Maroni
+Scarecrow,Chechen
+Scarecrow,Mike Engel
+Scarecrow,Stephens
+Scarecrow,Loeb
+Scarecrow,Reese
+Scarecrow,Barbara Gordon
+Scarecrow,"James Gordon, Jr."
+Scarecrow,Rossi
+Scarecrow,Dopey
+Scarecrow,Happy
+Scarecrow,Grumpy
+Scarecrow,Gambol
+Scarecrow,Chuckles
+Scarecrow,Bank Manager
+Scarecrow,Natascha
+Scarecrow,Judge Surrillo
+Scarecrow,Brian
+Scarecrow,Judge Freel
+Scarecrow,Maroni's Mistress
+Scarecrow,Murphy
+Scarecrow,Polk
+Scarecrow,Berg
+Scarecrow,Evans
+Scarecrow,Gordon's Daughter
+Lau,Mayor
+Lau,Maroni
+Lau,Chechen
+Lau,Mike Engel
+Lau,Stephens
+Lau,Loeb
+Lau,Reese
+Lau,Barbara Gordon
+Lau,"James Gordon, Jr."
+Lau,Rossi
+Lau,Dopey
+Lau,Happy
+Lau,Grumpy
+Lau,Gambol
+Lau,Chuckles
+Lau,Bank Manager
+Lau,Natascha
+Lau,Judge Surrillo
+Lau,Brian
+Lau,Judge Freel
+Lau,Maroni's Mistress
+Lau,Murphy
+Lau,Polk
+Lau,Berg
+Lau,Evans
+Lau,Gordon's Daughter
+Mayor,Maroni
+Mayor,Chechen
+Mayor,Mike Engel
+Mayor,Stephens
+Mayor,Loeb
+Mayor,Reese
+Mayor,Barbara Gordon
+Mayor,"James Gordon, Jr."
+Mayor,Rossi
+Mayor,Dopey
+Mayor,Happy
+Mayor,Grumpy
+Mayor,Gambol
+Mayor,Chuckles
+Mayor,Bank Manager
+Mayor,Natascha
+Mayor,Judge Surrillo
+Mayor,Brian
+Mayor,Judge Freel
+Mayor,Maroni's Mistress
+Mayor,Murphy
+Mayor,Polk
+Mayor,Berg
+Mayor,Evans
+Mayor,Gordon's Daughter
+Maroni,Chechen
+Maroni,Mike Engel
+Maroni,Stephens
+Maroni,Loeb
+Maroni,Reese
+Maroni,Barbara Gordon
+Maroni,"James Gordon, Jr."
+Maroni,Rossi
+Maroni,Dopey
+Maroni,Happy
+Maroni,Grumpy
+Maroni,Gambol
+Maroni,Chuckles
+Maroni,Bank Manager
+Maroni,Natascha
+Maroni,Judge Surrillo
+Maroni,Brian
+Maroni,Judge Freel
+Maroni,Maroni's Mistress
+Maroni,Murphy
+Maroni,Polk
+Maroni,Berg
+Maroni,Evans
+Maroni,Gordon's Daughter
+Chechen,Mike Engel
+Chechen,Stephens
+Chechen,Loeb
+Chechen,Reese
+Chechen,Barbara Gordon
+Chechen,"James Gordon, Jr."
+Chechen,Rossi
+Chechen,Dopey
+Chechen,Happy
+Chechen,Grumpy
+Chechen,Gambol
+Chechen,Chuckles
+Chechen,Bank Manager
+Chechen,Natascha
+Chechen,Judge Surrillo
+Chechen,Brian
+Chechen,Judge Freel
+Chechen,Maroni's Mistress
+Chechen,Murphy
+Chechen,Polk
+Chechen,Berg
+Chechen,Evans
+Chechen,Gordon's Daughter
+Mike Engel,Stephens
+Mike Engel,Loeb
+Mike Engel,Reese
+Mike Engel,Barbara Gordon
+Mike Engel,"James Gordon, Jr."
+Mike Engel,Rossi
+Mike Engel,Dopey
+Mike Engel,Happy
+Mike Engel,Grumpy
+Mike Engel,Gambol
+Mike Engel,Chuckles
+Mike Engel,Bank Manager
+Mike Engel,Natascha
+Mike Engel,Judge Surrillo
+Mike Engel,Brian
+Mike Engel,Judge Freel
+Mike Engel,Maroni's Mistress
+Mike Engel,Murphy
+Mike Engel,Polk
+Mike Engel,Berg
+Mike Engel,Evans
+Mike Engel,Gordon's Daughter
+Stephens,Loeb
+Stephens,Reese
+Stephens,Barbara Gordon
+Stephens,"James Gordon, Jr."
+Stephens,Rossi
+Stephens,Dopey
+Stephens,Happy
+Stephens,Grumpy
+Stephens,Gambol
+Stephens,Chuckles
+Stephens,Bank Manager
+Stephens,Natascha
+Stephens,Judge Surrillo
+Stephens,Brian
+Stephens,Judge Freel
+Stephens,Maroni's Mistress
+Stephens,Murphy
+Stephens,Polk
+Stephens,Berg
+Stephens,Evans
+Stephens,Gordon's Daughter
+Loeb,Reese
+Loeb,Barbara Gordon
+Loeb,"James Gordon, Jr."
+Loeb,Rossi
+Loeb,Dopey
+Loeb,Happy
+Loeb,Grumpy
+Loeb,Gambol
+Loeb,Chuckles
+Loeb,Bank Manager
+Loeb,Natascha
+Loeb,Judge Surrillo
+Loeb,Brian
+Loeb,Judge Freel
+Loeb,Maroni's Mistress
+Loeb,Murphy
+Loeb,Polk
+Loeb,Berg
+Loeb,Evans
+Loeb,Gordon's Daughter
+Reese,Barbara Gordon
+Reese,"James Gordon, Jr."
+Reese,Rossi
+Reese,Dopey
+Reese,Happy
+Reese,Grumpy
+Reese,Gambol
+Reese,Chuckles
+Reese,Bank Manager
+Reese,Natascha
+Reese,Judge Surrillo
+Reese,Brian
+Reese,Judge Freel
+Reese,Maroni's Mistress
+Reese,Murphy
+Reese,Polk
+Reese,Berg
+Reese,Evans
+Reese,Gordon's Daughter
+Barbara Gordon,"James Gordon, Jr."
+Barbara Gordon,Rossi
+Barbara Gordon,Dopey
+Barbara Gordon,Happy
+Barbara Gordon,Grumpy
+Barbara Gordon,Gambol
+Barbara Gordon,Chuckles
+Barbara Gordon,Bank Manager
+Barbara Gordon,Natascha
+Barbara Gordon,Judge Surrillo
+Barbara Gordon,Brian
+Barbara Gordon,Judge Freel
+Barbara Gordon,Maroni's Mistress
+Barbara Gordon,Murphy
+Barbara Gordon,Polk
+Barbara Gordon,Berg
+Barbara Gordon,Evans
+Barbara Gordon,Gordon's Daughter
+"James Gordon, Jr.",Rossi
+"James Gordon, Jr.",Dopey
+"James Gordon, Jr.",Happy
+"James Gordon, Jr.",Grumpy
+"James Gordon, Jr.",Gambol
+"James Gordon, Jr.",Chuckles
+"James Gordon, Jr.",Bank Manager
+"James Gordon, Jr.",Natascha
+"James Gordon, Jr.",Judge Surrillo
+"James Gordon, Jr.",Brian
+"James Gordon, Jr.",Judge Freel
+"James Gordon, Jr.",Maroni's Mistress
+"James Gordon, Jr.",Murphy
+"James Gordon, Jr.",Polk
+"James Gordon, Jr.",Berg
+"James Gordon, Jr.",Evans
+"James Gordon, Jr.",Gordon's Daughter
+Rossi,Dopey
+Rossi,Happy
+Rossi,Grumpy
+Rossi,Gambol
+Rossi,Chuckles
+Rossi,Bank Manager
+Rossi,Natascha
+Rossi,Judge Surrillo
+Rossi,Brian
+Rossi,Judge Freel
+Rossi,Maroni's Mistress
+Rossi,Murphy
+Rossi,Polk
+Rossi,Berg
+Rossi,Evans
+Rossi,Gordon's Daughter
+Dopey,Happy
+Dopey,Grumpy
+Dopey,Gambol
+Dopey,Chuckles
+Dopey,Bank Manager
+Dopey,Natascha
+Dopey,Judge Surrillo
+Dopey,Brian
+Dopey,Judge Freel
+Dopey,Maroni's Mistress
+Dopey,Murphy
+Dopey,Polk
+Dopey,Berg
+Dopey,Evans
+Dopey,Gordon's Daughter
+Happy,Grumpy
+Happy,Gambol
+Happy,Chuckles
+Happy,Bank Manager
+Happy,Natascha
+Happy,Judge Surrillo
+Happy,Brian
+Happy,Judge Freel
+Happy,Maroni's Mistress
+Happy,Murphy
+Happy,Polk
+Happy,Berg
+Happy,Evans
+Happy,Gordon's Daughter
+Grumpy,Gambol
+Grumpy,Chuckles
+Grumpy,Bank Manager
+Grumpy,Natascha
+Grumpy,Judge Surrillo
+Grumpy,Brian
+Grumpy,Judge Freel
+Grumpy,Maroni's Mistress
+Grumpy,Murphy
+Grumpy,Polk
+Grumpy,Berg
+Grumpy,Evans
+Grumpy,Gordon's Daughter
+Gambol,Chuckles
+Gambol,Bank Manager
+Gambol,Natascha
+Gambol,Judge Surrillo
+Gambol,Brian
+Gambol,Judge Freel
+Gambol,Maroni's Mistress
+Gambol,Murphy
+Gambol,Polk
+Gambol,Berg
+Gambol,Evans
+Gambol,Gordon's Daughter
+Chuckles,Bank Manager
+Chuckles,Natascha
+Chuckles,Judge Surrillo
+Chuckles,Brian
+Chuckles,Judge Freel
+Chuckles,Maroni's Mistress
+Chuckles,Murphy
+Chuckles,Polk
+Chuckles,Berg
+Chuckles,Evans
+Chuckles,Gordon's Daughter
+Bank Manager,Natascha
+Bank Manager,Judge Surrillo
+Bank Manager,Brian
+Bank Manager,Judge Freel
+Bank Manager,Maroni's Mistress
+Bank Manager,Murphy
+Bank Manager,Polk
+Bank Manager,Berg
+Bank Manager,Evans
+Bank Manager,Gordon's Daughter
+Natascha,Judge Surrillo
+Natascha,Brian
+Natascha,Judge Freel
+Natascha,Maroni's Mistress
+Natascha,Murphy
+Natascha,Polk
+Natascha,Berg
+Natascha,Evans
+Natascha,Gordon's Daughter
+Judge Surrillo,Brian
+Judge Surrillo,Judge Freel
+Judge Surrillo,Maroni's Mistress
+Judge Surrillo,Murphy
+Judge Surrillo,Polk
+Judge Surrillo,Berg
+Judge Surrillo,Evans
+Judge Surrillo,Gordon's Daughter
+Brian,Judge Freel
+Brian,Maroni's Mistress
+Brian,Murphy
+Brian,Polk
+Brian,Berg
+Brian,Evans
+Brian,Gordon's Daughter
+Judge Freel,Maroni's Mistress
+Judge Freel,Murphy
+Judge Freel,Polk
+Judge Freel,Berg
+Judge Freel,Evans
+Judge Freel,Gordon's Daughter
+Maroni's Mistress,Murphy
+Maroni's Mistress,Polk
+Maroni's Mistress,Berg
+Maroni's Mistress,Evans
+Maroni's Mistress,Gordon's Daughter
+Murphy,Polk
+Murphy,Berg
+Murphy,Evans
+Murphy,Gordon's Daughter
+Polk,Berg
+Polk,Evans
+Polk,Gordon's Daughter
+Berg,Evans
+Berg,Gordon's Daughter
+Evans,Gordon's Daughter

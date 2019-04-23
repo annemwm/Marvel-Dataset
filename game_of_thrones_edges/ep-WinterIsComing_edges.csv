@@ -1,0 +1,562 @@
+NAME 1,NAME 2
+Eddard 'Ned' Stark,Robert Baratheon
+Eddard 'Ned' Stark,Jaime Lannister
+Eddard 'Ned' Stark,Catelyn Stark
+Eddard 'Ned' Stark,Cersei Lannister
+Eddard 'Ned' Stark,Daenerys Targaryen
+Eddard 'Ned' Stark,Jorah Mormont
+Eddard 'Ned' Stark,Viserys Targaryen
+Eddard 'Ned' Stark,Jon Snow
+Eddard 'Ned' Stark,Sansa Stark
+Eddard 'Ned' Stark,Arya Stark
+Eddard 'Ned' Stark,Robb Stark
+Eddard 'Ned' Stark,Theon Greyjoy
+Eddard 'Ned' Stark,Bran Stark
+Eddard 'Ned' Stark,Tyrion Lannister
+Eddard 'Ned' Stark,Maester Luwin
+Eddard 'Ned' Stark,Jory Cassel
+Eddard 'Ned' Stark,Rodrik Cassel
+Eddard 'Ned' Stark,Illyrio Mopatis
+Eddard 'Ned' Stark,Will
+Eddard 'Ned' Stark,Jon Arryn
+Eddard 'Ned' Stark,Waymar Royce
+Eddard 'Ned' Stark,Gared
+Eddard 'Ned' Stark,Rickon Stark
+Eddard 'Ned' Stark,Hodor
+Eddard 'Ned' Stark,Khal Drogo
+Eddard 'Ned' Stark,Joffrey Baratheon
+Eddard 'Ned' Stark,Sandor 'The Hound' Clegane
+Eddard 'Ned' Stark,Benjen Stark
+Eddard 'Ned' Stark,Qotho
+Eddard 'Ned' Stark,Ros
+Eddard 'Ned' Stark,Septa Mordane
+Eddard 'Ned' Stark,Tommen Baratheon
+Eddard 'Ned' Stark,Myrcella Baratheon
+Robert Baratheon,Jaime Lannister
+Robert Baratheon,Catelyn Stark
+Robert Baratheon,Cersei Lannister
+Robert Baratheon,Daenerys Targaryen
+Robert Baratheon,Jorah Mormont
+Robert Baratheon,Viserys Targaryen
+Robert Baratheon,Jon Snow
+Robert Baratheon,Sansa Stark
+Robert Baratheon,Arya Stark
+Robert Baratheon,Robb Stark
+Robert Baratheon,Theon Greyjoy
+Robert Baratheon,Bran Stark
+Robert Baratheon,Tyrion Lannister
+Robert Baratheon,Maester Luwin
+Robert Baratheon,Jory Cassel
+Robert Baratheon,Rodrik Cassel
+Robert Baratheon,Illyrio Mopatis
+Robert Baratheon,Will
+Robert Baratheon,Jon Arryn
+Robert Baratheon,Waymar Royce
+Robert Baratheon,Gared
+Robert Baratheon,Rickon Stark
+Robert Baratheon,Hodor
+Robert Baratheon,Khal Drogo
+Robert Baratheon,Joffrey Baratheon
+Robert Baratheon,Sandor 'The Hound' Clegane
+Robert Baratheon,Benjen Stark
+Robert Baratheon,Qotho
+Robert Baratheon,Ros
+Robert Baratheon,Septa Mordane
+Robert Baratheon,Tommen Baratheon
+Robert Baratheon,Myrcella Baratheon
+Jaime Lannister,Catelyn Stark
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Viserys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Robb Stark
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Bran Stark
+Jaime Lannister,Tyrion Lannister
+Jaime Lannister,Maester Luwin
+Jaime Lannister,Jory Cassel
+Jaime Lannister,Rodrik Cassel
+Jaime Lannister,Illyrio Mopatis
+Jaime Lannister,Will
+Jaime Lannister,Jon Arryn
+Jaime Lannister,Waymar Royce
+Jaime Lannister,Gared
+Jaime Lannister,Rickon Stark
+Jaime Lannister,Hodor
+Jaime Lannister,Khal Drogo
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Benjen Stark
+Jaime Lannister,Qotho
+Jaime Lannister,Ros
+Jaime Lannister,Septa Mordane
+Jaime Lannister,Tommen Baratheon
+Jaime Lannister,Myrcella Baratheon
+Catelyn Stark,Cersei Lannister
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Jorah Mormont
+Catelyn Stark,Viserys Targaryen
+Catelyn Stark,Jon Snow
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Robb Stark
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Bran Stark
+Catelyn Stark,Tyrion Lannister
+Catelyn Stark,Maester Luwin
+Catelyn Stark,Jory Cassel
+Catelyn Stark,Rodrik Cassel
+Catelyn Stark,Illyrio Mopatis
+Catelyn Stark,Will
+Catelyn Stark,Jon Arryn
+Catelyn Stark,Waymar Royce
+Catelyn Stark,Gared
+Catelyn Stark,Rickon Stark
+Catelyn Stark,Hodor
+Catelyn Stark,Khal Drogo
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Benjen Stark
+Catelyn Stark,Qotho
+Catelyn Stark,Ros
+Catelyn Stark,Septa Mordane
+Catelyn Stark,Tommen Baratheon
+Catelyn Stark,Myrcella Baratheon
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Viserys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Robb Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Bran Stark
+Cersei Lannister,Tyrion Lannister
+Cersei Lannister,Maester Luwin
+Cersei Lannister,Jory Cassel
+Cersei Lannister,Rodrik Cassel
+Cersei Lannister,Illyrio Mopatis
+Cersei Lannister,Will
+Cersei Lannister,Jon Arryn
+Cersei Lannister,Waymar Royce
+Cersei Lannister,Gared
+Cersei Lannister,Rickon Stark
+Cersei Lannister,Hodor
+Cersei Lannister,Khal Drogo
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Benjen Stark
+Cersei Lannister,Qotho
+Cersei Lannister,Ros
+Cersei Lannister,Septa Mordane
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Myrcella Baratheon
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Viserys Targaryen
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Tyrion Lannister
+Daenerys Targaryen,Maester Luwin
+Daenerys Targaryen,Jory Cassel
+Daenerys Targaryen,Rodrik Cassel
+Daenerys Targaryen,Illyrio Mopatis
+Daenerys Targaryen,Will
+Daenerys Targaryen,Jon Arryn
+Daenerys Targaryen,Waymar Royce
+Daenerys Targaryen,Gared
+Daenerys Targaryen,Rickon Stark
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Khal Drogo
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Benjen Stark
+Daenerys Targaryen,Qotho
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Septa Mordane
+Daenerys Targaryen,Tommen Baratheon
+Daenerys Targaryen,Myrcella Baratheon
+Jorah Mormont,Viserys Targaryen
+Jorah Mormont,Jon Snow
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Robb Stark
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Bran Stark
+Jorah Mormont,Tyrion Lannister
+Jorah Mormont,Maester Luwin
+Jorah Mormont,Jory Cassel
+Jorah Mormont,Rodrik Cassel
+Jorah Mormont,Illyrio Mopatis
+Jorah Mormont,Will
+Jorah Mormont,Jon Arryn
+Jorah Mormont,Waymar Royce
+Jorah Mormont,Gared
+Jorah Mormont,Rickon Stark
+Jorah Mormont,Hodor
+Jorah Mormont,Khal Drogo
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Benjen Stark
+Jorah Mormont,Qotho
+Jorah Mormont,Ros
+Jorah Mormont,Septa Mordane
+Jorah Mormont,Tommen Baratheon
+Jorah Mormont,Myrcella Baratheon
+Viserys Targaryen,Jon Snow
+Viserys Targaryen,Sansa Stark
+Viserys Targaryen,Arya Stark
+Viserys Targaryen,Robb Stark
+Viserys Targaryen,Theon Greyjoy
+Viserys Targaryen,Bran Stark
+Viserys Targaryen,Tyrion Lannister
+Viserys Targaryen,Maester Luwin
+Viserys Targaryen,Jory Cassel
+Viserys Targaryen,Rodrik Cassel
+Viserys Targaryen,Illyrio Mopatis
+Viserys Targaryen,Will
+Viserys Targaryen,Jon Arryn
+Viserys Targaryen,Waymar Royce
+Viserys Targaryen,Gared
+Viserys Targaryen,Rickon Stark
+Viserys Targaryen,Hodor
+Viserys Targaryen,Khal Drogo
+Viserys Targaryen,Joffrey Baratheon
+Viserys Targaryen,Sandor 'The Hound' Clegane
+Viserys Targaryen,Benjen Stark
+Viserys Targaryen,Qotho
+Viserys Targaryen,Ros
+Viserys Targaryen,Septa Mordane
+Viserys Targaryen,Tommen Baratheon
+Viserys Targaryen,Myrcella Baratheon
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Robb Stark
+Jon Snow,Theon Greyjoy
+Jon Snow,Bran Stark
+Jon Snow,Tyrion Lannister
+Jon Snow,Maester Luwin
+Jon Snow,Jory Cassel
+Jon Snow,Rodrik Cassel
+Jon Snow,Illyrio Mopatis
+Jon Snow,Will
+Jon Snow,Jon Arryn
+Jon Snow,Waymar Royce
+Jon Snow,Gared
+Jon Snow,Rickon Stark
+Jon Snow,Hodor
+Jon Snow,Khal Drogo
+Jon Snow,Joffrey Baratheon
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Benjen Stark
+Jon Snow,Qotho
+Jon Snow,Ros
+Jon Snow,Septa Mordane
+Jon Snow,Tommen Baratheon
+Jon Snow,Myrcella Baratheon
+Sansa Stark,Arya Stark
+Sansa Stark,Robb Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Bran Stark
+Sansa Stark,Tyrion Lannister
+Sansa Stark,Maester Luwin
+Sansa Stark,Jory Cassel
+Sansa Stark,Rodrik Cassel
+Sansa Stark,Illyrio Mopatis
+Sansa Stark,Will
+Sansa Stark,Jon Arryn
+Sansa Stark,Waymar Royce
+Sansa Stark,Gared
+Sansa Stark,Rickon Stark
+Sansa Stark,Hodor
+Sansa Stark,Khal Drogo
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Benjen Stark
+Sansa Stark,Qotho
+Sansa Stark,Ros
+Sansa Stark,Septa Mordane
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Myrcella Baratheon
+Arya Stark,Robb Stark
+Arya Stark,Theon Greyjoy
+Arya Stark,Bran Stark
+Arya Stark,Tyrion Lannister
+Arya Stark,Maester Luwin
+Arya Stark,Jory Cassel
+Arya Stark,Rodrik Cassel
+Arya Stark,Illyrio Mopatis
+Arya Stark,Will
+Arya Stark,Jon Arryn
+Arya Stark,Waymar Royce
+Arya Stark,Gared
+Arya Stark,Rickon Stark
+Arya Stark,Hodor
+Arya Stark,Khal Drogo
+Arya Stark,Joffrey Baratheon
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Benjen Stark
+Arya Stark,Qotho
+Arya Stark,Ros
+Arya Stark,Septa Mordane
+Arya Stark,Tommen Baratheon
+Arya Stark,Myrcella Baratheon
+Robb Stark,Theon Greyjoy
+Robb Stark,Bran Stark
+Robb Stark,Tyrion Lannister
+Robb Stark,Maester Luwin
+Robb Stark,Jory Cassel
+Robb Stark,Rodrik Cassel
+Robb Stark,Illyrio Mopatis
+Robb Stark,Will
+Robb Stark,Jon Arryn
+Robb Stark,Waymar Royce
+Robb Stark,Gared
+Robb Stark,Rickon Stark
+Robb Stark,Hodor
+Robb Stark,Khal Drogo
+Robb Stark,Joffrey Baratheon
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Benjen Stark
+Robb Stark,Qotho
+Robb Stark,Ros
+Robb Stark,Septa Mordane
+Robb Stark,Tommen Baratheon
+Robb Stark,Myrcella Baratheon
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Tyrion Lannister
+Theon Greyjoy,Maester Luwin
+Theon Greyjoy,Jory Cassel
+Theon Greyjoy,Rodrik Cassel
+Theon Greyjoy,Illyrio Mopatis
+Theon Greyjoy,Will
+Theon Greyjoy,Jon Arryn
+Theon Greyjoy,Waymar Royce
+Theon Greyjoy,Gared
+Theon Greyjoy,Rickon Stark
+Theon Greyjoy,Hodor
+Theon Greyjoy,Khal Drogo
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Benjen Stark
+Theon Greyjoy,Qotho
+Theon Greyjoy,Ros
+Theon Greyjoy,Septa Mordane
+Theon Greyjoy,Tommen Baratheon
+Theon Greyjoy,Myrcella Baratheon
+Bran Stark,Tyrion Lannister
+Bran Stark,Maester Luwin
+Bran Stark,Jory Cassel
+Bran Stark,Rodrik Cassel
+Bran Stark,Illyrio Mopatis
+Bran Stark,Will
+Bran Stark,Jon Arryn
+Bran Stark,Waymar Royce
+Bran Stark,Gared
+Bran Stark,Rickon Stark
+Bran Stark,Hodor
+Bran Stark,Khal Drogo
+Bran Stark,Joffrey Baratheon
+Bran Stark,Sandor 'The Hound' Clegane
+Bran Stark,Benjen Stark
+Bran Stark,Qotho
+Bran Stark,Ros
+Bran Stark,Septa Mordane
+Bran Stark,Tommen Baratheon
+Bran Stark,Myrcella Baratheon
+Tyrion Lannister,Maester Luwin
+Tyrion Lannister,Jory Cassel
+Tyrion Lannister,Rodrik Cassel
+Tyrion Lannister,Illyrio Mopatis
+Tyrion Lannister,Will
+Tyrion Lannister,Jon Arryn
+Tyrion Lannister,Waymar Royce
+Tyrion Lannister,Gared
+Tyrion Lannister,Rickon Stark
+Tyrion Lannister,Hodor
+Tyrion Lannister,Khal Drogo
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Benjen Stark
+Tyrion Lannister,Qotho
+Tyrion Lannister,Ros
+Tyrion Lannister,Septa Mordane
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Myrcella Baratheon
+Maester Luwin,Jory Cassel
+Maester Luwin,Rodrik Cassel
+Maester Luwin,Illyrio Mopatis
+Maester Luwin,Will
+Maester Luwin,Jon Arryn
+Maester Luwin,Waymar Royce
+Maester Luwin,Gared
+Maester Luwin,Rickon Stark
+Maester Luwin,Hodor
+Maester Luwin,Khal Drogo
+Maester Luwin,Joffrey Baratheon
+Maester Luwin,Sandor 'The Hound' Clegane
+Maester Luwin,Benjen Stark
+Maester Luwin,Qotho
+Maester Luwin,Ros
+Maester Luwin,Septa Mordane
+Maester Luwin,Tommen Baratheon
+Maester Luwin,Myrcella Baratheon
+Jory Cassel,Rodrik Cassel
+Jory Cassel,Illyrio Mopatis
+Jory Cassel,Will
+Jory Cassel,Jon Arryn
+Jory Cassel,Waymar Royce
+Jory Cassel,Gared
+Jory Cassel,Rickon Stark
+Jory Cassel,Hodor
+Jory Cassel,Khal Drogo
+Jory Cassel,Joffrey Baratheon
+Jory Cassel,Sandor 'The Hound' Clegane
+Jory Cassel,Benjen Stark
+Jory Cassel,Qotho
+Jory Cassel,Ros
+Jory Cassel,Septa Mordane
+Jory Cassel,Tommen Baratheon
+Jory Cassel,Myrcella Baratheon
+Rodrik Cassel,Illyrio Mopatis
+Rodrik Cassel,Will
+Rodrik Cassel,Jon Arryn
+Rodrik Cassel,Waymar Royce
+Rodrik Cassel,Gared
+Rodrik Cassel,Rickon Stark
+Rodrik Cassel,Hodor
+Rodrik Cassel,Khal Drogo
+Rodrik Cassel,Joffrey Baratheon
+Rodrik Cassel,Sandor 'The Hound' Clegane
+Rodrik Cassel,Benjen Stark
+Rodrik Cassel,Qotho
+Rodrik Cassel,Ros
+Rodrik Cassel,Septa Mordane
+Rodrik Cassel,Tommen Baratheon
+Rodrik Cassel,Myrcella Baratheon
+Illyrio Mopatis,Will
+Illyrio Mopatis,Jon Arryn
+Illyrio Mopatis,Waymar Royce
+Illyrio Mopatis,Gared
+Illyrio Mopatis,Rickon Stark
+Illyrio Mopatis,Hodor
+Illyrio Mopatis,Khal Drogo
+Illyrio Mopatis,Joffrey Baratheon
+Illyrio Mopatis,Sandor 'The Hound' Clegane
+Illyrio Mopatis,Benjen Stark
+Illyrio Mopatis,Qotho
+Illyrio Mopatis,Ros
+Illyrio Mopatis,Septa Mordane
+Illyrio Mopatis,Tommen Baratheon
+Illyrio Mopatis,Myrcella Baratheon
+Will,Jon Arryn
+Will,Waymar Royce
+Will,Gared
+Will,Rickon Stark
+Will,Hodor
+Will,Khal Drogo
+Will,Joffrey Baratheon
+Will,Sandor 'The Hound' Clegane
+Will,Benjen Stark
+Will,Qotho
+Will,Ros
+Will,Septa Mordane
+Will,Tommen Baratheon
+Will,Myrcella Baratheon
+Jon Arryn,Waymar Royce
+Jon Arryn,Gared
+Jon Arryn,Rickon Stark
+Jon Arryn,Hodor
+Jon Arryn,Khal Drogo
+Jon Arryn,Joffrey Baratheon
+Jon Arryn,Sandor 'The Hound' Clegane
+Jon Arryn,Benjen Stark
+Jon Arryn,Qotho
+Jon Arryn,Ros
+Jon Arryn,Septa Mordane
+Jon Arryn,Tommen Baratheon
+Jon Arryn,Myrcella Baratheon
+Waymar Royce,Gared
+Waymar Royce,Rickon Stark
+Waymar Royce,Hodor
+Waymar Royce,Khal Drogo
+Waymar Royce,Joffrey Baratheon
+Waymar Royce,Sandor 'The Hound' Clegane
+Waymar Royce,Benjen Stark
+Waymar Royce,Qotho
+Waymar Royce,Ros
+Waymar Royce,Septa Mordane
+Waymar Royce,Tommen Baratheon
+Waymar Royce,Myrcella Baratheon
+Gared,Rickon Stark
+Gared,Hodor
+Gared,Khal Drogo
+Gared,Joffrey Baratheon
+Gared,Sandor 'The Hound' Clegane
+Gared,Benjen Stark
+Gared,Qotho
+Gared,Ros
+Gared,Septa Mordane
+Gared,Tommen Baratheon
+Gared,Myrcella Baratheon
+Rickon Stark,Hodor
+Rickon Stark,Khal Drogo
+Rickon Stark,Joffrey Baratheon
+Rickon Stark,Sandor 'The Hound' Clegane
+Rickon Stark,Benjen Stark
+Rickon Stark,Qotho
+Rickon Stark,Ros
+Rickon Stark,Septa Mordane
+Rickon Stark,Tommen Baratheon
+Rickon Stark,Myrcella Baratheon
+Hodor,Khal Drogo
+Hodor,Joffrey Baratheon
+Hodor,Sandor 'The Hound' Clegane
+Hodor,Benjen Stark
+Hodor,Qotho
+Hodor,Ros
+Hodor,Septa Mordane
+Hodor,Tommen Baratheon
+Hodor,Myrcella Baratheon
+Khal Drogo,Joffrey Baratheon
+Khal Drogo,Sandor 'The Hound' Clegane
+Khal Drogo,Benjen Stark
+Khal Drogo,Qotho
+Khal Drogo,Ros
+Khal Drogo,Septa Mordane
+Khal Drogo,Tommen Baratheon
+Khal Drogo,Myrcella Baratheon
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Benjen Stark
+Joffrey Baratheon,Qotho
+Joffrey Baratheon,Ros
+Joffrey Baratheon,Septa Mordane
+Joffrey Baratheon,Tommen Baratheon
+Joffrey Baratheon,Myrcella Baratheon
+Sandor 'The Hound' Clegane,Benjen Stark
+Sandor 'The Hound' Clegane,Qotho
+Sandor 'The Hound' Clegane,Ros
+Sandor 'The Hound' Clegane,Septa Mordane
+Sandor 'The Hound' Clegane,Tommen Baratheon
+Sandor 'The Hound' Clegane,Myrcella Baratheon
+Benjen Stark,Qotho
+Benjen Stark,Ros
+Benjen Stark,Septa Mordane
+Benjen Stark,Tommen Baratheon
+Benjen Stark,Myrcella Baratheon
+Qotho,Ros
+Qotho,Septa Mordane
+Qotho,Tommen Baratheon
+Qotho,Myrcella Baratheon
+Ros,Septa Mordane
+Ros,Tommen Baratheon
+Ros,Myrcella Baratheon
+Septa Mordane,Tommen Baratheon
+Septa Mordane,Myrcella Baratheon
+Tommen Baratheon,Myrcella Baratheon

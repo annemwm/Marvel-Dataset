@@ -1,0 +1,667 @@
+NAME 1,NAME 2
+Eddard 'Ned' Stark,Robert Baratheon
+Eddard 'Ned' Stark,Jaime Lannister
+Eddard 'Ned' Stark,Cersei Lannister
+Eddard 'Ned' Stark,Daenerys Targaryen
+Eddard 'Ned' Stark,Jorah Mormont
+Eddard 'Ned' Stark,Petyr 'Littlefinger' Baelish
+Eddard 'Ned' Stark,Jon Snow
+Eddard 'Ned' Stark,Maester Luwin
+Eddard 'Ned' Stark,Lord Varys
+Eddard 'Ned' Stark,Tywin Lannister
+Eddard 'Ned' Stark,Samwell Tarly
+Eddard 'Ned' Stark,Ros
+Eddard 'Ned' Stark,Pypar
+Eddard 'Ned' Stark,Irri
+Eddard 'Ned' Stark,Doreah
+Eddard 'Ned' Stark,Qotho
+Eddard 'Ned' Stark,Armeca
+Eddard 'Ned' Stark,Othell Yarwyck
+Eddard 'Ned' Stark,Khal Drogo
+Eddard 'Ned' Stark,Theon Greyjoy
+Eddard 'Ned' Stark,Joffrey Baratheon
+Eddard 'Ned' Stark,Sandor 'The Hound' Clegane
+Eddard 'Ned' Stark,Jeor Mormont
+Eddard 'Ned' Stark,Alliser Thorne
+Eddard 'Ned' Stark,Barristan Selmy
+Eddard 'Ned' Stark,Maester Aemon
+Eddard 'Ned' Stark,Grand Maester Pycelle
+Eddard 'Ned' Stark,Renly Baratheon
+Eddard 'Ned' Stark,Janos Slynt
+Eddard 'Ned' Stark,Osha
+Eddard 'Ned' Stark,Grenn
+Eddard 'Ned' Stark,Rast
+Eddard 'Ned' Stark,Rakharo
+Eddard 'Ned' Stark,Varly
+Eddard 'Ned' Stark,Jaremy Rykker
+Eddard 'Ned' Stark,Tomard
+Robert Baratheon,Jaime Lannister
+Robert Baratheon,Cersei Lannister
+Robert Baratheon,Daenerys Targaryen
+Robert Baratheon,Jorah Mormont
+Robert Baratheon,Petyr 'Littlefinger' Baelish
+Robert Baratheon,Jon Snow
+Robert Baratheon,Maester Luwin
+Robert Baratheon,Lord Varys
+Robert Baratheon,Tywin Lannister
+Robert Baratheon,Samwell Tarly
+Robert Baratheon,Ros
+Robert Baratheon,Pypar
+Robert Baratheon,Irri
+Robert Baratheon,Doreah
+Robert Baratheon,Qotho
+Robert Baratheon,Armeca
+Robert Baratheon,Othell Yarwyck
+Robert Baratheon,Khal Drogo
+Robert Baratheon,Theon Greyjoy
+Robert Baratheon,Joffrey Baratheon
+Robert Baratheon,Sandor 'The Hound' Clegane
+Robert Baratheon,Jeor Mormont
+Robert Baratheon,Alliser Thorne
+Robert Baratheon,Barristan Selmy
+Robert Baratheon,Maester Aemon
+Robert Baratheon,Grand Maester Pycelle
+Robert Baratheon,Renly Baratheon
+Robert Baratheon,Janos Slynt
+Robert Baratheon,Osha
+Robert Baratheon,Grenn
+Robert Baratheon,Rast
+Robert Baratheon,Rakharo
+Robert Baratheon,Varly
+Robert Baratheon,Jaremy Rykker
+Robert Baratheon,Tomard
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Jon Snow
+Jaime Lannister,Maester Luwin
+Jaime Lannister,Lord Varys
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Ros
+Jaime Lannister,Pypar
+Jaime Lannister,Irri
+Jaime Lannister,Doreah
+Jaime Lannister,Qotho
+Jaime Lannister,Armeca
+Jaime Lannister,Othell Yarwyck
+Jaime Lannister,Khal Drogo
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Jeor Mormont
+Jaime Lannister,Alliser Thorne
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Maester Aemon
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Renly Baratheon
+Jaime Lannister,Janos Slynt
+Jaime Lannister,Osha
+Jaime Lannister,Grenn
+Jaime Lannister,Rast
+Jaime Lannister,Rakharo
+Jaime Lannister,Varly
+Jaime Lannister,Jaremy Rykker
+Jaime Lannister,Tomard
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Jon Snow
+Cersei Lannister,Maester Luwin
+Cersei Lannister,Lord Varys
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Ros
+Cersei Lannister,Pypar
+Cersei Lannister,Irri
+Cersei Lannister,Doreah
+Cersei Lannister,Qotho
+Cersei Lannister,Armeca
+Cersei Lannister,Othell Yarwyck
+Cersei Lannister,Khal Drogo
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Jeor Mormont
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Maester Aemon
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Renly Baratheon
+Cersei Lannister,Janos Slynt
+Cersei Lannister,Osha
+Cersei Lannister,Grenn
+Cersei Lannister,Rast
+Cersei Lannister,Rakharo
+Cersei Lannister,Varly
+Cersei Lannister,Jaremy Rykker
+Cersei Lannister,Tomard
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Maester Luwin
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Pypar
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Doreah
+Daenerys Targaryen,Qotho
+Daenerys Targaryen,Armeca
+Daenerys Targaryen,Othell Yarwyck
+Daenerys Targaryen,Khal Drogo
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Jeor Mormont
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Renly Baratheon
+Daenerys Targaryen,Janos Slynt
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Rast
+Daenerys Targaryen,Rakharo
+Daenerys Targaryen,Varly
+Daenerys Targaryen,Jaremy Rykker
+Daenerys Targaryen,Tomard
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Jon Snow
+Jorah Mormont,Maester Luwin
+Jorah Mormont,Lord Varys
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Ros
+Jorah Mormont,Pypar
+Jorah Mormont,Irri
+Jorah Mormont,Doreah
+Jorah Mormont,Qotho
+Jorah Mormont,Armeca
+Jorah Mormont,Othell Yarwyck
+Jorah Mormont,Khal Drogo
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Jeor Mormont
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Maester Aemon
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Renly Baratheon
+Jorah Mormont,Janos Slynt
+Jorah Mormont,Osha
+Jorah Mormont,Grenn
+Jorah Mormont,Rast
+Jorah Mormont,Rakharo
+Jorah Mormont,Varly
+Jorah Mormont,Jaremy Rykker
+Jorah Mormont,Tomard
+Petyr 'Littlefinger' Baelish,Jon Snow
+Petyr 'Littlefinger' Baelish,Maester Luwin
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Tywin Lannister
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Ros
+Petyr 'Littlefinger' Baelish,Pypar
+Petyr 'Littlefinger' Baelish,Irri
+Petyr 'Littlefinger' Baelish,Doreah
+Petyr 'Littlefinger' Baelish,Qotho
+Petyr 'Littlefinger' Baelish,Armeca
+Petyr 'Littlefinger' Baelish,Othell Yarwyck
+Petyr 'Littlefinger' Baelish,Khal Drogo
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Sandor 'The Hound' Clegane
+Petyr 'Littlefinger' Baelish,Jeor Mormont
+Petyr 'Littlefinger' Baelish,Alliser Thorne
+Petyr 'Littlefinger' Baelish,Barristan Selmy
+Petyr 'Littlefinger' Baelish,Maester Aemon
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Renly Baratheon
+Petyr 'Littlefinger' Baelish,Janos Slynt
+Petyr 'Littlefinger' Baelish,Osha
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Rast
+Petyr 'Littlefinger' Baelish,Rakharo
+Petyr 'Littlefinger' Baelish,Varly
+Petyr 'Littlefinger' Baelish,Jaremy Rykker
+Petyr 'Littlefinger' Baelish,Tomard
+Jon Snow,Maester Luwin
+Jon Snow,Lord Varys
+Jon Snow,Tywin Lannister
+Jon Snow,Samwell Tarly
+Jon Snow,Ros
+Jon Snow,Pypar
+Jon Snow,Irri
+Jon Snow,Doreah
+Jon Snow,Qotho
+Jon Snow,Armeca
+Jon Snow,Othell Yarwyck
+Jon Snow,Khal Drogo
+Jon Snow,Theon Greyjoy
+Jon Snow,Joffrey Baratheon
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Jeor Mormont
+Jon Snow,Alliser Thorne
+Jon Snow,Barristan Selmy
+Jon Snow,Maester Aemon
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Renly Baratheon
+Jon Snow,Janos Slynt
+Jon Snow,Osha
+Jon Snow,Grenn
+Jon Snow,Rast
+Jon Snow,Rakharo
+Jon Snow,Varly
+Jon Snow,Jaremy Rykker
+Jon Snow,Tomard
+Maester Luwin,Lord Varys
+Maester Luwin,Tywin Lannister
+Maester Luwin,Samwell Tarly
+Maester Luwin,Ros
+Maester Luwin,Pypar
+Maester Luwin,Irri
+Maester Luwin,Doreah
+Maester Luwin,Qotho
+Maester Luwin,Armeca
+Maester Luwin,Othell Yarwyck
+Maester Luwin,Khal Drogo
+Maester Luwin,Theon Greyjoy
+Maester Luwin,Joffrey Baratheon
+Maester Luwin,Sandor 'The Hound' Clegane
+Maester Luwin,Jeor Mormont
+Maester Luwin,Alliser Thorne
+Maester Luwin,Barristan Selmy
+Maester Luwin,Maester Aemon
+Maester Luwin,Grand Maester Pycelle
+Maester Luwin,Renly Baratheon
+Maester Luwin,Janos Slynt
+Maester Luwin,Osha
+Maester Luwin,Grenn
+Maester Luwin,Rast
+Maester Luwin,Rakharo
+Maester Luwin,Varly
+Maester Luwin,Jaremy Rykker
+Maester Luwin,Tomard
+Lord Varys,Tywin Lannister
+Lord Varys,Samwell Tarly
+Lord Varys,Ros
+Lord Varys,Pypar
+Lord Varys,Irri
+Lord Varys,Doreah
+Lord Varys,Qotho
+Lord Varys,Armeca
+Lord Varys,Othell Yarwyck
+Lord Varys,Khal Drogo
+Lord Varys,Theon Greyjoy
+Lord Varys,Joffrey Baratheon
+Lord Varys,Sandor 'The Hound' Clegane
+Lord Varys,Jeor Mormont
+Lord Varys,Alliser Thorne
+Lord Varys,Barristan Selmy
+Lord Varys,Maester Aemon
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Renly Baratheon
+Lord Varys,Janos Slynt
+Lord Varys,Osha
+Lord Varys,Grenn
+Lord Varys,Rast
+Lord Varys,Rakharo
+Lord Varys,Varly
+Lord Varys,Jaremy Rykker
+Lord Varys,Tomard
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Ros
+Tywin Lannister,Pypar
+Tywin Lannister,Irri
+Tywin Lannister,Doreah
+Tywin Lannister,Qotho
+Tywin Lannister,Armeca
+Tywin Lannister,Othell Yarwyck
+Tywin Lannister,Khal Drogo
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Jeor Mormont
+Tywin Lannister,Alliser Thorne
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Maester Aemon
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Renly Baratheon
+Tywin Lannister,Janos Slynt
+Tywin Lannister,Osha
+Tywin Lannister,Grenn
+Tywin Lannister,Rast
+Tywin Lannister,Rakharo
+Tywin Lannister,Varly
+Tywin Lannister,Jaremy Rykker
+Tywin Lannister,Tomard
+Samwell Tarly,Ros
+Samwell Tarly,Pypar
+Samwell Tarly,Irri
+Samwell Tarly,Doreah
+Samwell Tarly,Qotho
+Samwell Tarly,Armeca
+Samwell Tarly,Othell Yarwyck
+Samwell Tarly,Khal Drogo
+Samwell Tarly,Theon Greyjoy
+Samwell Tarly,Joffrey Baratheon
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Jeor Mormont
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Renly Baratheon
+Samwell Tarly,Janos Slynt
+Samwell Tarly,Osha
+Samwell Tarly,Grenn
+Samwell Tarly,Rast
+Samwell Tarly,Rakharo
+Samwell Tarly,Varly
+Samwell Tarly,Jaremy Rykker
+Samwell Tarly,Tomard
+Ros,Pypar
+Ros,Irri
+Ros,Doreah
+Ros,Qotho
+Ros,Armeca
+Ros,Othell Yarwyck
+Ros,Khal Drogo
+Ros,Theon Greyjoy
+Ros,Joffrey Baratheon
+Ros,Sandor 'The Hound' Clegane
+Ros,Jeor Mormont
+Ros,Alliser Thorne
+Ros,Barristan Selmy
+Ros,Maester Aemon
+Ros,Grand Maester Pycelle
+Ros,Renly Baratheon
+Ros,Janos Slynt
+Ros,Osha
+Ros,Grenn
+Ros,Rast
+Ros,Rakharo
+Ros,Varly
+Ros,Jaremy Rykker
+Ros,Tomard
+Pypar,Irri
+Pypar,Doreah
+Pypar,Qotho
+Pypar,Armeca
+Pypar,Othell Yarwyck
+Pypar,Khal Drogo
+Pypar,Theon Greyjoy
+Pypar,Joffrey Baratheon
+Pypar,Sandor 'The Hound' Clegane
+Pypar,Jeor Mormont
+Pypar,Alliser Thorne
+Pypar,Barristan Selmy
+Pypar,Maester Aemon
+Pypar,Grand Maester Pycelle
+Pypar,Renly Baratheon
+Pypar,Janos Slynt
+Pypar,Osha
+Pypar,Grenn
+Pypar,Rast
+Pypar,Rakharo
+Pypar,Varly
+Pypar,Jaremy Rykker
+Pypar,Tomard
+Irri,Doreah
+Irri,Qotho
+Irri,Armeca
+Irri,Othell Yarwyck
+Irri,Khal Drogo
+Irri,Theon Greyjoy
+Irri,Joffrey Baratheon
+Irri,Sandor 'The Hound' Clegane
+Irri,Jeor Mormont
+Irri,Alliser Thorne
+Irri,Barristan Selmy
+Irri,Maester Aemon
+Irri,Grand Maester Pycelle
+Irri,Renly Baratheon
+Irri,Janos Slynt
+Irri,Osha
+Irri,Grenn
+Irri,Rast
+Irri,Rakharo
+Irri,Varly
+Irri,Jaremy Rykker
+Irri,Tomard
+Doreah,Qotho
+Doreah,Armeca
+Doreah,Othell Yarwyck
+Doreah,Khal Drogo
+Doreah,Theon Greyjoy
+Doreah,Joffrey Baratheon
+Doreah,Sandor 'The Hound' Clegane
+Doreah,Jeor Mormont
+Doreah,Alliser Thorne
+Doreah,Barristan Selmy
+Doreah,Maester Aemon
+Doreah,Grand Maester Pycelle
+Doreah,Renly Baratheon
+Doreah,Janos Slynt
+Doreah,Osha
+Doreah,Grenn
+Doreah,Rast
+Doreah,Rakharo
+Doreah,Varly
+Doreah,Jaremy Rykker
+Doreah,Tomard
+Qotho,Armeca
+Qotho,Othell Yarwyck
+Qotho,Khal Drogo
+Qotho,Theon Greyjoy
+Qotho,Joffrey Baratheon
+Qotho,Sandor 'The Hound' Clegane
+Qotho,Jeor Mormont
+Qotho,Alliser Thorne
+Qotho,Barristan Selmy
+Qotho,Maester Aemon
+Qotho,Grand Maester Pycelle
+Qotho,Renly Baratheon
+Qotho,Janos Slynt
+Qotho,Osha
+Qotho,Grenn
+Qotho,Rast
+Qotho,Rakharo
+Qotho,Varly
+Qotho,Jaremy Rykker
+Qotho,Tomard
+Armeca,Othell Yarwyck
+Armeca,Khal Drogo
+Armeca,Theon Greyjoy
+Armeca,Joffrey Baratheon
+Armeca,Sandor 'The Hound' Clegane
+Armeca,Jeor Mormont
+Armeca,Alliser Thorne
+Armeca,Barristan Selmy
+Armeca,Maester Aemon
+Armeca,Grand Maester Pycelle
+Armeca,Renly Baratheon
+Armeca,Janos Slynt
+Armeca,Osha
+Armeca,Grenn
+Armeca,Rast
+Armeca,Rakharo
+Armeca,Varly
+Armeca,Jaremy Rykker
+Armeca,Tomard
+Othell Yarwyck,Khal Drogo
+Othell Yarwyck,Theon Greyjoy
+Othell Yarwyck,Joffrey Baratheon
+Othell Yarwyck,Sandor 'The Hound' Clegane
+Othell Yarwyck,Jeor Mormont
+Othell Yarwyck,Alliser Thorne
+Othell Yarwyck,Barristan Selmy
+Othell Yarwyck,Maester Aemon
+Othell Yarwyck,Grand Maester Pycelle
+Othell Yarwyck,Renly Baratheon
+Othell Yarwyck,Janos Slynt
+Othell Yarwyck,Osha
+Othell Yarwyck,Grenn
+Othell Yarwyck,Rast
+Othell Yarwyck,Rakharo
+Othell Yarwyck,Varly
+Othell Yarwyck,Jaremy Rykker
+Othell Yarwyck,Tomard
+Khal Drogo,Theon Greyjoy
+Khal Drogo,Joffrey Baratheon
+Khal Drogo,Sandor 'The Hound' Clegane
+Khal Drogo,Jeor Mormont
+Khal Drogo,Alliser Thorne
+Khal Drogo,Barristan Selmy
+Khal Drogo,Maester Aemon
+Khal Drogo,Grand Maester Pycelle
+Khal Drogo,Renly Baratheon
+Khal Drogo,Janos Slynt
+Khal Drogo,Osha
+Khal Drogo,Grenn
+Khal Drogo,Rast
+Khal Drogo,Rakharo
+Khal Drogo,Varly
+Khal Drogo,Jaremy Rykker
+Khal Drogo,Tomard
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Jeor Mormont
+Theon Greyjoy,Alliser Thorne
+Theon Greyjoy,Barristan Selmy
+Theon Greyjoy,Maester Aemon
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Renly Baratheon
+Theon Greyjoy,Janos Slynt
+Theon Greyjoy,Osha
+Theon Greyjoy,Grenn
+Theon Greyjoy,Rast
+Theon Greyjoy,Rakharo
+Theon Greyjoy,Varly
+Theon Greyjoy,Jaremy Rykker
+Theon Greyjoy,Tomard
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Jeor Mormont
+Joffrey Baratheon,Alliser Thorne
+Joffrey Baratheon,Barristan Selmy
+Joffrey Baratheon,Maester Aemon
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Renly Baratheon
+Joffrey Baratheon,Janos Slynt
+Joffrey Baratheon,Osha
+Joffrey Baratheon,Grenn
+Joffrey Baratheon,Rast
+Joffrey Baratheon,Rakharo
+Joffrey Baratheon,Varly
+Joffrey Baratheon,Jaremy Rykker
+Joffrey Baratheon,Tomard
+Sandor 'The Hound' Clegane,Jeor Mormont
+Sandor 'The Hound' Clegane,Alliser Thorne
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Maester Aemon
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Renly Baratheon
+Sandor 'The Hound' Clegane,Janos Slynt
+Sandor 'The Hound' Clegane,Osha
+Sandor 'The Hound' Clegane,Grenn
+Sandor 'The Hound' Clegane,Rast
+Sandor 'The Hound' Clegane,Rakharo
+Sandor 'The Hound' Clegane,Varly
+Sandor 'The Hound' Clegane,Jaremy Rykker
+Sandor 'The Hound' Clegane,Tomard
+Jeor Mormont,Alliser Thorne
+Jeor Mormont,Barristan Selmy
+Jeor Mormont,Maester Aemon
+Jeor Mormont,Grand Maester Pycelle
+Jeor Mormont,Renly Baratheon
+Jeor Mormont,Janos Slynt
+Jeor Mormont,Osha
+Jeor Mormont,Grenn
+Jeor Mormont,Rast
+Jeor Mormont,Rakharo
+Jeor Mormont,Varly
+Jeor Mormont,Jaremy Rykker
+Jeor Mormont,Tomard
+Alliser Thorne,Barristan Selmy
+Alliser Thorne,Maester Aemon
+Alliser Thorne,Grand Maester Pycelle
+Alliser Thorne,Renly Baratheon
+Alliser Thorne,Janos Slynt
+Alliser Thorne,Osha
+Alliser Thorne,Grenn
+Alliser Thorne,Rast
+Alliser Thorne,Rakharo
+Alliser Thorne,Varly
+Alliser Thorne,Jaremy Rykker
+Alliser Thorne,Tomard
+Barristan Selmy,Maester Aemon
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Renly Baratheon
+Barristan Selmy,Janos Slynt
+Barristan Selmy,Osha
+Barristan Selmy,Grenn
+Barristan Selmy,Rast
+Barristan Selmy,Rakharo
+Barristan Selmy,Varly
+Barristan Selmy,Jaremy Rykker
+Barristan Selmy,Tomard
+Maester Aemon,Grand Maester Pycelle
+Maester Aemon,Renly Baratheon
+Maester Aemon,Janos Slynt
+Maester Aemon,Osha
+Maester Aemon,Grenn
+Maester Aemon,Rast
+Maester Aemon,Rakharo
+Maester Aemon,Varly
+Maester Aemon,Jaremy Rykker
+Maester Aemon,Tomard
+Grand Maester Pycelle,Renly Baratheon
+Grand Maester Pycelle,Janos Slynt
+Grand Maester Pycelle,Osha
+Grand Maester Pycelle,Grenn
+Grand Maester Pycelle,Rast
+Grand Maester Pycelle,Rakharo
+Grand Maester Pycelle,Varly
+Grand Maester Pycelle,Jaremy Rykker
+Grand Maester Pycelle,Tomard
+Renly Baratheon,Janos Slynt
+Renly Baratheon,Osha
+Renly Baratheon,Grenn
+Renly Baratheon,Rast
+Renly Baratheon,Rakharo
+Renly Baratheon,Varly
+Renly Baratheon,Jaremy Rykker
+Renly Baratheon,Tomard
+Janos Slynt,Osha
+Janos Slynt,Grenn
+Janos Slynt,Rast
+Janos Slynt,Rakharo
+Janos Slynt,Varly
+Janos Slynt,Jaremy Rykker
+Janos Slynt,Tomard
+Osha,Grenn
+Osha,Rast
+Osha,Rakharo
+Osha,Varly
+Osha,Jaremy Rykker
+Osha,Tomard
+Grenn,Rast
+Grenn,Rakharo
+Grenn,Varly
+Grenn,Jaremy Rykker
+Grenn,Tomard
+Rast,Rakharo
+Rast,Varly
+Rast,Jaremy Rykker
+Rast,Tomard
+Rakharo,Varly
+Rakharo,Jaremy Rykker
+Rakharo,Tomard
+Varly,Jaremy Rykker
+Varly,Tomard
+Jaremy Rykker,Tomard

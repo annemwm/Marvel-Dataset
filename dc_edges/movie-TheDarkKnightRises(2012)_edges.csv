@@ -1,0 +1,254 @@
+NAME 1,NAME 2
+Bruce Wayne / Batman,Commissioner Gordon
+Bruce Wayne / Batman,Bane
+Bruce Wayne / Batman,Blake
+Bruce Wayne / Batman,Selina
+Bruce Wayne / Batman,Miranda
+Bruce Wayne / Batman,Fox
+Bruce Wayne / Batman,Alfred
+Bruce Wayne / Batman,Foley
+Bruce Wayne / Batman,Dr. Pavel
+Bruce Wayne / Batman,Daggett
+Bruce Wayne / Batman,Stryver
+Bruce Wayne / Batman,Captain Jones
+Bruce Wayne / Batman,Allen
+Bruce Wayne / Batman,Fredericks
+Bruce Wayne / Batman,Barsad
+Bruce Wayne / Batman,Ra's Al Ghul
+Bruce Wayne / Batman,Dr. Jonathan Crane / Scarecrow
+Bruce Wayne / Batman,Harvey Dent
+Bruce Wayne / Batman,Ross
+Bruce Wayne / Batman,Fr. Reilly
+Bruce Wayne / Batman,Jen
+Bruce Wayne / Batman,Officer Simon Jansen
+Commissioner Gordon,Bane
+Commissioner Gordon,Blake
+Commissioner Gordon,Selina
+Commissioner Gordon,Miranda
+Commissioner Gordon,Fox
+Commissioner Gordon,Alfred
+Commissioner Gordon,Foley
+Commissioner Gordon,Dr. Pavel
+Commissioner Gordon,Daggett
+Commissioner Gordon,Stryver
+Commissioner Gordon,Captain Jones
+Commissioner Gordon,Allen
+Commissioner Gordon,Fredericks
+Commissioner Gordon,Barsad
+Commissioner Gordon,Ra's Al Ghul
+Commissioner Gordon,Dr. Jonathan Crane / Scarecrow
+Commissioner Gordon,Harvey Dent
+Commissioner Gordon,Ross
+Commissioner Gordon,Fr. Reilly
+Commissioner Gordon,Jen
+Commissioner Gordon,Officer Simon Jansen
+Bane,Blake
+Bane,Selina
+Bane,Miranda
+Bane,Fox
+Bane,Alfred
+Bane,Foley
+Bane,Dr. Pavel
+Bane,Daggett
+Bane,Stryver
+Bane,Captain Jones
+Bane,Allen
+Bane,Fredericks
+Bane,Barsad
+Bane,Ra's Al Ghul
+Bane,Dr. Jonathan Crane / Scarecrow
+Bane,Harvey Dent
+Bane,Ross
+Bane,Fr. Reilly
+Bane,Jen
+Bane,Officer Simon Jansen
+Blake,Selina
+Blake,Miranda
+Blake,Fox
+Blake,Alfred
+Blake,Foley
+Blake,Dr. Pavel
+Blake,Daggett
+Blake,Stryver
+Blake,Captain Jones
+Blake,Allen
+Blake,Fredericks
+Blake,Barsad
+Blake,Ra's Al Ghul
+Blake,Dr. Jonathan Crane / Scarecrow
+Blake,Harvey Dent
+Blake,Ross
+Blake,Fr. Reilly
+Blake,Jen
+Blake,Officer Simon Jansen
+Selina,Miranda
+Selina,Fox
+Selina,Alfred
+Selina,Foley
+Selina,Dr. Pavel
+Selina,Daggett
+Selina,Stryver
+Selina,Captain Jones
+Selina,Allen
+Selina,Fredericks
+Selina,Barsad
+Selina,Ra's Al Ghul
+Selina,Dr. Jonathan Crane / Scarecrow
+Selina,Harvey Dent
+Selina,Ross
+Selina,Fr. Reilly
+Selina,Jen
+Selina,Officer Simon Jansen
+Miranda,Fox
+Miranda,Alfred
+Miranda,Foley
+Miranda,Dr. Pavel
+Miranda,Daggett
+Miranda,Stryver
+Miranda,Captain Jones
+Miranda,Allen
+Miranda,Fredericks
+Miranda,Barsad
+Miranda,Ra's Al Ghul
+Miranda,Dr. Jonathan Crane / Scarecrow
+Miranda,Harvey Dent
+Miranda,Ross
+Miranda,Fr. Reilly
+Miranda,Jen
+Miranda,Officer Simon Jansen
+Fox,Alfred
+Fox,Foley
+Fox,Dr. Pavel
+Fox,Daggett
+Fox,Stryver
+Fox,Captain Jones
+Fox,Allen
+Fox,Fredericks
+Fox,Barsad
+Fox,Ra's Al Ghul
+Fox,Dr. Jonathan Crane / Scarecrow
+Fox,Harvey Dent
+Fox,Ross
+Fox,Fr. Reilly
+Fox,Jen
+Fox,Officer Simon Jansen
+Alfred,Foley
+Alfred,Dr. Pavel
+Alfred,Daggett
+Alfred,Stryver
+Alfred,Captain Jones
+Alfred,Allen
+Alfred,Fredericks
+Alfred,Barsad
+Alfred,Ra's Al Ghul
+Alfred,Dr. Jonathan Crane / Scarecrow
+Alfred,Harvey Dent
+Alfred,Ross
+Alfred,Fr. Reilly
+Alfred,Jen
+Alfred,Officer Simon Jansen
+Foley,Dr. Pavel
+Foley,Daggett
+Foley,Stryver
+Foley,Captain Jones
+Foley,Allen
+Foley,Fredericks
+Foley,Barsad
+Foley,Ra's Al Ghul
+Foley,Dr. Jonathan Crane / Scarecrow
+Foley,Harvey Dent
+Foley,Ross
+Foley,Fr. Reilly
+Foley,Jen
+Foley,Officer Simon Jansen
+Dr. Pavel,Daggett
+Dr. Pavel,Stryver
+Dr. Pavel,Captain Jones
+Dr. Pavel,Allen
+Dr. Pavel,Fredericks
+Dr. Pavel,Barsad
+Dr. Pavel,Ra's Al Ghul
+Dr. Pavel,Dr. Jonathan Crane / Scarecrow
+Dr. Pavel,Harvey Dent
+Dr. Pavel,Ross
+Dr. Pavel,Fr. Reilly
+Dr. Pavel,Jen
+Dr. Pavel,Officer Simon Jansen
+Daggett,Stryver
+Daggett,Captain Jones
+Daggett,Allen
+Daggett,Fredericks
+Daggett,Barsad
+Daggett,Ra's Al Ghul
+Daggett,Dr. Jonathan Crane / Scarecrow
+Daggett,Harvey Dent
+Daggett,Ross
+Daggett,Fr. Reilly
+Daggett,Jen
+Daggett,Officer Simon Jansen
+Stryver,Captain Jones
+Stryver,Allen
+Stryver,Fredericks
+Stryver,Barsad
+Stryver,Ra's Al Ghul
+Stryver,Dr. Jonathan Crane / Scarecrow
+Stryver,Harvey Dent
+Stryver,Ross
+Stryver,Fr. Reilly
+Stryver,Jen
+Stryver,Officer Simon Jansen
+Captain Jones,Allen
+Captain Jones,Fredericks
+Captain Jones,Barsad
+Captain Jones,Ra's Al Ghul
+Captain Jones,Dr. Jonathan Crane / Scarecrow
+Captain Jones,Harvey Dent
+Captain Jones,Ross
+Captain Jones,Fr. Reilly
+Captain Jones,Jen
+Captain Jones,Officer Simon Jansen
+Allen,Fredericks
+Allen,Barsad
+Allen,Ra's Al Ghul
+Allen,Dr. Jonathan Crane / Scarecrow
+Allen,Harvey Dent
+Allen,Ross
+Allen,Fr. Reilly
+Allen,Jen
+Allen,Officer Simon Jansen
+Fredericks,Barsad
+Fredericks,Ra's Al Ghul
+Fredericks,Dr. Jonathan Crane / Scarecrow
+Fredericks,Harvey Dent
+Fredericks,Ross
+Fredericks,Fr. Reilly
+Fredericks,Jen
+Fredericks,Officer Simon Jansen
+Barsad,Ra's Al Ghul
+Barsad,Dr. Jonathan Crane / Scarecrow
+Barsad,Harvey Dent
+Barsad,Ross
+Barsad,Fr. Reilly
+Barsad,Jen
+Barsad,Officer Simon Jansen
+Ra's Al Ghul,Dr. Jonathan Crane / Scarecrow
+Ra's Al Ghul,Harvey Dent
+Ra's Al Ghul,Ross
+Ra's Al Ghul,Fr. Reilly
+Ra's Al Ghul,Jen
+Ra's Al Ghul,Officer Simon Jansen
+Dr. Jonathan Crane / Scarecrow,Harvey Dent
+Dr. Jonathan Crane / Scarecrow,Ross
+Dr. Jonathan Crane / Scarecrow,Fr. Reilly
+Dr. Jonathan Crane / Scarecrow,Jen
+Dr. Jonathan Crane / Scarecrow,Officer Simon Jansen
+Harvey Dent,Ross
+Harvey Dent,Fr. Reilly
+Harvey Dent,Jen
+Harvey Dent,Officer Simon Jansen
+Ross,Fr. Reilly
+Ross,Jen
+Ross,Officer Simon Jansen
+Fr. Reilly,Jen
+Fr. Reilly,Officer Simon Jansen
+Jen,Officer Simon Jansen

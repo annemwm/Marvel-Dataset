@@ -1,0 +1,947 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Jaqen H'ghar
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Ramsay Bolton
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Janos Slynt
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Walda Bolton
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,High Sparrow
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Mace Tyrell
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,The Waif
+Tyrion Lannister,Olly
+Tyrion Lannister,Olyvar
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Myranda
+Tyrion Lannister,High Septon
+Tyrion Lannister,Othell Yarwyck
+Tyrion Lannister,Bowen Marsh
+Tyrion Lannister,Clea
+Tyrion Lannister,The Stranger / The Mother of Dragons
+Tyrion Lannister,The Warrior
+Tyrion Lannister,The Smith       (as Portia Victoria)
+Tyrion Lannister,The Mother
+Tyrion Lannister,The Maiden
+Tyrion Lannister,The Crone
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Lord Varys
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Jaqen H'ghar
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Ramsay Bolton
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Qyburn
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Janos Slynt
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Lancel Lannister
+Cersei Lannister,Walda Bolton
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,High Sparrow
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Mace Tyrell
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,The Waif
+Cersei Lannister,Olly
+Cersei Lannister,Olyvar
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Myranda
+Cersei Lannister,High Septon
+Cersei Lannister,Othell Yarwyck
+Cersei Lannister,Bowen Marsh
+Cersei Lannister,Clea
+Cersei Lannister,The Stranger / The Mother of Dragons
+Cersei Lannister,The Warrior
+Cersei Lannister,The Smith       (as Portia Victoria)
+Cersei Lannister,The Mother
+Cersei Lannister,The Maiden
+Cersei Lannister,The Crone
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Margaery Tyrell
+Jon Snow,Stannis Baratheon
+Jon Snow,Lord Varys
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Samwell Tarly
+Jon Snow,Brienne of Tarth
+Jon Snow,Tommen Baratheon
+Jon Snow,Jaqen H'ghar
+Jon Snow,Roose Bolton
+Jon Snow,Ramsay Bolton
+Jon Snow,Jorah Mormont
+Jon Snow,Qyburn
+Jon Snow,Podrick Payne
+Jon Snow,Janos Slynt
+Jon Snow,Meryn Trant
+Jon Snow,Lancel Lannister
+Jon Snow,Walda Bolton
+Jon Snow,Davos Seaworth
+Jon Snow,Theon Greyjoy
+Jon Snow,High Sparrow
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Alliser Thorne
+Jon Snow,Mace Tyrell
+Jon Snow,Eddison Tollett
+Jon Snow,The Waif
+Jon Snow,Olly
+Jon Snow,Olyvar
+Jon Snow,Loras Tyrell
+Jon Snow,Myranda
+Jon Snow,High Septon
+Jon Snow,Othell Yarwyck
+Jon Snow,Bowen Marsh
+Jon Snow,Clea
+Jon Snow,The Stranger / The Mother of Dragons
+Jon Snow,The Warrior
+Jon Snow,The Smith       (as Portia Victoria)
+Jon Snow,The Mother
+Jon Snow,The Maiden
+Jon Snow,The Crone
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Tommen Baratheon
+Petyr 'Littlefinger' Baelish,Jaqen H'ghar
+Petyr 'Littlefinger' Baelish,Roose Bolton
+Petyr 'Littlefinger' Baelish,Ramsay Bolton
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Qyburn
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Janos Slynt
+Petyr 'Littlefinger' Baelish,Meryn Trant
+Petyr 'Littlefinger' Baelish,Lancel Lannister
+Petyr 'Littlefinger' Baelish,Walda Bolton
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,High Sparrow
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Alliser Thorne
+Petyr 'Littlefinger' Baelish,Mace Tyrell
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,The Waif
+Petyr 'Littlefinger' Baelish,Olly
+Petyr 'Littlefinger' Baelish,Olyvar
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Myranda
+Petyr 'Littlefinger' Baelish,High Septon
+Petyr 'Littlefinger' Baelish,Othell Yarwyck
+Petyr 'Littlefinger' Baelish,Bowen Marsh
+Petyr 'Littlefinger' Baelish,Clea
+Petyr 'Littlefinger' Baelish,The Stranger / The Mother of Dragons
+Petyr 'Littlefinger' Baelish,The Warrior
+Petyr 'Littlefinger' Baelish,The Smith       (as Portia Victoria)
+Petyr 'Littlefinger' Baelish,The Mother
+Petyr 'Littlefinger' Baelish,The Maiden
+Petyr 'Littlefinger' Baelish,The Crone
+Margaery Tyrell,Stannis Baratheon
+Margaery Tyrell,Lord Varys
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Arya Stark
+Margaery Tyrell,Samwell Tarly
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,Tommen Baratheon
+Margaery Tyrell,Jaqen H'ghar
+Margaery Tyrell,Roose Bolton
+Margaery Tyrell,Ramsay Bolton
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,Qyburn
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Janos Slynt
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,Lancel Lannister
+Margaery Tyrell,Walda Bolton
+Margaery Tyrell,Davos Seaworth
+Margaery Tyrell,Theon Greyjoy
+Margaery Tyrell,High Sparrow
+Margaery Tyrell,Grand Maester Pycelle
+Margaery Tyrell,Alliser Thorne
+Margaery Tyrell,Mace Tyrell
+Margaery Tyrell,Eddison Tollett
+Margaery Tyrell,The Waif
+Margaery Tyrell,Olly
+Margaery Tyrell,Olyvar
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Myranda
+Margaery Tyrell,High Septon
+Margaery Tyrell,Othell Yarwyck
+Margaery Tyrell,Bowen Marsh
+Margaery Tyrell,Clea
+Margaery Tyrell,The Stranger / The Mother of Dragons
+Margaery Tyrell,The Warrior
+Margaery Tyrell,The Smith       (as Portia Victoria)
+Margaery Tyrell,The Mother
+Margaery Tyrell,The Maiden
+Margaery Tyrell,The Crone
+Stannis Baratheon,Lord Varys
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Arya Stark
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Tommen Baratheon
+Stannis Baratheon,Jaqen H'ghar
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Ramsay Bolton
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,Qyburn
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Janos Slynt
+Stannis Baratheon,Meryn Trant
+Stannis Baratheon,Lancel Lannister
+Stannis Baratheon,Walda Bolton
+Stannis Baratheon,Davos Seaworth
+Stannis Baratheon,Theon Greyjoy
+Stannis Baratheon,High Sparrow
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Alliser Thorne
+Stannis Baratheon,Mace Tyrell
+Stannis Baratheon,Eddison Tollett
+Stannis Baratheon,The Waif
+Stannis Baratheon,Olly
+Stannis Baratheon,Olyvar
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Myranda
+Stannis Baratheon,High Septon
+Stannis Baratheon,Othell Yarwyck
+Stannis Baratheon,Bowen Marsh
+Stannis Baratheon,Clea
+Stannis Baratheon,The Stranger / The Mother of Dragons
+Stannis Baratheon,The Warrior
+Stannis Baratheon,The Smith       (as Portia Victoria)
+Stannis Baratheon,The Mother
+Stannis Baratheon,The Maiden
+Stannis Baratheon,The Crone
+Lord Varys,Sansa Stark
+Lord Varys,Arya Stark
+Lord Varys,Samwell Tarly
+Lord Varys,Brienne of Tarth
+Lord Varys,Tommen Baratheon
+Lord Varys,Jaqen H'ghar
+Lord Varys,Roose Bolton
+Lord Varys,Ramsay Bolton
+Lord Varys,Jorah Mormont
+Lord Varys,Qyburn
+Lord Varys,Podrick Payne
+Lord Varys,Janos Slynt
+Lord Varys,Meryn Trant
+Lord Varys,Lancel Lannister
+Lord Varys,Walda Bolton
+Lord Varys,Davos Seaworth
+Lord Varys,Theon Greyjoy
+Lord Varys,High Sparrow
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Alliser Thorne
+Lord Varys,Mace Tyrell
+Lord Varys,Eddison Tollett
+Lord Varys,The Waif
+Lord Varys,Olly
+Lord Varys,Olyvar
+Lord Varys,Loras Tyrell
+Lord Varys,Myranda
+Lord Varys,High Septon
+Lord Varys,Othell Yarwyck
+Lord Varys,Bowen Marsh
+Lord Varys,Clea
+Lord Varys,The Stranger / The Mother of Dragons
+Lord Varys,The Warrior
+Lord Varys,The Smith       (as Portia Victoria)
+Lord Varys,The Mother
+Lord Varys,The Maiden
+Lord Varys,The Crone
+Sansa Stark,Arya Stark
+Sansa Stark,Samwell Tarly
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Jaqen H'ghar
+Sansa Stark,Roose Bolton
+Sansa Stark,Ramsay Bolton
+Sansa Stark,Jorah Mormont
+Sansa Stark,Qyburn
+Sansa Stark,Podrick Payne
+Sansa Stark,Janos Slynt
+Sansa Stark,Meryn Trant
+Sansa Stark,Lancel Lannister
+Sansa Stark,Walda Bolton
+Sansa Stark,Davos Seaworth
+Sansa Stark,Theon Greyjoy
+Sansa Stark,High Sparrow
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Alliser Thorne
+Sansa Stark,Mace Tyrell
+Sansa Stark,Eddison Tollett
+Sansa Stark,The Waif
+Sansa Stark,Olly
+Sansa Stark,Olyvar
+Sansa Stark,Loras Tyrell
+Sansa Stark,Myranda
+Sansa Stark,High Septon
+Sansa Stark,Othell Yarwyck
+Sansa Stark,Bowen Marsh
+Sansa Stark,Clea
+Sansa Stark,The Stranger / The Mother of Dragons
+Sansa Stark,The Warrior
+Sansa Stark,The Smith       (as Portia Victoria)
+Sansa Stark,The Mother
+Sansa Stark,The Maiden
+Sansa Stark,The Crone
+Arya Stark,Samwell Tarly
+Arya Stark,Brienne of Tarth
+Arya Stark,Tommen Baratheon
+Arya Stark,Jaqen H'ghar
+Arya Stark,Roose Bolton
+Arya Stark,Ramsay Bolton
+Arya Stark,Jorah Mormont
+Arya Stark,Qyburn
+Arya Stark,Podrick Payne
+Arya Stark,Janos Slynt
+Arya Stark,Meryn Trant
+Arya Stark,Lancel Lannister
+Arya Stark,Walda Bolton
+Arya Stark,Davos Seaworth
+Arya Stark,Theon Greyjoy
+Arya Stark,High Sparrow
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Alliser Thorne
+Arya Stark,Mace Tyrell
+Arya Stark,Eddison Tollett
+Arya Stark,The Waif
+Arya Stark,Olly
+Arya Stark,Olyvar
+Arya Stark,Loras Tyrell
+Arya Stark,Myranda
+Arya Stark,High Septon
+Arya Stark,Othell Yarwyck
+Arya Stark,Bowen Marsh
+Arya Stark,Clea
+Arya Stark,The Stranger / The Mother of Dragons
+Arya Stark,The Warrior
+Arya Stark,The Smith       (as Portia Victoria)
+Arya Stark,The Mother
+Arya Stark,The Maiden
+Arya Stark,The Crone
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Tommen Baratheon
+Samwell Tarly,Jaqen H'ghar
+Samwell Tarly,Roose Bolton
+Samwell Tarly,Ramsay Bolton
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Qyburn
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Janos Slynt
+Samwell Tarly,Meryn Trant
+Samwell Tarly,Lancel Lannister
+Samwell Tarly,Walda Bolton
+Samwell Tarly,Davos Seaworth
+Samwell Tarly,Theon Greyjoy
+Samwell Tarly,High Sparrow
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Mace Tyrell
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,The Waif
+Samwell Tarly,Olly
+Samwell Tarly,Olyvar
+Samwell Tarly,Loras Tyrell
+Samwell Tarly,Myranda
+Samwell Tarly,High Septon
+Samwell Tarly,Othell Yarwyck
+Samwell Tarly,Bowen Marsh
+Samwell Tarly,Clea
+Samwell Tarly,The Stranger / The Mother of Dragons
+Samwell Tarly,The Warrior
+Samwell Tarly,The Smith       (as Portia Victoria)
+Samwell Tarly,The Mother
+Samwell Tarly,The Maiden
+Samwell Tarly,The Crone
+Brienne of Tarth,Tommen Baratheon
+Brienne of Tarth,Jaqen H'ghar
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Ramsay Bolton
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Qyburn
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Janos Slynt
+Brienne of Tarth,Meryn Trant
+Brienne of Tarth,Lancel Lannister
+Brienne of Tarth,Walda Bolton
+Brienne of Tarth,Davos Seaworth
+Brienne of Tarth,Theon Greyjoy
+Brienne of Tarth,High Sparrow
+Brienne of Tarth,Grand Maester Pycelle
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Mace Tyrell
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,The Waif
+Brienne of Tarth,Olly
+Brienne of Tarth,Olyvar
+Brienne of Tarth,Loras Tyrell
+Brienne of Tarth,Myranda
+Brienne of Tarth,High Septon
+Brienne of Tarth,Othell Yarwyck
+Brienne of Tarth,Bowen Marsh
+Brienne of Tarth,Clea
+Brienne of Tarth,The Stranger / The Mother of Dragons
+Brienne of Tarth,The Warrior
+Brienne of Tarth,The Smith       (as Portia Victoria)
+Brienne of Tarth,The Mother
+Brienne of Tarth,The Maiden
+Brienne of Tarth,The Crone
+Tommen Baratheon,Jaqen H'ghar
+Tommen Baratheon,Roose Bolton
+Tommen Baratheon,Ramsay Bolton
+Tommen Baratheon,Jorah Mormont
+Tommen Baratheon,Qyburn
+Tommen Baratheon,Podrick Payne
+Tommen Baratheon,Janos Slynt
+Tommen Baratheon,Meryn Trant
+Tommen Baratheon,Lancel Lannister
+Tommen Baratheon,Walda Bolton
+Tommen Baratheon,Davos Seaworth
+Tommen Baratheon,Theon Greyjoy
+Tommen Baratheon,High Sparrow
+Tommen Baratheon,Grand Maester Pycelle
+Tommen Baratheon,Alliser Thorne
+Tommen Baratheon,Mace Tyrell
+Tommen Baratheon,Eddison Tollett
+Tommen Baratheon,The Waif
+Tommen Baratheon,Olly
+Tommen Baratheon,Olyvar
+Tommen Baratheon,Loras Tyrell
+Tommen Baratheon,Myranda
+Tommen Baratheon,High Septon
+Tommen Baratheon,Othell Yarwyck
+Tommen Baratheon,Bowen Marsh
+Tommen Baratheon,Clea
+Tommen Baratheon,The Stranger / The Mother of Dragons
+Tommen Baratheon,The Warrior
+Tommen Baratheon,The Smith       (as Portia Victoria)
+Tommen Baratheon,The Mother
+Tommen Baratheon,The Maiden
+Tommen Baratheon,The Crone
+Jaqen H'ghar,Roose Bolton
+Jaqen H'ghar,Ramsay Bolton
+Jaqen H'ghar,Jorah Mormont
+Jaqen H'ghar,Qyburn
+Jaqen H'ghar,Podrick Payne
+Jaqen H'ghar,Janos Slynt
+Jaqen H'ghar,Meryn Trant
+Jaqen H'ghar,Lancel Lannister
+Jaqen H'ghar,Walda Bolton
+Jaqen H'ghar,Davos Seaworth
+Jaqen H'ghar,Theon Greyjoy
+Jaqen H'ghar,High Sparrow
+Jaqen H'ghar,Grand Maester Pycelle
+Jaqen H'ghar,Alliser Thorne
+Jaqen H'ghar,Mace Tyrell
+Jaqen H'ghar,Eddison Tollett
+Jaqen H'ghar,The Waif
+Jaqen H'ghar,Olly
+Jaqen H'ghar,Olyvar
+Jaqen H'ghar,Loras Tyrell
+Jaqen H'ghar,Myranda
+Jaqen H'ghar,High Septon
+Jaqen H'ghar,Othell Yarwyck
+Jaqen H'ghar,Bowen Marsh
+Jaqen H'ghar,Clea
+Jaqen H'ghar,The Stranger / The Mother of Dragons
+Jaqen H'ghar,The Warrior
+Jaqen H'ghar,The Smith       (as Portia Victoria)
+Jaqen H'ghar,The Mother
+Jaqen H'ghar,The Maiden
+Jaqen H'ghar,The Crone
+Roose Bolton,Ramsay Bolton
+Roose Bolton,Jorah Mormont
+Roose Bolton,Qyburn
+Roose Bolton,Podrick Payne
+Roose Bolton,Janos Slynt
+Roose Bolton,Meryn Trant
+Roose Bolton,Lancel Lannister
+Roose Bolton,Walda Bolton
+Roose Bolton,Davos Seaworth
+Roose Bolton,Theon Greyjoy
+Roose Bolton,High Sparrow
+Roose Bolton,Grand Maester Pycelle
+Roose Bolton,Alliser Thorne
+Roose Bolton,Mace Tyrell
+Roose Bolton,Eddison Tollett
+Roose Bolton,The Waif
+Roose Bolton,Olly
+Roose Bolton,Olyvar
+Roose Bolton,Loras Tyrell
+Roose Bolton,Myranda
+Roose Bolton,High Septon
+Roose Bolton,Othell Yarwyck
+Roose Bolton,Bowen Marsh
+Roose Bolton,Clea
+Roose Bolton,The Stranger / The Mother of Dragons
+Roose Bolton,The Warrior
+Roose Bolton,The Smith       (as Portia Victoria)
+Roose Bolton,The Mother
+Roose Bolton,The Maiden
+Roose Bolton,The Crone
+Ramsay Bolton,Jorah Mormont
+Ramsay Bolton,Qyburn
+Ramsay Bolton,Podrick Payne
+Ramsay Bolton,Janos Slynt
+Ramsay Bolton,Meryn Trant
+Ramsay Bolton,Lancel Lannister
+Ramsay Bolton,Walda Bolton
+Ramsay Bolton,Davos Seaworth
+Ramsay Bolton,Theon Greyjoy
+Ramsay Bolton,High Sparrow
+Ramsay Bolton,Grand Maester Pycelle
+Ramsay Bolton,Alliser Thorne
+Ramsay Bolton,Mace Tyrell
+Ramsay Bolton,Eddison Tollett
+Ramsay Bolton,The Waif
+Ramsay Bolton,Olly
+Ramsay Bolton,Olyvar
+Ramsay Bolton,Loras Tyrell
+Ramsay Bolton,Myranda
+Ramsay Bolton,High Septon
+Ramsay Bolton,Othell Yarwyck
+Ramsay Bolton,Bowen Marsh
+Ramsay Bolton,Clea
+Ramsay Bolton,The Stranger / The Mother of Dragons
+Ramsay Bolton,The Warrior
+Ramsay Bolton,The Smith       (as Portia Victoria)
+Ramsay Bolton,The Mother
+Ramsay Bolton,The Maiden
+Ramsay Bolton,The Crone
+Jorah Mormont,Qyburn
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Janos Slynt
+Jorah Mormont,Meryn Trant
+Jorah Mormont,Lancel Lannister
+Jorah Mormont,Walda Bolton
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,High Sparrow
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Mace Tyrell
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,The Waif
+Jorah Mormont,Olly
+Jorah Mormont,Olyvar
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Myranda
+Jorah Mormont,High Septon
+Jorah Mormont,Othell Yarwyck
+Jorah Mormont,Bowen Marsh
+Jorah Mormont,Clea
+Jorah Mormont,The Stranger / The Mother of Dragons
+Jorah Mormont,The Warrior
+Jorah Mormont,The Smith       (as Portia Victoria)
+Jorah Mormont,The Mother
+Jorah Mormont,The Maiden
+Jorah Mormont,The Crone
+Qyburn,Podrick Payne
+Qyburn,Janos Slynt
+Qyburn,Meryn Trant
+Qyburn,Lancel Lannister
+Qyburn,Walda Bolton
+Qyburn,Davos Seaworth
+Qyburn,Theon Greyjoy
+Qyburn,High Sparrow
+Qyburn,Grand Maester Pycelle
+Qyburn,Alliser Thorne
+Qyburn,Mace Tyrell
+Qyburn,Eddison Tollett
+Qyburn,The Waif
+Qyburn,Olly
+Qyburn,Olyvar
+Qyburn,Loras Tyrell
+Qyburn,Myranda
+Qyburn,High Septon
+Qyburn,Othell Yarwyck
+Qyburn,Bowen Marsh
+Qyburn,Clea
+Qyburn,The Stranger / The Mother of Dragons
+Qyburn,The Warrior
+Qyburn,The Smith       (as Portia Victoria)
+Qyburn,The Mother
+Qyburn,The Maiden
+Qyburn,The Crone
+Podrick Payne,Janos Slynt
+Podrick Payne,Meryn Trant
+Podrick Payne,Lancel Lannister
+Podrick Payne,Walda Bolton
+Podrick Payne,Davos Seaworth
+Podrick Payne,Theon Greyjoy
+Podrick Payne,High Sparrow
+Podrick Payne,Grand Maester Pycelle
+Podrick Payne,Alliser Thorne
+Podrick Payne,Mace Tyrell
+Podrick Payne,Eddison Tollett
+Podrick Payne,The Waif
+Podrick Payne,Olly
+Podrick Payne,Olyvar
+Podrick Payne,Loras Tyrell
+Podrick Payne,Myranda
+Podrick Payne,High Septon
+Podrick Payne,Othell Yarwyck
+Podrick Payne,Bowen Marsh
+Podrick Payne,Clea
+Podrick Payne,The Stranger / The Mother of Dragons
+Podrick Payne,The Warrior
+Podrick Payne,The Smith       (as Portia Victoria)
+Podrick Payne,The Mother
+Podrick Payne,The Maiden
+Podrick Payne,The Crone
+Janos Slynt,Meryn Trant
+Janos Slynt,Lancel Lannister
+Janos Slynt,Walda Bolton
+Janos Slynt,Davos Seaworth
+Janos Slynt,Theon Greyjoy
+Janos Slynt,High Sparrow
+Janos Slynt,Grand Maester Pycelle
+Janos Slynt,Alliser Thorne
+Janos Slynt,Mace Tyrell
+Janos Slynt,Eddison Tollett
+Janos Slynt,The Waif
+Janos Slynt,Olly
+Janos Slynt,Olyvar
+Janos Slynt,Loras Tyrell
+Janos Slynt,Myranda
+Janos Slynt,High Septon
+Janos Slynt,Othell Yarwyck
+Janos Slynt,Bowen Marsh
+Janos Slynt,Clea
+Janos Slynt,The Stranger / The Mother of Dragons
+Janos Slynt,The Warrior
+Janos Slynt,The Smith       (as Portia Victoria)
+Janos Slynt,The Mother
+Janos Slynt,The Maiden
+Janos Slynt,The Crone
+Meryn Trant,Lancel Lannister
+Meryn Trant,Walda Bolton
+Meryn Trant,Davos Seaworth
+Meryn Trant,Theon Greyjoy
+Meryn Trant,High Sparrow
+Meryn Trant,Grand Maester Pycelle
+Meryn Trant,Alliser Thorne
+Meryn Trant,Mace Tyrell
+Meryn Trant,Eddison Tollett
+Meryn Trant,The Waif
+Meryn Trant,Olly
+Meryn Trant,Olyvar
+Meryn Trant,Loras Tyrell
+Meryn Trant,Myranda
+Meryn Trant,High Septon
+Meryn Trant,Othell Yarwyck
+Meryn Trant,Bowen Marsh
+Meryn Trant,Clea
+Meryn Trant,The Stranger / The Mother of Dragons
+Meryn Trant,The Warrior
+Meryn Trant,The Smith       (as Portia Victoria)
+Meryn Trant,The Mother
+Meryn Trant,The Maiden
+Meryn Trant,The Crone
+Lancel Lannister,Walda Bolton
+Lancel Lannister,Davos Seaworth
+Lancel Lannister,Theon Greyjoy
+Lancel Lannister,High Sparrow
+Lancel Lannister,Grand Maester Pycelle
+Lancel Lannister,Alliser Thorne
+Lancel Lannister,Mace Tyrell
+Lancel Lannister,Eddison Tollett
+Lancel Lannister,The Waif
+Lancel Lannister,Olly
+Lancel Lannister,Olyvar
+Lancel Lannister,Loras Tyrell
+Lancel Lannister,Myranda
+Lancel Lannister,High Septon
+Lancel Lannister,Othell Yarwyck
+Lancel Lannister,Bowen Marsh
+Lancel Lannister,Clea
+Lancel Lannister,The Stranger / The Mother of Dragons
+Lancel Lannister,The Warrior
+Lancel Lannister,The Smith       (as Portia Victoria)
+Lancel Lannister,The Mother
+Lancel Lannister,The Maiden
+Lancel Lannister,The Crone
+Walda Bolton,Davos Seaworth
+Walda Bolton,Theon Greyjoy
+Walda Bolton,High Sparrow
+Walda Bolton,Grand Maester Pycelle
+Walda Bolton,Alliser Thorne
+Walda Bolton,Mace Tyrell
+Walda Bolton,Eddison Tollett
+Walda Bolton,The Waif
+Walda Bolton,Olly
+Walda Bolton,Olyvar
+Walda Bolton,Loras Tyrell
+Walda Bolton,Myranda
+Walda Bolton,High Septon
+Walda Bolton,Othell Yarwyck
+Walda Bolton,Bowen Marsh
+Walda Bolton,Clea
+Walda Bolton,The Stranger / The Mother of Dragons
+Walda Bolton,The Warrior
+Walda Bolton,The Smith       (as Portia Victoria)
+Walda Bolton,The Mother
+Walda Bolton,The Maiden
+Walda Bolton,The Crone
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,High Sparrow
+Davos Seaworth,Grand Maester Pycelle
+Davos Seaworth,Alliser Thorne
+Davos Seaworth,Mace Tyrell
+Davos Seaworth,Eddison Tollett
+Davos Seaworth,The Waif
+Davos Seaworth,Olly
+Davos Seaworth,Olyvar
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Myranda
+Davos Seaworth,High Septon
+Davos Seaworth,Othell Yarwyck
+Davos Seaworth,Bowen Marsh
+Davos Seaworth,Clea
+Davos Seaworth,The Stranger / The Mother of Dragons
+Davos Seaworth,The Warrior
+Davos Seaworth,The Smith       (as Portia Victoria)
+Davos Seaworth,The Mother
+Davos Seaworth,The Maiden
+Davos Seaworth,The Crone
+Theon Greyjoy,High Sparrow
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Alliser Thorne
+Theon Greyjoy,Mace Tyrell
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,The Waif
+Theon Greyjoy,Olly
+Theon Greyjoy,Olyvar
+Theon Greyjoy,Loras Tyrell
+Theon Greyjoy,Myranda
+Theon Greyjoy,High Septon
+Theon Greyjoy,Othell Yarwyck
+Theon Greyjoy,Bowen Marsh
+Theon Greyjoy,Clea
+Theon Greyjoy,The Stranger / The Mother of Dragons
+Theon Greyjoy,The Warrior
+Theon Greyjoy,The Smith       (as Portia Victoria)
+Theon Greyjoy,The Mother
+Theon Greyjoy,The Maiden
+Theon Greyjoy,The Crone
+High Sparrow,Grand Maester Pycelle
+High Sparrow,Alliser Thorne
+High Sparrow,Mace Tyrell
+High Sparrow,Eddison Tollett
+High Sparrow,The Waif
+High Sparrow,Olly
+High Sparrow,Olyvar
+High Sparrow,Loras Tyrell
+High Sparrow,Myranda
+High Sparrow,High Septon
+High Sparrow,Othell Yarwyck
+High Sparrow,Bowen Marsh
+High Sparrow,Clea
+High Sparrow,The Stranger / The Mother of Dragons
+High Sparrow,The Warrior
+High Sparrow,The Smith       (as Portia Victoria)
+High Sparrow,The Mother
+High Sparrow,The Maiden
+High Sparrow,The Crone
+Grand Maester Pycelle,Alliser Thorne
+Grand Maester Pycelle,Mace Tyrell
+Grand Maester Pycelle,Eddison Tollett
+Grand Maester Pycelle,The Waif
+Grand Maester Pycelle,Olly
+Grand Maester Pycelle,Olyvar
+Grand Maester Pycelle,Loras Tyrell
+Grand Maester Pycelle,Myranda
+Grand Maester Pycelle,High Septon
+Grand Maester Pycelle,Othell Yarwyck
+Grand Maester Pycelle,Bowen Marsh
+Grand Maester Pycelle,Clea
+Grand Maester Pycelle,The Stranger / The Mother of Dragons
+Grand Maester Pycelle,The Warrior
+Grand Maester Pycelle,The Smith       (as Portia Victoria)
+Grand Maester Pycelle,The Mother
+Grand Maester Pycelle,The Maiden
+Grand Maester Pycelle,The Crone
+Alliser Thorne,Mace Tyrell
+Alliser Thorne,Eddison Tollett
+Alliser Thorne,The Waif
+Alliser Thorne,Olly
+Alliser Thorne,Olyvar
+Alliser Thorne,Loras Tyrell
+Alliser Thorne,Myranda
+Alliser Thorne,High Septon
+Alliser Thorne,Othell Yarwyck
+Alliser Thorne,Bowen Marsh
+Alliser Thorne,Clea
+Alliser Thorne,The Stranger / The Mother of Dragons
+Alliser Thorne,The Warrior
+Alliser Thorne,The Smith       (as Portia Victoria)
+Alliser Thorne,The Mother
+Alliser Thorne,The Maiden
+Alliser Thorne,The Crone
+Mace Tyrell,Eddison Tollett
+Mace Tyrell,The Waif
+Mace Tyrell,Olly
+Mace Tyrell,Olyvar
+Mace Tyrell,Loras Tyrell
+Mace Tyrell,Myranda
+Mace Tyrell,High Septon
+Mace Tyrell,Othell Yarwyck
+Mace Tyrell,Bowen Marsh
+Mace Tyrell,Clea
+Mace Tyrell,The Stranger / The Mother of Dragons
+Mace Tyrell,The Warrior
+Mace Tyrell,The Smith       (as Portia Victoria)
+Mace Tyrell,The Mother
+Mace Tyrell,The Maiden
+Mace Tyrell,The Crone
+Eddison Tollett,The Waif
+Eddison Tollett,Olly
+Eddison Tollett,Olyvar
+Eddison Tollett,Loras Tyrell
+Eddison Tollett,Myranda
+Eddison Tollett,High Septon
+Eddison Tollett,Othell Yarwyck
+Eddison Tollett,Bowen Marsh
+Eddison Tollett,Clea
+Eddison Tollett,The Stranger / The Mother of Dragons
+Eddison Tollett,The Warrior
+Eddison Tollett,The Smith       (as Portia Victoria)
+Eddison Tollett,The Mother
+Eddison Tollett,The Maiden
+Eddison Tollett,The Crone
+The Waif,Olly
+The Waif,Olyvar
+The Waif,Loras Tyrell
+The Waif,Myranda
+The Waif,High Septon
+The Waif,Othell Yarwyck
+The Waif,Bowen Marsh
+The Waif,Clea
+The Waif,The Stranger / The Mother of Dragons
+The Waif,The Warrior
+The Waif,The Smith       (as Portia Victoria)
+The Waif,The Mother
+The Waif,The Maiden
+The Waif,The Crone
+Olly,Olyvar
+Olly,Loras Tyrell
+Olly,Myranda
+Olly,High Septon
+Olly,Othell Yarwyck
+Olly,Bowen Marsh
+Olly,Clea
+Olly,The Stranger / The Mother of Dragons
+Olly,The Warrior
+Olly,The Smith       (as Portia Victoria)
+Olly,The Mother
+Olly,The Maiden
+Olly,The Crone
+Olyvar,Loras Tyrell
+Olyvar,Myranda
+Olyvar,High Septon
+Olyvar,Othell Yarwyck
+Olyvar,Bowen Marsh
+Olyvar,Clea
+Olyvar,The Stranger / The Mother of Dragons
+Olyvar,The Warrior
+Olyvar,The Smith       (as Portia Victoria)
+Olyvar,The Mother
+Olyvar,The Maiden
+Olyvar,The Crone
+Loras Tyrell,Myranda
+Loras Tyrell,High Septon
+Loras Tyrell,Othell Yarwyck
+Loras Tyrell,Bowen Marsh
+Loras Tyrell,Clea
+Loras Tyrell,The Stranger / The Mother of Dragons
+Loras Tyrell,The Warrior
+Loras Tyrell,The Smith       (as Portia Victoria)
+Loras Tyrell,The Mother
+Loras Tyrell,The Maiden
+Loras Tyrell,The Crone
+Myranda,High Septon
+Myranda,Othell Yarwyck
+Myranda,Bowen Marsh
+Myranda,Clea
+Myranda,The Stranger / The Mother of Dragons
+Myranda,The Warrior
+Myranda,The Smith       (as Portia Victoria)
+Myranda,The Mother
+Myranda,The Maiden
+Myranda,The Crone
+High Septon,Othell Yarwyck
+High Septon,Bowen Marsh
+High Septon,Clea
+High Septon,The Stranger / The Mother of Dragons
+High Septon,The Warrior
+High Septon,The Smith       (as Portia Victoria)
+High Septon,The Mother
+High Septon,The Maiden
+High Septon,The Crone
+Othell Yarwyck,Bowen Marsh
+Othell Yarwyck,Clea
+Othell Yarwyck,The Stranger / The Mother of Dragons
+Othell Yarwyck,The Warrior
+Othell Yarwyck,The Smith       (as Portia Victoria)
+Othell Yarwyck,The Mother
+Othell Yarwyck,The Maiden
+Othell Yarwyck,The Crone
+Bowen Marsh,Clea
+Bowen Marsh,The Stranger / The Mother of Dragons
+Bowen Marsh,The Warrior
+Bowen Marsh,The Smith       (as Portia Victoria)
+Bowen Marsh,The Mother
+Bowen Marsh,The Maiden
+Bowen Marsh,The Crone
+Clea,The Stranger / The Mother of Dragons
+Clea,The Warrior
+Clea,The Smith       (as Portia Victoria)
+Clea,The Mother
+Clea,The Maiden
+Clea,The Crone
+The Stranger / The Mother of Dragons,The Warrior
+The Stranger / The Mother of Dragons,The Smith       (as Portia Victoria)
+The Stranger / The Mother of Dragons,The Mother
+The Stranger / The Mother of Dragons,The Maiden
+The Stranger / The Mother of Dragons,The Crone
+The Warrior,The Smith       (as Portia Victoria)
+The Warrior,The Mother
+The Warrior,The Maiden
+The Warrior,The Crone
+The Smith       (as Portia Victoria),The Mother
+The Smith       (as Portia Victoria),The Maiden
+The Smith       (as Portia Victoria),The Crone
+The Mother,The Maiden
+The Mother,The Crone
+The Maiden,The Crone

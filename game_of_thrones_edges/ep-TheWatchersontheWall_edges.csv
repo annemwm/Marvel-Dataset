@@ -1,0 +1,172 @@
+NAME 1,NAME 2
+Jon Snow,Samwell Tarly
+Jon Snow,Gilly
+Jon Snow,Ygritte
+Jon Snow,Tormund Giantsbane
+Jon Snow,Maester Aemon
+Jon Snow,Alliser Thorne
+Jon Snow,Janos Slynt
+Jon Snow,Grenn
+Jon Snow,Styr
+Jon Snow,Pypar
+Jon Snow,Olly
+Jon Snow,Dongo the Giant
+Jon Snow,Mag the Mighty
+Jon Snow,Cooper
+Jon Snow,Night's Watch Archer
+Jon Snow,Donnel Hill
+Jon Snow,Eddison Tollett
+Jon Snow,Thenn Warg
+Samwell Tarly,Gilly
+Samwell Tarly,Ygritte
+Samwell Tarly,Tormund Giantsbane
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Janos Slynt
+Samwell Tarly,Grenn
+Samwell Tarly,Styr
+Samwell Tarly,Pypar
+Samwell Tarly,Olly
+Samwell Tarly,Dongo the Giant
+Samwell Tarly,Mag the Mighty
+Samwell Tarly,Cooper
+Samwell Tarly,Night's Watch Archer
+Samwell Tarly,Donnel Hill
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Thenn Warg
+Gilly,Ygritte
+Gilly,Tormund Giantsbane
+Gilly,Maester Aemon
+Gilly,Alliser Thorne
+Gilly,Janos Slynt
+Gilly,Grenn
+Gilly,Styr
+Gilly,Pypar
+Gilly,Olly
+Gilly,Dongo the Giant
+Gilly,Mag the Mighty
+Gilly,Cooper
+Gilly,Night's Watch Archer
+Gilly,Donnel Hill
+Gilly,Eddison Tollett
+Gilly,Thenn Warg
+Ygritte,Tormund Giantsbane
+Ygritte,Maester Aemon
+Ygritte,Alliser Thorne
+Ygritte,Janos Slynt
+Ygritte,Grenn
+Ygritte,Styr
+Ygritte,Pypar
+Ygritte,Olly
+Ygritte,Dongo the Giant
+Ygritte,Mag the Mighty
+Ygritte,Cooper
+Ygritte,Night's Watch Archer
+Ygritte,Donnel Hill
+Ygritte,Eddison Tollett
+Ygritte,Thenn Warg
+Tormund Giantsbane,Maester Aemon
+Tormund Giantsbane,Alliser Thorne
+Tormund Giantsbane,Janos Slynt
+Tormund Giantsbane,Grenn
+Tormund Giantsbane,Styr
+Tormund Giantsbane,Pypar
+Tormund Giantsbane,Olly
+Tormund Giantsbane,Dongo the Giant
+Tormund Giantsbane,Mag the Mighty
+Tormund Giantsbane,Cooper
+Tormund Giantsbane,Night's Watch Archer
+Tormund Giantsbane,Donnel Hill
+Tormund Giantsbane,Eddison Tollett
+Tormund Giantsbane,Thenn Warg
+Maester Aemon,Alliser Thorne
+Maester Aemon,Janos Slynt
+Maester Aemon,Grenn
+Maester Aemon,Styr
+Maester Aemon,Pypar
+Maester Aemon,Olly
+Maester Aemon,Dongo the Giant
+Maester Aemon,Mag the Mighty
+Maester Aemon,Cooper
+Maester Aemon,Night's Watch Archer
+Maester Aemon,Donnel Hill
+Maester Aemon,Eddison Tollett
+Maester Aemon,Thenn Warg
+Alliser Thorne,Janos Slynt
+Alliser Thorne,Grenn
+Alliser Thorne,Styr
+Alliser Thorne,Pypar
+Alliser Thorne,Olly
+Alliser Thorne,Dongo the Giant
+Alliser Thorne,Mag the Mighty
+Alliser Thorne,Cooper
+Alliser Thorne,Night's Watch Archer
+Alliser Thorne,Donnel Hill
+Alliser Thorne,Eddison Tollett
+Alliser Thorne,Thenn Warg
+Janos Slynt,Grenn
+Janos Slynt,Styr
+Janos Slynt,Pypar
+Janos Slynt,Olly
+Janos Slynt,Dongo the Giant
+Janos Slynt,Mag the Mighty
+Janos Slynt,Cooper
+Janos Slynt,Night's Watch Archer
+Janos Slynt,Donnel Hill
+Janos Slynt,Eddison Tollett
+Janos Slynt,Thenn Warg
+Grenn,Styr
+Grenn,Pypar
+Grenn,Olly
+Grenn,Dongo the Giant
+Grenn,Mag the Mighty
+Grenn,Cooper
+Grenn,Night's Watch Archer
+Grenn,Donnel Hill
+Grenn,Eddison Tollett
+Grenn,Thenn Warg
+Styr,Pypar
+Styr,Olly
+Styr,Dongo the Giant
+Styr,Mag the Mighty
+Styr,Cooper
+Styr,Night's Watch Archer
+Styr,Donnel Hill
+Styr,Eddison Tollett
+Styr,Thenn Warg
+Pypar,Olly
+Pypar,Dongo the Giant
+Pypar,Mag the Mighty
+Pypar,Cooper
+Pypar,Night's Watch Archer
+Pypar,Donnel Hill
+Pypar,Eddison Tollett
+Pypar,Thenn Warg
+Olly,Dongo the Giant
+Olly,Mag the Mighty
+Olly,Cooper
+Olly,Night's Watch Archer
+Olly,Donnel Hill
+Olly,Eddison Tollett
+Olly,Thenn Warg
+Dongo the Giant,Mag the Mighty
+Dongo the Giant,Cooper
+Dongo the Giant,Night's Watch Archer
+Dongo the Giant,Donnel Hill
+Dongo the Giant,Eddison Tollett
+Dongo the Giant,Thenn Warg
+Mag the Mighty,Cooper
+Mag the Mighty,Night's Watch Archer
+Mag the Mighty,Donnel Hill
+Mag the Mighty,Eddison Tollett
+Mag the Mighty,Thenn Warg
+Cooper,Night's Watch Archer
+Cooper,Donnel Hill
+Cooper,Eddison Tollett
+Cooper,Thenn Warg
+Night's Watch Archer,Donnel Hill
+Night's Watch Archer,Eddison Tollett
+Night's Watch Archer,Thenn Warg
+Donnel Hill,Eddison Tollett
+Donnel Hill,Thenn Warg
+Eddison Tollett,Thenn Warg

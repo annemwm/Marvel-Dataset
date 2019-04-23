@@ -1,0 +1,407 @@
+NAME 1,NAME 2
+Peter Quill / Star-Lord,Gamora
+Peter Quill / Star-Lord,Drax
+Peter Quill / Star-Lord,Groot
+Peter Quill / Star-Lord,Rocket
+Peter Quill / Star-Lord,Yondu Udonta
+Peter Quill / Star-Lord,Nebula
+Peter Quill / Star-Lord,Mantis
+Peter Quill / Star-Lord,Stakar Ogord
+Peter Quill / Star-Lord,Ego
+Peter Quill / Star-Lord,Ayesha
+Peter Quill / Star-Lord,Taserface
+Peter Quill / Star-Lord,Kraglin
+Peter Quill / Star-Lord,Tullk
+Peter Quill / Star-Lord,Meredith Quill
+Peter Quill / Star-Lord,Halfnut
+Peter Quill / Star-Lord,Brahl
+Peter Quill / Star-Lord,Howard the Duck
+Peter Quill / Star-Lord,Martinex
+Peter Quill / Star-Lord,Grandpa Quill
+Peter Quill / Star-Lord,Charlie-27
+Peter Quill / Star-Lord,Aleta Ogord
+Peter Quill / Star-Lord,Zylak
+Peter Quill / Star-Lord,Retch
+Peter Quill / Star-Lord,Oblo
+Peter Quill / Star-Lord,Narblik
+Peter Quill / Star-Lord,Gef
+Peter Quill / Star-Lord,Huhtar
+Peter Quill / Star-Lord,Stan Lee
+Gamora,Drax
+Gamora,Groot
+Gamora,Rocket
+Gamora,Yondu Udonta
+Gamora,Nebula
+Gamora,Mantis
+Gamora,Stakar Ogord
+Gamora,Ego
+Gamora,Ayesha
+Gamora,Taserface
+Gamora,Kraglin
+Gamora,Tullk
+Gamora,Meredith Quill
+Gamora,Halfnut
+Gamora,Brahl
+Gamora,Howard the Duck
+Gamora,Martinex
+Gamora,Grandpa Quill
+Gamora,Charlie-27
+Gamora,Aleta Ogord
+Gamora,Zylak
+Gamora,Retch
+Gamora,Oblo
+Gamora,Narblik
+Gamora,Gef
+Gamora,Huhtar
+Gamora,Stan Lee
+Drax,Groot
+Drax,Rocket
+Drax,Yondu Udonta
+Drax,Nebula
+Drax,Mantis
+Drax,Stakar Ogord
+Drax,Ego
+Drax,Ayesha
+Drax,Taserface
+Drax,Kraglin
+Drax,Tullk
+Drax,Meredith Quill
+Drax,Halfnut
+Drax,Brahl
+Drax,Howard the Duck
+Drax,Martinex
+Drax,Grandpa Quill
+Drax,Charlie-27
+Drax,Aleta Ogord
+Drax,Zylak
+Drax,Retch
+Drax,Oblo
+Drax,Narblik
+Drax,Gef
+Drax,Huhtar
+Drax,Stan Lee
+Groot,Rocket
+Groot,Yondu Udonta
+Groot,Nebula
+Groot,Mantis
+Groot,Stakar Ogord
+Groot,Ego
+Groot,Ayesha
+Groot,Taserface
+Groot,Kraglin
+Groot,Tullk
+Groot,Meredith Quill
+Groot,Halfnut
+Groot,Brahl
+Groot,Howard the Duck
+Groot,Martinex
+Groot,Grandpa Quill
+Groot,Charlie-27
+Groot,Aleta Ogord
+Groot,Zylak
+Groot,Retch
+Groot,Oblo
+Groot,Narblik
+Groot,Gef
+Groot,Huhtar
+Groot,Stan Lee
+Rocket,Yondu Udonta
+Rocket,Nebula
+Rocket,Mantis
+Rocket,Stakar Ogord
+Rocket,Ego
+Rocket,Ayesha
+Rocket,Taserface
+Rocket,Kraglin
+Rocket,Tullk
+Rocket,Meredith Quill
+Rocket,Halfnut
+Rocket,Brahl
+Rocket,Howard the Duck
+Rocket,Martinex
+Rocket,Grandpa Quill
+Rocket,Charlie-27
+Rocket,Aleta Ogord
+Rocket,Zylak
+Rocket,Retch
+Rocket,Oblo
+Rocket,Narblik
+Rocket,Gef
+Rocket,Huhtar
+Rocket,Stan Lee
+Yondu Udonta,Nebula
+Yondu Udonta,Mantis
+Yondu Udonta,Stakar Ogord
+Yondu Udonta,Ego
+Yondu Udonta,Ayesha
+Yondu Udonta,Taserface
+Yondu Udonta,Kraglin
+Yondu Udonta,Tullk
+Yondu Udonta,Meredith Quill
+Yondu Udonta,Halfnut
+Yondu Udonta,Brahl
+Yondu Udonta,Howard the Duck
+Yondu Udonta,Martinex
+Yondu Udonta,Grandpa Quill
+Yondu Udonta,Charlie-27
+Yondu Udonta,Aleta Ogord
+Yondu Udonta,Zylak
+Yondu Udonta,Retch
+Yondu Udonta,Oblo
+Yondu Udonta,Narblik
+Yondu Udonta,Gef
+Yondu Udonta,Huhtar
+Yondu Udonta,Stan Lee
+Nebula,Mantis
+Nebula,Stakar Ogord
+Nebula,Ego
+Nebula,Ayesha
+Nebula,Taserface
+Nebula,Kraglin
+Nebula,Tullk
+Nebula,Meredith Quill
+Nebula,Halfnut
+Nebula,Brahl
+Nebula,Howard the Duck
+Nebula,Martinex
+Nebula,Grandpa Quill
+Nebula,Charlie-27
+Nebula,Aleta Ogord
+Nebula,Zylak
+Nebula,Retch
+Nebula,Oblo
+Nebula,Narblik
+Nebula,Gef
+Nebula,Huhtar
+Nebula,Stan Lee
+Mantis,Stakar Ogord
+Mantis,Ego
+Mantis,Ayesha
+Mantis,Taserface
+Mantis,Kraglin
+Mantis,Tullk
+Mantis,Meredith Quill
+Mantis,Halfnut
+Mantis,Brahl
+Mantis,Howard the Duck
+Mantis,Martinex
+Mantis,Grandpa Quill
+Mantis,Charlie-27
+Mantis,Aleta Ogord
+Mantis,Zylak
+Mantis,Retch
+Mantis,Oblo
+Mantis,Narblik
+Mantis,Gef
+Mantis,Huhtar
+Mantis,Stan Lee
+Stakar Ogord,Ego
+Stakar Ogord,Ayesha
+Stakar Ogord,Taserface
+Stakar Ogord,Kraglin
+Stakar Ogord,Tullk
+Stakar Ogord,Meredith Quill
+Stakar Ogord,Halfnut
+Stakar Ogord,Brahl
+Stakar Ogord,Howard the Duck
+Stakar Ogord,Martinex
+Stakar Ogord,Grandpa Quill
+Stakar Ogord,Charlie-27
+Stakar Ogord,Aleta Ogord
+Stakar Ogord,Zylak
+Stakar Ogord,Retch
+Stakar Ogord,Oblo
+Stakar Ogord,Narblik
+Stakar Ogord,Gef
+Stakar Ogord,Huhtar
+Stakar Ogord,Stan Lee
+Ego,Ayesha
+Ego,Taserface
+Ego,Kraglin
+Ego,Tullk
+Ego,Meredith Quill
+Ego,Halfnut
+Ego,Brahl
+Ego,Howard the Duck
+Ego,Martinex
+Ego,Grandpa Quill
+Ego,Charlie-27
+Ego,Aleta Ogord
+Ego,Zylak
+Ego,Retch
+Ego,Oblo
+Ego,Narblik
+Ego,Gef
+Ego,Huhtar
+Ego,Stan Lee
+Ayesha,Taserface
+Ayesha,Kraglin
+Ayesha,Tullk
+Ayesha,Meredith Quill
+Ayesha,Halfnut
+Ayesha,Brahl
+Ayesha,Howard the Duck
+Ayesha,Martinex
+Ayesha,Grandpa Quill
+Ayesha,Charlie-27
+Ayesha,Aleta Ogord
+Ayesha,Zylak
+Ayesha,Retch
+Ayesha,Oblo
+Ayesha,Narblik
+Ayesha,Gef
+Ayesha,Huhtar
+Ayesha,Stan Lee
+Taserface,Kraglin
+Taserface,Tullk
+Taserface,Meredith Quill
+Taserface,Halfnut
+Taserface,Brahl
+Taserface,Howard the Duck
+Taserface,Martinex
+Taserface,Grandpa Quill
+Taserface,Charlie-27
+Taserface,Aleta Ogord
+Taserface,Zylak
+Taserface,Retch
+Taserface,Oblo
+Taserface,Narblik
+Taserface,Gef
+Taserface,Huhtar
+Taserface,Stan Lee
+Kraglin,Tullk
+Kraglin,Meredith Quill
+Kraglin,Halfnut
+Kraglin,Brahl
+Kraglin,Howard the Duck
+Kraglin,Martinex
+Kraglin,Grandpa Quill
+Kraglin,Charlie-27
+Kraglin,Aleta Ogord
+Kraglin,Zylak
+Kraglin,Retch
+Kraglin,Oblo
+Kraglin,Narblik
+Kraglin,Gef
+Kraglin,Huhtar
+Kraglin,Stan Lee
+Tullk,Meredith Quill
+Tullk,Halfnut
+Tullk,Brahl
+Tullk,Howard the Duck
+Tullk,Martinex
+Tullk,Grandpa Quill
+Tullk,Charlie-27
+Tullk,Aleta Ogord
+Tullk,Zylak
+Tullk,Retch
+Tullk,Oblo
+Tullk,Narblik
+Tullk,Gef
+Tullk,Huhtar
+Tullk,Stan Lee
+Meredith Quill,Halfnut
+Meredith Quill,Brahl
+Meredith Quill,Howard the Duck
+Meredith Quill,Martinex
+Meredith Quill,Grandpa Quill
+Meredith Quill,Charlie-27
+Meredith Quill,Aleta Ogord
+Meredith Quill,Zylak
+Meredith Quill,Retch
+Meredith Quill,Oblo
+Meredith Quill,Narblik
+Meredith Quill,Gef
+Meredith Quill,Huhtar
+Meredith Quill,Stan Lee
+Halfnut,Brahl
+Halfnut,Howard the Duck
+Halfnut,Martinex
+Halfnut,Grandpa Quill
+Halfnut,Charlie-27
+Halfnut,Aleta Ogord
+Halfnut,Zylak
+Halfnut,Retch
+Halfnut,Oblo
+Halfnut,Narblik
+Halfnut,Gef
+Halfnut,Huhtar
+Halfnut,Stan Lee
+Brahl,Howard the Duck
+Brahl,Martinex
+Brahl,Grandpa Quill
+Brahl,Charlie-27
+Brahl,Aleta Ogord
+Brahl,Zylak
+Brahl,Retch
+Brahl,Oblo
+Brahl,Narblik
+Brahl,Gef
+Brahl,Huhtar
+Brahl,Stan Lee
+Howard the Duck,Martinex
+Howard the Duck,Grandpa Quill
+Howard the Duck,Charlie-27
+Howard the Duck,Aleta Ogord
+Howard the Duck,Zylak
+Howard the Duck,Retch
+Howard the Duck,Oblo
+Howard the Duck,Narblik
+Howard the Duck,Gef
+Howard the Duck,Huhtar
+Howard the Duck,Stan Lee
+Martinex,Grandpa Quill
+Martinex,Charlie-27
+Martinex,Aleta Ogord
+Martinex,Zylak
+Martinex,Retch
+Martinex,Oblo
+Martinex,Narblik
+Martinex,Gef
+Martinex,Huhtar
+Martinex,Stan Lee
+Grandpa Quill,Charlie-27
+Grandpa Quill,Aleta Ogord
+Grandpa Quill,Zylak
+Grandpa Quill,Retch
+Grandpa Quill,Oblo
+Grandpa Quill,Narblik
+Grandpa Quill,Gef
+Grandpa Quill,Huhtar
+Grandpa Quill,Stan Lee
+Charlie-27,Aleta Ogord
+Charlie-27,Zylak
+Charlie-27,Retch
+Charlie-27,Oblo
+Charlie-27,Narblik
+Charlie-27,Gef
+Charlie-27,Huhtar
+Charlie-27,Stan Lee
+Aleta Ogord,Zylak
+Aleta Ogord,Retch
+Aleta Ogord,Oblo
+Aleta Ogord,Narblik
+Aleta Ogord,Gef
+Aleta Ogord,Huhtar
+Aleta Ogord,Stan Lee
+Zylak,Retch
+Zylak,Oblo
+Zylak,Narblik
+Zylak,Gef
+Zylak,Huhtar
+Zylak,Stan Lee
+Retch,Oblo
+Retch,Narblik
+Retch,Gef
+Retch,Huhtar
+Retch,Stan Lee
+Oblo,Narblik
+Oblo,Gef
+Oblo,Huhtar
+Oblo,Stan Lee
+Narblik,Gef
+Narblik,Huhtar
+Narblik,Stan Lee
+Gef,Huhtar
+Gef,Stan Lee
+Huhtar,Stan Lee

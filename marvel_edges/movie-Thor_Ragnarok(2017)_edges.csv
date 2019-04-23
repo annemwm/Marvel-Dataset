@@ -1,0 +1,254 @@
+NAME 1,NAME 2
+Thor,Loki
+Thor,Hela
+Thor,Heimdall
+Thor,Grandmaster
+Thor,Valkyrie
+Thor,Skurge
+Thor,Bruce Banner / Hulk
+Thor,Odin
+Thor,Dr. Stephen Strange
+Thor,Korg
+Thor,Topaz
+Thor,Surtur
+Thor,Hogun
+Thor,Actor Thor
+Thor,Actor Odin
+Thor,Actor Sif
+Thor,Cousin Carlo
+Thor,Actor Loki
+Thor,Volstagg
+Thor,Fandral
+Thor,Beerbot 5000
+Thor,Stan Lee
+Loki,Hela
+Loki,Heimdall
+Loki,Grandmaster
+Loki,Valkyrie
+Loki,Skurge
+Loki,Bruce Banner / Hulk
+Loki,Odin
+Loki,Dr. Stephen Strange
+Loki,Korg
+Loki,Topaz
+Loki,Surtur
+Loki,Hogun
+Loki,Actor Thor
+Loki,Actor Odin
+Loki,Actor Sif
+Loki,Cousin Carlo
+Loki,Actor Loki
+Loki,Volstagg
+Loki,Fandral
+Loki,Beerbot 5000
+Loki,Stan Lee
+Hela,Heimdall
+Hela,Grandmaster
+Hela,Valkyrie
+Hela,Skurge
+Hela,Bruce Banner / Hulk
+Hela,Odin
+Hela,Dr. Stephen Strange
+Hela,Korg
+Hela,Topaz
+Hela,Surtur
+Hela,Hogun
+Hela,Actor Thor
+Hela,Actor Odin
+Hela,Actor Sif
+Hela,Cousin Carlo
+Hela,Actor Loki
+Hela,Volstagg
+Hela,Fandral
+Hela,Beerbot 5000
+Hela,Stan Lee
+Heimdall,Grandmaster
+Heimdall,Valkyrie
+Heimdall,Skurge
+Heimdall,Bruce Banner / Hulk
+Heimdall,Odin
+Heimdall,Dr. Stephen Strange
+Heimdall,Korg
+Heimdall,Topaz
+Heimdall,Surtur
+Heimdall,Hogun
+Heimdall,Actor Thor
+Heimdall,Actor Odin
+Heimdall,Actor Sif
+Heimdall,Cousin Carlo
+Heimdall,Actor Loki
+Heimdall,Volstagg
+Heimdall,Fandral
+Heimdall,Beerbot 5000
+Heimdall,Stan Lee
+Grandmaster,Valkyrie
+Grandmaster,Skurge
+Grandmaster,Bruce Banner / Hulk
+Grandmaster,Odin
+Grandmaster,Dr. Stephen Strange
+Grandmaster,Korg
+Grandmaster,Topaz
+Grandmaster,Surtur
+Grandmaster,Hogun
+Grandmaster,Actor Thor
+Grandmaster,Actor Odin
+Grandmaster,Actor Sif
+Grandmaster,Cousin Carlo
+Grandmaster,Actor Loki
+Grandmaster,Volstagg
+Grandmaster,Fandral
+Grandmaster,Beerbot 5000
+Grandmaster,Stan Lee
+Valkyrie,Skurge
+Valkyrie,Bruce Banner / Hulk
+Valkyrie,Odin
+Valkyrie,Dr. Stephen Strange
+Valkyrie,Korg
+Valkyrie,Topaz
+Valkyrie,Surtur
+Valkyrie,Hogun
+Valkyrie,Actor Thor
+Valkyrie,Actor Odin
+Valkyrie,Actor Sif
+Valkyrie,Cousin Carlo
+Valkyrie,Actor Loki
+Valkyrie,Volstagg
+Valkyrie,Fandral
+Valkyrie,Beerbot 5000
+Valkyrie,Stan Lee
+Skurge,Bruce Banner / Hulk
+Skurge,Odin
+Skurge,Dr. Stephen Strange
+Skurge,Korg
+Skurge,Topaz
+Skurge,Surtur
+Skurge,Hogun
+Skurge,Actor Thor
+Skurge,Actor Odin
+Skurge,Actor Sif
+Skurge,Cousin Carlo
+Skurge,Actor Loki
+Skurge,Volstagg
+Skurge,Fandral
+Skurge,Beerbot 5000
+Skurge,Stan Lee
+Bruce Banner / Hulk,Odin
+Bruce Banner / Hulk,Dr. Stephen Strange
+Bruce Banner / Hulk,Korg
+Bruce Banner / Hulk,Topaz
+Bruce Banner / Hulk,Surtur
+Bruce Banner / Hulk,Hogun
+Bruce Banner / Hulk,Actor Thor
+Bruce Banner / Hulk,Actor Odin
+Bruce Banner / Hulk,Actor Sif
+Bruce Banner / Hulk,Cousin Carlo
+Bruce Banner / Hulk,Actor Loki
+Bruce Banner / Hulk,Volstagg
+Bruce Banner / Hulk,Fandral
+Bruce Banner / Hulk,Beerbot 5000
+Bruce Banner / Hulk,Stan Lee
+Odin,Dr. Stephen Strange
+Odin,Korg
+Odin,Topaz
+Odin,Surtur
+Odin,Hogun
+Odin,Actor Thor
+Odin,Actor Odin
+Odin,Actor Sif
+Odin,Cousin Carlo
+Odin,Actor Loki
+Odin,Volstagg
+Odin,Fandral
+Odin,Beerbot 5000
+Odin,Stan Lee
+Dr. Stephen Strange,Korg
+Dr. Stephen Strange,Topaz
+Dr. Stephen Strange,Surtur
+Dr. Stephen Strange,Hogun
+Dr. Stephen Strange,Actor Thor
+Dr. Stephen Strange,Actor Odin
+Dr. Stephen Strange,Actor Sif
+Dr. Stephen Strange,Cousin Carlo
+Dr. Stephen Strange,Actor Loki
+Dr. Stephen Strange,Volstagg
+Dr. Stephen Strange,Fandral
+Dr. Stephen Strange,Beerbot 5000
+Dr. Stephen Strange,Stan Lee
+Korg,Topaz
+Korg,Surtur
+Korg,Hogun
+Korg,Actor Thor
+Korg,Actor Odin
+Korg,Actor Sif
+Korg,Cousin Carlo
+Korg,Actor Loki
+Korg,Volstagg
+Korg,Fandral
+Korg,Beerbot 5000
+Korg,Stan Lee
+Topaz,Surtur
+Topaz,Hogun
+Topaz,Actor Thor
+Topaz,Actor Odin
+Topaz,Actor Sif
+Topaz,Cousin Carlo
+Topaz,Actor Loki
+Topaz,Volstagg
+Topaz,Fandral
+Topaz,Beerbot 5000
+Topaz,Stan Lee
+Surtur,Hogun
+Surtur,Actor Thor
+Surtur,Actor Odin
+Surtur,Actor Sif
+Surtur,Cousin Carlo
+Surtur,Actor Loki
+Surtur,Volstagg
+Surtur,Fandral
+Surtur,Beerbot 5000
+Surtur,Stan Lee
+Hogun,Actor Thor
+Hogun,Actor Odin
+Hogun,Actor Sif
+Hogun,Cousin Carlo
+Hogun,Actor Loki
+Hogun,Volstagg
+Hogun,Fandral
+Hogun,Beerbot 5000
+Hogun,Stan Lee
+Actor Thor,Actor Odin
+Actor Thor,Actor Sif
+Actor Thor,Cousin Carlo
+Actor Thor,Actor Loki
+Actor Thor,Volstagg
+Actor Thor,Fandral
+Actor Thor,Beerbot 5000
+Actor Thor,Stan Lee
+Actor Odin,Actor Sif
+Actor Odin,Cousin Carlo
+Actor Odin,Actor Loki
+Actor Odin,Volstagg
+Actor Odin,Fandral
+Actor Odin,Beerbot 5000
+Actor Odin,Stan Lee
+Actor Sif,Cousin Carlo
+Actor Sif,Actor Loki
+Actor Sif,Volstagg
+Actor Sif,Fandral
+Actor Sif,Beerbot 5000
+Actor Sif,Stan Lee
+Cousin Carlo,Actor Loki
+Cousin Carlo,Volstagg
+Cousin Carlo,Fandral
+Cousin Carlo,Beerbot 5000
+Cousin Carlo,Stan Lee
+Actor Loki,Volstagg
+Actor Loki,Fandral
+Actor Loki,Beerbot 5000
+Actor Loki,Stan Lee
+Volstagg,Fandral
+Volstagg,Beerbot 5000
+Volstagg,Stan Lee
+Fandral,Beerbot 5000
+Fandral,Stan Lee
+Beerbot 5000,Stan Lee

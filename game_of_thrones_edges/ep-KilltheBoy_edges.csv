@@ -1,0 +1,466 @@
+NAME 1,NAME 2
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Ramsay Bolton
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Maester Aemon
+Tyrion Lannister,Selyse Baratheon
+Tyrion Lannister,Myranda
+Tyrion Lannister,Shireen Baratheon
+Tyrion Lannister,Walda Bolton
+Tyrion Lannister,Bowen Marsh
+Tyrion Lannister,Gilly
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Missandei
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Hizdahr zo Loraq
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Olly
+Tyrion Lannister,Othell Yarwyck
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Ramsay Bolton
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Selyse Baratheon
+Daenerys Targaryen,Myranda
+Daenerys Targaryen,Shireen Baratheon
+Daenerys Targaryen,Walda Bolton
+Daenerys Targaryen,Bowen Marsh
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Hizdahr zo Loraq
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Olly
+Daenerys Targaryen,Othell Yarwyck
+Jon Snow,Stannis Baratheon
+Jon Snow,Davos Seaworth
+Jon Snow,Melisandre
+Jon Snow,Theon Greyjoy
+Jon Snow,Samwell Tarly
+Jon Snow,Sansa Stark
+Jon Snow,Brienne of Tarth
+Jon Snow,Roose Bolton
+Jon Snow,Ramsay Bolton
+Jon Snow,Jorah Mormont
+Jon Snow,Maester Aemon
+Jon Snow,Selyse Baratheon
+Jon Snow,Myranda
+Jon Snow,Shireen Baratheon
+Jon Snow,Walda Bolton
+Jon Snow,Bowen Marsh
+Jon Snow,Gilly
+Jon Snow,Daario Naharis
+Jon Snow,Missandei
+Jon Snow,Tormund Giantsbane
+Jon Snow,Barristan Selmy
+Jon Snow,Alliser Thorne
+Jon Snow,Grey Worm
+Jon Snow,Hizdahr zo Loraq
+Jon Snow,Eddison Tollett
+Jon Snow,Podrick Payne
+Jon Snow,Olly
+Jon Snow,Othell Yarwyck
+Stannis Baratheon,Davos Seaworth
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Theon Greyjoy
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Ramsay Bolton
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,Maester Aemon
+Stannis Baratheon,Selyse Baratheon
+Stannis Baratheon,Myranda
+Stannis Baratheon,Shireen Baratheon
+Stannis Baratheon,Walda Bolton
+Stannis Baratheon,Bowen Marsh
+Stannis Baratheon,Gilly
+Stannis Baratheon,Daario Naharis
+Stannis Baratheon,Missandei
+Stannis Baratheon,Tormund Giantsbane
+Stannis Baratheon,Barristan Selmy
+Stannis Baratheon,Alliser Thorne
+Stannis Baratheon,Grey Worm
+Stannis Baratheon,Hizdahr zo Loraq
+Stannis Baratheon,Eddison Tollett
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Olly
+Stannis Baratheon,Othell Yarwyck
+Davos Seaworth,Melisandre
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Ramsay Bolton
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Maester Aemon
+Davos Seaworth,Selyse Baratheon
+Davos Seaworth,Myranda
+Davos Seaworth,Shireen Baratheon
+Davos Seaworth,Walda Bolton
+Davos Seaworth,Bowen Marsh
+Davos Seaworth,Gilly
+Davos Seaworth,Daario Naharis
+Davos Seaworth,Missandei
+Davos Seaworth,Tormund Giantsbane
+Davos Seaworth,Barristan Selmy
+Davos Seaworth,Alliser Thorne
+Davos Seaworth,Grey Worm
+Davos Seaworth,Hizdahr zo Loraq
+Davos Seaworth,Eddison Tollett
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Olly
+Davos Seaworth,Othell Yarwyck
+Melisandre,Theon Greyjoy
+Melisandre,Samwell Tarly
+Melisandre,Sansa Stark
+Melisandre,Brienne of Tarth
+Melisandre,Roose Bolton
+Melisandre,Ramsay Bolton
+Melisandre,Jorah Mormont
+Melisandre,Maester Aemon
+Melisandre,Selyse Baratheon
+Melisandre,Myranda
+Melisandre,Shireen Baratheon
+Melisandre,Walda Bolton
+Melisandre,Bowen Marsh
+Melisandre,Gilly
+Melisandre,Daario Naharis
+Melisandre,Missandei
+Melisandre,Tormund Giantsbane
+Melisandre,Barristan Selmy
+Melisandre,Alliser Thorne
+Melisandre,Grey Worm
+Melisandre,Hizdahr zo Loraq
+Melisandre,Eddison Tollett
+Melisandre,Podrick Payne
+Melisandre,Olly
+Melisandre,Othell Yarwyck
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Sansa Stark
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Ramsay Bolton
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Maester Aemon
+Theon Greyjoy,Selyse Baratheon
+Theon Greyjoy,Myranda
+Theon Greyjoy,Shireen Baratheon
+Theon Greyjoy,Walda Bolton
+Theon Greyjoy,Bowen Marsh
+Theon Greyjoy,Gilly
+Theon Greyjoy,Daario Naharis
+Theon Greyjoy,Missandei
+Theon Greyjoy,Tormund Giantsbane
+Theon Greyjoy,Barristan Selmy
+Theon Greyjoy,Alliser Thorne
+Theon Greyjoy,Grey Worm
+Theon Greyjoy,Hizdahr zo Loraq
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Olly
+Theon Greyjoy,Othell Yarwyck
+Samwell Tarly,Sansa Stark
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Roose Bolton
+Samwell Tarly,Ramsay Bolton
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Selyse Baratheon
+Samwell Tarly,Myranda
+Samwell Tarly,Shireen Baratheon
+Samwell Tarly,Walda Bolton
+Samwell Tarly,Bowen Marsh
+Samwell Tarly,Gilly
+Samwell Tarly,Daario Naharis
+Samwell Tarly,Missandei
+Samwell Tarly,Tormund Giantsbane
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Grey Worm
+Samwell Tarly,Hizdahr zo Loraq
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Olly
+Samwell Tarly,Othell Yarwyck
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Roose Bolton
+Sansa Stark,Ramsay Bolton
+Sansa Stark,Jorah Mormont
+Sansa Stark,Maester Aemon
+Sansa Stark,Selyse Baratheon
+Sansa Stark,Myranda
+Sansa Stark,Shireen Baratheon
+Sansa Stark,Walda Bolton
+Sansa Stark,Bowen Marsh
+Sansa Stark,Gilly
+Sansa Stark,Daario Naharis
+Sansa Stark,Missandei
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Barristan Selmy
+Sansa Stark,Alliser Thorne
+Sansa Stark,Grey Worm
+Sansa Stark,Hizdahr zo Loraq
+Sansa Stark,Eddison Tollett
+Sansa Stark,Podrick Payne
+Sansa Stark,Olly
+Sansa Stark,Othell Yarwyck
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Ramsay Bolton
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Maester Aemon
+Brienne of Tarth,Selyse Baratheon
+Brienne of Tarth,Myranda
+Brienne of Tarth,Shireen Baratheon
+Brienne of Tarth,Walda Bolton
+Brienne of Tarth,Bowen Marsh
+Brienne of Tarth,Gilly
+Brienne of Tarth,Daario Naharis
+Brienne of Tarth,Missandei
+Brienne of Tarth,Tormund Giantsbane
+Brienne of Tarth,Barristan Selmy
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Grey Worm
+Brienne of Tarth,Hizdahr zo Loraq
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Olly
+Brienne of Tarth,Othell Yarwyck
+Roose Bolton,Ramsay Bolton
+Roose Bolton,Jorah Mormont
+Roose Bolton,Maester Aemon
+Roose Bolton,Selyse Baratheon
+Roose Bolton,Myranda
+Roose Bolton,Shireen Baratheon
+Roose Bolton,Walda Bolton
+Roose Bolton,Bowen Marsh
+Roose Bolton,Gilly
+Roose Bolton,Daario Naharis
+Roose Bolton,Missandei
+Roose Bolton,Tormund Giantsbane
+Roose Bolton,Barristan Selmy
+Roose Bolton,Alliser Thorne
+Roose Bolton,Grey Worm
+Roose Bolton,Hizdahr zo Loraq
+Roose Bolton,Eddison Tollett
+Roose Bolton,Podrick Payne
+Roose Bolton,Olly
+Roose Bolton,Othell Yarwyck
+Ramsay Bolton,Jorah Mormont
+Ramsay Bolton,Maester Aemon
+Ramsay Bolton,Selyse Baratheon
+Ramsay Bolton,Myranda
+Ramsay Bolton,Shireen Baratheon
+Ramsay Bolton,Walda Bolton
+Ramsay Bolton,Bowen Marsh
+Ramsay Bolton,Gilly
+Ramsay Bolton,Daario Naharis
+Ramsay Bolton,Missandei
+Ramsay Bolton,Tormund Giantsbane
+Ramsay Bolton,Barristan Selmy
+Ramsay Bolton,Alliser Thorne
+Ramsay Bolton,Grey Worm
+Ramsay Bolton,Hizdahr zo Loraq
+Ramsay Bolton,Eddison Tollett
+Ramsay Bolton,Podrick Payne
+Ramsay Bolton,Olly
+Ramsay Bolton,Othell Yarwyck
+Jorah Mormont,Maester Aemon
+Jorah Mormont,Selyse Baratheon
+Jorah Mormont,Myranda
+Jorah Mormont,Shireen Baratheon
+Jorah Mormont,Walda Bolton
+Jorah Mormont,Bowen Marsh
+Jorah Mormont,Gilly
+Jorah Mormont,Daario Naharis
+Jorah Mormont,Missandei
+Jorah Mormont,Tormund Giantsbane
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Grey Worm
+Jorah Mormont,Hizdahr zo Loraq
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Olly
+Jorah Mormont,Othell Yarwyck
+Maester Aemon,Selyse Baratheon
+Maester Aemon,Myranda
+Maester Aemon,Shireen Baratheon
+Maester Aemon,Walda Bolton
+Maester Aemon,Bowen Marsh
+Maester Aemon,Gilly
+Maester Aemon,Daario Naharis
+Maester Aemon,Missandei
+Maester Aemon,Tormund Giantsbane
+Maester Aemon,Barristan Selmy
+Maester Aemon,Alliser Thorne
+Maester Aemon,Grey Worm
+Maester Aemon,Hizdahr zo Loraq
+Maester Aemon,Eddison Tollett
+Maester Aemon,Podrick Payne
+Maester Aemon,Olly
+Maester Aemon,Othell Yarwyck
+Selyse Baratheon,Myranda
+Selyse Baratheon,Shireen Baratheon
+Selyse Baratheon,Walda Bolton
+Selyse Baratheon,Bowen Marsh
+Selyse Baratheon,Gilly
+Selyse Baratheon,Daario Naharis
+Selyse Baratheon,Missandei
+Selyse Baratheon,Tormund Giantsbane
+Selyse Baratheon,Barristan Selmy
+Selyse Baratheon,Alliser Thorne
+Selyse Baratheon,Grey Worm
+Selyse Baratheon,Hizdahr zo Loraq
+Selyse Baratheon,Eddison Tollett
+Selyse Baratheon,Podrick Payne
+Selyse Baratheon,Olly
+Selyse Baratheon,Othell Yarwyck
+Myranda,Shireen Baratheon
+Myranda,Walda Bolton
+Myranda,Bowen Marsh
+Myranda,Gilly
+Myranda,Daario Naharis
+Myranda,Missandei
+Myranda,Tormund Giantsbane
+Myranda,Barristan Selmy
+Myranda,Alliser Thorne
+Myranda,Grey Worm
+Myranda,Hizdahr zo Loraq
+Myranda,Eddison Tollett
+Myranda,Podrick Payne
+Myranda,Olly
+Myranda,Othell Yarwyck
+Shireen Baratheon,Walda Bolton
+Shireen Baratheon,Bowen Marsh
+Shireen Baratheon,Gilly
+Shireen Baratheon,Daario Naharis
+Shireen Baratheon,Missandei
+Shireen Baratheon,Tormund Giantsbane
+Shireen Baratheon,Barristan Selmy
+Shireen Baratheon,Alliser Thorne
+Shireen Baratheon,Grey Worm
+Shireen Baratheon,Hizdahr zo Loraq
+Shireen Baratheon,Eddison Tollett
+Shireen Baratheon,Podrick Payne
+Shireen Baratheon,Olly
+Shireen Baratheon,Othell Yarwyck
+Walda Bolton,Bowen Marsh
+Walda Bolton,Gilly
+Walda Bolton,Daario Naharis
+Walda Bolton,Missandei
+Walda Bolton,Tormund Giantsbane
+Walda Bolton,Barristan Selmy
+Walda Bolton,Alliser Thorne
+Walda Bolton,Grey Worm
+Walda Bolton,Hizdahr zo Loraq
+Walda Bolton,Eddison Tollett
+Walda Bolton,Podrick Payne
+Walda Bolton,Olly
+Walda Bolton,Othell Yarwyck
+Bowen Marsh,Gilly
+Bowen Marsh,Daario Naharis
+Bowen Marsh,Missandei
+Bowen Marsh,Tormund Giantsbane
+Bowen Marsh,Barristan Selmy
+Bowen Marsh,Alliser Thorne
+Bowen Marsh,Grey Worm
+Bowen Marsh,Hizdahr zo Loraq
+Bowen Marsh,Eddison Tollett
+Bowen Marsh,Podrick Payne
+Bowen Marsh,Olly
+Bowen Marsh,Othell Yarwyck
+Gilly,Daario Naharis
+Gilly,Missandei
+Gilly,Tormund Giantsbane
+Gilly,Barristan Selmy
+Gilly,Alliser Thorne
+Gilly,Grey Worm
+Gilly,Hizdahr zo Loraq
+Gilly,Eddison Tollett
+Gilly,Podrick Payne
+Gilly,Olly
+Gilly,Othell Yarwyck
+Daario Naharis,Missandei
+Daario Naharis,Tormund Giantsbane
+Daario Naharis,Barristan Selmy
+Daario Naharis,Alliser Thorne
+Daario Naharis,Grey Worm
+Daario Naharis,Hizdahr zo Loraq
+Daario Naharis,Eddison Tollett
+Daario Naharis,Podrick Payne
+Daario Naharis,Olly
+Daario Naharis,Othell Yarwyck
+Missandei,Tormund Giantsbane
+Missandei,Barristan Selmy
+Missandei,Alliser Thorne
+Missandei,Grey Worm
+Missandei,Hizdahr zo Loraq
+Missandei,Eddison Tollett
+Missandei,Podrick Payne
+Missandei,Olly
+Missandei,Othell Yarwyck
+Tormund Giantsbane,Barristan Selmy
+Tormund Giantsbane,Alliser Thorne
+Tormund Giantsbane,Grey Worm
+Tormund Giantsbane,Hizdahr zo Loraq
+Tormund Giantsbane,Eddison Tollett
+Tormund Giantsbane,Podrick Payne
+Tormund Giantsbane,Olly
+Tormund Giantsbane,Othell Yarwyck
+Barristan Selmy,Alliser Thorne
+Barristan Selmy,Grey Worm
+Barristan Selmy,Hizdahr zo Loraq
+Barristan Selmy,Eddison Tollett
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Olly
+Barristan Selmy,Othell Yarwyck
+Alliser Thorne,Grey Worm
+Alliser Thorne,Hizdahr zo Loraq
+Alliser Thorne,Eddison Tollett
+Alliser Thorne,Podrick Payne
+Alliser Thorne,Olly
+Alliser Thorne,Othell Yarwyck
+Grey Worm,Hizdahr zo Loraq
+Grey Worm,Eddison Tollett
+Grey Worm,Podrick Payne
+Grey Worm,Olly
+Grey Worm,Othell Yarwyck
+Hizdahr zo Loraq,Eddison Tollett
+Hizdahr zo Loraq,Podrick Payne
+Hizdahr zo Loraq,Olly
+Hizdahr zo Loraq,Othell Yarwyck
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Olly
+Eddison Tollett,Othell Yarwyck
+Podrick Payne,Olly
+Podrick Payne,Othell Yarwyck
+Olly,Othell Yarwyck

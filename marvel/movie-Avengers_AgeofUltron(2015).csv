@@ -1,0 +1,34 @@
+CHARACTER,UNIVERSE,TITLE,RELEASE_DATE,ALIGNMENT,GENDER,STATUS,HEAD,FACIAL
+Tony Stark / Iron Man,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human hero,short,y
+Thor,MCU,Avengers: Age of Ultron,13 April 2015,good,male,alien hero,change,y
+Bruce Banner / Hulk,MCU,Avengers: Age of Ultron,13 April 2015,good,male,superhero,short,n
+Steve Rogers / Captain America,MCU,Avengers: Age of Ultron,13 April 2015,good,male,superhero,short,change
+Natasha Romanoff / Black Widow,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human hero,change,n
+Clint Barton / Hawkeye,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human hero,short,n
+Ultron,MCU,Avengers: Age of Ultron,13 April 2015,bad,?,superhero,NA,NA
+Nick Fury,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human hero,bald,y
+James Rhodes / War Machine,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human hero,short,n
+Pietro Maximoff / Quicksilver,MCU,Avengers: Age of Ultron,13 April 2015,change,male,superhero,short,y
+Wanda Maximoff / Scarlet Witch,MCU,Avengers: Age of Ultron,13 April 2015,change,female,superhero,long,n
+JARVIS,MCU,Avengers: Age of Ultron,13 April 2015,good,?,superhero,NA,NA
+Agent Maria Hill,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human hero,short,n
+Sam Wilson / Falcon,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human hero,short,y
+Heimdall,MCU,Avengers: Age of Ultron,13 April 2015,good,male,alien hero,long,y
+Laura Barton,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human,long,n
+Erik Selvig,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,bald,n
+Dr. Helen Cho,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human,long,n
+Baron Wolfgang von Strucker,MCU,Avengers: Age of Ultron,13 April 2015,bad,male,human,bald,n
+Ulysses Klaue,MCU,Avengers: Age of Ultron,13 April 2015,bad,male,human,short,y
+Stan Lee,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,short,y
+Zrinka,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human,long,n
+Costel,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,short,n
+Cooper Barton,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,short,n
+Lila Barton,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human,long,n
+Specialist Cameron Klein,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,short,n
+Thanos,MCU,Avengers: Age of Ultron,13 April 2015,bad,male,alien hero,bald,n
+Peggy Carter,MCU,Avengers: Age of Ultron,13 April 2015,good,female,human,long,n
+Madame B,MCU,Avengers: Age of Ultron,13 April 2015,bad,female,human,short,n
+Dr. List,MCU,Avengers: Age of Ultron,13 April 2015,bad,male,human,short,n
+Friday,MCU,Avengers: Age of Ultron,13 April 2015,good,?,superhero,NA,NA
+Nathaniel Pietro Barton,MCU,Avengers: Age of Ultron,13 April 2015,good,male,human,bald,n
+Vision,MCU,Avengers: Age of Ultron,13 April 2015,good,?,superhero,NA,NA

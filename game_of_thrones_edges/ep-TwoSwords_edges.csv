@@ -1,0 +1,904 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Bronn
+Tyrion Lannister,Shae
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Oberyn Martell
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Maester Aemon
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Styr
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Missandei
+Tyrion Lannister,Janos Slynt
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Dontos Hollard
+Tyrion Lannister,Polliver
+Tyrion Lannister,Thenn Warg
+Tyrion Lannister,Ser Endrew Tarth
+Tyrion Lannister,Marei
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Olyvar
+Tyrion Lannister,Morgan
+Tyrion Lannister,Lord Blackmont
+Tyrion Lannister,Othell Yarwyck
+Tyrion Lannister,Bernadette
+Tyrion Lannister,Tommy
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Arya Stark
+Jaime Lannister,Ygritte
+Jaime Lannister,Tormund Giantsbane
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Bronn
+Jaime Lannister,Shae
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Olenna Tyrell
+Jaime Lannister,Oberyn Martell
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Maester Aemon
+Jaime Lannister,Alliser Thorne
+Jaime Lannister,Qyburn
+Jaime Lannister,Styr
+Jaime Lannister,Grey Worm
+Jaime Lannister,Missandei
+Jaime Lannister,Janos Slynt
+Jaime Lannister,Meryn Trant
+Jaime Lannister,Dontos Hollard
+Jaime Lannister,Polliver
+Jaime Lannister,Thenn Warg
+Jaime Lannister,Ser Endrew Tarth
+Jaime Lannister,Marei
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Olyvar
+Jaime Lannister,Morgan
+Jaime Lannister,Lord Blackmont
+Jaime Lannister,Othell Yarwyck
+Jaime Lannister,Bernadette
+Jaime Lannister,Tommy
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Arya Stark
+Cersei Lannister,Ygritte
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Bronn
+Cersei Lannister,Shae
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Oberyn Martell
+Cersei Lannister,Ellaria Sand
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Maester Aemon
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Qyburn
+Cersei Lannister,Styr
+Cersei Lannister,Grey Worm
+Cersei Lannister,Missandei
+Cersei Lannister,Janos Slynt
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Dontos Hollard
+Cersei Lannister,Polliver
+Cersei Lannister,Thenn Warg
+Cersei Lannister,Ser Endrew Tarth
+Cersei Lannister,Marei
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Olyvar
+Cersei Lannister,Morgan
+Cersei Lannister,Lord Blackmont
+Cersei Lannister,Othell Yarwyck
+Cersei Lannister,Bernadette
+Cersei Lannister,Tommy
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Olenna Tyrell
+Daenerys Targaryen,Oberyn Martell
+Daenerys Targaryen,Ellaria Sand
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Styr
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Janos Slynt
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,Dontos Hollard
+Daenerys Targaryen,Polliver
+Daenerys Targaryen,Thenn Warg
+Daenerys Targaryen,Ser Endrew Tarth
+Daenerys Targaryen,Marei
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Olyvar
+Daenerys Targaryen,Morgan
+Daenerys Targaryen,Lord Blackmont
+Daenerys Targaryen,Othell Yarwyck
+Daenerys Targaryen,Bernadette
+Daenerys Targaryen,Tommy
+Jon Snow,Tywin Lannister
+Jon Snow,Margaery Tyrell
+Jon Snow,Joffrey Baratheon
+Jon Snow,Arya Stark
+Jon Snow,Ygritte
+Jon Snow,Tormund Giantsbane
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Brienne of Tarth
+Jon Snow,Bronn
+Jon Snow,Shae
+Jon Snow,Jorah Mormont
+Jon Snow,Olenna Tyrell
+Jon Snow,Oberyn Martell
+Jon Snow,Ellaria Sand
+Jon Snow,Daario Naharis
+Jon Snow,Maester Aemon
+Jon Snow,Alliser Thorne
+Jon Snow,Qyburn
+Jon Snow,Styr
+Jon Snow,Grey Worm
+Jon Snow,Missandei
+Jon Snow,Janos Slynt
+Jon Snow,Meryn Trant
+Jon Snow,Dontos Hollard
+Jon Snow,Polliver
+Jon Snow,Thenn Warg
+Jon Snow,Ser Endrew Tarth
+Jon Snow,Marei
+Jon Snow,Sansa Stark
+Jon Snow,Samwell Tarly
+Jon Snow,Barristan Selmy
+Jon Snow,Podrick Payne
+Jon Snow,Olyvar
+Jon Snow,Morgan
+Jon Snow,Lord Blackmont
+Jon Snow,Othell Yarwyck
+Jon Snow,Bernadette
+Jon Snow,Tommy
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Arya Stark
+Tywin Lannister,Ygritte
+Tywin Lannister,Tormund Giantsbane
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Bronn
+Tywin Lannister,Shae
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Olenna Tyrell
+Tywin Lannister,Oberyn Martell
+Tywin Lannister,Ellaria Sand
+Tywin Lannister,Daario Naharis
+Tywin Lannister,Maester Aemon
+Tywin Lannister,Alliser Thorne
+Tywin Lannister,Qyburn
+Tywin Lannister,Styr
+Tywin Lannister,Grey Worm
+Tywin Lannister,Missandei
+Tywin Lannister,Janos Slynt
+Tywin Lannister,Meryn Trant
+Tywin Lannister,Dontos Hollard
+Tywin Lannister,Polliver
+Tywin Lannister,Thenn Warg
+Tywin Lannister,Ser Endrew Tarth
+Tywin Lannister,Marei
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Olyvar
+Tywin Lannister,Morgan
+Tywin Lannister,Lord Blackmont
+Tywin Lannister,Othell Yarwyck
+Tywin Lannister,Bernadette
+Tywin Lannister,Tommy
+Margaery Tyrell,Joffrey Baratheon
+Margaery Tyrell,Arya Stark
+Margaery Tyrell,Ygritte
+Margaery Tyrell,Tormund Giantsbane
+Margaery Tyrell,Sandor 'The Hound' Clegane
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,Bronn
+Margaery Tyrell,Shae
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,Olenna Tyrell
+Margaery Tyrell,Oberyn Martell
+Margaery Tyrell,Ellaria Sand
+Margaery Tyrell,Daario Naharis
+Margaery Tyrell,Maester Aemon
+Margaery Tyrell,Alliser Thorne
+Margaery Tyrell,Qyburn
+Margaery Tyrell,Styr
+Margaery Tyrell,Grey Worm
+Margaery Tyrell,Missandei
+Margaery Tyrell,Janos Slynt
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,Dontos Hollard
+Margaery Tyrell,Polliver
+Margaery Tyrell,Thenn Warg
+Margaery Tyrell,Ser Endrew Tarth
+Margaery Tyrell,Marei
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Samwell Tarly
+Margaery Tyrell,Barristan Selmy
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Olyvar
+Margaery Tyrell,Morgan
+Margaery Tyrell,Lord Blackmont
+Margaery Tyrell,Othell Yarwyck
+Margaery Tyrell,Bernadette
+Margaery Tyrell,Tommy
+Joffrey Baratheon,Arya Stark
+Joffrey Baratheon,Ygritte
+Joffrey Baratheon,Tormund Giantsbane
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Jorah Mormont
+Joffrey Baratheon,Olenna Tyrell
+Joffrey Baratheon,Oberyn Martell
+Joffrey Baratheon,Ellaria Sand
+Joffrey Baratheon,Daario Naharis
+Joffrey Baratheon,Maester Aemon
+Joffrey Baratheon,Alliser Thorne
+Joffrey Baratheon,Qyburn
+Joffrey Baratheon,Styr
+Joffrey Baratheon,Grey Worm
+Joffrey Baratheon,Missandei
+Joffrey Baratheon,Janos Slynt
+Joffrey Baratheon,Meryn Trant
+Joffrey Baratheon,Dontos Hollard
+Joffrey Baratheon,Polliver
+Joffrey Baratheon,Thenn Warg
+Joffrey Baratheon,Ser Endrew Tarth
+Joffrey Baratheon,Marei
+Joffrey Baratheon,Sansa Stark
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Barristan Selmy
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Olyvar
+Joffrey Baratheon,Morgan
+Joffrey Baratheon,Lord Blackmont
+Joffrey Baratheon,Othell Yarwyck
+Joffrey Baratheon,Bernadette
+Joffrey Baratheon,Tommy
+Arya Stark,Ygritte
+Arya Stark,Tormund Giantsbane
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Brienne of Tarth
+Arya Stark,Bronn
+Arya Stark,Shae
+Arya Stark,Jorah Mormont
+Arya Stark,Olenna Tyrell
+Arya Stark,Oberyn Martell
+Arya Stark,Ellaria Sand
+Arya Stark,Daario Naharis
+Arya Stark,Maester Aemon
+Arya Stark,Alliser Thorne
+Arya Stark,Qyburn
+Arya Stark,Styr
+Arya Stark,Grey Worm
+Arya Stark,Missandei
+Arya Stark,Janos Slynt
+Arya Stark,Meryn Trant
+Arya Stark,Dontos Hollard
+Arya Stark,Polliver
+Arya Stark,Thenn Warg
+Arya Stark,Ser Endrew Tarth
+Arya Stark,Marei
+Arya Stark,Sansa Stark
+Arya Stark,Samwell Tarly
+Arya Stark,Barristan Selmy
+Arya Stark,Podrick Payne
+Arya Stark,Olyvar
+Arya Stark,Morgan
+Arya Stark,Lord Blackmont
+Arya Stark,Othell Yarwyck
+Arya Stark,Bernadette
+Arya Stark,Tommy
+Ygritte,Tormund Giantsbane
+Ygritte,Sandor 'The Hound' Clegane
+Ygritte,Brienne of Tarth
+Ygritte,Bronn
+Ygritte,Shae
+Ygritte,Jorah Mormont
+Ygritte,Olenna Tyrell
+Ygritte,Oberyn Martell
+Ygritte,Ellaria Sand
+Ygritte,Daario Naharis
+Ygritte,Maester Aemon
+Ygritte,Alliser Thorne
+Ygritte,Qyburn
+Ygritte,Styr
+Ygritte,Grey Worm
+Ygritte,Missandei
+Ygritte,Janos Slynt
+Ygritte,Meryn Trant
+Ygritte,Dontos Hollard
+Ygritte,Polliver
+Ygritte,Thenn Warg
+Ygritte,Ser Endrew Tarth
+Ygritte,Marei
+Ygritte,Sansa Stark
+Ygritte,Samwell Tarly
+Ygritte,Barristan Selmy
+Ygritte,Podrick Payne
+Ygritte,Olyvar
+Ygritte,Morgan
+Ygritte,Lord Blackmont
+Ygritte,Othell Yarwyck
+Ygritte,Bernadette
+Ygritte,Tommy
+Tormund Giantsbane,Sandor 'The Hound' Clegane
+Tormund Giantsbane,Brienne of Tarth
+Tormund Giantsbane,Bronn
+Tormund Giantsbane,Shae
+Tormund Giantsbane,Jorah Mormont
+Tormund Giantsbane,Olenna Tyrell
+Tormund Giantsbane,Oberyn Martell
+Tormund Giantsbane,Ellaria Sand
+Tormund Giantsbane,Daario Naharis
+Tormund Giantsbane,Maester Aemon
+Tormund Giantsbane,Alliser Thorne
+Tormund Giantsbane,Qyburn
+Tormund Giantsbane,Styr
+Tormund Giantsbane,Grey Worm
+Tormund Giantsbane,Missandei
+Tormund Giantsbane,Janos Slynt
+Tormund Giantsbane,Meryn Trant
+Tormund Giantsbane,Dontos Hollard
+Tormund Giantsbane,Polliver
+Tormund Giantsbane,Thenn Warg
+Tormund Giantsbane,Ser Endrew Tarth
+Tormund Giantsbane,Marei
+Tormund Giantsbane,Sansa Stark
+Tormund Giantsbane,Samwell Tarly
+Tormund Giantsbane,Barristan Selmy
+Tormund Giantsbane,Podrick Payne
+Tormund Giantsbane,Olyvar
+Tormund Giantsbane,Morgan
+Tormund Giantsbane,Lord Blackmont
+Tormund Giantsbane,Othell Yarwyck
+Tormund Giantsbane,Bernadette
+Tormund Giantsbane,Tommy
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Bronn
+Sandor 'The Hound' Clegane,Shae
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Olenna Tyrell
+Sandor 'The Hound' Clegane,Oberyn Martell
+Sandor 'The Hound' Clegane,Ellaria Sand
+Sandor 'The Hound' Clegane,Daario Naharis
+Sandor 'The Hound' Clegane,Maester Aemon
+Sandor 'The Hound' Clegane,Alliser Thorne
+Sandor 'The Hound' Clegane,Qyburn
+Sandor 'The Hound' Clegane,Styr
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Janos Slynt
+Sandor 'The Hound' Clegane,Meryn Trant
+Sandor 'The Hound' Clegane,Dontos Hollard
+Sandor 'The Hound' Clegane,Polliver
+Sandor 'The Hound' Clegane,Thenn Warg
+Sandor 'The Hound' Clegane,Ser Endrew Tarth
+Sandor 'The Hound' Clegane,Marei
+Sandor 'The Hound' Clegane,Sansa Stark
+Sandor 'The Hound' Clegane,Samwell Tarly
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Olyvar
+Sandor 'The Hound' Clegane,Morgan
+Sandor 'The Hound' Clegane,Lord Blackmont
+Sandor 'The Hound' Clegane,Othell Yarwyck
+Sandor 'The Hound' Clegane,Bernadette
+Sandor 'The Hound' Clegane,Tommy
+Brienne of Tarth,Bronn
+Brienne of Tarth,Shae
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Olenna Tyrell
+Brienne of Tarth,Oberyn Martell
+Brienne of Tarth,Ellaria Sand
+Brienne of Tarth,Daario Naharis
+Brienne of Tarth,Maester Aemon
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Qyburn
+Brienne of Tarth,Styr
+Brienne of Tarth,Grey Worm
+Brienne of Tarth,Missandei
+Brienne of Tarth,Janos Slynt
+Brienne of Tarth,Meryn Trant
+Brienne of Tarth,Dontos Hollard
+Brienne of Tarth,Polliver
+Brienne of Tarth,Thenn Warg
+Brienne of Tarth,Ser Endrew Tarth
+Brienne of Tarth,Marei
+Brienne of Tarth,Sansa Stark
+Brienne of Tarth,Samwell Tarly
+Brienne of Tarth,Barristan Selmy
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Olyvar
+Brienne of Tarth,Morgan
+Brienne of Tarth,Lord Blackmont
+Brienne of Tarth,Othell Yarwyck
+Brienne of Tarth,Bernadette
+Brienne of Tarth,Tommy
+Bronn,Shae
+Bronn,Jorah Mormont
+Bronn,Olenna Tyrell
+Bronn,Oberyn Martell
+Bronn,Ellaria Sand
+Bronn,Daario Naharis
+Bronn,Maester Aemon
+Bronn,Alliser Thorne
+Bronn,Qyburn
+Bronn,Styr
+Bronn,Grey Worm
+Bronn,Missandei
+Bronn,Janos Slynt
+Bronn,Meryn Trant
+Bronn,Dontos Hollard
+Bronn,Polliver
+Bronn,Thenn Warg
+Bronn,Ser Endrew Tarth
+Bronn,Marei
+Bronn,Sansa Stark
+Bronn,Samwell Tarly
+Bronn,Barristan Selmy
+Bronn,Podrick Payne
+Bronn,Olyvar
+Bronn,Morgan
+Bronn,Lord Blackmont
+Bronn,Othell Yarwyck
+Bronn,Bernadette
+Bronn,Tommy
+Shae,Jorah Mormont
+Shae,Olenna Tyrell
+Shae,Oberyn Martell
+Shae,Ellaria Sand
+Shae,Daario Naharis
+Shae,Maester Aemon
+Shae,Alliser Thorne
+Shae,Qyburn
+Shae,Styr
+Shae,Grey Worm
+Shae,Missandei
+Shae,Janos Slynt
+Shae,Meryn Trant
+Shae,Dontos Hollard
+Shae,Polliver
+Shae,Thenn Warg
+Shae,Ser Endrew Tarth
+Shae,Marei
+Shae,Sansa Stark
+Shae,Samwell Tarly
+Shae,Barristan Selmy
+Shae,Podrick Payne
+Shae,Olyvar
+Shae,Morgan
+Shae,Lord Blackmont
+Shae,Othell Yarwyck
+Shae,Bernadette
+Shae,Tommy
+Jorah Mormont,Olenna Tyrell
+Jorah Mormont,Oberyn Martell
+Jorah Mormont,Ellaria Sand
+Jorah Mormont,Daario Naharis
+Jorah Mormont,Maester Aemon
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Qyburn
+Jorah Mormont,Styr
+Jorah Mormont,Grey Worm
+Jorah Mormont,Missandei
+Jorah Mormont,Janos Slynt
+Jorah Mormont,Meryn Trant
+Jorah Mormont,Dontos Hollard
+Jorah Mormont,Polliver
+Jorah Mormont,Thenn Warg
+Jorah Mormont,Ser Endrew Tarth
+Jorah Mormont,Marei
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Olyvar
+Jorah Mormont,Morgan
+Jorah Mormont,Lord Blackmont
+Jorah Mormont,Othell Yarwyck
+Jorah Mormont,Bernadette
+Jorah Mormont,Tommy
+Olenna Tyrell,Oberyn Martell
+Olenna Tyrell,Ellaria Sand
+Olenna Tyrell,Daario Naharis
+Olenna Tyrell,Maester Aemon
+Olenna Tyrell,Alliser Thorne
+Olenna Tyrell,Qyburn
+Olenna Tyrell,Styr
+Olenna Tyrell,Grey Worm
+Olenna Tyrell,Missandei
+Olenna Tyrell,Janos Slynt
+Olenna Tyrell,Meryn Trant
+Olenna Tyrell,Dontos Hollard
+Olenna Tyrell,Polliver
+Olenna Tyrell,Thenn Warg
+Olenna Tyrell,Ser Endrew Tarth
+Olenna Tyrell,Marei
+Olenna Tyrell,Sansa Stark
+Olenna Tyrell,Samwell Tarly
+Olenna Tyrell,Barristan Selmy
+Olenna Tyrell,Podrick Payne
+Olenna Tyrell,Olyvar
+Olenna Tyrell,Morgan
+Olenna Tyrell,Lord Blackmont
+Olenna Tyrell,Othell Yarwyck
+Olenna Tyrell,Bernadette
+Olenna Tyrell,Tommy
+Oberyn Martell,Ellaria Sand
+Oberyn Martell,Daario Naharis
+Oberyn Martell,Maester Aemon
+Oberyn Martell,Alliser Thorne
+Oberyn Martell,Qyburn
+Oberyn Martell,Styr
+Oberyn Martell,Grey Worm
+Oberyn Martell,Missandei
+Oberyn Martell,Janos Slynt
+Oberyn Martell,Meryn Trant
+Oberyn Martell,Dontos Hollard
+Oberyn Martell,Polliver
+Oberyn Martell,Thenn Warg
+Oberyn Martell,Ser Endrew Tarth
+Oberyn Martell,Marei
+Oberyn Martell,Sansa Stark
+Oberyn Martell,Samwell Tarly
+Oberyn Martell,Barristan Selmy
+Oberyn Martell,Podrick Payne
+Oberyn Martell,Olyvar
+Oberyn Martell,Morgan
+Oberyn Martell,Lord Blackmont
+Oberyn Martell,Othell Yarwyck
+Oberyn Martell,Bernadette
+Oberyn Martell,Tommy
+Ellaria Sand,Daario Naharis
+Ellaria Sand,Maester Aemon
+Ellaria Sand,Alliser Thorne
+Ellaria Sand,Qyburn
+Ellaria Sand,Styr
+Ellaria Sand,Grey Worm
+Ellaria Sand,Missandei
+Ellaria Sand,Janos Slynt
+Ellaria Sand,Meryn Trant
+Ellaria Sand,Dontos Hollard
+Ellaria Sand,Polliver
+Ellaria Sand,Thenn Warg
+Ellaria Sand,Ser Endrew Tarth
+Ellaria Sand,Marei
+Ellaria Sand,Sansa Stark
+Ellaria Sand,Samwell Tarly
+Ellaria Sand,Barristan Selmy
+Ellaria Sand,Podrick Payne
+Ellaria Sand,Olyvar
+Ellaria Sand,Morgan
+Ellaria Sand,Lord Blackmont
+Ellaria Sand,Othell Yarwyck
+Ellaria Sand,Bernadette
+Ellaria Sand,Tommy
+Daario Naharis,Maester Aemon
+Daario Naharis,Alliser Thorne
+Daario Naharis,Qyburn
+Daario Naharis,Styr
+Daario Naharis,Grey Worm
+Daario Naharis,Missandei
+Daario Naharis,Janos Slynt
+Daario Naharis,Meryn Trant
+Daario Naharis,Dontos Hollard
+Daario Naharis,Polliver
+Daario Naharis,Thenn Warg
+Daario Naharis,Ser Endrew Tarth
+Daario Naharis,Marei
+Daario Naharis,Sansa Stark
+Daario Naharis,Samwell Tarly
+Daario Naharis,Barristan Selmy
+Daario Naharis,Podrick Payne
+Daario Naharis,Olyvar
+Daario Naharis,Morgan
+Daario Naharis,Lord Blackmont
+Daario Naharis,Othell Yarwyck
+Daario Naharis,Bernadette
+Daario Naharis,Tommy
+Maester Aemon,Alliser Thorne
+Maester Aemon,Qyburn
+Maester Aemon,Styr
+Maester Aemon,Grey Worm
+Maester Aemon,Missandei
+Maester Aemon,Janos Slynt
+Maester Aemon,Meryn Trant
+Maester Aemon,Dontos Hollard
+Maester Aemon,Polliver
+Maester Aemon,Thenn Warg
+Maester Aemon,Ser Endrew Tarth
+Maester Aemon,Marei
+Maester Aemon,Sansa Stark
+Maester Aemon,Samwell Tarly
+Maester Aemon,Barristan Selmy
+Maester Aemon,Podrick Payne
+Maester Aemon,Olyvar
+Maester Aemon,Morgan
+Maester Aemon,Lord Blackmont
+Maester Aemon,Othell Yarwyck
+Maester Aemon,Bernadette
+Maester Aemon,Tommy
+Alliser Thorne,Qyburn
+Alliser Thorne,Styr
+Alliser Thorne,Grey Worm
+Alliser Thorne,Missandei
+Alliser Thorne,Janos Slynt
+Alliser Thorne,Meryn Trant
+Alliser Thorne,Dontos Hollard
+Alliser Thorne,Polliver
+Alliser Thorne,Thenn Warg
+Alliser Thorne,Ser Endrew Tarth
+Alliser Thorne,Marei
+Alliser Thorne,Sansa Stark
+Alliser Thorne,Samwell Tarly
+Alliser Thorne,Barristan Selmy
+Alliser Thorne,Podrick Payne
+Alliser Thorne,Olyvar
+Alliser Thorne,Morgan
+Alliser Thorne,Lord Blackmont
+Alliser Thorne,Othell Yarwyck
+Alliser Thorne,Bernadette
+Alliser Thorne,Tommy
+Qyburn,Styr
+Qyburn,Grey Worm
+Qyburn,Missandei
+Qyburn,Janos Slynt
+Qyburn,Meryn Trant
+Qyburn,Dontos Hollard
+Qyburn,Polliver
+Qyburn,Thenn Warg
+Qyburn,Ser Endrew Tarth
+Qyburn,Marei
+Qyburn,Sansa Stark
+Qyburn,Samwell Tarly
+Qyburn,Barristan Selmy
+Qyburn,Podrick Payne
+Qyburn,Olyvar
+Qyburn,Morgan
+Qyburn,Lord Blackmont
+Qyburn,Othell Yarwyck
+Qyburn,Bernadette
+Qyburn,Tommy
+Styr,Grey Worm
+Styr,Missandei
+Styr,Janos Slynt
+Styr,Meryn Trant
+Styr,Dontos Hollard
+Styr,Polliver
+Styr,Thenn Warg
+Styr,Ser Endrew Tarth
+Styr,Marei
+Styr,Sansa Stark
+Styr,Samwell Tarly
+Styr,Barristan Selmy
+Styr,Podrick Payne
+Styr,Olyvar
+Styr,Morgan
+Styr,Lord Blackmont
+Styr,Othell Yarwyck
+Styr,Bernadette
+Styr,Tommy
+Grey Worm,Missandei
+Grey Worm,Janos Slynt
+Grey Worm,Meryn Trant
+Grey Worm,Dontos Hollard
+Grey Worm,Polliver
+Grey Worm,Thenn Warg
+Grey Worm,Ser Endrew Tarth
+Grey Worm,Marei
+Grey Worm,Sansa Stark
+Grey Worm,Samwell Tarly
+Grey Worm,Barristan Selmy
+Grey Worm,Podrick Payne
+Grey Worm,Olyvar
+Grey Worm,Morgan
+Grey Worm,Lord Blackmont
+Grey Worm,Othell Yarwyck
+Grey Worm,Bernadette
+Grey Worm,Tommy
+Missandei,Janos Slynt
+Missandei,Meryn Trant
+Missandei,Dontos Hollard
+Missandei,Polliver
+Missandei,Thenn Warg
+Missandei,Ser Endrew Tarth
+Missandei,Marei
+Missandei,Sansa Stark
+Missandei,Samwell Tarly
+Missandei,Barristan Selmy
+Missandei,Podrick Payne
+Missandei,Olyvar
+Missandei,Morgan
+Missandei,Lord Blackmont
+Missandei,Othell Yarwyck
+Missandei,Bernadette
+Missandei,Tommy
+Janos Slynt,Meryn Trant
+Janos Slynt,Dontos Hollard
+Janos Slynt,Polliver
+Janos Slynt,Thenn Warg
+Janos Slynt,Ser Endrew Tarth
+Janos Slynt,Marei
+Janos Slynt,Sansa Stark
+Janos Slynt,Samwell Tarly
+Janos Slynt,Barristan Selmy
+Janos Slynt,Podrick Payne
+Janos Slynt,Olyvar
+Janos Slynt,Morgan
+Janos Slynt,Lord Blackmont
+Janos Slynt,Othell Yarwyck
+Janos Slynt,Bernadette
+Janos Slynt,Tommy
+Meryn Trant,Dontos Hollard
+Meryn Trant,Polliver
+Meryn Trant,Thenn Warg
+Meryn Trant,Ser Endrew Tarth
+Meryn Trant,Marei
+Meryn Trant,Sansa Stark
+Meryn Trant,Samwell Tarly
+Meryn Trant,Barristan Selmy
+Meryn Trant,Podrick Payne
+Meryn Trant,Olyvar
+Meryn Trant,Morgan
+Meryn Trant,Lord Blackmont
+Meryn Trant,Othell Yarwyck
+Meryn Trant,Bernadette
+Meryn Trant,Tommy
+Dontos Hollard,Polliver
+Dontos Hollard,Thenn Warg
+Dontos Hollard,Ser Endrew Tarth
+Dontos Hollard,Marei
+Dontos Hollard,Sansa Stark
+Dontos Hollard,Samwell Tarly
+Dontos Hollard,Barristan Selmy
+Dontos Hollard,Podrick Payne
+Dontos Hollard,Olyvar
+Dontos Hollard,Morgan
+Dontos Hollard,Lord Blackmont
+Dontos Hollard,Othell Yarwyck
+Dontos Hollard,Bernadette
+Dontos Hollard,Tommy
+Polliver,Thenn Warg
+Polliver,Ser Endrew Tarth
+Polliver,Marei
+Polliver,Sansa Stark
+Polliver,Samwell Tarly
+Polliver,Barristan Selmy
+Polliver,Podrick Payne
+Polliver,Olyvar
+Polliver,Morgan
+Polliver,Lord Blackmont
+Polliver,Othell Yarwyck
+Polliver,Bernadette
+Polliver,Tommy
+Thenn Warg,Ser Endrew Tarth
+Thenn Warg,Marei
+Thenn Warg,Sansa Stark
+Thenn Warg,Samwell Tarly
+Thenn Warg,Barristan Selmy
+Thenn Warg,Podrick Payne
+Thenn Warg,Olyvar
+Thenn Warg,Morgan
+Thenn Warg,Lord Blackmont
+Thenn Warg,Othell Yarwyck
+Thenn Warg,Bernadette
+Thenn Warg,Tommy
+Ser Endrew Tarth,Marei
+Ser Endrew Tarth,Sansa Stark
+Ser Endrew Tarth,Samwell Tarly
+Ser Endrew Tarth,Barristan Selmy
+Ser Endrew Tarth,Podrick Payne
+Ser Endrew Tarth,Olyvar
+Ser Endrew Tarth,Morgan
+Ser Endrew Tarth,Lord Blackmont
+Ser Endrew Tarth,Othell Yarwyck
+Ser Endrew Tarth,Bernadette
+Ser Endrew Tarth,Tommy
+Marei,Sansa Stark
+Marei,Samwell Tarly
+Marei,Barristan Selmy
+Marei,Podrick Payne
+Marei,Olyvar
+Marei,Morgan
+Marei,Lord Blackmont
+Marei,Othell Yarwyck
+Marei,Bernadette
+Marei,Tommy
+Sansa Stark,Samwell Tarly
+Sansa Stark,Barristan Selmy
+Sansa Stark,Podrick Payne
+Sansa Stark,Olyvar
+Sansa Stark,Morgan
+Sansa Stark,Lord Blackmont
+Sansa Stark,Othell Yarwyck
+Sansa Stark,Bernadette
+Sansa Stark,Tommy
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Olyvar
+Samwell Tarly,Morgan
+Samwell Tarly,Lord Blackmont
+Samwell Tarly,Othell Yarwyck
+Samwell Tarly,Bernadette
+Samwell Tarly,Tommy
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Olyvar
+Barristan Selmy,Morgan
+Barristan Selmy,Lord Blackmont
+Barristan Selmy,Othell Yarwyck
+Barristan Selmy,Bernadette
+Barristan Selmy,Tommy
+Podrick Payne,Olyvar
+Podrick Payne,Morgan
+Podrick Payne,Lord Blackmont
+Podrick Payne,Othell Yarwyck
+Podrick Payne,Bernadette
+Podrick Payne,Tommy
+Olyvar,Morgan
+Olyvar,Lord Blackmont
+Olyvar,Othell Yarwyck
+Olyvar,Bernadette
+Olyvar,Tommy
+Morgan,Lord Blackmont
+Morgan,Othell Yarwyck
+Morgan,Bernadette
+Morgan,Tommy
+Lord Blackmont,Othell Yarwyck
+Lord Blackmont,Bernadette
+Lord Blackmont,Tommy
+Othell Yarwyck,Bernadette
+Othell Yarwyck,Tommy
+Bernadette,Tommy

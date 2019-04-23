@@ -1,0 +1,781 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Bronn
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Shae
+Tyrion Lannister,Balon Greyjoy
+Tyrion Lannister,Yoren
+Tyrion Lannister,Janos Slynt
+Tyrion Lannister,Jaqen H'ghar
+Tyrion Lannister,Gendry
+Tyrion Lannister,Grenn
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Hot Pie
+Tyrion Lannister,Lommy Greenhands
+Tyrion Lannister,Ros
+Tyrion Lannister,Rorge
+Tyrion Lannister,Yara Greyjoy
+Tyrion Lannister,Matthos Seaworth
+Tyrion Lannister,Salladhor Saan
+Tyrion Lannister,Gilly
+Tyrion Lannister,Biter
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Craster
+Tyrion Lannister,Doreah
+Tyrion Lannister,Irri
+Tyrion Lannister,Kovarro
+Tyrion Lannister,Alton Lannister
+Tyrion Lannister,Armeca
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Marei
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Arya Stark
+Cersei Lannister,Bronn
+Cersei Lannister,Lord Varys
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Shae
+Cersei Lannister,Balon Greyjoy
+Cersei Lannister,Yoren
+Cersei Lannister,Janos Slynt
+Cersei Lannister,Jaqen H'ghar
+Cersei Lannister,Gendry
+Cersei Lannister,Grenn
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Hot Pie
+Cersei Lannister,Lommy Greenhands
+Cersei Lannister,Ros
+Cersei Lannister,Rorge
+Cersei Lannister,Yara Greyjoy
+Cersei Lannister,Matthos Seaworth
+Cersei Lannister,Salladhor Saan
+Cersei Lannister,Gilly
+Cersei Lannister,Biter
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Jon Snow
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Melisandre
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Craster
+Cersei Lannister,Doreah
+Cersei Lannister,Irri
+Cersei Lannister,Kovarro
+Cersei Lannister,Alton Lannister
+Cersei Lannister,Armeca
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Marei
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Balon Greyjoy
+Daenerys Targaryen,Yoren
+Daenerys Targaryen,Janos Slynt
+Daenerys Targaryen,Jaqen H'ghar
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Hot Pie
+Daenerys Targaryen,Lommy Greenhands
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Rorge
+Daenerys Targaryen,Yara Greyjoy
+Daenerys Targaryen,Matthos Seaworth
+Daenerys Targaryen,Salladhor Saan
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Biter
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Craster
+Daenerys Targaryen,Doreah
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Kovarro
+Daenerys Targaryen,Alton Lannister
+Daenerys Targaryen,Armeca
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Marei
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Shae
+Petyr 'Littlefinger' Baelish,Balon Greyjoy
+Petyr 'Littlefinger' Baelish,Yoren
+Petyr 'Littlefinger' Baelish,Janos Slynt
+Petyr 'Littlefinger' Baelish,Jaqen H'ghar
+Petyr 'Littlefinger' Baelish,Gendry
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Hot Pie
+Petyr 'Littlefinger' Baelish,Lommy Greenhands
+Petyr 'Littlefinger' Baelish,Ros
+Petyr 'Littlefinger' Baelish,Rorge
+Petyr 'Littlefinger' Baelish,Yara Greyjoy
+Petyr 'Littlefinger' Baelish,Matthos Seaworth
+Petyr 'Littlefinger' Baelish,Salladhor Saan
+Petyr 'Littlefinger' Baelish,Gilly
+Petyr 'Littlefinger' Baelish,Biter
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Jon Snow
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Craster
+Petyr 'Littlefinger' Baelish,Doreah
+Petyr 'Littlefinger' Baelish,Irri
+Petyr 'Littlefinger' Baelish,Kovarro
+Petyr 'Littlefinger' Baelish,Alton Lannister
+Petyr 'Littlefinger' Baelish,Armeca
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Marei
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Arya Stark
+Davos Seaworth,Bronn
+Davos Seaworth,Lord Varys
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Shae
+Davos Seaworth,Balon Greyjoy
+Davos Seaworth,Yoren
+Davos Seaworth,Janos Slynt
+Davos Seaworth,Jaqen H'ghar
+Davos Seaworth,Gendry
+Davos Seaworth,Grenn
+Davos Seaworth,Eddison Tollett
+Davos Seaworth,Hot Pie
+Davos Seaworth,Lommy Greenhands
+Davos Seaworth,Ros
+Davos Seaworth,Rorge
+Davos Seaworth,Yara Greyjoy
+Davos Seaworth,Matthos Seaworth
+Davos Seaworth,Salladhor Saan
+Davos Seaworth,Gilly
+Davos Seaworth,Biter
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Jon Snow
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Melisandre
+Davos Seaworth,Grand Maester Pycelle
+Davos Seaworth,Craster
+Davos Seaworth,Doreah
+Davos Seaworth,Irri
+Davos Seaworth,Kovarro
+Davos Seaworth,Alton Lannister
+Davos Seaworth,Armeca
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Marei
+Theon Greyjoy,Arya Stark
+Theon Greyjoy,Bronn
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Shae
+Theon Greyjoy,Balon Greyjoy
+Theon Greyjoy,Yoren
+Theon Greyjoy,Janos Slynt
+Theon Greyjoy,Jaqen H'ghar
+Theon Greyjoy,Gendry
+Theon Greyjoy,Grenn
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,Hot Pie
+Theon Greyjoy,Lommy Greenhands
+Theon Greyjoy,Ros
+Theon Greyjoy,Rorge
+Theon Greyjoy,Yara Greyjoy
+Theon Greyjoy,Matthos Seaworth
+Theon Greyjoy,Salladhor Saan
+Theon Greyjoy,Gilly
+Theon Greyjoy,Biter
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Jon Snow
+Theon Greyjoy,Stannis Baratheon
+Theon Greyjoy,Melisandre
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Craster
+Theon Greyjoy,Doreah
+Theon Greyjoy,Irri
+Theon Greyjoy,Kovarro
+Theon Greyjoy,Alton Lannister
+Theon Greyjoy,Armeca
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Marei
+Arya Stark,Bronn
+Arya Stark,Lord Varys
+Arya Stark,Samwell Tarly
+Arya Stark,Shae
+Arya Stark,Balon Greyjoy
+Arya Stark,Yoren
+Arya Stark,Janos Slynt
+Arya Stark,Jaqen H'ghar
+Arya Stark,Gendry
+Arya Stark,Grenn
+Arya Stark,Eddison Tollett
+Arya Stark,Hot Pie
+Arya Stark,Lommy Greenhands
+Arya Stark,Ros
+Arya Stark,Rorge
+Arya Stark,Yara Greyjoy
+Arya Stark,Matthos Seaworth
+Arya Stark,Salladhor Saan
+Arya Stark,Gilly
+Arya Stark,Biter
+Arya Stark,Jorah Mormont
+Arya Stark,Jon Snow
+Arya Stark,Stannis Baratheon
+Arya Stark,Melisandre
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Craster
+Arya Stark,Doreah
+Arya Stark,Irri
+Arya Stark,Kovarro
+Arya Stark,Alton Lannister
+Arya Stark,Armeca
+Arya Stark,Podrick Payne
+Arya Stark,Marei
+Bronn,Lord Varys
+Bronn,Samwell Tarly
+Bronn,Shae
+Bronn,Balon Greyjoy
+Bronn,Yoren
+Bronn,Janos Slynt
+Bronn,Jaqen H'ghar
+Bronn,Gendry
+Bronn,Grenn
+Bronn,Eddison Tollett
+Bronn,Hot Pie
+Bronn,Lommy Greenhands
+Bronn,Ros
+Bronn,Rorge
+Bronn,Yara Greyjoy
+Bronn,Matthos Seaworth
+Bronn,Salladhor Saan
+Bronn,Gilly
+Bronn,Biter
+Bronn,Jorah Mormont
+Bronn,Jon Snow
+Bronn,Stannis Baratheon
+Bronn,Melisandre
+Bronn,Grand Maester Pycelle
+Bronn,Craster
+Bronn,Doreah
+Bronn,Irri
+Bronn,Kovarro
+Bronn,Alton Lannister
+Bronn,Armeca
+Bronn,Podrick Payne
+Bronn,Marei
+Lord Varys,Samwell Tarly
+Lord Varys,Shae
+Lord Varys,Balon Greyjoy
+Lord Varys,Yoren
+Lord Varys,Janos Slynt
+Lord Varys,Jaqen H'ghar
+Lord Varys,Gendry
+Lord Varys,Grenn
+Lord Varys,Eddison Tollett
+Lord Varys,Hot Pie
+Lord Varys,Lommy Greenhands
+Lord Varys,Ros
+Lord Varys,Rorge
+Lord Varys,Yara Greyjoy
+Lord Varys,Matthos Seaworth
+Lord Varys,Salladhor Saan
+Lord Varys,Gilly
+Lord Varys,Biter
+Lord Varys,Jorah Mormont
+Lord Varys,Jon Snow
+Lord Varys,Stannis Baratheon
+Lord Varys,Melisandre
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Craster
+Lord Varys,Doreah
+Lord Varys,Irri
+Lord Varys,Kovarro
+Lord Varys,Alton Lannister
+Lord Varys,Armeca
+Lord Varys,Podrick Payne
+Lord Varys,Marei
+Samwell Tarly,Shae
+Samwell Tarly,Balon Greyjoy
+Samwell Tarly,Yoren
+Samwell Tarly,Janos Slynt
+Samwell Tarly,Jaqen H'ghar
+Samwell Tarly,Gendry
+Samwell Tarly,Grenn
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Hot Pie
+Samwell Tarly,Lommy Greenhands
+Samwell Tarly,Ros
+Samwell Tarly,Rorge
+Samwell Tarly,Yara Greyjoy
+Samwell Tarly,Matthos Seaworth
+Samwell Tarly,Salladhor Saan
+Samwell Tarly,Gilly
+Samwell Tarly,Biter
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Jon Snow
+Samwell Tarly,Stannis Baratheon
+Samwell Tarly,Melisandre
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Craster
+Samwell Tarly,Doreah
+Samwell Tarly,Irri
+Samwell Tarly,Kovarro
+Samwell Tarly,Alton Lannister
+Samwell Tarly,Armeca
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Marei
+Shae,Balon Greyjoy
+Shae,Yoren
+Shae,Janos Slynt
+Shae,Jaqen H'ghar
+Shae,Gendry
+Shae,Grenn
+Shae,Eddison Tollett
+Shae,Hot Pie
+Shae,Lommy Greenhands
+Shae,Ros
+Shae,Rorge
+Shae,Yara Greyjoy
+Shae,Matthos Seaworth
+Shae,Salladhor Saan
+Shae,Gilly
+Shae,Biter
+Shae,Jorah Mormont
+Shae,Jon Snow
+Shae,Stannis Baratheon
+Shae,Melisandre
+Shae,Grand Maester Pycelle
+Shae,Craster
+Shae,Doreah
+Shae,Irri
+Shae,Kovarro
+Shae,Alton Lannister
+Shae,Armeca
+Shae,Podrick Payne
+Shae,Marei
+Balon Greyjoy,Yoren
+Balon Greyjoy,Janos Slynt
+Balon Greyjoy,Jaqen H'ghar
+Balon Greyjoy,Gendry
+Balon Greyjoy,Grenn
+Balon Greyjoy,Eddison Tollett
+Balon Greyjoy,Hot Pie
+Balon Greyjoy,Lommy Greenhands
+Balon Greyjoy,Ros
+Balon Greyjoy,Rorge
+Balon Greyjoy,Yara Greyjoy
+Balon Greyjoy,Matthos Seaworth
+Balon Greyjoy,Salladhor Saan
+Balon Greyjoy,Gilly
+Balon Greyjoy,Biter
+Balon Greyjoy,Jorah Mormont
+Balon Greyjoy,Jon Snow
+Balon Greyjoy,Stannis Baratheon
+Balon Greyjoy,Melisandre
+Balon Greyjoy,Grand Maester Pycelle
+Balon Greyjoy,Craster
+Balon Greyjoy,Doreah
+Balon Greyjoy,Irri
+Balon Greyjoy,Kovarro
+Balon Greyjoy,Alton Lannister
+Balon Greyjoy,Armeca
+Balon Greyjoy,Podrick Payne
+Balon Greyjoy,Marei
+Yoren,Janos Slynt
+Yoren,Jaqen H'ghar
+Yoren,Gendry
+Yoren,Grenn
+Yoren,Eddison Tollett
+Yoren,Hot Pie
+Yoren,Lommy Greenhands
+Yoren,Ros
+Yoren,Rorge
+Yoren,Yara Greyjoy
+Yoren,Matthos Seaworth
+Yoren,Salladhor Saan
+Yoren,Gilly
+Yoren,Biter
+Yoren,Jorah Mormont
+Yoren,Jon Snow
+Yoren,Stannis Baratheon
+Yoren,Melisandre
+Yoren,Grand Maester Pycelle
+Yoren,Craster
+Yoren,Doreah
+Yoren,Irri
+Yoren,Kovarro
+Yoren,Alton Lannister
+Yoren,Armeca
+Yoren,Podrick Payne
+Yoren,Marei
+Janos Slynt,Jaqen H'ghar
+Janos Slynt,Gendry
+Janos Slynt,Grenn
+Janos Slynt,Eddison Tollett
+Janos Slynt,Hot Pie
+Janos Slynt,Lommy Greenhands
+Janos Slynt,Ros
+Janos Slynt,Rorge
+Janos Slynt,Yara Greyjoy
+Janos Slynt,Matthos Seaworth
+Janos Slynt,Salladhor Saan
+Janos Slynt,Gilly
+Janos Slynt,Biter
+Janos Slynt,Jorah Mormont
+Janos Slynt,Jon Snow
+Janos Slynt,Stannis Baratheon
+Janos Slynt,Melisandre
+Janos Slynt,Grand Maester Pycelle
+Janos Slynt,Craster
+Janos Slynt,Doreah
+Janos Slynt,Irri
+Janos Slynt,Kovarro
+Janos Slynt,Alton Lannister
+Janos Slynt,Armeca
+Janos Slynt,Podrick Payne
+Janos Slynt,Marei
+Jaqen H'ghar,Gendry
+Jaqen H'ghar,Grenn
+Jaqen H'ghar,Eddison Tollett
+Jaqen H'ghar,Hot Pie
+Jaqen H'ghar,Lommy Greenhands
+Jaqen H'ghar,Ros
+Jaqen H'ghar,Rorge
+Jaqen H'ghar,Yara Greyjoy
+Jaqen H'ghar,Matthos Seaworth
+Jaqen H'ghar,Salladhor Saan
+Jaqen H'ghar,Gilly
+Jaqen H'ghar,Biter
+Jaqen H'ghar,Jorah Mormont
+Jaqen H'ghar,Jon Snow
+Jaqen H'ghar,Stannis Baratheon
+Jaqen H'ghar,Melisandre
+Jaqen H'ghar,Grand Maester Pycelle
+Jaqen H'ghar,Craster
+Jaqen H'ghar,Doreah
+Jaqen H'ghar,Irri
+Jaqen H'ghar,Kovarro
+Jaqen H'ghar,Alton Lannister
+Jaqen H'ghar,Armeca
+Jaqen H'ghar,Podrick Payne
+Jaqen H'ghar,Marei
+Gendry,Grenn
+Gendry,Eddison Tollett
+Gendry,Hot Pie
+Gendry,Lommy Greenhands
+Gendry,Ros
+Gendry,Rorge
+Gendry,Yara Greyjoy
+Gendry,Matthos Seaworth
+Gendry,Salladhor Saan
+Gendry,Gilly
+Gendry,Biter
+Gendry,Jorah Mormont
+Gendry,Jon Snow
+Gendry,Stannis Baratheon
+Gendry,Melisandre
+Gendry,Grand Maester Pycelle
+Gendry,Craster
+Gendry,Doreah
+Gendry,Irri
+Gendry,Kovarro
+Gendry,Alton Lannister
+Gendry,Armeca
+Gendry,Podrick Payne
+Gendry,Marei
+Grenn,Eddison Tollett
+Grenn,Hot Pie
+Grenn,Lommy Greenhands
+Grenn,Ros
+Grenn,Rorge
+Grenn,Yara Greyjoy
+Grenn,Matthos Seaworth
+Grenn,Salladhor Saan
+Grenn,Gilly
+Grenn,Biter
+Grenn,Jorah Mormont
+Grenn,Jon Snow
+Grenn,Stannis Baratheon
+Grenn,Melisandre
+Grenn,Grand Maester Pycelle
+Grenn,Craster
+Grenn,Doreah
+Grenn,Irri
+Grenn,Kovarro
+Grenn,Alton Lannister
+Grenn,Armeca
+Grenn,Podrick Payne
+Grenn,Marei
+Eddison Tollett,Hot Pie
+Eddison Tollett,Lommy Greenhands
+Eddison Tollett,Ros
+Eddison Tollett,Rorge
+Eddison Tollett,Yara Greyjoy
+Eddison Tollett,Matthos Seaworth
+Eddison Tollett,Salladhor Saan
+Eddison Tollett,Gilly
+Eddison Tollett,Biter
+Eddison Tollett,Jorah Mormont
+Eddison Tollett,Jon Snow
+Eddison Tollett,Stannis Baratheon
+Eddison Tollett,Melisandre
+Eddison Tollett,Grand Maester Pycelle
+Eddison Tollett,Craster
+Eddison Tollett,Doreah
+Eddison Tollett,Irri
+Eddison Tollett,Kovarro
+Eddison Tollett,Alton Lannister
+Eddison Tollett,Armeca
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Marei
+Hot Pie,Lommy Greenhands
+Hot Pie,Ros
+Hot Pie,Rorge
+Hot Pie,Yara Greyjoy
+Hot Pie,Matthos Seaworth
+Hot Pie,Salladhor Saan
+Hot Pie,Gilly
+Hot Pie,Biter
+Hot Pie,Jorah Mormont
+Hot Pie,Jon Snow
+Hot Pie,Stannis Baratheon
+Hot Pie,Melisandre
+Hot Pie,Grand Maester Pycelle
+Hot Pie,Craster
+Hot Pie,Doreah
+Hot Pie,Irri
+Hot Pie,Kovarro
+Hot Pie,Alton Lannister
+Hot Pie,Armeca
+Hot Pie,Podrick Payne
+Hot Pie,Marei
+Lommy Greenhands,Ros
+Lommy Greenhands,Rorge
+Lommy Greenhands,Yara Greyjoy
+Lommy Greenhands,Matthos Seaworth
+Lommy Greenhands,Salladhor Saan
+Lommy Greenhands,Gilly
+Lommy Greenhands,Biter
+Lommy Greenhands,Jorah Mormont
+Lommy Greenhands,Jon Snow
+Lommy Greenhands,Stannis Baratheon
+Lommy Greenhands,Melisandre
+Lommy Greenhands,Grand Maester Pycelle
+Lommy Greenhands,Craster
+Lommy Greenhands,Doreah
+Lommy Greenhands,Irri
+Lommy Greenhands,Kovarro
+Lommy Greenhands,Alton Lannister
+Lommy Greenhands,Armeca
+Lommy Greenhands,Podrick Payne
+Lommy Greenhands,Marei
+Ros,Rorge
+Ros,Yara Greyjoy
+Ros,Matthos Seaworth
+Ros,Salladhor Saan
+Ros,Gilly
+Ros,Biter
+Ros,Jorah Mormont
+Ros,Jon Snow
+Ros,Stannis Baratheon
+Ros,Melisandre
+Ros,Grand Maester Pycelle
+Ros,Craster
+Ros,Doreah
+Ros,Irri
+Ros,Kovarro
+Ros,Alton Lannister
+Ros,Armeca
+Ros,Podrick Payne
+Ros,Marei
+Rorge,Yara Greyjoy
+Rorge,Matthos Seaworth
+Rorge,Salladhor Saan
+Rorge,Gilly
+Rorge,Biter
+Rorge,Jorah Mormont
+Rorge,Jon Snow
+Rorge,Stannis Baratheon
+Rorge,Melisandre
+Rorge,Grand Maester Pycelle
+Rorge,Craster
+Rorge,Doreah
+Rorge,Irri
+Rorge,Kovarro
+Rorge,Alton Lannister
+Rorge,Armeca
+Rorge,Podrick Payne
+Rorge,Marei
+Yara Greyjoy,Matthos Seaworth
+Yara Greyjoy,Salladhor Saan
+Yara Greyjoy,Gilly
+Yara Greyjoy,Biter
+Yara Greyjoy,Jorah Mormont
+Yara Greyjoy,Jon Snow
+Yara Greyjoy,Stannis Baratheon
+Yara Greyjoy,Melisandre
+Yara Greyjoy,Grand Maester Pycelle
+Yara Greyjoy,Craster
+Yara Greyjoy,Doreah
+Yara Greyjoy,Irri
+Yara Greyjoy,Kovarro
+Yara Greyjoy,Alton Lannister
+Yara Greyjoy,Armeca
+Yara Greyjoy,Podrick Payne
+Yara Greyjoy,Marei
+Matthos Seaworth,Salladhor Saan
+Matthos Seaworth,Gilly
+Matthos Seaworth,Biter
+Matthos Seaworth,Jorah Mormont
+Matthos Seaworth,Jon Snow
+Matthos Seaworth,Stannis Baratheon
+Matthos Seaworth,Melisandre
+Matthos Seaworth,Grand Maester Pycelle
+Matthos Seaworth,Craster
+Matthos Seaworth,Doreah
+Matthos Seaworth,Irri
+Matthos Seaworth,Kovarro
+Matthos Seaworth,Alton Lannister
+Matthos Seaworth,Armeca
+Matthos Seaworth,Podrick Payne
+Matthos Seaworth,Marei
+Salladhor Saan,Gilly
+Salladhor Saan,Biter
+Salladhor Saan,Jorah Mormont
+Salladhor Saan,Jon Snow
+Salladhor Saan,Stannis Baratheon
+Salladhor Saan,Melisandre
+Salladhor Saan,Grand Maester Pycelle
+Salladhor Saan,Craster
+Salladhor Saan,Doreah
+Salladhor Saan,Irri
+Salladhor Saan,Kovarro
+Salladhor Saan,Alton Lannister
+Salladhor Saan,Armeca
+Salladhor Saan,Podrick Payne
+Salladhor Saan,Marei
+Gilly,Biter
+Gilly,Jorah Mormont
+Gilly,Jon Snow
+Gilly,Stannis Baratheon
+Gilly,Melisandre
+Gilly,Grand Maester Pycelle
+Gilly,Craster
+Gilly,Doreah
+Gilly,Irri
+Gilly,Kovarro
+Gilly,Alton Lannister
+Gilly,Armeca
+Gilly,Podrick Payne
+Gilly,Marei
+Biter,Jorah Mormont
+Biter,Jon Snow
+Biter,Stannis Baratheon
+Biter,Melisandre
+Biter,Grand Maester Pycelle
+Biter,Craster
+Biter,Doreah
+Biter,Irri
+Biter,Kovarro
+Biter,Alton Lannister
+Biter,Armeca
+Biter,Podrick Payne
+Biter,Marei
+Jorah Mormont,Jon Snow
+Jorah Mormont,Stannis Baratheon
+Jorah Mormont,Melisandre
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Craster
+Jorah Mormont,Doreah
+Jorah Mormont,Irri
+Jorah Mormont,Kovarro
+Jorah Mormont,Alton Lannister
+Jorah Mormont,Armeca
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Marei
+Jon Snow,Stannis Baratheon
+Jon Snow,Melisandre
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Craster
+Jon Snow,Doreah
+Jon Snow,Irri
+Jon Snow,Kovarro
+Jon Snow,Alton Lannister
+Jon Snow,Armeca
+Jon Snow,Podrick Payne
+Jon Snow,Marei
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Craster
+Stannis Baratheon,Doreah
+Stannis Baratheon,Irri
+Stannis Baratheon,Kovarro
+Stannis Baratheon,Alton Lannister
+Stannis Baratheon,Armeca
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Marei
+Melisandre,Grand Maester Pycelle
+Melisandre,Craster
+Melisandre,Doreah
+Melisandre,Irri
+Melisandre,Kovarro
+Melisandre,Alton Lannister
+Melisandre,Armeca
+Melisandre,Podrick Payne
+Melisandre,Marei
+Grand Maester Pycelle,Craster
+Grand Maester Pycelle,Doreah
+Grand Maester Pycelle,Irri
+Grand Maester Pycelle,Kovarro
+Grand Maester Pycelle,Alton Lannister
+Grand Maester Pycelle,Armeca
+Grand Maester Pycelle,Podrick Payne
+Grand Maester Pycelle,Marei
+Craster,Doreah
+Craster,Irri
+Craster,Kovarro
+Craster,Alton Lannister
+Craster,Armeca
+Craster,Podrick Payne
+Craster,Marei
+Doreah,Irri
+Doreah,Kovarro
+Doreah,Alton Lannister
+Doreah,Armeca
+Doreah,Podrick Payne
+Doreah,Marei
+Irri,Kovarro
+Irri,Alton Lannister
+Irri,Armeca
+Irri,Podrick Payne
+Irri,Marei
+Kovarro,Alton Lannister
+Kovarro,Armeca
+Kovarro,Podrick Payne
+Kovarro,Marei
+Alton Lannister,Armeca
+Alton Lannister,Podrick Payne
+Alton Lannister,Marei
+Armeca,Podrick Payne
+Armeca,Marei
+Podrick Payne,Marei

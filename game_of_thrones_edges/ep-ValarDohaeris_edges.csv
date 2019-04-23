@@ -1,0 +1,781 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Shae
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Jeor Mormont
+Tyrion Lannister,Bronn
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Ros
+Tyrion Lannister,Grenn
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Kraznys mo Nakloz
+Tyrion Lannister,Missandei
+Tyrion Lannister,Rast
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Dongo the Giant
+Tyrion Lannister,Mirelle
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Talisa Stark
+Tyrion Lannister,Mance Rayder
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Rickard Karstark
+Tyrion Lannister,Salladhor Saan
+Tyrion Lannister,Rattleshirt
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Robb Stark
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Shae
+Cersei Lannister,Ygritte
+Cersei Lannister,Jeor Mormont
+Cersei Lannister,Bronn
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Ros
+Cersei Lannister,Grenn
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Kraznys mo Nakloz
+Cersei Lannister,Missandei
+Cersei Lannister,Rast
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Dongo the Giant
+Cersei Lannister,Mirelle
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Melisandre
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Talisa Stark
+Cersei Lannister,Mance Rayder
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Qyburn
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Rickard Karstark
+Cersei Lannister,Salladhor Saan
+Cersei Lannister,Rattleshirt
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Jeor Mormont
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Kraznys mo Nakloz
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Rast
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,Dongo the Giant
+Daenerys Targaryen,Mirelle
+Daenerys Targaryen,Catelyn Stark
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Talisa Stark
+Daenerys Targaryen,Mance Rayder
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Rickard Karstark
+Daenerys Targaryen,Salladhor Saan
+Daenerys Targaryen,Rattleshirt
+Jon Snow,Robb Stark
+Jon Snow,Jorah Mormont
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Tywin Lannister
+Jon Snow,Margaery Tyrell
+Jon Snow,Sansa Stark
+Jon Snow,Shae
+Jon Snow,Ygritte
+Jon Snow,Jeor Mormont
+Jon Snow,Bronn
+Jon Snow,Barristan Selmy
+Jon Snow,Ros
+Jon Snow,Grenn
+Jon Snow,Eddison Tollett
+Jon Snow,Podrick Payne
+Jon Snow,Kraznys mo Nakloz
+Jon Snow,Missandei
+Jon Snow,Rast
+Jon Snow,Meryn Trant
+Jon Snow,Dongo the Giant
+Jon Snow,Mirelle
+Jon Snow,Catelyn Stark
+Jon Snow,Davos Seaworth
+Jon Snow,Stannis Baratheon
+Jon Snow,Melisandre
+Jon Snow,Samwell Tarly
+Jon Snow,Joffrey Baratheon
+Jon Snow,Talisa Stark
+Jon Snow,Mance Rayder
+Jon Snow,Roose Bolton
+Jon Snow,Loras Tyrell
+Jon Snow,Qyburn
+Jon Snow,Tormund Giantsbane
+Jon Snow,Rickard Karstark
+Jon Snow,Salladhor Saan
+Jon Snow,Rattleshirt
+Robb Stark,Jorah Mormont
+Robb Stark,Petyr 'Littlefinger' Baelish
+Robb Stark,Tywin Lannister
+Robb Stark,Margaery Tyrell
+Robb Stark,Sansa Stark
+Robb Stark,Shae
+Robb Stark,Ygritte
+Robb Stark,Jeor Mormont
+Robb Stark,Bronn
+Robb Stark,Barristan Selmy
+Robb Stark,Ros
+Robb Stark,Grenn
+Robb Stark,Eddison Tollett
+Robb Stark,Podrick Payne
+Robb Stark,Kraznys mo Nakloz
+Robb Stark,Missandei
+Robb Stark,Rast
+Robb Stark,Meryn Trant
+Robb Stark,Dongo the Giant
+Robb Stark,Mirelle
+Robb Stark,Catelyn Stark
+Robb Stark,Davos Seaworth
+Robb Stark,Stannis Baratheon
+Robb Stark,Melisandre
+Robb Stark,Samwell Tarly
+Robb Stark,Joffrey Baratheon
+Robb Stark,Talisa Stark
+Robb Stark,Mance Rayder
+Robb Stark,Roose Bolton
+Robb Stark,Loras Tyrell
+Robb Stark,Qyburn
+Robb Stark,Tormund Giantsbane
+Robb Stark,Rickard Karstark
+Robb Stark,Salladhor Saan
+Robb Stark,Rattleshirt
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Margaery Tyrell
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Shae
+Jorah Mormont,Ygritte
+Jorah Mormont,Jeor Mormont
+Jorah Mormont,Bronn
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Ros
+Jorah Mormont,Grenn
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Kraznys mo Nakloz
+Jorah Mormont,Missandei
+Jorah Mormont,Rast
+Jorah Mormont,Meryn Trant
+Jorah Mormont,Dongo the Giant
+Jorah Mormont,Mirelle
+Jorah Mormont,Catelyn Stark
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Stannis Baratheon
+Jorah Mormont,Melisandre
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Talisa Stark
+Jorah Mormont,Mance Rayder
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Qyburn
+Jorah Mormont,Tormund Giantsbane
+Jorah Mormont,Rickard Karstark
+Jorah Mormont,Salladhor Saan
+Jorah Mormont,Rattleshirt
+Petyr 'Littlefinger' Baelish,Tywin Lannister
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Shae
+Petyr 'Littlefinger' Baelish,Ygritte
+Petyr 'Littlefinger' Baelish,Jeor Mormont
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Barristan Selmy
+Petyr 'Littlefinger' Baelish,Ros
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Kraznys mo Nakloz
+Petyr 'Littlefinger' Baelish,Missandei
+Petyr 'Littlefinger' Baelish,Rast
+Petyr 'Littlefinger' Baelish,Meryn Trant
+Petyr 'Littlefinger' Baelish,Dongo the Giant
+Petyr 'Littlefinger' Baelish,Mirelle
+Petyr 'Littlefinger' Baelish,Catelyn Stark
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Talisa Stark
+Petyr 'Littlefinger' Baelish,Mance Rayder
+Petyr 'Littlefinger' Baelish,Roose Bolton
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Qyburn
+Petyr 'Littlefinger' Baelish,Tormund Giantsbane
+Petyr 'Littlefinger' Baelish,Rickard Karstark
+Petyr 'Littlefinger' Baelish,Salladhor Saan
+Petyr 'Littlefinger' Baelish,Rattleshirt
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Shae
+Tywin Lannister,Ygritte
+Tywin Lannister,Jeor Mormont
+Tywin Lannister,Bronn
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Ros
+Tywin Lannister,Grenn
+Tywin Lannister,Eddison Tollett
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Kraznys mo Nakloz
+Tywin Lannister,Missandei
+Tywin Lannister,Rast
+Tywin Lannister,Meryn Trant
+Tywin Lannister,Dongo the Giant
+Tywin Lannister,Mirelle
+Tywin Lannister,Catelyn Stark
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Melisandre
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Talisa Stark
+Tywin Lannister,Mance Rayder
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Qyburn
+Tywin Lannister,Tormund Giantsbane
+Tywin Lannister,Rickard Karstark
+Tywin Lannister,Salladhor Saan
+Tywin Lannister,Rattleshirt
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Shae
+Margaery Tyrell,Ygritte
+Margaery Tyrell,Jeor Mormont
+Margaery Tyrell,Bronn
+Margaery Tyrell,Barristan Selmy
+Margaery Tyrell,Ros
+Margaery Tyrell,Grenn
+Margaery Tyrell,Eddison Tollett
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Kraznys mo Nakloz
+Margaery Tyrell,Missandei
+Margaery Tyrell,Rast
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,Dongo the Giant
+Margaery Tyrell,Mirelle
+Margaery Tyrell,Catelyn Stark
+Margaery Tyrell,Davos Seaworth
+Margaery Tyrell,Stannis Baratheon
+Margaery Tyrell,Melisandre
+Margaery Tyrell,Samwell Tarly
+Margaery Tyrell,Joffrey Baratheon
+Margaery Tyrell,Talisa Stark
+Margaery Tyrell,Mance Rayder
+Margaery Tyrell,Roose Bolton
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Qyburn
+Margaery Tyrell,Tormund Giantsbane
+Margaery Tyrell,Rickard Karstark
+Margaery Tyrell,Salladhor Saan
+Margaery Tyrell,Rattleshirt
+Sansa Stark,Shae
+Sansa Stark,Ygritte
+Sansa Stark,Jeor Mormont
+Sansa Stark,Bronn
+Sansa Stark,Barristan Selmy
+Sansa Stark,Ros
+Sansa Stark,Grenn
+Sansa Stark,Eddison Tollett
+Sansa Stark,Podrick Payne
+Sansa Stark,Kraznys mo Nakloz
+Sansa Stark,Missandei
+Sansa Stark,Rast
+Sansa Stark,Meryn Trant
+Sansa Stark,Dongo the Giant
+Sansa Stark,Mirelle
+Sansa Stark,Catelyn Stark
+Sansa Stark,Davos Seaworth
+Sansa Stark,Stannis Baratheon
+Sansa Stark,Melisandre
+Sansa Stark,Samwell Tarly
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Talisa Stark
+Sansa Stark,Mance Rayder
+Sansa Stark,Roose Bolton
+Sansa Stark,Loras Tyrell
+Sansa Stark,Qyburn
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Rickard Karstark
+Sansa Stark,Salladhor Saan
+Sansa Stark,Rattleshirt
+Shae,Ygritte
+Shae,Jeor Mormont
+Shae,Bronn
+Shae,Barristan Selmy
+Shae,Ros
+Shae,Grenn
+Shae,Eddison Tollett
+Shae,Podrick Payne
+Shae,Kraznys mo Nakloz
+Shae,Missandei
+Shae,Rast
+Shae,Meryn Trant
+Shae,Dongo the Giant
+Shae,Mirelle
+Shae,Catelyn Stark
+Shae,Davos Seaworth
+Shae,Stannis Baratheon
+Shae,Melisandre
+Shae,Samwell Tarly
+Shae,Joffrey Baratheon
+Shae,Talisa Stark
+Shae,Mance Rayder
+Shae,Roose Bolton
+Shae,Loras Tyrell
+Shae,Qyburn
+Shae,Tormund Giantsbane
+Shae,Rickard Karstark
+Shae,Salladhor Saan
+Shae,Rattleshirt
+Ygritte,Jeor Mormont
+Ygritte,Bronn
+Ygritte,Barristan Selmy
+Ygritte,Ros
+Ygritte,Grenn
+Ygritte,Eddison Tollett
+Ygritte,Podrick Payne
+Ygritte,Kraznys mo Nakloz
+Ygritte,Missandei
+Ygritte,Rast
+Ygritte,Meryn Trant
+Ygritte,Dongo the Giant
+Ygritte,Mirelle
+Ygritte,Catelyn Stark
+Ygritte,Davos Seaworth
+Ygritte,Stannis Baratheon
+Ygritte,Melisandre
+Ygritte,Samwell Tarly
+Ygritte,Joffrey Baratheon
+Ygritte,Talisa Stark
+Ygritte,Mance Rayder
+Ygritte,Roose Bolton
+Ygritte,Loras Tyrell
+Ygritte,Qyburn
+Ygritte,Tormund Giantsbane
+Ygritte,Rickard Karstark
+Ygritte,Salladhor Saan
+Ygritte,Rattleshirt
+Jeor Mormont,Bronn
+Jeor Mormont,Barristan Selmy
+Jeor Mormont,Ros
+Jeor Mormont,Grenn
+Jeor Mormont,Eddison Tollett
+Jeor Mormont,Podrick Payne
+Jeor Mormont,Kraznys mo Nakloz
+Jeor Mormont,Missandei
+Jeor Mormont,Rast
+Jeor Mormont,Meryn Trant
+Jeor Mormont,Dongo the Giant
+Jeor Mormont,Mirelle
+Jeor Mormont,Catelyn Stark
+Jeor Mormont,Davos Seaworth
+Jeor Mormont,Stannis Baratheon
+Jeor Mormont,Melisandre
+Jeor Mormont,Samwell Tarly
+Jeor Mormont,Joffrey Baratheon
+Jeor Mormont,Talisa Stark
+Jeor Mormont,Mance Rayder
+Jeor Mormont,Roose Bolton
+Jeor Mormont,Loras Tyrell
+Jeor Mormont,Qyburn
+Jeor Mormont,Tormund Giantsbane
+Jeor Mormont,Rickard Karstark
+Jeor Mormont,Salladhor Saan
+Jeor Mormont,Rattleshirt
+Bronn,Barristan Selmy
+Bronn,Ros
+Bronn,Grenn
+Bronn,Eddison Tollett
+Bronn,Podrick Payne
+Bronn,Kraznys mo Nakloz
+Bronn,Missandei
+Bronn,Rast
+Bronn,Meryn Trant
+Bronn,Dongo the Giant
+Bronn,Mirelle
+Bronn,Catelyn Stark
+Bronn,Davos Seaworth
+Bronn,Stannis Baratheon
+Bronn,Melisandre
+Bronn,Samwell Tarly
+Bronn,Joffrey Baratheon
+Bronn,Talisa Stark
+Bronn,Mance Rayder
+Bronn,Roose Bolton
+Bronn,Loras Tyrell
+Bronn,Qyburn
+Bronn,Tormund Giantsbane
+Bronn,Rickard Karstark
+Bronn,Salladhor Saan
+Bronn,Rattleshirt
+Barristan Selmy,Ros
+Barristan Selmy,Grenn
+Barristan Selmy,Eddison Tollett
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Kraznys mo Nakloz
+Barristan Selmy,Missandei
+Barristan Selmy,Rast
+Barristan Selmy,Meryn Trant
+Barristan Selmy,Dongo the Giant
+Barristan Selmy,Mirelle
+Barristan Selmy,Catelyn Stark
+Barristan Selmy,Davos Seaworth
+Barristan Selmy,Stannis Baratheon
+Barristan Selmy,Melisandre
+Barristan Selmy,Samwell Tarly
+Barristan Selmy,Joffrey Baratheon
+Barristan Selmy,Talisa Stark
+Barristan Selmy,Mance Rayder
+Barristan Selmy,Roose Bolton
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Qyburn
+Barristan Selmy,Tormund Giantsbane
+Barristan Selmy,Rickard Karstark
+Barristan Selmy,Salladhor Saan
+Barristan Selmy,Rattleshirt
+Ros,Grenn
+Ros,Eddison Tollett
+Ros,Podrick Payne
+Ros,Kraznys mo Nakloz
+Ros,Missandei
+Ros,Rast
+Ros,Meryn Trant
+Ros,Dongo the Giant
+Ros,Mirelle
+Ros,Catelyn Stark
+Ros,Davos Seaworth
+Ros,Stannis Baratheon
+Ros,Melisandre
+Ros,Samwell Tarly
+Ros,Joffrey Baratheon
+Ros,Talisa Stark
+Ros,Mance Rayder
+Ros,Roose Bolton
+Ros,Loras Tyrell
+Ros,Qyburn
+Ros,Tormund Giantsbane
+Ros,Rickard Karstark
+Ros,Salladhor Saan
+Ros,Rattleshirt
+Grenn,Eddison Tollett
+Grenn,Podrick Payne
+Grenn,Kraznys mo Nakloz
+Grenn,Missandei
+Grenn,Rast
+Grenn,Meryn Trant
+Grenn,Dongo the Giant
+Grenn,Mirelle
+Grenn,Catelyn Stark
+Grenn,Davos Seaworth
+Grenn,Stannis Baratheon
+Grenn,Melisandre
+Grenn,Samwell Tarly
+Grenn,Joffrey Baratheon
+Grenn,Talisa Stark
+Grenn,Mance Rayder
+Grenn,Roose Bolton
+Grenn,Loras Tyrell
+Grenn,Qyburn
+Grenn,Tormund Giantsbane
+Grenn,Rickard Karstark
+Grenn,Salladhor Saan
+Grenn,Rattleshirt
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Kraznys mo Nakloz
+Eddison Tollett,Missandei
+Eddison Tollett,Rast
+Eddison Tollett,Meryn Trant
+Eddison Tollett,Dongo the Giant
+Eddison Tollett,Mirelle
+Eddison Tollett,Catelyn Stark
+Eddison Tollett,Davos Seaworth
+Eddison Tollett,Stannis Baratheon
+Eddison Tollett,Melisandre
+Eddison Tollett,Samwell Tarly
+Eddison Tollett,Joffrey Baratheon
+Eddison Tollett,Talisa Stark
+Eddison Tollett,Mance Rayder
+Eddison Tollett,Roose Bolton
+Eddison Tollett,Loras Tyrell
+Eddison Tollett,Qyburn
+Eddison Tollett,Tormund Giantsbane
+Eddison Tollett,Rickard Karstark
+Eddison Tollett,Salladhor Saan
+Eddison Tollett,Rattleshirt
+Podrick Payne,Kraznys mo Nakloz
+Podrick Payne,Missandei
+Podrick Payne,Rast
+Podrick Payne,Meryn Trant
+Podrick Payne,Dongo the Giant
+Podrick Payne,Mirelle
+Podrick Payne,Catelyn Stark
+Podrick Payne,Davos Seaworth
+Podrick Payne,Stannis Baratheon
+Podrick Payne,Melisandre
+Podrick Payne,Samwell Tarly
+Podrick Payne,Joffrey Baratheon
+Podrick Payne,Talisa Stark
+Podrick Payne,Mance Rayder
+Podrick Payne,Roose Bolton
+Podrick Payne,Loras Tyrell
+Podrick Payne,Qyburn
+Podrick Payne,Tormund Giantsbane
+Podrick Payne,Rickard Karstark
+Podrick Payne,Salladhor Saan
+Podrick Payne,Rattleshirt
+Kraznys mo Nakloz,Missandei
+Kraznys mo Nakloz,Rast
+Kraznys mo Nakloz,Meryn Trant
+Kraznys mo Nakloz,Dongo the Giant
+Kraznys mo Nakloz,Mirelle
+Kraznys mo Nakloz,Catelyn Stark
+Kraznys mo Nakloz,Davos Seaworth
+Kraznys mo Nakloz,Stannis Baratheon
+Kraznys mo Nakloz,Melisandre
+Kraznys mo Nakloz,Samwell Tarly
+Kraznys mo Nakloz,Joffrey Baratheon
+Kraznys mo Nakloz,Talisa Stark
+Kraznys mo Nakloz,Mance Rayder
+Kraznys mo Nakloz,Roose Bolton
+Kraznys mo Nakloz,Loras Tyrell
+Kraznys mo Nakloz,Qyburn
+Kraznys mo Nakloz,Tormund Giantsbane
+Kraznys mo Nakloz,Rickard Karstark
+Kraznys mo Nakloz,Salladhor Saan
+Kraznys mo Nakloz,Rattleshirt
+Missandei,Rast
+Missandei,Meryn Trant
+Missandei,Dongo the Giant
+Missandei,Mirelle
+Missandei,Catelyn Stark
+Missandei,Davos Seaworth
+Missandei,Stannis Baratheon
+Missandei,Melisandre
+Missandei,Samwell Tarly
+Missandei,Joffrey Baratheon
+Missandei,Talisa Stark
+Missandei,Mance Rayder
+Missandei,Roose Bolton
+Missandei,Loras Tyrell
+Missandei,Qyburn
+Missandei,Tormund Giantsbane
+Missandei,Rickard Karstark
+Missandei,Salladhor Saan
+Missandei,Rattleshirt
+Rast,Meryn Trant
+Rast,Dongo the Giant
+Rast,Mirelle
+Rast,Catelyn Stark
+Rast,Davos Seaworth
+Rast,Stannis Baratheon
+Rast,Melisandre
+Rast,Samwell Tarly
+Rast,Joffrey Baratheon
+Rast,Talisa Stark
+Rast,Mance Rayder
+Rast,Roose Bolton
+Rast,Loras Tyrell
+Rast,Qyburn
+Rast,Tormund Giantsbane
+Rast,Rickard Karstark
+Rast,Salladhor Saan
+Rast,Rattleshirt
+Meryn Trant,Dongo the Giant
+Meryn Trant,Mirelle
+Meryn Trant,Catelyn Stark
+Meryn Trant,Davos Seaworth
+Meryn Trant,Stannis Baratheon
+Meryn Trant,Melisandre
+Meryn Trant,Samwell Tarly
+Meryn Trant,Joffrey Baratheon
+Meryn Trant,Talisa Stark
+Meryn Trant,Mance Rayder
+Meryn Trant,Roose Bolton
+Meryn Trant,Loras Tyrell
+Meryn Trant,Qyburn
+Meryn Trant,Tormund Giantsbane
+Meryn Trant,Rickard Karstark
+Meryn Trant,Salladhor Saan
+Meryn Trant,Rattleshirt
+Dongo the Giant,Mirelle
+Dongo the Giant,Catelyn Stark
+Dongo the Giant,Davos Seaworth
+Dongo the Giant,Stannis Baratheon
+Dongo the Giant,Melisandre
+Dongo the Giant,Samwell Tarly
+Dongo the Giant,Joffrey Baratheon
+Dongo the Giant,Talisa Stark
+Dongo the Giant,Mance Rayder
+Dongo the Giant,Roose Bolton
+Dongo the Giant,Loras Tyrell
+Dongo the Giant,Qyburn
+Dongo the Giant,Tormund Giantsbane
+Dongo the Giant,Rickard Karstark
+Dongo the Giant,Salladhor Saan
+Dongo the Giant,Rattleshirt
+Mirelle,Catelyn Stark
+Mirelle,Davos Seaworth
+Mirelle,Stannis Baratheon
+Mirelle,Melisandre
+Mirelle,Samwell Tarly
+Mirelle,Joffrey Baratheon
+Mirelle,Talisa Stark
+Mirelle,Mance Rayder
+Mirelle,Roose Bolton
+Mirelle,Loras Tyrell
+Mirelle,Qyburn
+Mirelle,Tormund Giantsbane
+Mirelle,Rickard Karstark
+Mirelle,Salladhor Saan
+Mirelle,Rattleshirt
+Catelyn Stark,Davos Seaworth
+Catelyn Stark,Stannis Baratheon
+Catelyn Stark,Melisandre
+Catelyn Stark,Samwell Tarly
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Talisa Stark
+Catelyn Stark,Mance Rayder
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Loras Tyrell
+Catelyn Stark,Qyburn
+Catelyn Stark,Tormund Giantsbane
+Catelyn Stark,Rickard Karstark
+Catelyn Stark,Salladhor Saan
+Catelyn Stark,Rattleshirt
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Melisandre
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Joffrey Baratheon
+Davos Seaworth,Talisa Stark
+Davos Seaworth,Mance Rayder
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Qyburn
+Davos Seaworth,Tormund Giantsbane
+Davos Seaworth,Rickard Karstark
+Davos Seaworth,Salladhor Saan
+Davos Seaworth,Rattleshirt
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Joffrey Baratheon
+Stannis Baratheon,Talisa Stark
+Stannis Baratheon,Mance Rayder
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Qyburn
+Stannis Baratheon,Tormund Giantsbane
+Stannis Baratheon,Rickard Karstark
+Stannis Baratheon,Salladhor Saan
+Stannis Baratheon,Rattleshirt
+Melisandre,Samwell Tarly
+Melisandre,Joffrey Baratheon
+Melisandre,Talisa Stark
+Melisandre,Mance Rayder
+Melisandre,Roose Bolton
+Melisandre,Loras Tyrell
+Melisandre,Qyburn
+Melisandre,Tormund Giantsbane
+Melisandre,Rickard Karstark
+Melisandre,Salladhor Saan
+Melisandre,Rattleshirt
+Samwell Tarly,Joffrey Baratheon
+Samwell Tarly,Talisa Stark
+Samwell Tarly,Mance Rayder
+Samwell Tarly,Roose Bolton
+Samwell Tarly,Loras Tyrell
+Samwell Tarly,Qyburn
+Samwell Tarly,Tormund Giantsbane
+Samwell Tarly,Rickard Karstark
+Samwell Tarly,Salladhor Saan
+Samwell Tarly,Rattleshirt
+Joffrey Baratheon,Talisa Stark
+Joffrey Baratheon,Mance Rayder
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Qyburn
+Joffrey Baratheon,Tormund Giantsbane
+Joffrey Baratheon,Rickard Karstark
+Joffrey Baratheon,Salladhor Saan
+Joffrey Baratheon,Rattleshirt
+Talisa Stark,Mance Rayder
+Talisa Stark,Roose Bolton
+Talisa Stark,Loras Tyrell
+Talisa Stark,Qyburn
+Talisa Stark,Tormund Giantsbane
+Talisa Stark,Rickard Karstark
+Talisa Stark,Salladhor Saan
+Talisa Stark,Rattleshirt
+Mance Rayder,Roose Bolton
+Mance Rayder,Loras Tyrell
+Mance Rayder,Qyburn
+Mance Rayder,Tormund Giantsbane
+Mance Rayder,Rickard Karstark
+Mance Rayder,Salladhor Saan
+Mance Rayder,Rattleshirt
+Roose Bolton,Loras Tyrell
+Roose Bolton,Qyburn
+Roose Bolton,Tormund Giantsbane
+Roose Bolton,Rickard Karstark
+Roose Bolton,Salladhor Saan
+Roose Bolton,Rattleshirt
+Loras Tyrell,Qyburn
+Loras Tyrell,Tormund Giantsbane
+Loras Tyrell,Rickard Karstark
+Loras Tyrell,Salladhor Saan
+Loras Tyrell,Rattleshirt
+Qyburn,Tormund Giantsbane
+Qyburn,Rickard Karstark
+Qyburn,Salladhor Saan
+Qyburn,Rattleshirt
+Tormund Giantsbane,Rickard Karstark
+Tormund Giantsbane,Salladhor Saan
+Tormund Giantsbane,Rattleshirt
+Rickard Karstark,Salladhor Saan
+Rickard Karstark,Rattleshirt
+Salladhor Saan,Rattleshirt

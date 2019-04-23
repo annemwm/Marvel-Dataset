@@ -1,0 +1,98 @@
+filename,order,title,year,division,livre,series,volume,tome,no
+lacomediehumaine_avantpropos.txt,1,Avant-propos,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,1
+lacomediehumaine_lamaisonduchatquipelote.txt,2,La Maison du chat-qui-pelote,1829,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,2
+lacomediehumaine_lebaldesceaux.txt,3,Le Bal de Sceaux,1829,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,3
+lacomediehumaine_labourse.txt,4,La Bourse,1832,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,4
+lacomediehumaine_lavendetta.txt,5,La Vendetta,1830,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,5
+lacomediehumaine_lmadamefirmiani.txt,6,Madame Firiani,1831,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,6
+lacomediehumaine_unedoublefamille.txt,7,Une double famille,1830,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,7
+lacomediehumaine_lapaixdumenage.txt,8,La Paix du mÌ©nage,1829,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,8
+lacomediehumaine_lafaussemaitresse.txt,9,La Fausse MaÌ¨tresse,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,9
+lacomediehumaine_etudedefemme.txt,10,Ìätude de femme,1830,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,10
+lacomediehumaine_albertsavarus.txt,11,Albert Savarus,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,1,1,11
+lacomediehumaine_memoiresdedeuxjeunesmariees.txt,12,MÌ©moires de deux jeunes mariÌ©es,1841,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,1
+lacomediehumaine_unefilledeve.txt,13,Une fille d'Ì¬ve,1838,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,2
+lacomediehumaine_lafemmeabandonnee.txt,14,La Femme abandonnÌ©e,1832,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,3
+lacomediehumaine_lagrenadiere.txt,15,La GrenadiÌ¬re,1832,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,4
+lacomediehumaine_lemessage.txt,16,Le Message,1832,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,5
+lacomediehumaine_gobseck.txt,17,GobseckåÊ,1830,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,6
+lacomediehumaine_autreetudedefemme.txt,18,Autre Ì©tude de femme,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,2,2,7
+lacomediehumaine_lafemmedetrenteans.txt,19,La Femme de trente ans,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,3,3,1
+lacomediehumaine_lecontratdemariage.txt,20,Le Contrat de mariage,1835,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,3,3,2
+lacomediehumaine_beatrix.txt,21,BÌ©atrix,1839,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,BÌ©atrix,3,3,3
+lacomediehumaine_beatrix2.txt,22,BÌ©atrix 2,1844,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,BÌ©atrix,4,4,1
+lacomediehumaine_lagrandebreteche.txt,23,La Grande BretÌ¬che,1831,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,4,4,2
+lacomediehumaine_modestemignon.txt,24,Modeste Mignon,1844,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,4,4,3
+lacomediehumaine_honorine.txt,25,Honorine,1843,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,4,4,4
+lacomediehumaine_undebutdanslavie.txt,26,Un dÌ©but dans la vie,1842,I. Ìätudes de moeurs,I. ScÌ¬nes de la vie privÌ©e,,4,4,5
+lacomediehumaine_ursulemirouet.txt,27,Ursule MirouÌÇt,1841,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,,5,1,1
+lacomediehumaine_eugeniegrandet.txt,28,EugÌ©nie Grandet,1833,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,,5,1,2
+lacomediehumaine_pierrette.txt,29,Pierrette,1839,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les CÌ©libataires,5,1,3
+lacomediehumaine_lecuredetours.txt,30,Le CurÌ© de Tours,1832,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les CÌ©libataires,6,2,1
+lacomediehumaine_unmenagedegarcon.txt,31,Un mÌ©nage de garÌ¤on,1842,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les CÌ©libataires,6,2,2
+lacomediehumaine_lillustregaudissart.txt,32,L'Illustre Gaudissart,1832,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les Parisiens en province,6,2,3
+lacomediehumaine_lamusedudepartement.txt,33,La Muse du dÌ©partement,1837,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les Parisiens en province,6,2,4
+lacomediehumaine_lavieillefille.txt,34,La Vieille Fille,1836,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les RivalitÌ©s,7,3,1
+lacomediehumaine_lecabinetdesantiques.txt,35,Le Cabinet des Aniques,1837,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Les RivalitÌ©s,7,3,2
+lacomediehunaime_lelysdanslavallee.txt,36,Le Lys dans la vallÌ©e,1835,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,,7,3,3
+lacomediehumaine_lesdeuxpoetes.txt,37,Les Deux PoÌ¬tes,1837,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Illusions perdues,8,4,1
+lacomediehumaine_ungrandhommedeprovinceaparis.txt,38,Un grand homme de province ÌÊ Paris,1839,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Illusions perdues,8,4,2
+lacomediehumaine_eveetdavid.txt,39,Ìöve et David,1843,I. Ìätudes de moeurs,II. ScÌ¬nes de la vie de province,Illusions perdues,8,4,3
+lacomediehumaine_ferragus.txt,40,Ferragus,1833,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Histoire des Treize,9,1,1
+lacomediehumaine_laduchessedelangeais.txt,41,La Duchesse de Langeais,1834,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Histoire des Treize,9,1,2
+lacomediehumaine_lafilleauxyeuxdor.txt,42,La Fille aux yeux d'or,1835,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Histoire des Treize,9,1,3
+lacomediehumaine_leperegoriot.txt,43,Le PÌ¬re Goriot,1834,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,9,1,4
+lacomediehumaine_lecolonelchabert.txt,44,Le Colonel Chabert,1832,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,1
+lacomediehumaine_facinocane.txt,45,Facino Cane,1836,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,2
+lacomediehumaine_lamessedelathee.txt,46,La Messe de l'athÌ©e,1836,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,3
+lacomediehumaine_sarrasine.txt,47,Sarrasine,1830,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,4
+lacomediehumaine_linterdiction.txt,48,L'Interdiction,1836,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,5
+lacomediehumaine_histoiredelagrandeuretdeladecadencedecesarbirotteau.txt,49,Histoire de la grandeur et de la dÌ©cadence de CÌ©sar Birotteau,1837,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,10,2,6
+lacomediehumaine_lamaisonnucingen.txt,50,La Maison Nucingen,1837,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,11,3,1
+lacomediehumaine_pierregrassou.txt,51,Pierre Grassou,1839,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,11,3,2
+lacomediehumaine_lessecretsdelaprincessedecadignan.txt,52,Les Secrets de la princesse de Cadignan,1839,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,11,3,3
+lacomediehumaine_lesemployesoulafemmesuperieure.txt,53,Les EmployÌ©s ou la Femme supÌ©rieure,1838,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,11,3,4
+lacomediehumaine_estherheureuse.txt,54,Esther heureuse,1843,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Splendeurs et misÌ¬res des courtisanes,11,3,5
+lacomediehumaine_acombienlamourrevientauxvieillards.txt,55,A combien l'amour revient aux vieilliards,1843,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Splendeurs et misÌ¬res des courtisanes,11,3,6
+lacomediehumaine_oumenentlesmauvaischemins.txt,56,OÌ_ mÌ¬nent les mauvais chemins,1846,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,Splendeurs et misÌ¬res des courtisanes,12,4,1
+lacomediehumaine_unprincedelaboheme.txt,57,Un prince de la bohÌ¬me,1845,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,12,4,2
+lacomediehumaine_esquissedhommedaffairesdapresnature.txt,58,Esquisse d'homme d'affaires d'aprÌ¬s nature,1845,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,12,4,3
+lacomediehumaine_gaudissartii.txt,59,Gaudissart II,1844,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,12,4,4
+lacomediehumaine_lescomedienssanslesavoir.txt,60,Les ComÌ©diens sans le savoir,1845,I. Ìätudes de moeurs,III. ScÌ¬nes de la vie parisienne,,12,4,5
+lacomediehumaine_unepisodesouslaterreur.txt,61,Un Ì©pisode sous la Terreur,1831,I. Ìätudes de moeurs,IV. ScÌ¬nes de la vie politique,,12,4,6
+lacomediehumaine_unetenebreuseaffaire.txt,62,Une tÌ©nÌ©breuse affaire,1841,I. Ìätudes de moeurs,IV. ScÌ¬nes de la vie politique,,12,4,7
+lacomediehumaine_zmarcus.txt,63,Z. Marcas,1840,I. Ìätudes de moeurs,IV. ScÌ¬nes de la vie politique,,12,4,8
+lacomediehumaine_lenversdelhistoirecontemporaine.txt,64,L'Envers de l'histoire contemporaine,1845,I. Ìätudes de moeurs,IV. ScÌ¬nes de la vie politique,,12,4,9
+lacomediehumaine_leschouans.txt,65,Les Chouans,1827,I. Ìätudes de moeurs,V. ScÌ¬nes de la vie militaire,,13,,1
+lacomediehumaine_unepassiondansledesert.txt,66,Une passion dans le dÌ©sert,1832,I. Ìätudes de moeurs,V. ScÌ¬nes de la vie militaire,,13,,2
+lacomediehumaine_lemedecindecampagne.txt,67,Le MÌ©decin de campagne,1833,I. Ìätudes de moeurs,VI. ScÌ¬nes de la vie de campagne,,13,,3
+lacomediehumaine_lecuredevillage.txt,68,Le CurÌ© de village,1845,I. Ìätudes de moeurs,VI. ScÌ¬nes de la vie de campagne,,13,,4
+lacomediehumaine_lapeaudechagrin.txt,69,La Peau de chagrin,1831,II. Ìätudes philosohiques,,,14,1,1
+lacomediehumaine_jesuschristenflandre.txt,70,JÌ©sus-Christ en Flandre,1831,II. Ìätudes philosohiques,,,14,1,2
+lacomediehumaine_melmothreconcilie.txt,71,Melmoth rÌ©conciliÌ©,1835,II. Ìätudes philosohiques,,,14,1,3
+lacomediehumaine_lechefdoeuvreinconnu.txt,72,Le Chef-d'oeuvre inconnu,1832,II. Ìätudes philosohiques,,,14,1,4
+lacomediehumaine_larecherchedelabsolu.txt,73,La Recherche de l'Absolu,1834,II. Ìätudes philosohiques,,,14,1,5
+lacomediehumaine_massimilladoni.txt,74,Massimilla Doni,1839,II. Ìätudes philosohiques,,,15,2,1
+lacomediehumaine_gambara.txt,75,Gambara,1837,II. Ìätudes philosohiques,,,15,2,2
+lacomediehumaine_lenfantmaudit.txt,76,L'Enfant maudit,1836,II. Ìätudes philosohiques,,,15,2,3
+lacomediehumaine_lesmarana.txt,77,Les Marana,1832,II. Ìätudes philosohiques,,,15,2,4
+lacomediehumaine_adieu.txt,78,Adieu,1830,II. Ìätudes philosohiques,,,15,2,5
+lacomediehumaine_lerequistionnaire.txt,79,Le RÌ©quisitionnaire,1831,II. Ìätudes philosohiques,,,15,2,6
+lacomediehumaine_elverdugo.txt,80,El Verdugo,1829,II. Ìätudes philosohiques,,,15,2,7
+lacomediehumaine_undrameauborddelamer.txt,81,Un drame au bord de la mer,1834,II. Ìätudes philosohiques,,,15,2,8
+lacomediehumaine_laubergerouge.txt,82,L'Auberge rouge,1831,II. Ìätudes philosohiques,,,15,2,9
+lacomediehumaine_lelixirdelonguevie.txt,83,L'Ìälixir de longue vie,1830,II. Ìätudes philosohiques,,,15,2,10
+lacomediehumaine_maitrecornelius.txt,84,MaÌ¨tre CornÌ©lius,1831,II. Ìätudes philosohiques,,,15,2,11
+lacomediehumaine_lemartyrcalviniste.txt,85,le Martyr calviniste,1841,II. Ìätudes philosohiques,,Sur Catherine de MÌ©dicis,15,2,12
+lacomediehumaine_laconfidencedesruggieri.txt,86,La Confidence des Ruggieri,1836,II. Ìätudes philosohiques,,Sur Catherine de MÌ©dicis,16,,1
+lacomediehumaine_lesdeuxreves.txt,87,Les Deux RÌ»ves,1828,II. Ìätudes philosohiques,,Sur Catherine de MÌ©dicis,16,,2
+lacomediehumaine_lesproscrits.txt,88,Les Proscrits,1831,II. Ìätudes philosohiques,,,16,,3
+lacomediehumaine_louislambert.txt,89,Louis Lambert,1832,II. Ìätudes philosohiques,,,16,,4
+lacomediehumaine_seraphita.txt,90,SÌ©raphÌ¨ta,1835,II. Ìätudes philosohiques,,,16,,5
+lacomediehumaine_physiologiedumariage.txt,91,Physiologie du mariage,1829,III. Ìätudes analytiques,,,16,,6
+lacomediehumaine_lacousinebette.txt,92,La Cousine Bette,1846,,,Les Parents pauvres,17,,1
+lacomediehumaine_lecousinpons.txt,93,Le Cousin Pons,1847,,,Les Parents pauvres,17,,2
+lacomediehumaine_petitesmiseresdelavieconjugale.txt,94,Petites MisÌ¬res de la vie conjugale,1846,III. Ìätudes analytiques,,,18,,1
+lacomediehumaine_traitedelavieelegante.txt,95,TraitÌ© de la vie Ì©lÌ©gante,1830,III. Ìätudes analytiques,,Pathologie de la vie sociale,,,1
+lacomediehumaine_theoriedelademarche.txt,96,ThÌ©orie de la dÌ©marche,1833,III. Ìätudes analytiques,,Pathologie de la vie sociale,,,2
+lacomediehumaine_traitedesexcitantsmodernes.txt,97,TraitÌ© des excitants modernes,1839,III. Ìätudes analytiques,,Pathologie de la vie sociale,,,3

@@ -1,0 +1,781 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Shae
+Tyrion Lannister,Ramsay Snow
+Tyrion Lannister,Bronn
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Oberyn Martell
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Selyse Baratheon
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Dontos Hollard
+Tyrion Lannister,Myranda
+Tyrion Lannister,High Septon
+Tyrion Lannister,Walda Bolton
+Tyrion Lannister,Axell Florent
+Tyrion Lannister,Kayla
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Locke
+Tyrion Lannister,Mace Tyrell
+Tyrion Lannister,Jojen Reed
+Tyrion Lannister,Meera Reed
+Tyrion Lannister,Hodor
+Tyrion Lannister,Shireen Baratheon
+Tyrion Lannister,Tansy
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Shae
+Jaime Lannister,Ramsay Snow
+Jaime Lannister,Bronn
+Jaime Lannister,Olenna Tyrell
+Jaime Lannister,Oberyn Martell
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Selyse Baratheon
+Jaime Lannister,Loras Tyrell
+Jaime Lannister,Tommen Baratheon
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Meryn Trant
+Jaime Lannister,Dontos Hollard
+Jaime Lannister,Myranda
+Jaime Lannister,High Septon
+Jaime Lannister,Walda Bolton
+Jaime Lannister,Axell Florent
+Jaime Lannister,Kayla
+Jaime Lannister,Melisandre
+Jaime Lannister,Bran Stark
+Jaime Lannister,Lord Varys
+Jaime Lannister,Locke
+Jaime Lannister,Mace Tyrell
+Jaime Lannister,Jojen Reed
+Jaime Lannister,Meera Reed
+Jaime Lannister,Hodor
+Jaime Lannister,Shireen Baratheon
+Jaime Lannister,Tansy
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Shae
+Cersei Lannister,Ramsay Snow
+Cersei Lannister,Bronn
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Oberyn Martell
+Cersei Lannister,Ellaria Sand
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Selyse Baratheon
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Dontos Hollard
+Cersei Lannister,Myranda
+Cersei Lannister,High Septon
+Cersei Lannister,Walda Bolton
+Cersei Lannister,Axell Florent
+Cersei Lannister,Kayla
+Cersei Lannister,Melisandre
+Cersei Lannister,Bran Stark
+Cersei Lannister,Lord Varys
+Cersei Lannister,Locke
+Cersei Lannister,Mace Tyrell
+Cersei Lannister,Jojen Reed
+Cersei Lannister,Meera Reed
+Cersei Lannister,Hodor
+Cersei Lannister,Shireen Baratheon
+Cersei Lannister,Tansy
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Shae
+Tywin Lannister,Ramsay Snow
+Tywin Lannister,Bronn
+Tywin Lannister,Olenna Tyrell
+Tywin Lannister,Oberyn Martell
+Tywin Lannister,Ellaria Sand
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Selyse Baratheon
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Tommen Baratheon
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Meryn Trant
+Tywin Lannister,Dontos Hollard
+Tywin Lannister,Myranda
+Tywin Lannister,High Septon
+Tywin Lannister,Walda Bolton
+Tywin Lannister,Axell Florent
+Tywin Lannister,Kayla
+Tywin Lannister,Melisandre
+Tywin Lannister,Bran Stark
+Tywin Lannister,Lord Varys
+Tywin Lannister,Locke
+Tywin Lannister,Mace Tyrell
+Tywin Lannister,Jojen Reed
+Tywin Lannister,Meera Reed
+Tywin Lannister,Hodor
+Tywin Lannister,Shireen Baratheon
+Tywin Lannister,Tansy
+Margaery Tyrell,Davos Seaworth
+Margaery Tyrell,Stannis Baratheon
+Margaery Tyrell,Theon Greyjoy
+Margaery Tyrell,Joffrey Baratheon
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,Shae
+Margaery Tyrell,Ramsay Snow
+Margaery Tyrell,Bronn
+Margaery Tyrell,Olenna Tyrell
+Margaery Tyrell,Oberyn Martell
+Margaery Tyrell,Ellaria Sand
+Margaery Tyrell,Roose Bolton
+Margaery Tyrell,Grand Maester Pycelle
+Margaery Tyrell,Selyse Baratheon
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Tommen Baratheon
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,Dontos Hollard
+Margaery Tyrell,Myranda
+Margaery Tyrell,High Septon
+Margaery Tyrell,Walda Bolton
+Margaery Tyrell,Axell Florent
+Margaery Tyrell,Kayla
+Margaery Tyrell,Melisandre
+Margaery Tyrell,Bran Stark
+Margaery Tyrell,Lord Varys
+Margaery Tyrell,Locke
+Margaery Tyrell,Mace Tyrell
+Margaery Tyrell,Jojen Reed
+Margaery Tyrell,Meera Reed
+Margaery Tyrell,Hodor
+Margaery Tyrell,Shireen Baratheon
+Margaery Tyrell,Tansy
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Joffrey Baratheon
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Shae
+Davos Seaworth,Ramsay Snow
+Davos Seaworth,Bronn
+Davos Seaworth,Olenna Tyrell
+Davos Seaworth,Oberyn Martell
+Davos Seaworth,Ellaria Sand
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Grand Maester Pycelle
+Davos Seaworth,Selyse Baratheon
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Tommen Baratheon
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Meryn Trant
+Davos Seaworth,Dontos Hollard
+Davos Seaworth,Myranda
+Davos Seaworth,High Septon
+Davos Seaworth,Walda Bolton
+Davos Seaworth,Axell Florent
+Davos Seaworth,Kayla
+Davos Seaworth,Melisandre
+Davos Seaworth,Bran Stark
+Davos Seaworth,Lord Varys
+Davos Seaworth,Locke
+Davos Seaworth,Mace Tyrell
+Davos Seaworth,Jojen Reed
+Davos Seaworth,Meera Reed
+Davos Seaworth,Hodor
+Davos Seaworth,Shireen Baratheon
+Davos Seaworth,Tansy
+Stannis Baratheon,Theon Greyjoy
+Stannis Baratheon,Joffrey Baratheon
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Shae
+Stannis Baratheon,Ramsay Snow
+Stannis Baratheon,Bronn
+Stannis Baratheon,Olenna Tyrell
+Stannis Baratheon,Oberyn Martell
+Stannis Baratheon,Ellaria Sand
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Selyse Baratheon
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Tommen Baratheon
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Meryn Trant
+Stannis Baratheon,Dontos Hollard
+Stannis Baratheon,Myranda
+Stannis Baratheon,High Septon
+Stannis Baratheon,Walda Bolton
+Stannis Baratheon,Axell Florent
+Stannis Baratheon,Kayla
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Bran Stark
+Stannis Baratheon,Lord Varys
+Stannis Baratheon,Locke
+Stannis Baratheon,Mace Tyrell
+Stannis Baratheon,Jojen Reed
+Stannis Baratheon,Meera Reed
+Stannis Baratheon,Hodor
+Stannis Baratheon,Shireen Baratheon
+Stannis Baratheon,Tansy
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Sansa Stark
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Shae
+Theon Greyjoy,Ramsay Snow
+Theon Greyjoy,Bronn
+Theon Greyjoy,Olenna Tyrell
+Theon Greyjoy,Oberyn Martell
+Theon Greyjoy,Ellaria Sand
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Selyse Baratheon
+Theon Greyjoy,Loras Tyrell
+Theon Greyjoy,Tommen Baratheon
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Meryn Trant
+Theon Greyjoy,Dontos Hollard
+Theon Greyjoy,Myranda
+Theon Greyjoy,High Septon
+Theon Greyjoy,Walda Bolton
+Theon Greyjoy,Axell Florent
+Theon Greyjoy,Kayla
+Theon Greyjoy,Melisandre
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Locke
+Theon Greyjoy,Mace Tyrell
+Theon Greyjoy,Jojen Reed
+Theon Greyjoy,Meera Reed
+Theon Greyjoy,Hodor
+Theon Greyjoy,Shireen Baratheon
+Theon Greyjoy,Tansy
+Joffrey Baratheon,Sansa Stark
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Ramsay Snow
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Olenna Tyrell
+Joffrey Baratheon,Oberyn Martell
+Joffrey Baratheon,Ellaria Sand
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Selyse Baratheon
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Tommen Baratheon
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Meryn Trant
+Joffrey Baratheon,Dontos Hollard
+Joffrey Baratheon,Myranda
+Joffrey Baratheon,High Septon
+Joffrey Baratheon,Walda Bolton
+Joffrey Baratheon,Axell Florent
+Joffrey Baratheon,Kayla
+Joffrey Baratheon,Melisandre
+Joffrey Baratheon,Bran Stark
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Locke
+Joffrey Baratheon,Mace Tyrell
+Joffrey Baratheon,Jojen Reed
+Joffrey Baratheon,Meera Reed
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Shireen Baratheon
+Joffrey Baratheon,Tansy
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Shae
+Sansa Stark,Ramsay Snow
+Sansa Stark,Bronn
+Sansa Stark,Olenna Tyrell
+Sansa Stark,Oberyn Martell
+Sansa Stark,Ellaria Sand
+Sansa Stark,Roose Bolton
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Selyse Baratheon
+Sansa Stark,Loras Tyrell
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Podrick Payne
+Sansa Stark,Meryn Trant
+Sansa Stark,Dontos Hollard
+Sansa Stark,Myranda
+Sansa Stark,High Septon
+Sansa Stark,Walda Bolton
+Sansa Stark,Axell Florent
+Sansa Stark,Kayla
+Sansa Stark,Melisandre
+Sansa Stark,Bran Stark
+Sansa Stark,Lord Varys
+Sansa Stark,Locke
+Sansa Stark,Mace Tyrell
+Sansa Stark,Jojen Reed
+Sansa Stark,Meera Reed
+Sansa Stark,Hodor
+Sansa Stark,Shireen Baratheon
+Sansa Stark,Tansy
+Brienne of Tarth,Shae
+Brienne of Tarth,Ramsay Snow
+Brienne of Tarth,Bronn
+Brienne of Tarth,Olenna Tyrell
+Brienne of Tarth,Oberyn Martell
+Brienne of Tarth,Ellaria Sand
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Grand Maester Pycelle
+Brienne of Tarth,Selyse Baratheon
+Brienne of Tarth,Loras Tyrell
+Brienne of Tarth,Tommen Baratheon
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Meryn Trant
+Brienne of Tarth,Dontos Hollard
+Brienne of Tarth,Myranda
+Brienne of Tarth,High Septon
+Brienne of Tarth,Walda Bolton
+Brienne of Tarth,Axell Florent
+Brienne of Tarth,Kayla
+Brienne of Tarth,Melisandre
+Brienne of Tarth,Bran Stark
+Brienne of Tarth,Lord Varys
+Brienne of Tarth,Locke
+Brienne of Tarth,Mace Tyrell
+Brienne of Tarth,Jojen Reed
+Brienne of Tarth,Meera Reed
+Brienne of Tarth,Hodor
+Brienne of Tarth,Shireen Baratheon
+Brienne of Tarth,Tansy
+Shae,Ramsay Snow
+Shae,Bronn
+Shae,Olenna Tyrell
+Shae,Oberyn Martell
+Shae,Ellaria Sand
+Shae,Roose Bolton
+Shae,Grand Maester Pycelle
+Shae,Selyse Baratheon
+Shae,Loras Tyrell
+Shae,Tommen Baratheon
+Shae,Podrick Payne
+Shae,Meryn Trant
+Shae,Dontos Hollard
+Shae,Myranda
+Shae,High Septon
+Shae,Walda Bolton
+Shae,Axell Florent
+Shae,Kayla
+Shae,Melisandre
+Shae,Bran Stark
+Shae,Lord Varys
+Shae,Locke
+Shae,Mace Tyrell
+Shae,Jojen Reed
+Shae,Meera Reed
+Shae,Hodor
+Shae,Shireen Baratheon
+Shae,Tansy
+Ramsay Snow,Bronn
+Ramsay Snow,Olenna Tyrell
+Ramsay Snow,Oberyn Martell
+Ramsay Snow,Ellaria Sand
+Ramsay Snow,Roose Bolton
+Ramsay Snow,Grand Maester Pycelle
+Ramsay Snow,Selyse Baratheon
+Ramsay Snow,Loras Tyrell
+Ramsay Snow,Tommen Baratheon
+Ramsay Snow,Podrick Payne
+Ramsay Snow,Meryn Trant
+Ramsay Snow,Dontos Hollard
+Ramsay Snow,Myranda
+Ramsay Snow,High Septon
+Ramsay Snow,Walda Bolton
+Ramsay Snow,Axell Florent
+Ramsay Snow,Kayla
+Ramsay Snow,Melisandre
+Ramsay Snow,Bran Stark
+Ramsay Snow,Lord Varys
+Ramsay Snow,Locke
+Ramsay Snow,Mace Tyrell
+Ramsay Snow,Jojen Reed
+Ramsay Snow,Meera Reed
+Ramsay Snow,Hodor
+Ramsay Snow,Shireen Baratheon
+Ramsay Snow,Tansy
+Bronn,Olenna Tyrell
+Bronn,Oberyn Martell
+Bronn,Ellaria Sand
+Bronn,Roose Bolton
+Bronn,Grand Maester Pycelle
+Bronn,Selyse Baratheon
+Bronn,Loras Tyrell
+Bronn,Tommen Baratheon
+Bronn,Podrick Payne
+Bronn,Meryn Trant
+Bronn,Dontos Hollard
+Bronn,Myranda
+Bronn,High Septon
+Bronn,Walda Bolton
+Bronn,Axell Florent
+Bronn,Kayla
+Bronn,Melisandre
+Bronn,Bran Stark
+Bronn,Lord Varys
+Bronn,Locke
+Bronn,Mace Tyrell
+Bronn,Jojen Reed
+Bronn,Meera Reed
+Bronn,Hodor
+Bronn,Shireen Baratheon
+Bronn,Tansy
+Olenna Tyrell,Oberyn Martell
+Olenna Tyrell,Ellaria Sand
+Olenna Tyrell,Roose Bolton
+Olenna Tyrell,Grand Maester Pycelle
+Olenna Tyrell,Selyse Baratheon
+Olenna Tyrell,Loras Tyrell
+Olenna Tyrell,Tommen Baratheon
+Olenna Tyrell,Podrick Payne
+Olenna Tyrell,Meryn Trant
+Olenna Tyrell,Dontos Hollard
+Olenna Tyrell,Myranda
+Olenna Tyrell,High Septon
+Olenna Tyrell,Walda Bolton
+Olenna Tyrell,Axell Florent
+Olenna Tyrell,Kayla
+Olenna Tyrell,Melisandre
+Olenna Tyrell,Bran Stark
+Olenna Tyrell,Lord Varys
+Olenna Tyrell,Locke
+Olenna Tyrell,Mace Tyrell
+Olenna Tyrell,Jojen Reed
+Olenna Tyrell,Meera Reed
+Olenna Tyrell,Hodor
+Olenna Tyrell,Shireen Baratheon
+Olenna Tyrell,Tansy
+Oberyn Martell,Ellaria Sand
+Oberyn Martell,Roose Bolton
+Oberyn Martell,Grand Maester Pycelle
+Oberyn Martell,Selyse Baratheon
+Oberyn Martell,Loras Tyrell
+Oberyn Martell,Tommen Baratheon
+Oberyn Martell,Podrick Payne
+Oberyn Martell,Meryn Trant
+Oberyn Martell,Dontos Hollard
+Oberyn Martell,Myranda
+Oberyn Martell,High Septon
+Oberyn Martell,Walda Bolton
+Oberyn Martell,Axell Florent
+Oberyn Martell,Kayla
+Oberyn Martell,Melisandre
+Oberyn Martell,Bran Stark
+Oberyn Martell,Lord Varys
+Oberyn Martell,Locke
+Oberyn Martell,Mace Tyrell
+Oberyn Martell,Jojen Reed
+Oberyn Martell,Meera Reed
+Oberyn Martell,Hodor
+Oberyn Martell,Shireen Baratheon
+Oberyn Martell,Tansy
+Ellaria Sand,Roose Bolton
+Ellaria Sand,Grand Maester Pycelle
+Ellaria Sand,Selyse Baratheon
+Ellaria Sand,Loras Tyrell
+Ellaria Sand,Tommen Baratheon
+Ellaria Sand,Podrick Payne
+Ellaria Sand,Meryn Trant
+Ellaria Sand,Dontos Hollard
+Ellaria Sand,Myranda
+Ellaria Sand,High Septon
+Ellaria Sand,Walda Bolton
+Ellaria Sand,Axell Florent
+Ellaria Sand,Kayla
+Ellaria Sand,Melisandre
+Ellaria Sand,Bran Stark
+Ellaria Sand,Lord Varys
+Ellaria Sand,Locke
+Ellaria Sand,Mace Tyrell
+Ellaria Sand,Jojen Reed
+Ellaria Sand,Meera Reed
+Ellaria Sand,Hodor
+Ellaria Sand,Shireen Baratheon
+Ellaria Sand,Tansy
+Roose Bolton,Grand Maester Pycelle
+Roose Bolton,Selyse Baratheon
+Roose Bolton,Loras Tyrell
+Roose Bolton,Tommen Baratheon
+Roose Bolton,Podrick Payne
+Roose Bolton,Meryn Trant
+Roose Bolton,Dontos Hollard
+Roose Bolton,Myranda
+Roose Bolton,High Septon
+Roose Bolton,Walda Bolton
+Roose Bolton,Axell Florent
+Roose Bolton,Kayla
+Roose Bolton,Melisandre
+Roose Bolton,Bran Stark
+Roose Bolton,Lord Varys
+Roose Bolton,Locke
+Roose Bolton,Mace Tyrell
+Roose Bolton,Jojen Reed
+Roose Bolton,Meera Reed
+Roose Bolton,Hodor
+Roose Bolton,Shireen Baratheon
+Roose Bolton,Tansy
+Grand Maester Pycelle,Selyse Baratheon
+Grand Maester Pycelle,Loras Tyrell
+Grand Maester Pycelle,Tommen Baratheon
+Grand Maester Pycelle,Podrick Payne
+Grand Maester Pycelle,Meryn Trant
+Grand Maester Pycelle,Dontos Hollard
+Grand Maester Pycelle,Myranda
+Grand Maester Pycelle,High Septon
+Grand Maester Pycelle,Walda Bolton
+Grand Maester Pycelle,Axell Florent
+Grand Maester Pycelle,Kayla
+Grand Maester Pycelle,Melisandre
+Grand Maester Pycelle,Bran Stark
+Grand Maester Pycelle,Lord Varys
+Grand Maester Pycelle,Locke
+Grand Maester Pycelle,Mace Tyrell
+Grand Maester Pycelle,Jojen Reed
+Grand Maester Pycelle,Meera Reed
+Grand Maester Pycelle,Hodor
+Grand Maester Pycelle,Shireen Baratheon
+Grand Maester Pycelle,Tansy
+Selyse Baratheon,Loras Tyrell
+Selyse Baratheon,Tommen Baratheon
+Selyse Baratheon,Podrick Payne
+Selyse Baratheon,Meryn Trant
+Selyse Baratheon,Dontos Hollard
+Selyse Baratheon,Myranda
+Selyse Baratheon,High Septon
+Selyse Baratheon,Walda Bolton
+Selyse Baratheon,Axell Florent
+Selyse Baratheon,Kayla
+Selyse Baratheon,Melisandre
+Selyse Baratheon,Bran Stark
+Selyse Baratheon,Lord Varys
+Selyse Baratheon,Locke
+Selyse Baratheon,Mace Tyrell
+Selyse Baratheon,Jojen Reed
+Selyse Baratheon,Meera Reed
+Selyse Baratheon,Hodor
+Selyse Baratheon,Shireen Baratheon
+Selyse Baratheon,Tansy
+Loras Tyrell,Tommen Baratheon
+Loras Tyrell,Podrick Payne
+Loras Tyrell,Meryn Trant
+Loras Tyrell,Dontos Hollard
+Loras Tyrell,Myranda
+Loras Tyrell,High Septon
+Loras Tyrell,Walda Bolton
+Loras Tyrell,Axell Florent
+Loras Tyrell,Kayla
+Loras Tyrell,Melisandre
+Loras Tyrell,Bran Stark
+Loras Tyrell,Lord Varys
+Loras Tyrell,Locke
+Loras Tyrell,Mace Tyrell
+Loras Tyrell,Jojen Reed
+Loras Tyrell,Meera Reed
+Loras Tyrell,Hodor
+Loras Tyrell,Shireen Baratheon
+Loras Tyrell,Tansy
+Tommen Baratheon,Podrick Payne
+Tommen Baratheon,Meryn Trant
+Tommen Baratheon,Dontos Hollard
+Tommen Baratheon,Myranda
+Tommen Baratheon,High Septon
+Tommen Baratheon,Walda Bolton
+Tommen Baratheon,Axell Florent
+Tommen Baratheon,Kayla
+Tommen Baratheon,Melisandre
+Tommen Baratheon,Bran Stark
+Tommen Baratheon,Lord Varys
+Tommen Baratheon,Locke
+Tommen Baratheon,Mace Tyrell
+Tommen Baratheon,Jojen Reed
+Tommen Baratheon,Meera Reed
+Tommen Baratheon,Hodor
+Tommen Baratheon,Shireen Baratheon
+Tommen Baratheon,Tansy
+Podrick Payne,Meryn Trant
+Podrick Payne,Dontos Hollard
+Podrick Payne,Myranda
+Podrick Payne,High Septon
+Podrick Payne,Walda Bolton
+Podrick Payne,Axell Florent
+Podrick Payne,Kayla
+Podrick Payne,Melisandre
+Podrick Payne,Bran Stark
+Podrick Payne,Lord Varys
+Podrick Payne,Locke
+Podrick Payne,Mace Tyrell
+Podrick Payne,Jojen Reed
+Podrick Payne,Meera Reed
+Podrick Payne,Hodor
+Podrick Payne,Shireen Baratheon
+Podrick Payne,Tansy
+Meryn Trant,Dontos Hollard
+Meryn Trant,Myranda
+Meryn Trant,High Septon
+Meryn Trant,Walda Bolton
+Meryn Trant,Axell Florent
+Meryn Trant,Kayla
+Meryn Trant,Melisandre
+Meryn Trant,Bran Stark
+Meryn Trant,Lord Varys
+Meryn Trant,Locke
+Meryn Trant,Mace Tyrell
+Meryn Trant,Jojen Reed
+Meryn Trant,Meera Reed
+Meryn Trant,Hodor
+Meryn Trant,Shireen Baratheon
+Meryn Trant,Tansy
+Dontos Hollard,Myranda
+Dontos Hollard,High Septon
+Dontos Hollard,Walda Bolton
+Dontos Hollard,Axell Florent
+Dontos Hollard,Kayla
+Dontos Hollard,Melisandre
+Dontos Hollard,Bran Stark
+Dontos Hollard,Lord Varys
+Dontos Hollard,Locke
+Dontos Hollard,Mace Tyrell
+Dontos Hollard,Jojen Reed
+Dontos Hollard,Meera Reed
+Dontos Hollard,Hodor
+Dontos Hollard,Shireen Baratheon
+Dontos Hollard,Tansy
+Myranda,High Septon
+Myranda,Walda Bolton
+Myranda,Axell Florent
+Myranda,Kayla
+Myranda,Melisandre
+Myranda,Bran Stark
+Myranda,Lord Varys
+Myranda,Locke
+Myranda,Mace Tyrell
+Myranda,Jojen Reed
+Myranda,Meera Reed
+Myranda,Hodor
+Myranda,Shireen Baratheon
+Myranda,Tansy
+High Septon,Walda Bolton
+High Septon,Axell Florent
+High Septon,Kayla
+High Septon,Melisandre
+High Septon,Bran Stark
+High Septon,Lord Varys
+High Septon,Locke
+High Septon,Mace Tyrell
+High Septon,Jojen Reed
+High Septon,Meera Reed
+High Septon,Hodor
+High Septon,Shireen Baratheon
+High Septon,Tansy
+Walda Bolton,Axell Florent
+Walda Bolton,Kayla
+Walda Bolton,Melisandre
+Walda Bolton,Bran Stark
+Walda Bolton,Lord Varys
+Walda Bolton,Locke
+Walda Bolton,Mace Tyrell
+Walda Bolton,Jojen Reed
+Walda Bolton,Meera Reed
+Walda Bolton,Hodor
+Walda Bolton,Shireen Baratheon
+Walda Bolton,Tansy
+Axell Florent,Kayla
+Axell Florent,Melisandre
+Axell Florent,Bran Stark
+Axell Florent,Lord Varys
+Axell Florent,Locke
+Axell Florent,Mace Tyrell
+Axell Florent,Jojen Reed
+Axell Florent,Meera Reed
+Axell Florent,Hodor
+Axell Florent,Shireen Baratheon
+Axell Florent,Tansy
+Kayla,Melisandre
+Kayla,Bran Stark
+Kayla,Lord Varys
+Kayla,Locke
+Kayla,Mace Tyrell
+Kayla,Jojen Reed
+Kayla,Meera Reed
+Kayla,Hodor
+Kayla,Shireen Baratheon
+Kayla,Tansy
+Melisandre,Bran Stark
+Melisandre,Lord Varys
+Melisandre,Locke
+Melisandre,Mace Tyrell
+Melisandre,Jojen Reed
+Melisandre,Meera Reed
+Melisandre,Hodor
+Melisandre,Shireen Baratheon
+Melisandre,Tansy
+Bran Stark,Lord Varys
+Bran Stark,Locke
+Bran Stark,Mace Tyrell
+Bran Stark,Jojen Reed
+Bran Stark,Meera Reed
+Bran Stark,Hodor
+Bran Stark,Shireen Baratheon
+Bran Stark,Tansy
+Lord Varys,Locke
+Lord Varys,Mace Tyrell
+Lord Varys,Jojen Reed
+Lord Varys,Meera Reed
+Lord Varys,Hodor
+Lord Varys,Shireen Baratheon
+Lord Varys,Tansy
+Locke,Mace Tyrell
+Locke,Jojen Reed
+Locke,Meera Reed
+Locke,Hodor
+Locke,Shireen Baratheon
+Locke,Tansy
+Mace Tyrell,Jojen Reed
+Mace Tyrell,Meera Reed
+Mace Tyrell,Hodor
+Mace Tyrell,Shireen Baratheon
+Mace Tyrell,Tansy
+Jojen Reed,Meera Reed
+Jojen Reed,Hodor
+Jojen Reed,Shireen Baratheon
+Jojen Reed,Tansy
+Meera Reed,Hodor
+Meera Reed,Shireen Baratheon
+Meera Reed,Tansy
+Hodor,Shireen Baratheon
+Hodor,Tansy
+Shireen Baratheon,Tansy

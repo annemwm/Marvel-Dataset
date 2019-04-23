@@ -1,0 +1,352 @@
+NAME 1,NAME 2
+Thor,Jane Foster
+Thor,Loki
+Thor,Odin
+Thor,Malekith
+Thor,Sif
+Thor,Fandral
+Thor,Volstagg
+Thor,Hogun
+Thor,Heimdall
+Thor,Frigga
+Thor,Algrim / Kurse
+Thor,Darcy Lewis
+Thor,Erik Selvig
+Thor,Eir
+Thor,Ian Boothby
+Thor,Richard
+Thor,Stan Lee
+Thor,Bor
+Thor,The Collector
+Thor,Carina
+Thor,Einherjar
+Thor,Tyr
+Thor,John
+Thor,Navid
+Thor,Maddie
+Thor,Steve Scott
+Jane Foster,Loki
+Jane Foster,Odin
+Jane Foster,Malekith
+Jane Foster,Sif
+Jane Foster,Fandral
+Jane Foster,Volstagg
+Jane Foster,Hogun
+Jane Foster,Heimdall
+Jane Foster,Frigga
+Jane Foster,Algrim / Kurse
+Jane Foster,Darcy Lewis
+Jane Foster,Erik Selvig
+Jane Foster,Eir
+Jane Foster,Ian Boothby
+Jane Foster,Richard
+Jane Foster,Stan Lee
+Jane Foster,Bor
+Jane Foster,The Collector
+Jane Foster,Carina
+Jane Foster,Einherjar
+Jane Foster,Tyr
+Jane Foster,John
+Jane Foster,Navid
+Jane Foster,Maddie
+Jane Foster,Steve Scott
+Loki,Odin
+Loki,Malekith
+Loki,Sif
+Loki,Fandral
+Loki,Volstagg
+Loki,Hogun
+Loki,Heimdall
+Loki,Frigga
+Loki,Algrim / Kurse
+Loki,Darcy Lewis
+Loki,Erik Selvig
+Loki,Eir
+Loki,Ian Boothby
+Loki,Richard
+Loki,Stan Lee
+Loki,Bor
+Loki,The Collector
+Loki,Carina
+Loki,Einherjar
+Loki,Tyr
+Loki,John
+Loki,Navid
+Loki,Maddie
+Loki,Steve Scott
+Odin,Malekith
+Odin,Sif
+Odin,Fandral
+Odin,Volstagg
+Odin,Hogun
+Odin,Heimdall
+Odin,Frigga
+Odin,Algrim / Kurse
+Odin,Darcy Lewis
+Odin,Erik Selvig
+Odin,Eir
+Odin,Ian Boothby
+Odin,Richard
+Odin,Stan Lee
+Odin,Bor
+Odin,The Collector
+Odin,Carina
+Odin,Einherjar
+Odin,Tyr
+Odin,John
+Odin,Navid
+Odin,Maddie
+Odin,Steve Scott
+Malekith,Sif
+Malekith,Fandral
+Malekith,Volstagg
+Malekith,Hogun
+Malekith,Heimdall
+Malekith,Frigga
+Malekith,Algrim / Kurse
+Malekith,Darcy Lewis
+Malekith,Erik Selvig
+Malekith,Eir
+Malekith,Ian Boothby
+Malekith,Richard
+Malekith,Stan Lee
+Malekith,Bor
+Malekith,The Collector
+Malekith,Carina
+Malekith,Einherjar
+Malekith,Tyr
+Malekith,John
+Malekith,Navid
+Malekith,Maddie
+Malekith,Steve Scott
+Sif,Fandral
+Sif,Volstagg
+Sif,Hogun
+Sif,Heimdall
+Sif,Frigga
+Sif,Algrim / Kurse
+Sif,Darcy Lewis
+Sif,Erik Selvig
+Sif,Eir
+Sif,Ian Boothby
+Sif,Richard
+Sif,Stan Lee
+Sif,Bor
+Sif,The Collector
+Sif,Carina
+Sif,Einherjar
+Sif,Tyr
+Sif,John
+Sif,Navid
+Sif,Maddie
+Sif,Steve Scott
+Fandral,Volstagg
+Fandral,Hogun
+Fandral,Heimdall
+Fandral,Frigga
+Fandral,Algrim / Kurse
+Fandral,Darcy Lewis
+Fandral,Erik Selvig
+Fandral,Eir
+Fandral,Ian Boothby
+Fandral,Richard
+Fandral,Stan Lee
+Fandral,Bor
+Fandral,The Collector
+Fandral,Carina
+Fandral,Einherjar
+Fandral,Tyr
+Fandral,John
+Fandral,Navid
+Fandral,Maddie
+Fandral,Steve Scott
+Volstagg,Hogun
+Volstagg,Heimdall
+Volstagg,Frigga
+Volstagg,Algrim / Kurse
+Volstagg,Darcy Lewis
+Volstagg,Erik Selvig
+Volstagg,Eir
+Volstagg,Ian Boothby
+Volstagg,Richard
+Volstagg,Stan Lee
+Volstagg,Bor
+Volstagg,The Collector
+Volstagg,Carina
+Volstagg,Einherjar
+Volstagg,Tyr
+Volstagg,John
+Volstagg,Navid
+Volstagg,Maddie
+Volstagg,Steve Scott
+Hogun,Heimdall
+Hogun,Frigga
+Hogun,Algrim / Kurse
+Hogun,Darcy Lewis
+Hogun,Erik Selvig
+Hogun,Eir
+Hogun,Ian Boothby
+Hogun,Richard
+Hogun,Stan Lee
+Hogun,Bor
+Hogun,The Collector
+Hogun,Carina
+Hogun,Einherjar
+Hogun,Tyr
+Hogun,John
+Hogun,Navid
+Hogun,Maddie
+Hogun,Steve Scott
+Heimdall,Frigga
+Heimdall,Algrim / Kurse
+Heimdall,Darcy Lewis
+Heimdall,Erik Selvig
+Heimdall,Eir
+Heimdall,Ian Boothby
+Heimdall,Richard
+Heimdall,Stan Lee
+Heimdall,Bor
+Heimdall,The Collector
+Heimdall,Carina
+Heimdall,Einherjar
+Heimdall,Tyr
+Heimdall,John
+Heimdall,Navid
+Heimdall,Maddie
+Heimdall,Steve Scott
+Frigga,Algrim / Kurse
+Frigga,Darcy Lewis
+Frigga,Erik Selvig
+Frigga,Eir
+Frigga,Ian Boothby
+Frigga,Richard
+Frigga,Stan Lee
+Frigga,Bor
+Frigga,The Collector
+Frigga,Carina
+Frigga,Einherjar
+Frigga,Tyr
+Frigga,John
+Frigga,Navid
+Frigga,Maddie
+Frigga,Steve Scott
+Algrim / Kurse,Darcy Lewis
+Algrim / Kurse,Erik Selvig
+Algrim / Kurse,Eir
+Algrim / Kurse,Ian Boothby
+Algrim / Kurse,Richard
+Algrim / Kurse,Stan Lee
+Algrim / Kurse,Bor
+Algrim / Kurse,The Collector
+Algrim / Kurse,Carina
+Algrim / Kurse,Einherjar
+Algrim / Kurse,Tyr
+Algrim / Kurse,John
+Algrim / Kurse,Navid
+Algrim / Kurse,Maddie
+Algrim / Kurse,Steve Scott
+Darcy Lewis,Erik Selvig
+Darcy Lewis,Eir
+Darcy Lewis,Ian Boothby
+Darcy Lewis,Richard
+Darcy Lewis,Stan Lee
+Darcy Lewis,Bor
+Darcy Lewis,The Collector
+Darcy Lewis,Carina
+Darcy Lewis,Einherjar
+Darcy Lewis,Tyr
+Darcy Lewis,John
+Darcy Lewis,Navid
+Darcy Lewis,Maddie
+Darcy Lewis,Steve Scott
+Erik Selvig,Eir
+Erik Selvig,Ian Boothby
+Erik Selvig,Richard
+Erik Selvig,Stan Lee
+Erik Selvig,Bor
+Erik Selvig,The Collector
+Erik Selvig,Carina
+Erik Selvig,Einherjar
+Erik Selvig,Tyr
+Erik Selvig,John
+Erik Selvig,Navid
+Erik Selvig,Maddie
+Erik Selvig,Steve Scott
+Eir,Ian Boothby
+Eir,Richard
+Eir,Stan Lee
+Eir,Bor
+Eir,The Collector
+Eir,Carina
+Eir,Einherjar
+Eir,Tyr
+Eir,John
+Eir,Navid
+Eir,Maddie
+Eir,Steve Scott
+Ian Boothby,Richard
+Ian Boothby,Stan Lee
+Ian Boothby,Bor
+Ian Boothby,The Collector
+Ian Boothby,Carina
+Ian Boothby,Einherjar
+Ian Boothby,Tyr
+Ian Boothby,John
+Ian Boothby,Navid
+Ian Boothby,Maddie
+Ian Boothby,Steve Scott
+Richard,Stan Lee
+Richard,Bor
+Richard,The Collector
+Richard,Carina
+Richard,Einherjar
+Richard,Tyr
+Richard,John
+Richard,Navid
+Richard,Maddie
+Richard,Steve Scott
+Stan Lee,Bor
+Stan Lee,The Collector
+Stan Lee,Carina
+Stan Lee,Einherjar
+Stan Lee,Tyr
+Stan Lee,John
+Stan Lee,Navid
+Stan Lee,Maddie
+Stan Lee,Steve Scott
+Bor,The Collector
+Bor,Carina
+Bor,Einherjar
+Bor,Tyr
+Bor,John
+Bor,Navid
+Bor,Maddie
+Bor,Steve Scott
+The Collector,Carina
+The Collector,Einherjar
+The Collector,Tyr
+The Collector,John
+The Collector,Navid
+The Collector,Maddie
+The Collector,Steve Scott
+Carina,Einherjar
+Carina,Tyr
+Carina,John
+Carina,Navid
+Carina,Maddie
+Carina,Steve Scott
+Einherjar,Tyr
+Einherjar,John
+Einherjar,Navid
+Einherjar,Maddie
+Einherjar,Steve Scott
+Tyr,John
+Tyr,Navid
+Tyr,Maddie
+Tyr,Steve Scott
+John,Navid
+John,Maddie
+John,Steve Scott
+Navid,Maddie
+Navid,Steve Scott
+Maddie,Steve Scott

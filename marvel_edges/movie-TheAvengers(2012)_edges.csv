@@ -1,0 +1,211 @@
+NAME 1,NAME 2
+Tony Stark / Iron Man,Steve Rogers / Captain America
+Tony Stark / Iron Man,Bruce Banner / Hulk
+Tony Stark / Iron Man,Thor
+Tony Stark / Iron Man,Natasha Romanoff / Black Widow
+Tony Stark / Iron Man,Clint Barton / Hawkeye
+Tony Stark / Iron Man,Loki
+Tony Stark / Iron Man,Agent Phil Coulson
+Tony Stark / Iron Man,Agent Maria Hill
+Tony Stark / Iron Man,Erik Selvig
+Tony Stark / Iron Man,Nick Fury
+Tony Stark / Iron Man,Pepper Potts
+Tony Stark / Iron Man,Jarvis
+Tony Stark / Iron Man,The Other
+Tony Stark / Iron Man,Georgi Luchkov
+Tony Stark / Iron Man,Stan Lee
+Tony Stark / Iron Man,Agent Jasper Sitwell
+Tony Stark / Iron Man,Shawna Lynde
+Tony Stark / Iron Man,Senator Boynton
+Tony Stark / Iron Man,Pat Kiernan
+Tony Stark / Iron Man,Thomas Roberts
+Steve Rogers / Captain America,Bruce Banner / Hulk
+Steve Rogers / Captain America,Thor
+Steve Rogers / Captain America,Natasha Romanoff / Black Widow
+Steve Rogers / Captain America,Clint Barton / Hawkeye
+Steve Rogers / Captain America,Loki
+Steve Rogers / Captain America,Agent Phil Coulson
+Steve Rogers / Captain America,Agent Maria Hill
+Steve Rogers / Captain America,Erik Selvig
+Steve Rogers / Captain America,Nick Fury
+Steve Rogers / Captain America,Pepper Potts
+Steve Rogers / Captain America,Jarvis
+Steve Rogers / Captain America,The Other
+Steve Rogers / Captain America,Georgi Luchkov
+Steve Rogers / Captain America,Stan Lee
+Steve Rogers / Captain America,Agent Jasper Sitwell
+Steve Rogers / Captain America,Shawna Lynde
+Steve Rogers / Captain America,Senator Boynton
+Steve Rogers / Captain America,Pat Kiernan
+Steve Rogers / Captain America,Thomas Roberts
+Bruce Banner / Hulk,Thor
+Bruce Banner / Hulk,Natasha Romanoff / Black Widow
+Bruce Banner / Hulk,Clint Barton / Hawkeye
+Bruce Banner / Hulk,Loki
+Bruce Banner / Hulk,Agent Phil Coulson
+Bruce Banner / Hulk,Agent Maria Hill
+Bruce Banner / Hulk,Erik Selvig
+Bruce Banner / Hulk,Nick Fury
+Bruce Banner / Hulk,Pepper Potts
+Bruce Banner / Hulk,Jarvis
+Bruce Banner / Hulk,The Other
+Bruce Banner / Hulk,Georgi Luchkov
+Bruce Banner / Hulk,Stan Lee
+Bruce Banner / Hulk,Agent Jasper Sitwell
+Bruce Banner / Hulk,Shawna Lynde
+Bruce Banner / Hulk,Senator Boynton
+Bruce Banner / Hulk,Pat Kiernan
+Bruce Banner / Hulk,Thomas Roberts
+Thor,Natasha Romanoff / Black Widow
+Thor,Clint Barton / Hawkeye
+Thor,Loki
+Thor,Agent Phil Coulson
+Thor,Agent Maria Hill
+Thor,Erik Selvig
+Thor,Nick Fury
+Thor,Pepper Potts
+Thor,Jarvis
+Thor,The Other
+Thor,Georgi Luchkov
+Thor,Stan Lee
+Thor,Agent Jasper Sitwell
+Thor,Shawna Lynde
+Thor,Senator Boynton
+Thor,Pat Kiernan
+Thor,Thomas Roberts
+Natasha Romanoff / Black Widow,Clint Barton / Hawkeye
+Natasha Romanoff / Black Widow,Loki
+Natasha Romanoff / Black Widow,Agent Phil Coulson
+Natasha Romanoff / Black Widow,Agent Maria Hill
+Natasha Romanoff / Black Widow,Erik Selvig
+Natasha Romanoff / Black Widow,Nick Fury
+Natasha Romanoff / Black Widow,Pepper Potts
+Natasha Romanoff / Black Widow,Jarvis
+Natasha Romanoff / Black Widow,The Other
+Natasha Romanoff / Black Widow,Georgi Luchkov
+Natasha Romanoff / Black Widow,Stan Lee
+Natasha Romanoff / Black Widow,Agent Jasper Sitwell
+Natasha Romanoff / Black Widow,Shawna Lynde
+Natasha Romanoff / Black Widow,Senator Boynton
+Natasha Romanoff / Black Widow,Pat Kiernan
+Natasha Romanoff / Black Widow,Thomas Roberts
+Clint Barton / Hawkeye,Loki
+Clint Barton / Hawkeye,Agent Phil Coulson
+Clint Barton / Hawkeye,Agent Maria Hill
+Clint Barton / Hawkeye,Erik Selvig
+Clint Barton / Hawkeye,Nick Fury
+Clint Barton / Hawkeye,Pepper Potts
+Clint Barton / Hawkeye,Jarvis
+Clint Barton / Hawkeye,The Other
+Clint Barton / Hawkeye,Georgi Luchkov
+Clint Barton / Hawkeye,Stan Lee
+Clint Barton / Hawkeye,Agent Jasper Sitwell
+Clint Barton / Hawkeye,Shawna Lynde
+Clint Barton / Hawkeye,Senator Boynton
+Clint Barton / Hawkeye,Pat Kiernan
+Clint Barton / Hawkeye,Thomas Roberts
+Loki,Agent Phil Coulson
+Loki,Agent Maria Hill
+Loki,Erik Selvig
+Loki,Nick Fury
+Loki,Pepper Potts
+Loki,Jarvis
+Loki,The Other
+Loki,Georgi Luchkov
+Loki,Stan Lee
+Loki,Agent Jasper Sitwell
+Loki,Shawna Lynde
+Loki,Senator Boynton
+Loki,Pat Kiernan
+Loki,Thomas Roberts
+Agent Phil Coulson,Agent Maria Hill
+Agent Phil Coulson,Erik Selvig
+Agent Phil Coulson,Nick Fury
+Agent Phil Coulson,Pepper Potts
+Agent Phil Coulson,Jarvis
+Agent Phil Coulson,The Other
+Agent Phil Coulson,Georgi Luchkov
+Agent Phil Coulson,Stan Lee
+Agent Phil Coulson,Agent Jasper Sitwell
+Agent Phil Coulson,Shawna Lynde
+Agent Phil Coulson,Senator Boynton
+Agent Phil Coulson,Pat Kiernan
+Agent Phil Coulson,Thomas Roberts
+Agent Maria Hill,Erik Selvig
+Agent Maria Hill,Nick Fury
+Agent Maria Hill,Pepper Potts
+Agent Maria Hill,Jarvis
+Agent Maria Hill,The Other
+Agent Maria Hill,Georgi Luchkov
+Agent Maria Hill,Stan Lee
+Agent Maria Hill,Agent Jasper Sitwell
+Agent Maria Hill,Shawna Lynde
+Agent Maria Hill,Senator Boynton
+Agent Maria Hill,Pat Kiernan
+Agent Maria Hill,Thomas Roberts
+Erik Selvig,Nick Fury
+Erik Selvig,Pepper Potts
+Erik Selvig,Jarvis
+Erik Selvig,The Other
+Erik Selvig,Georgi Luchkov
+Erik Selvig,Stan Lee
+Erik Selvig,Agent Jasper Sitwell
+Erik Selvig,Shawna Lynde
+Erik Selvig,Senator Boynton
+Erik Selvig,Pat Kiernan
+Erik Selvig,Thomas Roberts
+Nick Fury,Pepper Potts
+Nick Fury,Jarvis
+Nick Fury,The Other
+Nick Fury,Georgi Luchkov
+Nick Fury,Stan Lee
+Nick Fury,Agent Jasper Sitwell
+Nick Fury,Shawna Lynde
+Nick Fury,Senator Boynton
+Nick Fury,Pat Kiernan
+Nick Fury,Thomas Roberts
+Pepper Potts,Jarvis
+Pepper Potts,The Other
+Pepper Potts,Georgi Luchkov
+Pepper Potts,Stan Lee
+Pepper Potts,Agent Jasper Sitwell
+Pepper Potts,Shawna Lynde
+Pepper Potts,Senator Boynton
+Pepper Potts,Pat Kiernan
+Pepper Potts,Thomas Roberts
+Jarvis,The Other
+Jarvis,Georgi Luchkov
+Jarvis,Stan Lee
+Jarvis,Agent Jasper Sitwell
+Jarvis,Shawna Lynde
+Jarvis,Senator Boynton
+Jarvis,Pat Kiernan
+Jarvis,Thomas Roberts
+The Other,Georgi Luchkov
+The Other,Stan Lee
+The Other,Agent Jasper Sitwell
+The Other,Shawna Lynde
+The Other,Senator Boynton
+The Other,Pat Kiernan
+The Other,Thomas Roberts
+Georgi Luchkov,Stan Lee
+Georgi Luchkov,Agent Jasper Sitwell
+Georgi Luchkov,Shawna Lynde
+Georgi Luchkov,Senator Boynton
+Georgi Luchkov,Pat Kiernan
+Georgi Luchkov,Thomas Roberts
+Stan Lee,Agent Jasper Sitwell
+Stan Lee,Shawna Lynde
+Stan Lee,Senator Boynton
+Stan Lee,Pat Kiernan
+Stan Lee,Thomas Roberts
+Agent Jasper Sitwell,Shawna Lynde
+Agent Jasper Sitwell,Senator Boynton
+Agent Jasper Sitwell,Pat Kiernan
+Agent Jasper Sitwell,Thomas Roberts
+Shawna Lynde,Senator Boynton
+Shawna Lynde,Pat Kiernan
+Shawna Lynde,Thomas Roberts
+Senator Boynton,Pat Kiernan
+Senator Boynton,Thomas Roberts
+Pat Kiernan,Thomas Roberts

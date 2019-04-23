@@ -1,0 +1,821 @@
+NAME 1,NAME 2
+Eddard 'Ned' Stark,Robert Baratheon
+Eddard 'Ned' Stark,Cersei Lannister
+Eddard 'Ned' Stark,Daenerys Targaryen
+Eddard 'Ned' Stark,Jorah Mormont
+Eddard 'Ned' Stark,Viserys Targaryen
+Eddard 'Ned' Stark,Robb Stark
+Eddard 'Ned' Stark,Sansa Stark
+Eddard 'Ned' Stark,Arya Stark
+Eddard 'Ned' Stark,Theon Greyjoy
+Eddard 'Ned' Stark,Bran Stark
+Eddard 'Ned' Stark,Tyrion Lannister
+Eddard 'Ned' Stark,Bronn
+Eddard 'Ned' Stark,Barristan Selmy
+Eddard 'Ned' Stark,Lysa Arryn
+Eddard 'Ned' Stark,Renly Baratheon
+Eddard 'Ned' Stark,Syrio Forel
+Eddard 'Ned' Stark,Mord
+Eddard 'Ned' Stark,Robin Arryn
+Eddard 'Ned' Stark,Ros
+Eddard 'Ned' Stark,Irri
+Eddard 'Ned' Stark,Vardis Egen
+Eddard 'Ned' Stark,Lancel Lannister
+Eddard 'Ned' Stark,Stiv
+Eddard 'Ned' Stark,Khal Drogo
+Eddard 'Ned' Stark,Catelyn Stark
+Eddard 'Ned' Stark,Petyr 'Littlefinger' Baelish
+Eddard 'Ned' Stark,Joffrey Baratheon
+Eddard 'Ned' Stark,Rodrik Cassel
+Eddard 'Ned' Stark,Loras Tyrell
+Eddard 'Ned' Stark,Grand Maester Pycelle
+Eddard 'Ned' Stark,Marillion
+Eddard 'Ned' Stark,Septa Mordane
+Eddard 'Ned' Stark,Osha
+Eddard 'Ned' Stark,Doreah
+Eddard 'Ned' Stark,Hodor
+Eddard 'Ned' Stark,Rakharo
+Eddard 'Ned' Stark,Qotho
+Eddard 'Ned' Stark,Dothraki Crone
+Eddard 'Ned' Stark,Joss
+Eddard 'Ned' Stark,Beric Dondarrion
+Robert Baratheon,Cersei Lannister
+Robert Baratheon,Daenerys Targaryen
+Robert Baratheon,Jorah Mormont
+Robert Baratheon,Viserys Targaryen
+Robert Baratheon,Robb Stark
+Robert Baratheon,Sansa Stark
+Robert Baratheon,Arya Stark
+Robert Baratheon,Theon Greyjoy
+Robert Baratheon,Bran Stark
+Robert Baratheon,Tyrion Lannister
+Robert Baratheon,Bronn
+Robert Baratheon,Barristan Selmy
+Robert Baratheon,Lysa Arryn
+Robert Baratheon,Renly Baratheon
+Robert Baratheon,Syrio Forel
+Robert Baratheon,Mord
+Robert Baratheon,Robin Arryn
+Robert Baratheon,Ros
+Robert Baratheon,Irri
+Robert Baratheon,Vardis Egen
+Robert Baratheon,Lancel Lannister
+Robert Baratheon,Stiv
+Robert Baratheon,Khal Drogo
+Robert Baratheon,Catelyn Stark
+Robert Baratheon,Petyr 'Littlefinger' Baelish
+Robert Baratheon,Joffrey Baratheon
+Robert Baratheon,Rodrik Cassel
+Robert Baratheon,Loras Tyrell
+Robert Baratheon,Grand Maester Pycelle
+Robert Baratheon,Marillion
+Robert Baratheon,Septa Mordane
+Robert Baratheon,Osha
+Robert Baratheon,Doreah
+Robert Baratheon,Hodor
+Robert Baratheon,Rakharo
+Robert Baratheon,Qotho
+Robert Baratheon,Dothraki Crone
+Robert Baratheon,Joss
+Robert Baratheon,Beric Dondarrion
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Viserys Targaryen
+Cersei Lannister,Robb Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Bran Stark
+Cersei Lannister,Tyrion Lannister
+Cersei Lannister,Bronn
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Lysa Arryn
+Cersei Lannister,Renly Baratheon
+Cersei Lannister,Syrio Forel
+Cersei Lannister,Mord
+Cersei Lannister,Robin Arryn
+Cersei Lannister,Ros
+Cersei Lannister,Irri
+Cersei Lannister,Vardis Egen
+Cersei Lannister,Lancel Lannister
+Cersei Lannister,Stiv
+Cersei Lannister,Khal Drogo
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Rodrik Cassel
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Marillion
+Cersei Lannister,Septa Mordane
+Cersei Lannister,Osha
+Cersei Lannister,Doreah
+Cersei Lannister,Hodor
+Cersei Lannister,Rakharo
+Cersei Lannister,Qotho
+Cersei Lannister,Dothraki Crone
+Cersei Lannister,Joss
+Cersei Lannister,Beric Dondarrion
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Viserys Targaryen
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Tyrion Lannister
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Lysa Arryn
+Daenerys Targaryen,Renly Baratheon
+Daenerys Targaryen,Syrio Forel
+Daenerys Targaryen,Mord
+Daenerys Targaryen,Robin Arryn
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Irri
+Daenerys Targaryen,Vardis Egen
+Daenerys Targaryen,Lancel Lannister
+Daenerys Targaryen,Stiv
+Daenerys Targaryen,Khal Drogo
+Daenerys Targaryen,Catelyn Stark
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Rodrik Cassel
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Marillion
+Daenerys Targaryen,Septa Mordane
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Doreah
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Rakharo
+Daenerys Targaryen,Qotho
+Daenerys Targaryen,Dothraki Crone
+Daenerys Targaryen,Joss
+Daenerys Targaryen,Beric Dondarrion
+Jorah Mormont,Viserys Targaryen
+Jorah Mormont,Robb Stark
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Bran Stark
+Jorah Mormont,Tyrion Lannister
+Jorah Mormont,Bronn
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Lysa Arryn
+Jorah Mormont,Renly Baratheon
+Jorah Mormont,Syrio Forel
+Jorah Mormont,Mord
+Jorah Mormont,Robin Arryn
+Jorah Mormont,Ros
+Jorah Mormont,Irri
+Jorah Mormont,Vardis Egen
+Jorah Mormont,Lancel Lannister
+Jorah Mormont,Stiv
+Jorah Mormont,Khal Drogo
+Jorah Mormont,Catelyn Stark
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Rodrik Cassel
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Marillion
+Jorah Mormont,Septa Mordane
+Jorah Mormont,Osha
+Jorah Mormont,Doreah
+Jorah Mormont,Hodor
+Jorah Mormont,Rakharo
+Jorah Mormont,Qotho
+Jorah Mormont,Dothraki Crone
+Jorah Mormont,Joss
+Jorah Mormont,Beric Dondarrion
+Viserys Targaryen,Robb Stark
+Viserys Targaryen,Sansa Stark
+Viserys Targaryen,Arya Stark
+Viserys Targaryen,Theon Greyjoy
+Viserys Targaryen,Bran Stark
+Viserys Targaryen,Tyrion Lannister
+Viserys Targaryen,Bronn
+Viserys Targaryen,Barristan Selmy
+Viserys Targaryen,Lysa Arryn
+Viserys Targaryen,Renly Baratheon
+Viserys Targaryen,Syrio Forel
+Viserys Targaryen,Mord
+Viserys Targaryen,Robin Arryn
+Viserys Targaryen,Ros
+Viserys Targaryen,Irri
+Viserys Targaryen,Vardis Egen
+Viserys Targaryen,Lancel Lannister
+Viserys Targaryen,Stiv
+Viserys Targaryen,Khal Drogo
+Viserys Targaryen,Catelyn Stark
+Viserys Targaryen,Petyr 'Littlefinger' Baelish
+Viserys Targaryen,Joffrey Baratheon
+Viserys Targaryen,Rodrik Cassel
+Viserys Targaryen,Loras Tyrell
+Viserys Targaryen,Grand Maester Pycelle
+Viserys Targaryen,Marillion
+Viserys Targaryen,Septa Mordane
+Viserys Targaryen,Osha
+Viserys Targaryen,Doreah
+Viserys Targaryen,Hodor
+Viserys Targaryen,Rakharo
+Viserys Targaryen,Qotho
+Viserys Targaryen,Dothraki Crone
+Viserys Targaryen,Joss
+Viserys Targaryen,Beric Dondarrion
+Robb Stark,Sansa Stark
+Robb Stark,Arya Stark
+Robb Stark,Theon Greyjoy
+Robb Stark,Bran Stark
+Robb Stark,Tyrion Lannister
+Robb Stark,Bronn
+Robb Stark,Barristan Selmy
+Robb Stark,Lysa Arryn
+Robb Stark,Renly Baratheon
+Robb Stark,Syrio Forel
+Robb Stark,Mord
+Robb Stark,Robin Arryn
+Robb Stark,Ros
+Robb Stark,Irri
+Robb Stark,Vardis Egen
+Robb Stark,Lancel Lannister
+Robb Stark,Stiv
+Robb Stark,Khal Drogo
+Robb Stark,Catelyn Stark
+Robb Stark,Petyr 'Littlefinger' Baelish
+Robb Stark,Joffrey Baratheon
+Robb Stark,Rodrik Cassel
+Robb Stark,Loras Tyrell
+Robb Stark,Grand Maester Pycelle
+Robb Stark,Marillion
+Robb Stark,Septa Mordane
+Robb Stark,Osha
+Robb Stark,Doreah
+Robb Stark,Hodor
+Robb Stark,Rakharo
+Robb Stark,Qotho
+Robb Stark,Dothraki Crone
+Robb Stark,Joss
+Robb Stark,Beric Dondarrion
+Sansa Stark,Arya Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Bran Stark
+Sansa Stark,Tyrion Lannister
+Sansa Stark,Bronn
+Sansa Stark,Barristan Selmy
+Sansa Stark,Lysa Arryn
+Sansa Stark,Renly Baratheon
+Sansa Stark,Syrio Forel
+Sansa Stark,Mord
+Sansa Stark,Robin Arryn
+Sansa Stark,Ros
+Sansa Stark,Irri
+Sansa Stark,Vardis Egen
+Sansa Stark,Lancel Lannister
+Sansa Stark,Stiv
+Sansa Stark,Khal Drogo
+Sansa Stark,Catelyn Stark
+Sansa Stark,Petyr 'Littlefinger' Baelish
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Rodrik Cassel
+Sansa Stark,Loras Tyrell
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Marillion
+Sansa Stark,Septa Mordane
+Sansa Stark,Osha
+Sansa Stark,Doreah
+Sansa Stark,Hodor
+Sansa Stark,Rakharo
+Sansa Stark,Qotho
+Sansa Stark,Dothraki Crone
+Sansa Stark,Joss
+Sansa Stark,Beric Dondarrion
+Arya Stark,Theon Greyjoy
+Arya Stark,Bran Stark
+Arya Stark,Tyrion Lannister
+Arya Stark,Bronn
+Arya Stark,Barristan Selmy
+Arya Stark,Lysa Arryn
+Arya Stark,Renly Baratheon
+Arya Stark,Syrio Forel
+Arya Stark,Mord
+Arya Stark,Robin Arryn
+Arya Stark,Ros
+Arya Stark,Irri
+Arya Stark,Vardis Egen
+Arya Stark,Lancel Lannister
+Arya Stark,Stiv
+Arya Stark,Khal Drogo
+Arya Stark,Catelyn Stark
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Joffrey Baratheon
+Arya Stark,Rodrik Cassel
+Arya Stark,Loras Tyrell
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Marillion
+Arya Stark,Septa Mordane
+Arya Stark,Osha
+Arya Stark,Doreah
+Arya Stark,Hodor
+Arya Stark,Rakharo
+Arya Stark,Qotho
+Arya Stark,Dothraki Crone
+Arya Stark,Joss
+Arya Stark,Beric Dondarrion
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Tyrion Lannister
+Theon Greyjoy,Bronn
+Theon Greyjoy,Barristan Selmy
+Theon Greyjoy,Lysa Arryn
+Theon Greyjoy,Renly Baratheon
+Theon Greyjoy,Syrio Forel
+Theon Greyjoy,Mord
+Theon Greyjoy,Robin Arryn
+Theon Greyjoy,Ros
+Theon Greyjoy,Irri
+Theon Greyjoy,Vardis Egen
+Theon Greyjoy,Lancel Lannister
+Theon Greyjoy,Stiv
+Theon Greyjoy,Khal Drogo
+Theon Greyjoy,Catelyn Stark
+Theon Greyjoy,Petyr 'Littlefinger' Baelish
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Rodrik Cassel
+Theon Greyjoy,Loras Tyrell
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Marillion
+Theon Greyjoy,Septa Mordane
+Theon Greyjoy,Osha
+Theon Greyjoy,Doreah
+Theon Greyjoy,Hodor
+Theon Greyjoy,Rakharo
+Theon Greyjoy,Qotho
+Theon Greyjoy,Dothraki Crone
+Theon Greyjoy,Joss
+Theon Greyjoy,Beric Dondarrion
+Bran Stark,Tyrion Lannister
+Bran Stark,Bronn
+Bran Stark,Barristan Selmy
+Bran Stark,Lysa Arryn
+Bran Stark,Renly Baratheon
+Bran Stark,Syrio Forel
+Bran Stark,Mord
+Bran Stark,Robin Arryn
+Bran Stark,Ros
+Bran Stark,Irri
+Bran Stark,Vardis Egen
+Bran Stark,Lancel Lannister
+Bran Stark,Stiv
+Bran Stark,Khal Drogo
+Bran Stark,Catelyn Stark
+Bran Stark,Petyr 'Littlefinger' Baelish
+Bran Stark,Joffrey Baratheon
+Bran Stark,Rodrik Cassel
+Bran Stark,Loras Tyrell
+Bran Stark,Grand Maester Pycelle
+Bran Stark,Marillion
+Bran Stark,Septa Mordane
+Bran Stark,Osha
+Bran Stark,Doreah
+Bran Stark,Hodor
+Bran Stark,Rakharo
+Bran Stark,Qotho
+Bran Stark,Dothraki Crone
+Bran Stark,Joss
+Bran Stark,Beric Dondarrion
+Tyrion Lannister,Bronn
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Lysa Arryn
+Tyrion Lannister,Renly Baratheon
+Tyrion Lannister,Syrio Forel
+Tyrion Lannister,Mord
+Tyrion Lannister,Robin Arryn
+Tyrion Lannister,Ros
+Tyrion Lannister,Irri
+Tyrion Lannister,Vardis Egen
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Stiv
+Tyrion Lannister,Khal Drogo
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Rodrik Cassel
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Marillion
+Tyrion Lannister,Septa Mordane
+Tyrion Lannister,Osha
+Tyrion Lannister,Doreah
+Tyrion Lannister,Hodor
+Tyrion Lannister,Rakharo
+Tyrion Lannister,Qotho
+Tyrion Lannister,Dothraki Crone
+Tyrion Lannister,Joss
+Tyrion Lannister,Beric Dondarrion
+Bronn,Barristan Selmy
+Bronn,Lysa Arryn
+Bronn,Renly Baratheon
+Bronn,Syrio Forel
+Bronn,Mord
+Bronn,Robin Arryn
+Bronn,Ros
+Bronn,Irri
+Bronn,Vardis Egen
+Bronn,Lancel Lannister
+Bronn,Stiv
+Bronn,Khal Drogo
+Bronn,Catelyn Stark
+Bronn,Petyr 'Littlefinger' Baelish
+Bronn,Joffrey Baratheon
+Bronn,Rodrik Cassel
+Bronn,Loras Tyrell
+Bronn,Grand Maester Pycelle
+Bronn,Marillion
+Bronn,Septa Mordane
+Bronn,Osha
+Bronn,Doreah
+Bronn,Hodor
+Bronn,Rakharo
+Bronn,Qotho
+Bronn,Dothraki Crone
+Bronn,Joss
+Bronn,Beric Dondarrion
+Barristan Selmy,Lysa Arryn
+Barristan Selmy,Renly Baratheon
+Barristan Selmy,Syrio Forel
+Barristan Selmy,Mord
+Barristan Selmy,Robin Arryn
+Barristan Selmy,Ros
+Barristan Selmy,Irri
+Barristan Selmy,Vardis Egen
+Barristan Selmy,Lancel Lannister
+Barristan Selmy,Stiv
+Barristan Selmy,Khal Drogo
+Barristan Selmy,Catelyn Stark
+Barristan Selmy,Petyr 'Littlefinger' Baelish
+Barristan Selmy,Joffrey Baratheon
+Barristan Selmy,Rodrik Cassel
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Marillion
+Barristan Selmy,Septa Mordane
+Barristan Selmy,Osha
+Barristan Selmy,Doreah
+Barristan Selmy,Hodor
+Barristan Selmy,Rakharo
+Barristan Selmy,Qotho
+Barristan Selmy,Dothraki Crone
+Barristan Selmy,Joss
+Barristan Selmy,Beric Dondarrion
+Lysa Arryn,Renly Baratheon
+Lysa Arryn,Syrio Forel
+Lysa Arryn,Mord
+Lysa Arryn,Robin Arryn
+Lysa Arryn,Ros
+Lysa Arryn,Irri
+Lysa Arryn,Vardis Egen
+Lysa Arryn,Lancel Lannister
+Lysa Arryn,Stiv
+Lysa Arryn,Khal Drogo
+Lysa Arryn,Catelyn Stark
+Lysa Arryn,Petyr 'Littlefinger' Baelish
+Lysa Arryn,Joffrey Baratheon
+Lysa Arryn,Rodrik Cassel
+Lysa Arryn,Loras Tyrell
+Lysa Arryn,Grand Maester Pycelle
+Lysa Arryn,Marillion
+Lysa Arryn,Septa Mordane
+Lysa Arryn,Osha
+Lysa Arryn,Doreah
+Lysa Arryn,Hodor
+Lysa Arryn,Rakharo
+Lysa Arryn,Qotho
+Lysa Arryn,Dothraki Crone
+Lysa Arryn,Joss
+Lysa Arryn,Beric Dondarrion
+Renly Baratheon,Syrio Forel
+Renly Baratheon,Mord
+Renly Baratheon,Robin Arryn
+Renly Baratheon,Ros
+Renly Baratheon,Irri
+Renly Baratheon,Vardis Egen
+Renly Baratheon,Lancel Lannister
+Renly Baratheon,Stiv
+Renly Baratheon,Khal Drogo
+Renly Baratheon,Catelyn Stark
+Renly Baratheon,Petyr 'Littlefinger' Baelish
+Renly Baratheon,Joffrey Baratheon
+Renly Baratheon,Rodrik Cassel
+Renly Baratheon,Loras Tyrell
+Renly Baratheon,Grand Maester Pycelle
+Renly Baratheon,Marillion
+Renly Baratheon,Septa Mordane
+Renly Baratheon,Osha
+Renly Baratheon,Doreah
+Renly Baratheon,Hodor
+Renly Baratheon,Rakharo
+Renly Baratheon,Qotho
+Renly Baratheon,Dothraki Crone
+Renly Baratheon,Joss
+Renly Baratheon,Beric Dondarrion
+Syrio Forel,Mord
+Syrio Forel,Robin Arryn
+Syrio Forel,Ros
+Syrio Forel,Irri
+Syrio Forel,Vardis Egen
+Syrio Forel,Lancel Lannister
+Syrio Forel,Stiv
+Syrio Forel,Khal Drogo
+Syrio Forel,Catelyn Stark
+Syrio Forel,Petyr 'Littlefinger' Baelish
+Syrio Forel,Joffrey Baratheon
+Syrio Forel,Rodrik Cassel
+Syrio Forel,Loras Tyrell
+Syrio Forel,Grand Maester Pycelle
+Syrio Forel,Marillion
+Syrio Forel,Septa Mordane
+Syrio Forel,Osha
+Syrio Forel,Doreah
+Syrio Forel,Hodor
+Syrio Forel,Rakharo
+Syrio Forel,Qotho
+Syrio Forel,Dothraki Crone
+Syrio Forel,Joss
+Syrio Forel,Beric Dondarrion
+Mord,Robin Arryn
+Mord,Ros
+Mord,Irri
+Mord,Vardis Egen
+Mord,Lancel Lannister
+Mord,Stiv
+Mord,Khal Drogo
+Mord,Catelyn Stark
+Mord,Petyr 'Littlefinger' Baelish
+Mord,Joffrey Baratheon
+Mord,Rodrik Cassel
+Mord,Loras Tyrell
+Mord,Grand Maester Pycelle
+Mord,Marillion
+Mord,Septa Mordane
+Mord,Osha
+Mord,Doreah
+Mord,Hodor
+Mord,Rakharo
+Mord,Qotho
+Mord,Dothraki Crone
+Mord,Joss
+Mord,Beric Dondarrion
+Robin Arryn,Ros
+Robin Arryn,Irri
+Robin Arryn,Vardis Egen
+Robin Arryn,Lancel Lannister
+Robin Arryn,Stiv
+Robin Arryn,Khal Drogo
+Robin Arryn,Catelyn Stark
+Robin Arryn,Petyr 'Littlefinger' Baelish
+Robin Arryn,Joffrey Baratheon
+Robin Arryn,Rodrik Cassel
+Robin Arryn,Loras Tyrell
+Robin Arryn,Grand Maester Pycelle
+Robin Arryn,Marillion
+Robin Arryn,Septa Mordane
+Robin Arryn,Osha
+Robin Arryn,Doreah
+Robin Arryn,Hodor
+Robin Arryn,Rakharo
+Robin Arryn,Qotho
+Robin Arryn,Dothraki Crone
+Robin Arryn,Joss
+Robin Arryn,Beric Dondarrion
+Ros,Irri
+Ros,Vardis Egen
+Ros,Lancel Lannister
+Ros,Stiv
+Ros,Khal Drogo
+Ros,Catelyn Stark
+Ros,Petyr 'Littlefinger' Baelish
+Ros,Joffrey Baratheon
+Ros,Rodrik Cassel
+Ros,Loras Tyrell
+Ros,Grand Maester Pycelle
+Ros,Marillion
+Ros,Septa Mordane
+Ros,Osha
+Ros,Doreah
+Ros,Hodor
+Ros,Rakharo
+Ros,Qotho
+Ros,Dothraki Crone
+Ros,Joss
+Ros,Beric Dondarrion
+Irri,Vardis Egen
+Irri,Lancel Lannister
+Irri,Stiv
+Irri,Khal Drogo
+Irri,Catelyn Stark
+Irri,Petyr 'Littlefinger' Baelish
+Irri,Joffrey Baratheon
+Irri,Rodrik Cassel
+Irri,Loras Tyrell
+Irri,Grand Maester Pycelle
+Irri,Marillion
+Irri,Septa Mordane
+Irri,Osha
+Irri,Doreah
+Irri,Hodor
+Irri,Rakharo
+Irri,Qotho
+Irri,Dothraki Crone
+Irri,Joss
+Irri,Beric Dondarrion
+Vardis Egen,Lancel Lannister
+Vardis Egen,Stiv
+Vardis Egen,Khal Drogo
+Vardis Egen,Catelyn Stark
+Vardis Egen,Petyr 'Littlefinger' Baelish
+Vardis Egen,Joffrey Baratheon
+Vardis Egen,Rodrik Cassel
+Vardis Egen,Loras Tyrell
+Vardis Egen,Grand Maester Pycelle
+Vardis Egen,Marillion
+Vardis Egen,Septa Mordane
+Vardis Egen,Osha
+Vardis Egen,Doreah
+Vardis Egen,Hodor
+Vardis Egen,Rakharo
+Vardis Egen,Qotho
+Vardis Egen,Dothraki Crone
+Vardis Egen,Joss
+Vardis Egen,Beric Dondarrion
+Lancel Lannister,Stiv
+Lancel Lannister,Khal Drogo
+Lancel Lannister,Catelyn Stark
+Lancel Lannister,Petyr 'Littlefinger' Baelish
+Lancel Lannister,Joffrey Baratheon
+Lancel Lannister,Rodrik Cassel
+Lancel Lannister,Loras Tyrell
+Lancel Lannister,Grand Maester Pycelle
+Lancel Lannister,Marillion
+Lancel Lannister,Septa Mordane
+Lancel Lannister,Osha
+Lancel Lannister,Doreah
+Lancel Lannister,Hodor
+Lancel Lannister,Rakharo
+Lancel Lannister,Qotho
+Lancel Lannister,Dothraki Crone
+Lancel Lannister,Joss
+Lancel Lannister,Beric Dondarrion
+Stiv,Khal Drogo
+Stiv,Catelyn Stark
+Stiv,Petyr 'Littlefinger' Baelish
+Stiv,Joffrey Baratheon
+Stiv,Rodrik Cassel
+Stiv,Loras Tyrell
+Stiv,Grand Maester Pycelle
+Stiv,Marillion
+Stiv,Septa Mordane
+Stiv,Osha
+Stiv,Doreah
+Stiv,Hodor
+Stiv,Rakharo
+Stiv,Qotho
+Stiv,Dothraki Crone
+Stiv,Joss
+Stiv,Beric Dondarrion
+Khal Drogo,Catelyn Stark
+Khal Drogo,Petyr 'Littlefinger' Baelish
+Khal Drogo,Joffrey Baratheon
+Khal Drogo,Rodrik Cassel
+Khal Drogo,Loras Tyrell
+Khal Drogo,Grand Maester Pycelle
+Khal Drogo,Marillion
+Khal Drogo,Septa Mordane
+Khal Drogo,Osha
+Khal Drogo,Doreah
+Khal Drogo,Hodor
+Khal Drogo,Rakharo
+Khal Drogo,Qotho
+Khal Drogo,Dothraki Crone
+Khal Drogo,Joss
+Khal Drogo,Beric Dondarrion
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Rodrik Cassel
+Catelyn Stark,Loras Tyrell
+Catelyn Stark,Grand Maester Pycelle
+Catelyn Stark,Marillion
+Catelyn Stark,Septa Mordane
+Catelyn Stark,Osha
+Catelyn Stark,Doreah
+Catelyn Stark,Hodor
+Catelyn Stark,Rakharo
+Catelyn Stark,Qotho
+Catelyn Stark,Dothraki Crone
+Catelyn Stark,Joss
+Catelyn Stark,Beric Dondarrion
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Rodrik Cassel
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Marillion
+Petyr 'Littlefinger' Baelish,Septa Mordane
+Petyr 'Littlefinger' Baelish,Osha
+Petyr 'Littlefinger' Baelish,Doreah
+Petyr 'Littlefinger' Baelish,Hodor
+Petyr 'Littlefinger' Baelish,Rakharo
+Petyr 'Littlefinger' Baelish,Qotho
+Petyr 'Littlefinger' Baelish,Dothraki Crone
+Petyr 'Littlefinger' Baelish,Joss
+Petyr 'Littlefinger' Baelish,Beric Dondarrion
+Joffrey Baratheon,Rodrik Cassel
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Marillion
+Joffrey Baratheon,Septa Mordane
+Joffrey Baratheon,Osha
+Joffrey Baratheon,Doreah
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Rakharo
+Joffrey Baratheon,Qotho
+Joffrey Baratheon,Dothraki Crone
+Joffrey Baratheon,Joss
+Joffrey Baratheon,Beric Dondarrion
+Rodrik Cassel,Loras Tyrell
+Rodrik Cassel,Grand Maester Pycelle
+Rodrik Cassel,Marillion
+Rodrik Cassel,Septa Mordane
+Rodrik Cassel,Osha
+Rodrik Cassel,Doreah
+Rodrik Cassel,Hodor
+Rodrik Cassel,Rakharo
+Rodrik Cassel,Qotho
+Rodrik Cassel,Dothraki Crone
+Rodrik Cassel,Joss
+Rodrik Cassel,Beric Dondarrion
+Loras Tyrell,Grand Maester Pycelle
+Loras Tyrell,Marillion
+Loras Tyrell,Septa Mordane
+Loras Tyrell,Osha
+Loras Tyrell,Doreah
+Loras Tyrell,Hodor
+Loras Tyrell,Rakharo
+Loras Tyrell,Qotho
+Loras Tyrell,Dothraki Crone
+Loras Tyrell,Joss
+Loras Tyrell,Beric Dondarrion
+Grand Maester Pycelle,Marillion
+Grand Maester Pycelle,Septa Mordane
+Grand Maester Pycelle,Osha
+Grand Maester Pycelle,Doreah
+Grand Maester Pycelle,Hodor
+Grand Maester Pycelle,Rakharo
+Grand Maester Pycelle,Qotho
+Grand Maester Pycelle,Dothraki Crone
+Grand Maester Pycelle,Joss
+Grand Maester Pycelle,Beric Dondarrion
+Marillion,Septa Mordane
+Marillion,Osha
+Marillion,Doreah
+Marillion,Hodor
+Marillion,Rakharo
+Marillion,Qotho
+Marillion,Dothraki Crone
+Marillion,Joss
+Marillion,Beric Dondarrion
+Septa Mordane,Osha
+Septa Mordane,Doreah
+Septa Mordane,Hodor
+Septa Mordane,Rakharo
+Septa Mordane,Qotho
+Septa Mordane,Dothraki Crone
+Septa Mordane,Joss
+Septa Mordane,Beric Dondarrion
+Osha,Doreah
+Osha,Hodor
+Osha,Rakharo
+Osha,Qotho
+Osha,Dothraki Crone
+Osha,Joss
+Osha,Beric Dondarrion
+Doreah,Hodor
+Doreah,Rakharo
+Doreah,Qotho
+Doreah,Dothraki Crone
+Doreah,Joss
+Doreah,Beric Dondarrion
+Hodor,Rakharo
+Hodor,Qotho
+Hodor,Dothraki Crone
+Hodor,Joss
+Hodor,Beric Dondarrion
+Rakharo,Qotho
+Rakharo,Dothraki Crone
+Rakharo,Joss
+Rakharo,Beric Dondarrion
+Qotho,Dothraki Crone
+Qotho,Joss
+Qotho,Beric Dondarrion
+Dothraki Crone,Joss
+Dothraki Crone,Beric Dondarrion
+Joss,Beric Dondarrion

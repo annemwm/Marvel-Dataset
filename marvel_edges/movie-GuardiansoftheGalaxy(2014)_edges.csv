@@ -1,0 +1,352 @@
+NAME 1,NAME 2
+Peter Quill / Star-Lord,Gamora
+Peter Quill / Star-Lord,Drax
+Peter Quill / Star-Lord,Groot
+Peter Quill / Star-Lord,Rocket
+Peter Quill / Star-Lord,Ronan
+Peter Quill / Star-Lord,Yondu Udonta
+Peter Quill / Star-Lord,Nebula
+Peter Quill / Star-Lord,Korath
+Peter Quill / Star-Lord,Corpsman Dey
+Peter Quill / Star-Lord,Nova Prime
+Peter Quill / Star-Lord,The Collector
+Peter Quill / Star-Lord,Meredith Quill
+Peter Quill / Star-Lord,Kraglin
+Peter Quill / Star-Lord,Denarian Saal
+Peter Quill / Star-Lord,Grandpa Quill
+Peter Quill / Star-Lord,Bereet
+Peter Quill / Star-Lord,Moloka Dar
+Peter Quill / Star-Lord,The Other
+Peter Quill / Star-Lord,Carina
+Peter Quill / Star-Lord,Thanos
+Peter Quill / Star-Lord,Howard the Duck
+Peter Quill / Star-Lord,The Broker
+Peter Quill / Star-Lord,Dr. Fitzgibbon
+Peter Quill / Star-Lord,Horuz
+Peter Quill / Star-Lord,Cosmo the Space Dog
+Peter Quill / Star-Lord,Stan Lee
+Gamora,Drax
+Gamora,Groot
+Gamora,Rocket
+Gamora,Ronan
+Gamora,Yondu Udonta
+Gamora,Nebula
+Gamora,Korath
+Gamora,Corpsman Dey
+Gamora,Nova Prime
+Gamora,The Collector
+Gamora,Meredith Quill
+Gamora,Kraglin
+Gamora,Denarian Saal
+Gamora,Grandpa Quill
+Gamora,Bereet
+Gamora,Moloka Dar
+Gamora,The Other
+Gamora,Carina
+Gamora,Thanos
+Gamora,Howard the Duck
+Gamora,The Broker
+Gamora,Dr. Fitzgibbon
+Gamora,Horuz
+Gamora,Cosmo the Space Dog
+Gamora,Stan Lee
+Drax,Groot
+Drax,Rocket
+Drax,Ronan
+Drax,Yondu Udonta
+Drax,Nebula
+Drax,Korath
+Drax,Corpsman Dey
+Drax,Nova Prime
+Drax,The Collector
+Drax,Meredith Quill
+Drax,Kraglin
+Drax,Denarian Saal
+Drax,Grandpa Quill
+Drax,Bereet
+Drax,Moloka Dar
+Drax,The Other
+Drax,Carina
+Drax,Thanos
+Drax,Howard the Duck
+Drax,The Broker
+Drax,Dr. Fitzgibbon
+Drax,Horuz
+Drax,Cosmo the Space Dog
+Drax,Stan Lee
+Groot,Rocket
+Groot,Ronan
+Groot,Yondu Udonta
+Groot,Nebula
+Groot,Korath
+Groot,Corpsman Dey
+Groot,Nova Prime
+Groot,The Collector
+Groot,Meredith Quill
+Groot,Kraglin
+Groot,Denarian Saal
+Groot,Grandpa Quill
+Groot,Bereet
+Groot,Moloka Dar
+Groot,The Other
+Groot,Carina
+Groot,Thanos
+Groot,Howard the Duck
+Groot,The Broker
+Groot,Dr. Fitzgibbon
+Groot,Horuz
+Groot,Cosmo the Space Dog
+Groot,Stan Lee
+Rocket,Ronan
+Rocket,Yondu Udonta
+Rocket,Nebula
+Rocket,Korath
+Rocket,Corpsman Dey
+Rocket,Nova Prime
+Rocket,The Collector
+Rocket,Meredith Quill
+Rocket,Kraglin
+Rocket,Denarian Saal
+Rocket,Grandpa Quill
+Rocket,Bereet
+Rocket,Moloka Dar
+Rocket,The Other
+Rocket,Carina
+Rocket,Thanos
+Rocket,Howard the Duck
+Rocket,The Broker
+Rocket,Dr. Fitzgibbon
+Rocket,Horuz
+Rocket,Cosmo the Space Dog
+Rocket,Stan Lee
+Ronan,Yondu Udonta
+Ronan,Nebula
+Ronan,Korath
+Ronan,Corpsman Dey
+Ronan,Nova Prime
+Ronan,The Collector
+Ronan,Meredith Quill
+Ronan,Kraglin
+Ronan,Denarian Saal
+Ronan,Grandpa Quill
+Ronan,Bereet
+Ronan,Moloka Dar
+Ronan,The Other
+Ronan,Carina
+Ronan,Thanos
+Ronan,Howard the Duck
+Ronan,The Broker
+Ronan,Dr. Fitzgibbon
+Ronan,Horuz
+Ronan,Cosmo the Space Dog
+Ronan,Stan Lee
+Yondu Udonta,Nebula
+Yondu Udonta,Korath
+Yondu Udonta,Corpsman Dey
+Yondu Udonta,Nova Prime
+Yondu Udonta,The Collector
+Yondu Udonta,Meredith Quill
+Yondu Udonta,Kraglin
+Yondu Udonta,Denarian Saal
+Yondu Udonta,Grandpa Quill
+Yondu Udonta,Bereet
+Yondu Udonta,Moloka Dar
+Yondu Udonta,The Other
+Yondu Udonta,Carina
+Yondu Udonta,Thanos
+Yondu Udonta,Howard the Duck
+Yondu Udonta,The Broker
+Yondu Udonta,Dr. Fitzgibbon
+Yondu Udonta,Horuz
+Yondu Udonta,Cosmo the Space Dog
+Yondu Udonta,Stan Lee
+Nebula,Korath
+Nebula,Corpsman Dey
+Nebula,Nova Prime
+Nebula,The Collector
+Nebula,Meredith Quill
+Nebula,Kraglin
+Nebula,Denarian Saal
+Nebula,Grandpa Quill
+Nebula,Bereet
+Nebula,Moloka Dar
+Nebula,The Other
+Nebula,Carina
+Nebula,Thanos
+Nebula,Howard the Duck
+Nebula,The Broker
+Nebula,Dr. Fitzgibbon
+Nebula,Horuz
+Nebula,Cosmo the Space Dog
+Nebula,Stan Lee
+Korath,Corpsman Dey
+Korath,Nova Prime
+Korath,The Collector
+Korath,Meredith Quill
+Korath,Kraglin
+Korath,Denarian Saal
+Korath,Grandpa Quill
+Korath,Bereet
+Korath,Moloka Dar
+Korath,The Other
+Korath,Carina
+Korath,Thanos
+Korath,Howard the Duck
+Korath,The Broker
+Korath,Dr. Fitzgibbon
+Korath,Horuz
+Korath,Cosmo the Space Dog
+Korath,Stan Lee
+Corpsman Dey,Nova Prime
+Corpsman Dey,The Collector
+Corpsman Dey,Meredith Quill
+Corpsman Dey,Kraglin
+Corpsman Dey,Denarian Saal
+Corpsman Dey,Grandpa Quill
+Corpsman Dey,Bereet
+Corpsman Dey,Moloka Dar
+Corpsman Dey,The Other
+Corpsman Dey,Carina
+Corpsman Dey,Thanos
+Corpsman Dey,Howard the Duck
+Corpsman Dey,The Broker
+Corpsman Dey,Dr. Fitzgibbon
+Corpsman Dey,Horuz
+Corpsman Dey,Cosmo the Space Dog
+Corpsman Dey,Stan Lee
+Nova Prime,The Collector
+Nova Prime,Meredith Quill
+Nova Prime,Kraglin
+Nova Prime,Denarian Saal
+Nova Prime,Grandpa Quill
+Nova Prime,Bereet
+Nova Prime,Moloka Dar
+Nova Prime,The Other
+Nova Prime,Carina
+Nova Prime,Thanos
+Nova Prime,Howard the Duck
+Nova Prime,The Broker
+Nova Prime,Dr. Fitzgibbon
+Nova Prime,Horuz
+Nova Prime,Cosmo the Space Dog
+Nova Prime,Stan Lee
+The Collector,Meredith Quill
+The Collector,Kraglin
+The Collector,Denarian Saal
+The Collector,Grandpa Quill
+The Collector,Bereet
+The Collector,Moloka Dar
+The Collector,The Other
+The Collector,Carina
+The Collector,Thanos
+The Collector,Howard the Duck
+The Collector,The Broker
+The Collector,Dr. Fitzgibbon
+The Collector,Horuz
+The Collector,Cosmo the Space Dog
+The Collector,Stan Lee
+Meredith Quill,Kraglin
+Meredith Quill,Denarian Saal
+Meredith Quill,Grandpa Quill
+Meredith Quill,Bereet
+Meredith Quill,Moloka Dar
+Meredith Quill,The Other
+Meredith Quill,Carina
+Meredith Quill,Thanos
+Meredith Quill,Howard the Duck
+Meredith Quill,The Broker
+Meredith Quill,Dr. Fitzgibbon
+Meredith Quill,Horuz
+Meredith Quill,Cosmo the Space Dog
+Meredith Quill,Stan Lee
+Kraglin,Denarian Saal
+Kraglin,Grandpa Quill
+Kraglin,Bereet
+Kraglin,Moloka Dar
+Kraglin,The Other
+Kraglin,Carina
+Kraglin,Thanos
+Kraglin,Howard the Duck
+Kraglin,The Broker
+Kraglin,Dr. Fitzgibbon
+Kraglin,Horuz
+Kraglin,Cosmo the Space Dog
+Kraglin,Stan Lee
+Denarian Saal,Grandpa Quill
+Denarian Saal,Bereet
+Denarian Saal,Moloka Dar
+Denarian Saal,The Other
+Denarian Saal,Carina
+Denarian Saal,Thanos
+Denarian Saal,Howard the Duck
+Denarian Saal,The Broker
+Denarian Saal,Dr. Fitzgibbon
+Denarian Saal,Horuz
+Denarian Saal,Cosmo the Space Dog
+Denarian Saal,Stan Lee
+Grandpa Quill,Bereet
+Grandpa Quill,Moloka Dar
+Grandpa Quill,The Other
+Grandpa Quill,Carina
+Grandpa Quill,Thanos
+Grandpa Quill,Howard the Duck
+Grandpa Quill,The Broker
+Grandpa Quill,Dr. Fitzgibbon
+Grandpa Quill,Horuz
+Grandpa Quill,Cosmo the Space Dog
+Grandpa Quill,Stan Lee
+Bereet,Moloka Dar
+Bereet,The Other
+Bereet,Carina
+Bereet,Thanos
+Bereet,Howard the Duck
+Bereet,The Broker
+Bereet,Dr. Fitzgibbon
+Bereet,Horuz
+Bereet,Cosmo the Space Dog
+Bereet,Stan Lee
+Moloka Dar,The Other
+Moloka Dar,Carina
+Moloka Dar,Thanos
+Moloka Dar,Howard the Duck
+Moloka Dar,The Broker
+Moloka Dar,Dr. Fitzgibbon
+Moloka Dar,Horuz
+Moloka Dar,Cosmo the Space Dog
+Moloka Dar,Stan Lee
+The Other,Carina
+The Other,Thanos
+The Other,Howard the Duck
+The Other,The Broker
+The Other,Dr. Fitzgibbon
+The Other,Horuz
+The Other,Cosmo the Space Dog
+The Other,Stan Lee
+Carina,Thanos
+Carina,Howard the Duck
+Carina,The Broker
+Carina,Dr. Fitzgibbon
+Carina,Horuz
+Carina,Cosmo the Space Dog
+Carina,Stan Lee
+Thanos,Howard the Duck
+Thanos,The Broker
+Thanos,Dr. Fitzgibbon
+Thanos,Horuz
+Thanos,Cosmo the Space Dog
+Thanos,Stan Lee
+Howard the Duck,The Broker
+Howard the Duck,Dr. Fitzgibbon
+Howard the Duck,Horuz
+Howard the Duck,Cosmo the Space Dog
+Howard the Duck,Stan Lee
+The Broker,Dr. Fitzgibbon
+The Broker,Horuz
+The Broker,Cosmo the Space Dog
+The Broker,Stan Lee
+Dr. Fitzgibbon,Horuz
+Dr. Fitzgibbon,Cosmo the Space Dog
+Dr. Fitzgibbon,Stan Lee
+Horuz,Cosmo the Space Dog
+Horuz,Stan Lee
+Cosmo the Space Dog,Stan Lee

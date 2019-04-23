@@ -1,0 +1,466 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Gendry
+Tyrion Lannister,Shae
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Gilly
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Missandei
+Tyrion Lannister,Mero
+Tyrion Lannister,Prendahl na Ghezn
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Bronn
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,High Septon
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Melisandre
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Gendry
+Cersei Lannister,Shae
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Gilly
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Missandei
+Cersei Lannister,Mero
+Cersei Lannister,Prendahl na Ghezn
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Lord Varys
+Cersei Lannister,Bronn
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Grey Worm
+Cersei Lannister,Meryn Trant
+Cersei Lannister,High Septon
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Olenna Tyrell
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Mero
+Daenerys Targaryen,Prendahl na Ghezn
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,High Septon
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Melisandre
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Gendry
+Tywin Lannister,Shae
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Olenna Tyrell
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Gilly
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Daario Naharis
+Tywin Lannister,Missandei
+Tywin Lannister,Mero
+Tywin Lannister,Prendahl na Ghezn
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Lord Varys
+Tywin Lannister,Bronn
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Grey Worm
+Tywin Lannister,Meryn Trant
+Tywin Lannister,High Septon
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Melisandre
+Davos Seaworth,Margaery Tyrell
+Davos Seaworth,Joffrey Baratheon
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Arya Stark
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Gendry
+Davos Seaworth,Shae
+Davos Seaworth,Sandor 'The Hound' Clegane
+Davos Seaworth,Olenna Tyrell
+Davos Seaworth,Barristan Selmy
+Davos Seaworth,Gilly
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Daario Naharis
+Davos Seaworth,Missandei
+Davos Seaworth,Mero
+Davos Seaworth,Prendahl na Ghezn
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Lord Varys
+Davos Seaworth,Bronn
+Davos Seaworth,Grand Maester Pycelle
+Davos Seaworth,Grey Worm
+Davos Seaworth,Meryn Trant
+Davos Seaworth,High Septon
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Margaery Tyrell
+Stannis Baratheon,Joffrey Baratheon
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Arya Stark
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Gendry
+Stannis Baratheon,Shae
+Stannis Baratheon,Sandor 'The Hound' Clegane
+Stannis Baratheon,Olenna Tyrell
+Stannis Baratheon,Barristan Selmy
+Stannis Baratheon,Gilly
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Daario Naharis
+Stannis Baratheon,Missandei
+Stannis Baratheon,Mero
+Stannis Baratheon,Prendahl na Ghezn
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,Lord Varys
+Stannis Baratheon,Bronn
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Grey Worm
+Stannis Baratheon,Meryn Trant
+Stannis Baratheon,High Septon
+Melisandre,Margaery Tyrell
+Melisandre,Joffrey Baratheon
+Melisandre,Sansa Stark
+Melisandre,Arya Stark
+Melisandre,Samwell Tarly
+Melisandre,Gendry
+Melisandre,Shae
+Melisandre,Sandor 'The Hound' Clegane
+Melisandre,Olenna Tyrell
+Melisandre,Barristan Selmy
+Melisandre,Gilly
+Melisandre,Loras Tyrell
+Melisandre,Daario Naharis
+Melisandre,Missandei
+Melisandre,Mero
+Melisandre,Prendahl na Ghezn
+Melisandre,Podrick Payne
+Melisandre,Jorah Mormont
+Melisandre,Lord Varys
+Melisandre,Bronn
+Melisandre,Grand Maester Pycelle
+Melisandre,Grey Worm
+Melisandre,Meryn Trant
+Melisandre,High Septon
+Margaery Tyrell,Joffrey Baratheon
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Arya Stark
+Margaery Tyrell,Samwell Tarly
+Margaery Tyrell,Gendry
+Margaery Tyrell,Shae
+Margaery Tyrell,Sandor 'The Hound' Clegane
+Margaery Tyrell,Olenna Tyrell
+Margaery Tyrell,Barristan Selmy
+Margaery Tyrell,Gilly
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Daario Naharis
+Margaery Tyrell,Missandei
+Margaery Tyrell,Mero
+Margaery Tyrell,Prendahl na Ghezn
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,Lord Varys
+Margaery Tyrell,Bronn
+Margaery Tyrell,Grand Maester Pycelle
+Margaery Tyrell,Grey Worm
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,High Septon
+Joffrey Baratheon,Sansa Stark
+Joffrey Baratheon,Arya Stark
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Gendry
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Olenna Tyrell
+Joffrey Baratheon,Barristan Selmy
+Joffrey Baratheon,Gilly
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Daario Naharis
+Joffrey Baratheon,Missandei
+Joffrey Baratheon,Mero
+Joffrey Baratheon,Prendahl na Ghezn
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Jorah Mormont
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Grey Worm
+Joffrey Baratheon,Meryn Trant
+Joffrey Baratheon,High Septon
+Sansa Stark,Arya Stark
+Sansa Stark,Samwell Tarly
+Sansa Stark,Gendry
+Sansa Stark,Shae
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Olenna Tyrell
+Sansa Stark,Barristan Selmy
+Sansa Stark,Gilly
+Sansa Stark,Loras Tyrell
+Sansa Stark,Daario Naharis
+Sansa Stark,Missandei
+Sansa Stark,Mero
+Sansa Stark,Prendahl na Ghezn
+Sansa Stark,Podrick Payne
+Sansa Stark,Jorah Mormont
+Sansa Stark,Lord Varys
+Sansa Stark,Bronn
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Grey Worm
+Sansa Stark,Meryn Trant
+Sansa Stark,High Septon
+Arya Stark,Samwell Tarly
+Arya Stark,Gendry
+Arya Stark,Shae
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Olenna Tyrell
+Arya Stark,Barristan Selmy
+Arya Stark,Gilly
+Arya Stark,Loras Tyrell
+Arya Stark,Daario Naharis
+Arya Stark,Missandei
+Arya Stark,Mero
+Arya Stark,Prendahl na Ghezn
+Arya Stark,Podrick Payne
+Arya Stark,Jorah Mormont
+Arya Stark,Lord Varys
+Arya Stark,Bronn
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Grey Worm
+Arya Stark,Meryn Trant
+Arya Stark,High Septon
+Samwell Tarly,Gendry
+Samwell Tarly,Shae
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Olenna Tyrell
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Gilly
+Samwell Tarly,Loras Tyrell
+Samwell Tarly,Daario Naharis
+Samwell Tarly,Missandei
+Samwell Tarly,Mero
+Samwell Tarly,Prendahl na Ghezn
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Lord Varys
+Samwell Tarly,Bronn
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Grey Worm
+Samwell Tarly,Meryn Trant
+Samwell Tarly,High Septon
+Gendry,Shae
+Gendry,Sandor 'The Hound' Clegane
+Gendry,Olenna Tyrell
+Gendry,Barristan Selmy
+Gendry,Gilly
+Gendry,Loras Tyrell
+Gendry,Daario Naharis
+Gendry,Missandei
+Gendry,Mero
+Gendry,Prendahl na Ghezn
+Gendry,Podrick Payne
+Gendry,Jorah Mormont
+Gendry,Lord Varys
+Gendry,Bronn
+Gendry,Grand Maester Pycelle
+Gendry,Grey Worm
+Gendry,Meryn Trant
+Gendry,High Septon
+Shae,Sandor 'The Hound' Clegane
+Shae,Olenna Tyrell
+Shae,Barristan Selmy
+Shae,Gilly
+Shae,Loras Tyrell
+Shae,Daario Naharis
+Shae,Missandei
+Shae,Mero
+Shae,Prendahl na Ghezn
+Shae,Podrick Payne
+Shae,Jorah Mormont
+Shae,Lord Varys
+Shae,Bronn
+Shae,Grand Maester Pycelle
+Shae,Grey Worm
+Shae,Meryn Trant
+Shae,High Septon
+Sandor 'The Hound' Clegane,Olenna Tyrell
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Gilly
+Sandor 'The Hound' Clegane,Loras Tyrell
+Sandor 'The Hound' Clegane,Daario Naharis
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Mero
+Sandor 'The Hound' Clegane,Prendahl na Ghezn
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Lord Varys
+Sandor 'The Hound' Clegane,Bronn
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Meryn Trant
+Sandor 'The Hound' Clegane,High Septon
+Olenna Tyrell,Barristan Selmy
+Olenna Tyrell,Gilly
+Olenna Tyrell,Loras Tyrell
+Olenna Tyrell,Daario Naharis
+Olenna Tyrell,Missandei
+Olenna Tyrell,Mero
+Olenna Tyrell,Prendahl na Ghezn
+Olenna Tyrell,Podrick Payne
+Olenna Tyrell,Jorah Mormont
+Olenna Tyrell,Lord Varys
+Olenna Tyrell,Bronn
+Olenna Tyrell,Grand Maester Pycelle
+Olenna Tyrell,Grey Worm
+Olenna Tyrell,Meryn Trant
+Olenna Tyrell,High Septon
+Barristan Selmy,Gilly
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Daario Naharis
+Barristan Selmy,Missandei
+Barristan Selmy,Mero
+Barristan Selmy,Prendahl na Ghezn
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Jorah Mormont
+Barristan Selmy,Lord Varys
+Barristan Selmy,Bronn
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Grey Worm
+Barristan Selmy,Meryn Trant
+Barristan Selmy,High Septon
+Gilly,Loras Tyrell
+Gilly,Daario Naharis
+Gilly,Missandei
+Gilly,Mero
+Gilly,Prendahl na Ghezn
+Gilly,Podrick Payne
+Gilly,Jorah Mormont
+Gilly,Lord Varys
+Gilly,Bronn
+Gilly,Grand Maester Pycelle
+Gilly,Grey Worm
+Gilly,Meryn Trant
+Gilly,High Septon
+Loras Tyrell,Daario Naharis
+Loras Tyrell,Missandei
+Loras Tyrell,Mero
+Loras Tyrell,Prendahl na Ghezn
+Loras Tyrell,Podrick Payne
+Loras Tyrell,Jorah Mormont
+Loras Tyrell,Lord Varys
+Loras Tyrell,Bronn
+Loras Tyrell,Grand Maester Pycelle
+Loras Tyrell,Grey Worm
+Loras Tyrell,Meryn Trant
+Loras Tyrell,High Septon
+Daario Naharis,Missandei
+Daario Naharis,Mero
+Daario Naharis,Prendahl na Ghezn
+Daario Naharis,Podrick Payne
+Daario Naharis,Jorah Mormont
+Daario Naharis,Lord Varys
+Daario Naharis,Bronn
+Daario Naharis,Grand Maester Pycelle
+Daario Naharis,Grey Worm
+Daario Naharis,Meryn Trant
+Daario Naharis,High Septon
+Missandei,Mero
+Missandei,Prendahl na Ghezn
+Missandei,Podrick Payne
+Missandei,Jorah Mormont
+Missandei,Lord Varys
+Missandei,Bronn
+Missandei,Grand Maester Pycelle
+Missandei,Grey Worm
+Missandei,Meryn Trant
+Missandei,High Septon
+Mero,Prendahl na Ghezn
+Mero,Podrick Payne
+Mero,Jorah Mormont
+Mero,Lord Varys
+Mero,Bronn
+Mero,Grand Maester Pycelle
+Mero,Grey Worm
+Mero,Meryn Trant
+Mero,High Septon
+Prendahl na Ghezn,Podrick Payne
+Prendahl na Ghezn,Jorah Mormont
+Prendahl na Ghezn,Lord Varys
+Prendahl na Ghezn,Bronn
+Prendahl na Ghezn,Grand Maester Pycelle
+Prendahl na Ghezn,Grey Worm
+Prendahl na Ghezn,Meryn Trant
+Prendahl na Ghezn,High Septon
+Podrick Payne,Jorah Mormont
+Podrick Payne,Lord Varys
+Podrick Payne,Bronn
+Podrick Payne,Grand Maester Pycelle
+Podrick Payne,Grey Worm
+Podrick Payne,Meryn Trant
+Podrick Payne,High Septon
+Jorah Mormont,Lord Varys
+Jorah Mormont,Bronn
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Grey Worm
+Jorah Mormont,Meryn Trant
+Jorah Mormont,High Septon
+Lord Varys,Bronn
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Grey Worm
+Lord Varys,Meryn Trant
+Lord Varys,High Septon
+Bronn,Grand Maester Pycelle
+Bronn,Grey Worm
+Bronn,Meryn Trant
+Bronn,High Septon
+Grand Maester Pycelle,Grey Worm
+Grand Maester Pycelle,Meryn Trant
+Grand Maester Pycelle,High Septon
+Grey Worm,Meryn Trant
+Grey Worm,High Septon
+Meryn Trant,High Septon

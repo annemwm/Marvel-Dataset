@@ -1,0 +1,137 @@
+NAME 1,NAME 2
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Gendry
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Beric Dondarrion
+Tyrion Lannister,Thoros of Myr
+Tyrion Lannister,Benjen Stark
+Tyrion Lannister,The Night King
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Maester Wolkan
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Beric Dondarrion
+Daenerys Targaryen,Thoros of Myr
+Daenerys Targaryen,Benjen Stark
+Daenerys Targaryen,The Night King
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Maester Wolkan
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Brienne of Tarth
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Tormund Giantsbane
+Jon Snow,Gendry
+Jon Snow,Jorah Mormont
+Jon Snow,Beric Dondarrion
+Jon Snow,Thoros of Myr
+Jon Snow,Benjen Stark
+Jon Snow,The Night King
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Davos Seaworth
+Jon Snow,Maester Wolkan
+Sansa Stark,Arya Stark
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Gendry
+Sansa Stark,Jorah Mormont
+Sansa Stark,Beric Dondarrion
+Sansa Stark,Thoros of Myr
+Sansa Stark,Benjen Stark
+Sansa Stark,The Night King
+Sansa Stark,Petyr 'Littlefinger' Baelish
+Sansa Stark,Davos Seaworth
+Sansa Stark,Maester Wolkan
+Arya Stark,Brienne of Tarth
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Tormund Giantsbane
+Arya Stark,Gendry
+Arya Stark,Jorah Mormont
+Arya Stark,Beric Dondarrion
+Arya Stark,Thoros of Myr
+Arya Stark,Benjen Stark
+Arya Stark,The Night King
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Davos Seaworth
+Arya Stark,Maester Wolkan
+Brienne of Tarth,Sandor 'The Hound' Clegane
+Brienne of Tarth,Tormund Giantsbane
+Brienne of Tarth,Gendry
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Beric Dondarrion
+Brienne of Tarth,Thoros of Myr
+Brienne of Tarth,Benjen Stark
+Brienne of Tarth,The Night King
+Brienne of Tarth,Petyr 'Littlefinger' Baelish
+Brienne of Tarth,Davos Seaworth
+Brienne of Tarth,Maester Wolkan
+Sandor 'The Hound' Clegane,Tormund Giantsbane
+Sandor 'The Hound' Clegane,Gendry
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Beric Dondarrion
+Sandor 'The Hound' Clegane,Thoros of Myr
+Sandor 'The Hound' Clegane,Benjen Stark
+Sandor 'The Hound' Clegane,The Night King
+Sandor 'The Hound' Clegane,Petyr 'Littlefinger' Baelish
+Sandor 'The Hound' Clegane,Davos Seaworth
+Sandor 'The Hound' Clegane,Maester Wolkan
+Tormund Giantsbane,Gendry
+Tormund Giantsbane,Jorah Mormont
+Tormund Giantsbane,Beric Dondarrion
+Tormund Giantsbane,Thoros of Myr
+Tormund Giantsbane,Benjen Stark
+Tormund Giantsbane,The Night King
+Tormund Giantsbane,Petyr 'Littlefinger' Baelish
+Tormund Giantsbane,Davos Seaworth
+Tormund Giantsbane,Maester Wolkan
+Gendry,Jorah Mormont
+Gendry,Beric Dondarrion
+Gendry,Thoros of Myr
+Gendry,Benjen Stark
+Gendry,The Night King
+Gendry,Petyr 'Littlefinger' Baelish
+Gendry,Davos Seaworth
+Gendry,Maester Wolkan
+Jorah Mormont,Beric Dondarrion
+Jorah Mormont,Thoros of Myr
+Jorah Mormont,Benjen Stark
+Jorah Mormont,The Night King
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Maester Wolkan
+Beric Dondarrion,Thoros of Myr
+Beric Dondarrion,Benjen Stark
+Beric Dondarrion,The Night King
+Beric Dondarrion,Petyr 'Littlefinger' Baelish
+Beric Dondarrion,Davos Seaworth
+Beric Dondarrion,Maester Wolkan
+Thoros of Myr,Benjen Stark
+Thoros of Myr,The Night King
+Thoros of Myr,Petyr 'Littlefinger' Baelish
+Thoros of Myr,Davos Seaworth
+Thoros of Myr,Maester Wolkan
+Benjen Stark,The Night King
+Benjen Stark,Petyr 'Littlefinger' Baelish
+Benjen Stark,Davos Seaworth
+Benjen Stark,Maester Wolkan
+The Night King,Petyr 'Littlefinger' Baelish
+The Night King,Davos Seaworth
+The Night King,Maester Wolkan
+Petyr 'Littlefinger' Baelish,Davos Seaworth
+Petyr 'Littlefinger' Baelish,Maester Wolkan
+Davos Seaworth,Maester Wolkan

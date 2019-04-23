@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,High Sparrow
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Ramsay Bolton
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Doran Martell
+Tyrion Lannister,Areo Hotah
+Tyrion Lannister,The Waif
+Tyrion Lannister,Obara Sand
+Tyrion Lannister,Tyene Sand
+Tyrion Lannister,Nymeria Sand
+Tyrion Lannister,Septa Unella
+Tyrion Lannister,Trystane Martell
+Tyrion Lannister,Myranda
+Tyrion Lannister,Khal Moro
+Tyrion Lannister,Aggo
+Tyrion Lannister,Qhono
+Tyrion Lannister,Zanrush
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Olly
+Tyrion Lannister,Gregor Clegane
+Tyrion Lannister,Maester Wolkan
+Tyrion Lannister,Bernadette
+Tyrion Lannister,Othell Yarwyck
+Tyrion Lannister,Bowen Marsh
+Tyrion Lannister,Maester Caleotte
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Melisandre
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Lord Varys
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,High Sparrow
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Ramsay Bolton
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Doran Martell
+Jaime Lannister,Areo Hotah
+Jaime Lannister,The Waif
+Jaime Lannister,Obara Sand
+Jaime Lannister,Tyene Sand
+Jaime Lannister,Nymeria Sand
+Jaime Lannister,Septa Unella
+Jaime Lannister,Trystane Martell
+Jaime Lannister,Myranda
+Jaime Lannister,Khal Moro
+Jaime Lannister,Aggo
+Jaime Lannister,Qhono
+Jaime Lannister,Zanrush
+Jaime Lannister,Alliser Thorne
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Olly
+Jaime Lannister,Gregor Clegane
+Jaime Lannister,Maester Wolkan
+Jaime Lannister,Bernadette
+Jaime Lannister,Othell Yarwyck
+Jaime Lannister,Bowen Marsh
+Jaime Lannister,Maester Caleotte
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Melisandre
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Ellaria Sand
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Lord Varys
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,High Sparrow
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Ramsay Bolton
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Doran Martell
+Cersei Lannister,Areo Hotah
+Cersei Lannister,The Waif
+Cersei Lannister,Obara Sand
+Cersei Lannister,Tyene Sand
+Cersei Lannister,Nymeria Sand
+Cersei Lannister,Septa Unella
+Cersei Lannister,Trystane Martell
+Cersei Lannister,Myranda
+Cersei Lannister,Khal Moro
+Cersei Lannister,Aggo
+Cersei Lannister,Qhono
+Cersei Lannister,Zanrush
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Olly
+Cersei Lannister,Gregor Clegane
+Cersei Lannister,Maester Wolkan
+Cersei Lannister,Bernadette
+Cersei Lannister,Othell Yarwyck
+Cersei Lannister,Bowen Marsh
+Cersei Lannister,Maester Caleotte
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Ellaria Sand
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,High Sparrow
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Ramsay Bolton
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Doran Martell
+Daenerys Targaryen,Areo Hotah
+Daenerys Targaryen,The Waif
+Daenerys Targaryen,Obara Sand
+Daenerys Targaryen,Tyene Sand
+Daenerys Targaryen,Nymeria Sand
+Daenerys Targaryen,Septa Unella
+Daenerys Targaryen,Trystane Martell
+Daenerys Targaryen,Myranda
+Daenerys Targaryen,Khal Moro
+Daenerys Targaryen,Aggo
+Daenerys Targaryen,Qhono
+Daenerys Targaryen,Zanrush
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Olly
+Daenerys Targaryen,Gregor Clegane
+Daenerys Targaryen,Maester Wolkan
+Daenerys Targaryen,Bernadette
+Daenerys Targaryen,Othell Yarwyck
+Daenerys Targaryen,Bowen Marsh
+Daenerys Targaryen,Maester Caleotte
+Jon Snow,Davos Seaworth
+Jon Snow,Melisandre
+Jon Snow,Margaery Tyrell
+Jon Snow,Ellaria Sand
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Lord Varys
+Jon Snow,Theon Greyjoy
+Jon Snow,Brienne of Tarth
+Jon Snow,High Sparrow
+Jon Snow,Daario Naharis
+Jon Snow,Roose Bolton
+Jon Snow,Ramsay Bolton
+Jon Snow,Jorah Mormont
+Jon Snow,Eddison Tollett
+Jon Snow,Doran Martell
+Jon Snow,Areo Hotah
+Jon Snow,The Waif
+Jon Snow,Obara Sand
+Jon Snow,Tyene Sand
+Jon Snow,Nymeria Sand
+Jon Snow,Septa Unella
+Jon Snow,Trystane Martell
+Jon Snow,Myranda
+Jon Snow,Khal Moro
+Jon Snow,Aggo
+Jon Snow,Qhono
+Jon Snow,Zanrush
+Jon Snow,Alliser Thorne
+Jon Snow,Podrick Payne
+Jon Snow,Olly
+Jon Snow,Gregor Clegane
+Jon Snow,Maester Wolkan
+Jon Snow,Bernadette
+Jon Snow,Othell Yarwyck
+Jon Snow,Bowen Marsh
+Jon Snow,Maester Caleotte
+Davos Seaworth,Melisandre
+Davos Seaworth,Margaery Tyrell
+Davos Seaworth,Ellaria Sand
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Arya Stark
+Davos Seaworth,Lord Varys
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,High Sparrow
+Davos Seaworth,Daario Naharis
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Ramsay Bolton
+Davos Seaworth,Jorah Mormont
+Davos Seaworth,Eddison Tollett
+Davos Seaworth,Doran Martell
+Davos Seaworth,Areo Hotah
+Davos Seaworth,The Waif
+Davos Seaworth,Obara Sand
+Davos Seaworth,Tyene Sand
+Davos Seaworth,Nymeria Sand
+Davos Seaworth,Septa Unella
+Davos Seaworth,Trystane Martell
+Davos Seaworth,Myranda
+Davos Seaworth,Khal Moro
+Davos Seaworth,Aggo
+Davos Seaworth,Qhono
+Davos Seaworth,Zanrush
+Davos Seaworth,Alliser Thorne
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Olly
+Davos Seaworth,Gregor Clegane
+Davos Seaworth,Maester Wolkan
+Davos Seaworth,Bernadette
+Davos Seaworth,Othell Yarwyck
+Davos Seaworth,Bowen Marsh
+Davos Seaworth,Maester Caleotte
+Melisandre,Margaery Tyrell
+Melisandre,Ellaria Sand
+Melisandre,Sansa Stark
+Melisandre,Arya Stark
+Melisandre,Lord Varys
+Melisandre,Theon Greyjoy
+Melisandre,Brienne of Tarth
+Melisandre,High Sparrow
+Melisandre,Daario Naharis
+Melisandre,Roose Bolton
+Melisandre,Ramsay Bolton
+Melisandre,Jorah Mormont
+Melisandre,Eddison Tollett
+Melisandre,Doran Martell
+Melisandre,Areo Hotah
+Melisandre,The Waif
+Melisandre,Obara Sand
+Melisandre,Tyene Sand
+Melisandre,Nymeria Sand
+Melisandre,Septa Unella
+Melisandre,Trystane Martell
+Melisandre,Myranda
+Melisandre,Khal Moro
+Melisandre,Aggo
+Melisandre,Qhono
+Melisandre,Zanrush
+Melisandre,Alliser Thorne
+Melisandre,Podrick Payne
+Melisandre,Olly
+Melisandre,Gregor Clegane
+Melisandre,Maester Wolkan
+Melisandre,Bernadette
+Melisandre,Othell Yarwyck
+Melisandre,Bowen Marsh
+Melisandre,Maester Caleotte
+Margaery Tyrell,Ellaria Sand
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Arya Stark
+Margaery Tyrell,Lord Varys
+Margaery Tyrell,Theon Greyjoy
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,High Sparrow
+Margaery Tyrell,Daario Naharis
+Margaery Tyrell,Roose Bolton
+Margaery Tyrell,Ramsay Bolton
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,Eddison Tollett
+Margaery Tyrell,Doran Martell
+Margaery Tyrell,Areo Hotah
+Margaery Tyrell,The Waif
+Margaery Tyrell,Obara Sand
+Margaery Tyrell,Tyene Sand
+Margaery Tyrell,Nymeria Sand
+Margaery Tyrell,Septa Unella
+Margaery Tyrell,Trystane Martell
+Margaery Tyrell,Myranda
+Margaery Tyrell,Khal Moro
+Margaery Tyrell,Aggo
+Margaery Tyrell,Qhono
+Margaery Tyrell,Zanrush
+Margaery Tyrell,Alliser Thorne
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Olly
+Margaery Tyrell,Gregor Clegane
+Margaery Tyrell,Maester Wolkan
+Margaery Tyrell,Bernadette
+Margaery Tyrell,Othell Yarwyck
+Margaery Tyrell,Bowen Marsh
+Margaery Tyrell,Maester Caleotte
+Ellaria Sand,Sansa Stark
+Ellaria Sand,Arya Stark
+Ellaria Sand,Lord Varys
+Ellaria Sand,Theon Greyjoy
+Ellaria Sand,Brienne of Tarth
+Ellaria Sand,High Sparrow
+Ellaria Sand,Daario Naharis
+Ellaria Sand,Roose Bolton
+Ellaria Sand,Ramsay Bolton
+Ellaria Sand,Jorah Mormont
+Ellaria Sand,Eddison Tollett
+Ellaria Sand,Doran Martell
+Ellaria Sand,Areo Hotah
+Ellaria Sand,The Waif
+Ellaria Sand,Obara Sand
+Ellaria Sand,Tyene Sand
+Ellaria Sand,Nymeria Sand
+Ellaria Sand,Septa Unella
+Ellaria Sand,Trystane Martell
+Ellaria Sand,Myranda
+Ellaria Sand,Khal Moro
+Ellaria Sand,Aggo
+Ellaria Sand,Qhono
+Ellaria Sand,Zanrush
+Ellaria Sand,Alliser Thorne
+Ellaria Sand,Podrick Payne
+Ellaria Sand,Olly
+Ellaria Sand,Gregor Clegane
+Ellaria Sand,Maester Wolkan
+Ellaria Sand,Bernadette
+Ellaria Sand,Othell Yarwyck
+Ellaria Sand,Bowen Marsh
+Ellaria Sand,Maester Caleotte
+Sansa Stark,Arya Stark
+Sansa Stark,Lord Varys
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Brienne of Tarth
+Sansa Stark,High Sparrow
+Sansa Stark,Daario Naharis
+Sansa Stark,Roose Bolton
+Sansa Stark,Ramsay Bolton
+Sansa Stark,Jorah Mormont
+Sansa Stark,Eddison Tollett
+Sansa Stark,Doran Martell
+Sansa Stark,Areo Hotah
+Sansa Stark,The Waif
+Sansa Stark,Obara Sand
+Sansa Stark,Tyene Sand
+Sansa Stark,Nymeria Sand
+Sansa Stark,Septa Unella
+Sansa Stark,Trystane Martell
+Sansa Stark,Myranda
+Sansa Stark,Khal Moro
+Sansa Stark,Aggo
+Sansa Stark,Qhono
+Sansa Stark,Zanrush
+Sansa Stark,Alliser Thorne
+Sansa Stark,Podrick Payne
+Sansa Stark,Olly
+Sansa Stark,Gregor Clegane
+Sansa Stark,Maester Wolkan
+Sansa Stark,Bernadette
+Sansa Stark,Othell Yarwyck
+Sansa Stark,Bowen Marsh
+Sansa Stark,Maester Caleotte
+Arya Stark,Lord Varys
+Arya Stark,Theon Greyjoy
+Arya Stark,Brienne of Tarth
+Arya Stark,High Sparrow
+Arya Stark,Daario Naharis
+Arya Stark,Roose Bolton
+Arya Stark,Ramsay Bolton
+Arya Stark,Jorah Mormont
+Arya Stark,Eddison Tollett
+Arya Stark,Doran Martell
+Arya Stark,Areo Hotah
+Arya Stark,The Waif
+Arya Stark,Obara Sand
+Arya Stark,Tyene Sand
+Arya Stark,Nymeria Sand
+Arya Stark,Septa Unella
+Arya Stark,Trystane Martell
+Arya Stark,Myranda
+Arya Stark,Khal Moro
+Arya Stark,Aggo
+Arya Stark,Qhono
+Arya Stark,Zanrush
+Arya Stark,Alliser Thorne
+Arya Stark,Podrick Payne
+Arya Stark,Olly
+Arya Stark,Gregor Clegane
+Arya Stark,Maester Wolkan
+Arya Stark,Bernadette
+Arya Stark,Othell Yarwyck
+Arya Stark,Bowen Marsh
+Arya Stark,Maester Caleotte
+Lord Varys,Theon Greyjoy
+Lord Varys,Brienne of Tarth
+Lord Varys,High Sparrow
+Lord Varys,Daario Naharis
+Lord Varys,Roose Bolton
+Lord Varys,Ramsay Bolton
+Lord Varys,Jorah Mormont
+Lord Varys,Eddison Tollett
+Lord Varys,Doran Martell
+Lord Varys,Areo Hotah
+Lord Varys,The Waif
+Lord Varys,Obara Sand
+Lord Varys,Tyene Sand
+Lord Varys,Nymeria Sand
+Lord Varys,Septa Unella
+Lord Varys,Trystane Martell
+Lord Varys,Myranda
+Lord Varys,Khal Moro
+Lord Varys,Aggo
+Lord Varys,Qhono
+Lord Varys,Zanrush
+Lord Varys,Alliser Thorne
+Lord Varys,Podrick Payne
+Lord Varys,Olly
+Lord Varys,Gregor Clegane
+Lord Varys,Maester Wolkan
+Lord Varys,Bernadette
+Lord Varys,Othell Yarwyck
+Lord Varys,Bowen Marsh
+Lord Varys,Maester Caleotte
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,High Sparrow
+Theon Greyjoy,Daario Naharis
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Ramsay Bolton
+Theon Greyjoy,Jorah Mormont
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,Doran Martell
+Theon Greyjoy,Areo Hotah
+Theon Greyjoy,The Waif
+Theon Greyjoy,Obara Sand
+Theon Greyjoy,Tyene Sand
+Theon Greyjoy,Nymeria Sand
+Theon Greyjoy,Septa Unella
+Theon Greyjoy,Trystane Martell
+Theon Greyjoy,Myranda
+Theon Greyjoy,Khal Moro
+Theon Greyjoy,Aggo
+Theon Greyjoy,Qhono
+Theon Greyjoy,Zanrush
+Theon Greyjoy,Alliser Thorne
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Olly
+Theon Greyjoy,Gregor Clegane
+Theon Greyjoy,Maester Wolkan
+Theon Greyjoy,Bernadette
+Theon Greyjoy,Othell Yarwyck
+Theon Greyjoy,Bowen Marsh
+Theon Greyjoy,Maester Caleotte
+Brienne of Tarth,High Sparrow
+Brienne of Tarth,Daario Naharis
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Ramsay Bolton
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,Doran Martell
+Brienne of Tarth,Areo Hotah
+Brienne of Tarth,The Waif
+Brienne of Tarth,Obara Sand
+Brienne of Tarth,Tyene Sand
+Brienne of Tarth,Nymeria Sand
+Brienne of Tarth,Septa Unella
+Brienne of Tarth,Trystane Martell
+Brienne of Tarth,Myranda
+Brienne of Tarth,Khal Moro
+Brienne of Tarth,Aggo
+Brienne of Tarth,Qhono
+Brienne of Tarth,Zanrush
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Olly
+Brienne of Tarth,Gregor Clegane
+Brienne of Tarth,Maester Wolkan
+Brienne of Tarth,Bernadette
+Brienne of Tarth,Othell Yarwyck
+Brienne of Tarth,Bowen Marsh
+Brienne of Tarth,Maester Caleotte
+High Sparrow,Daario Naharis
+High Sparrow,Roose Bolton
+High Sparrow,Ramsay Bolton
+High Sparrow,Jorah Mormont
+High Sparrow,Eddison Tollett
+High Sparrow,Doran Martell
+High Sparrow,Areo Hotah
+High Sparrow,The Waif
+High Sparrow,Obara Sand
+High Sparrow,Tyene Sand
+High Sparrow,Nymeria Sand
+High Sparrow,Septa Unella
+High Sparrow,Trystane Martell
+High Sparrow,Myranda
+High Sparrow,Khal Moro
+High Sparrow,Aggo
+High Sparrow,Qhono
+High Sparrow,Zanrush
+High Sparrow,Alliser Thorne
+High Sparrow,Podrick Payne
+High Sparrow,Olly
+High Sparrow,Gregor Clegane
+High Sparrow,Maester Wolkan
+High Sparrow,Bernadette
+High Sparrow,Othell Yarwyck
+High Sparrow,Bowen Marsh
+High Sparrow,Maester Caleotte
+Daario Naharis,Roose Bolton
+Daario Naharis,Ramsay Bolton
+Daario Naharis,Jorah Mormont
+Daario Naharis,Eddison Tollett
+Daario Naharis,Doran Martell
+Daario Naharis,Areo Hotah
+Daario Naharis,The Waif
+Daario Naharis,Obara Sand
+Daario Naharis,Tyene Sand
+Daario Naharis,Nymeria Sand
+Daario Naharis,Septa Unella
+Daario Naharis,Trystane Martell
+Daario Naharis,Myranda
+Daario Naharis,Khal Moro
+Daario Naharis,Aggo
+Daario Naharis,Qhono
+Daario Naharis,Zanrush
+Daario Naharis,Alliser Thorne
+Daario Naharis,Podrick Payne
+Daario Naharis,Olly
+Daario Naharis,Gregor Clegane
+Daario Naharis,Maester Wolkan
+Daario Naharis,Bernadette
+Daario Naharis,Othell Yarwyck
+Daario Naharis,Bowen Marsh
+Daario Naharis,Maester Caleotte
+Roose Bolton,Ramsay Bolton
+Roose Bolton,Jorah Mormont
+Roose Bolton,Eddison Tollett
+Roose Bolton,Doran Martell
+Roose Bolton,Areo Hotah
+Roose Bolton,The Waif
+Roose Bolton,Obara Sand
+Roose Bolton,Tyene Sand
+Roose Bolton,Nymeria Sand
+Roose Bolton,Septa Unella
+Roose Bolton,Trystane Martell
+Roose Bolton,Myranda
+Roose Bolton,Khal Moro
+Roose Bolton,Aggo
+Roose Bolton,Qhono
+Roose Bolton,Zanrush
+Roose Bolton,Alliser Thorne
+Roose Bolton,Podrick Payne
+Roose Bolton,Olly
+Roose Bolton,Gregor Clegane
+Roose Bolton,Maester Wolkan
+Roose Bolton,Bernadette
+Roose Bolton,Othell Yarwyck
+Roose Bolton,Bowen Marsh
+Roose Bolton,Maester Caleotte
+Ramsay Bolton,Jorah Mormont
+Ramsay Bolton,Eddison Tollett
+Ramsay Bolton,Doran Martell
+Ramsay Bolton,Areo Hotah
+Ramsay Bolton,The Waif
+Ramsay Bolton,Obara Sand
+Ramsay Bolton,Tyene Sand
+Ramsay Bolton,Nymeria Sand
+Ramsay Bolton,Septa Unella
+Ramsay Bolton,Trystane Martell
+Ramsay Bolton,Myranda
+Ramsay Bolton,Khal Moro
+Ramsay Bolton,Aggo
+Ramsay Bolton,Qhono
+Ramsay Bolton,Zanrush
+Ramsay Bolton,Alliser Thorne
+Ramsay Bolton,Podrick Payne
+Ramsay Bolton,Olly
+Ramsay Bolton,Gregor Clegane
+Ramsay Bolton,Maester Wolkan
+Ramsay Bolton,Bernadette
+Ramsay Bolton,Othell Yarwyck
+Ramsay Bolton,Bowen Marsh
+Ramsay Bolton,Maester Caleotte
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Doran Martell
+Jorah Mormont,Areo Hotah
+Jorah Mormont,The Waif
+Jorah Mormont,Obara Sand
+Jorah Mormont,Tyene Sand
+Jorah Mormont,Nymeria Sand
+Jorah Mormont,Septa Unella
+Jorah Mormont,Trystane Martell
+Jorah Mormont,Myranda
+Jorah Mormont,Khal Moro
+Jorah Mormont,Aggo
+Jorah Mormont,Qhono
+Jorah Mormont,Zanrush
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Olly
+Jorah Mormont,Gregor Clegane
+Jorah Mormont,Maester Wolkan
+Jorah Mormont,Bernadette
+Jorah Mormont,Othell Yarwyck
+Jorah Mormont,Bowen Marsh
+Jorah Mormont,Maester Caleotte
+Eddison Tollett,Doran Martell
+Eddison Tollett,Areo Hotah
+Eddison Tollett,The Waif
+Eddison Tollett,Obara Sand
+Eddison Tollett,Tyene Sand
+Eddison Tollett,Nymeria Sand
+Eddison Tollett,Septa Unella
+Eddison Tollett,Trystane Martell
+Eddison Tollett,Myranda
+Eddison Tollett,Khal Moro
+Eddison Tollett,Aggo
+Eddison Tollett,Qhono
+Eddison Tollett,Zanrush
+Eddison Tollett,Alliser Thorne
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Olly
+Eddison Tollett,Gregor Clegane
+Eddison Tollett,Maester Wolkan
+Eddison Tollett,Bernadette
+Eddison Tollett,Othell Yarwyck
+Eddison Tollett,Bowen Marsh
+Eddison Tollett,Maester Caleotte
+Doran Martell,Areo Hotah
+Doran Martell,The Waif
+Doran Martell,Obara Sand
+Doran Martell,Tyene Sand
+Doran Martell,Nymeria Sand
+Doran Martell,Septa Unella
+Doran Martell,Trystane Martell
+Doran Martell,Myranda
+Doran Martell,Khal Moro
+Doran Martell,Aggo
+Doran Martell,Qhono
+Doran Martell,Zanrush
+Doran Martell,Alliser Thorne
+Doran Martell,Podrick Payne
+Doran Martell,Olly
+Doran Martell,Gregor Clegane
+Doran Martell,Maester Wolkan
+Doran Martell,Bernadette
+Doran Martell,Othell Yarwyck
+Doran Martell,Bowen Marsh
+Doran Martell,Maester Caleotte
+Areo Hotah,The Waif
+Areo Hotah,Obara Sand
+Areo Hotah,Tyene Sand
+Areo Hotah,Nymeria Sand
+Areo Hotah,Septa Unella
+Areo Hotah,Trystane Martell
+Areo Hotah,Myranda
+Areo Hotah,Khal Moro
+Areo Hotah,Aggo
+Areo Hotah,Qhono
+Areo Hotah,Zanrush
+Areo Hotah,Alliser Thorne
+Areo Hotah,Podrick Payne
+Areo Hotah,Olly
+Areo Hotah,Gregor Clegane
+Areo Hotah,Maester Wolkan
+Areo Hotah,Bernadette
+Areo Hotah,Othell Yarwyck
+Areo Hotah,Bowen Marsh
+Areo Hotah,Maester Caleotte
+The Waif,Obara Sand
+The Waif,Tyene Sand
+The Waif,Nymeria Sand
+The Waif,Septa Unella
+The Waif,Trystane Martell
+The Waif,Myranda
+The Waif,Khal Moro
+The Waif,Aggo
+The Waif,Qhono
+The Waif,Zanrush
+The Waif,Alliser Thorne
+The Waif,Podrick Payne
+The Waif,Olly
+The Waif,Gregor Clegane
+The Waif,Maester Wolkan
+The Waif,Bernadette
+The Waif,Othell Yarwyck
+The Waif,Bowen Marsh
+The Waif,Maester Caleotte
+Obara Sand,Tyene Sand
+Obara Sand,Nymeria Sand
+Obara Sand,Septa Unella
+Obara Sand,Trystane Martell
+Obara Sand,Myranda
+Obara Sand,Khal Moro
+Obara Sand,Aggo
+Obara Sand,Qhono
+Obara Sand,Zanrush
+Obara Sand,Alliser Thorne
+Obara Sand,Podrick Payne
+Obara Sand,Olly
+Obara Sand,Gregor Clegane
+Obara Sand,Maester Wolkan
+Obara Sand,Bernadette
+Obara Sand,Othell Yarwyck
+Obara Sand,Bowen Marsh
+Obara Sand,Maester Caleotte
+Tyene Sand,Nymeria Sand
+Tyene Sand,Septa Unella
+Tyene Sand,Trystane Martell
+Tyene Sand,Myranda
+Tyene Sand,Khal Moro
+Tyene Sand,Aggo
+Tyene Sand,Qhono
+Tyene Sand,Zanrush
+Tyene Sand,Alliser Thorne
+Tyene Sand,Podrick Payne
+Tyene Sand,Olly
+Tyene Sand,Gregor Clegane
+Tyene Sand,Maester Wolkan
+Tyene Sand,Bernadette
+Tyene Sand,Othell Yarwyck
+Tyene Sand,Bowen Marsh
+Tyene Sand,Maester Caleotte
+Nymeria Sand,Septa Unella
+Nymeria Sand,Trystane Martell
+Nymeria Sand,Myranda
+Nymeria Sand,Khal Moro
+Nymeria Sand,Aggo
+Nymeria Sand,Qhono
+Nymeria Sand,Zanrush
+Nymeria Sand,Alliser Thorne
+Nymeria Sand,Podrick Payne
+Nymeria Sand,Olly
+Nymeria Sand,Gregor Clegane
+Nymeria Sand,Maester Wolkan
+Nymeria Sand,Bernadette
+Nymeria Sand,Othell Yarwyck
+Nymeria Sand,Bowen Marsh
+Nymeria Sand,Maester Caleotte
+Septa Unella,Trystane Martell
+Septa Unella,Myranda
+Septa Unella,Khal Moro
+Septa Unella,Aggo
+Septa Unella,Qhono
+Septa Unella,Zanrush
+Septa Unella,Alliser Thorne
+Septa Unella,Podrick Payne
+Septa Unella,Olly
+Septa Unella,Gregor Clegane
+Septa Unella,Maester Wolkan
+Septa Unella,Bernadette
+Septa Unella,Othell Yarwyck
+Septa Unella,Bowen Marsh
+Septa Unella,Maester Caleotte
+Trystane Martell,Myranda
+Trystane Martell,Khal Moro
+Trystane Martell,Aggo
+Trystane Martell,Qhono
+Trystane Martell,Zanrush
+Trystane Martell,Alliser Thorne
+Trystane Martell,Podrick Payne
+Trystane Martell,Olly
+Trystane Martell,Gregor Clegane
+Trystane Martell,Maester Wolkan
+Trystane Martell,Bernadette
+Trystane Martell,Othell Yarwyck
+Trystane Martell,Bowen Marsh
+Trystane Martell,Maester Caleotte
+Myranda,Khal Moro
+Myranda,Aggo
+Myranda,Qhono
+Myranda,Zanrush
+Myranda,Alliser Thorne
+Myranda,Podrick Payne
+Myranda,Olly
+Myranda,Gregor Clegane
+Myranda,Maester Wolkan
+Myranda,Bernadette
+Myranda,Othell Yarwyck
+Myranda,Bowen Marsh
+Myranda,Maester Caleotte
+Khal Moro,Aggo
+Khal Moro,Qhono
+Khal Moro,Zanrush
+Khal Moro,Alliser Thorne
+Khal Moro,Podrick Payne
+Khal Moro,Olly
+Khal Moro,Gregor Clegane
+Khal Moro,Maester Wolkan
+Khal Moro,Bernadette
+Khal Moro,Othell Yarwyck
+Khal Moro,Bowen Marsh
+Khal Moro,Maester Caleotte
+Aggo,Qhono
+Aggo,Zanrush
+Aggo,Alliser Thorne
+Aggo,Podrick Payne
+Aggo,Olly
+Aggo,Gregor Clegane
+Aggo,Maester Wolkan
+Aggo,Bernadette
+Aggo,Othell Yarwyck
+Aggo,Bowen Marsh
+Aggo,Maester Caleotte
+Qhono,Zanrush
+Qhono,Alliser Thorne
+Qhono,Podrick Payne
+Qhono,Olly
+Qhono,Gregor Clegane
+Qhono,Maester Wolkan
+Qhono,Bernadette
+Qhono,Othell Yarwyck
+Qhono,Bowen Marsh
+Qhono,Maester Caleotte
+Zanrush,Alliser Thorne
+Zanrush,Podrick Payne
+Zanrush,Olly
+Zanrush,Gregor Clegane
+Zanrush,Maester Wolkan
+Zanrush,Bernadette
+Zanrush,Othell Yarwyck
+Zanrush,Bowen Marsh
+Zanrush,Maester Caleotte
+Alliser Thorne,Podrick Payne
+Alliser Thorne,Olly
+Alliser Thorne,Gregor Clegane
+Alliser Thorne,Maester Wolkan
+Alliser Thorne,Bernadette
+Alliser Thorne,Othell Yarwyck
+Alliser Thorne,Bowen Marsh
+Alliser Thorne,Maester Caleotte
+Podrick Payne,Olly
+Podrick Payne,Gregor Clegane
+Podrick Payne,Maester Wolkan
+Podrick Payne,Bernadette
+Podrick Payne,Othell Yarwyck
+Podrick Payne,Bowen Marsh
+Podrick Payne,Maester Caleotte
+Olly,Gregor Clegane
+Olly,Maester Wolkan
+Olly,Bernadette
+Olly,Othell Yarwyck
+Olly,Bowen Marsh
+Olly,Maester Caleotte
+Gregor Clegane,Maester Wolkan
+Gregor Clegane,Bernadette
+Gregor Clegane,Othell Yarwyck
+Gregor Clegane,Bowen Marsh
+Gregor Clegane,Maester Caleotte
+Maester Wolkan,Bernadette
+Maester Wolkan,Othell Yarwyck
+Maester Wolkan,Bowen Marsh
+Maester Wolkan,Maester Caleotte
+Bernadette,Othell Yarwyck
+Bernadette,Bowen Marsh
+Bernadette,Maester Caleotte
+Othell Yarwyck,Bowen Marsh
+Othell Yarwyck,Maester Caleotte
+Bowen Marsh,Maester Caleotte

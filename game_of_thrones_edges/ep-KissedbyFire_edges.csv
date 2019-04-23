@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Talisa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Gendry
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Thoros of Myr
+Tyrion Lannister,Beric Dondarrion
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Edmure Tully
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Rickard Karstark
+Tyrion Lannister,Shireen Baratheon
+Tyrion Lannister,Missandei
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Anguy
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Olyvar
+Tyrion Lannister,Martyn Lannister
+Tyrion Lannister,Willem Lannister
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Orell
+Tyrion Lannister,Brynden 'Blackfish' Tully
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Locke
+Tyrion Lannister,Selyse Baratheon
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Robb Stark
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Catelyn Stark
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Talisa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Gendry
+Jaime Lannister,Ygritte
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Olenna Tyrell
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Thoros of Myr
+Jaime Lannister,Beric Dondarrion
+Jaime Lannister,Qyburn
+Jaime Lannister,Edmure Tully
+Jaime Lannister,Loras Tyrell
+Jaime Lannister,Rickard Karstark
+Jaime Lannister,Shireen Baratheon
+Jaime Lannister,Missandei
+Jaime Lannister,Grey Worm
+Jaime Lannister,Anguy
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Olyvar
+Jaime Lannister,Martyn Lannister
+Jaime Lannister,Willem Lannister
+Jaime Lannister,Jon Snow
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Orell
+Jaime Lannister,Brynden 'Blackfish' Tully
+Jaime Lannister,Tormund Giantsbane
+Jaime Lannister,Locke
+Jaime Lannister,Selyse Baratheon
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Robb Stark
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Talisa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Gendry
+Cersei Lannister,Ygritte
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Thoros of Myr
+Cersei Lannister,Beric Dondarrion
+Cersei Lannister,Qyburn
+Cersei Lannister,Edmure Tully
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Rickard Karstark
+Cersei Lannister,Shireen Baratheon
+Cersei Lannister,Missandei
+Cersei Lannister,Grey Worm
+Cersei Lannister,Anguy
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Olyvar
+Cersei Lannister,Martyn Lannister
+Cersei Lannister,Willem Lannister
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Orell
+Cersei Lannister,Brynden 'Blackfish' Tully
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Locke
+Cersei Lannister,Selyse Baratheon
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Catelyn Stark
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Talisa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Olenna Tyrell
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Thoros of Myr
+Daenerys Targaryen,Beric Dondarrion
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Edmure Tully
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Rickard Karstark
+Daenerys Targaryen,Shireen Baratheon
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Anguy
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Olyvar
+Daenerys Targaryen,Martyn Lannister
+Daenerys Targaryen,Willem Lannister
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Orell
+Daenerys Targaryen,Brynden 'Blackfish' Tully
+Daenerys Targaryen,Tormund Giantsbane
+Daenerys Targaryen,Locke
+Daenerys Targaryen,Selyse Baratheon
+Robb Stark,Jorah Mormont
+Robb Stark,Catelyn Stark
+Robb Stark,Tywin Lannister
+Robb Stark,Davos Seaworth
+Robb Stark,Stannis Baratheon
+Robb Stark,Talisa Stark
+Robb Stark,Arya Stark
+Robb Stark,Gendry
+Robb Stark,Ygritte
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Olenna Tyrell
+Robb Stark,Brienne of Tarth
+Robb Stark,Barristan Selmy
+Robb Stark,Roose Bolton
+Robb Stark,Thoros of Myr
+Robb Stark,Beric Dondarrion
+Robb Stark,Qyburn
+Robb Stark,Edmure Tully
+Robb Stark,Loras Tyrell
+Robb Stark,Rickard Karstark
+Robb Stark,Shireen Baratheon
+Robb Stark,Missandei
+Robb Stark,Grey Worm
+Robb Stark,Anguy
+Robb Stark,Podrick Payne
+Robb Stark,Olyvar
+Robb Stark,Martyn Lannister
+Robb Stark,Willem Lannister
+Robb Stark,Jon Snow
+Robb Stark,Petyr 'Littlefinger' Baelish
+Robb Stark,Margaery Tyrell
+Robb Stark,Sansa Stark
+Robb Stark,Orell
+Robb Stark,Brynden 'Blackfish' Tully
+Robb Stark,Tormund Giantsbane
+Robb Stark,Locke
+Robb Stark,Selyse Baratheon
+Jorah Mormont,Catelyn Stark
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Stannis Baratheon
+Jorah Mormont,Talisa Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Gendry
+Jorah Mormont,Ygritte
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Olenna Tyrell
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Thoros of Myr
+Jorah Mormont,Beric Dondarrion
+Jorah Mormont,Qyburn
+Jorah Mormont,Edmure Tully
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Rickard Karstark
+Jorah Mormont,Shireen Baratheon
+Jorah Mormont,Missandei
+Jorah Mormont,Grey Worm
+Jorah Mormont,Anguy
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Olyvar
+Jorah Mormont,Martyn Lannister
+Jorah Mormont,Willem Lannister
+Jorah Mormont,Jon Snow
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Margaery Tyrell
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Orell
+Jorah Mormont,Brynden 'Blackfish' Tully
+Jorah Mormont,Tormund Giantsbane
+Jorah Mormont,Locke
+Jorah Mormont,Selyse Baratheon
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Davos Seaworth
+Catelyn Stark,Stannis Baratheon
+Catelyn Stark,Talisa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Gendry
+Catelyn Stark,Ygritte
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Olenna Tyrell
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Barristan Selmy
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Thoros of Myr
+Catelyn Stark,Beric Dondarrion
+Catelyn Stark,Qyburn
+Catelyn Stark,Edmure Tully
+Catelyn Stark,Loras Tyrell
+Catelyn Stark,Rickard Karstark
+Catelyn Stark,Shireen Baratheon
+Catelyn Stark,Missandei
+Catelyn Stark,Grey Worm
+Catelyn Stark,Anguy
+Catelyn Stark,Podrick Payne
+Catelyn Stark,Olyvar
+Catelyn Stark,Martyn Lannister
+Catelyn Stark,Willem Lannister
+Catelyn Stark,Jon Snow
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Margaery Tyrell
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Orell
+Catelyn Stark,Brynden 'Blackfish' Tully
+Catelyn Stark,Tormund Giantsbane
+Catelyn Stark,Locke
+Catelyn Stark,Selyse Baratheon
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Talisa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Gendry
+Tywin Lannister,Ygritte
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Olenna Tyrell
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Thoros of Myr
+Tywin Lannister,Beric Dondarrion
+Tywin Lannister,Qyburn
+Tywin Lannister,Edmure Tully
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Rickard Karstark
+Tywin Lannister,Shireen Baratheon
+Tywin Lannister,Missandei
+Tywin Lannister,Grey Worm
+Tywin Lannister,Anguy
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Olyvar
+Tywin Lannister,Martyn Lannister
+Tywin Lannister,Willem Lannister
+Tywin Lannister,Jon Snow
+Tywin Lannister,Petyr 'Littlefinger' Baelish
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Orell
+Tywin Lannister,Brynden 'Blackfish' Tully
+Tywin Lannister,Tormund Giantsbane
+Tywin Lannister,Locke
+Tywin Lannister,Selyse Baratheon
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Talisa Stark
+Davos Seaworth,Arya Stark
+Davos Seaworth,Gendry
+Davos Seaworth,Ygritte
+Davos Seaworth,Sandor 'The Hound' Clegane
+Davos Seaworth,Olenna Tyrell
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Barristan Selmy
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Thoros of Myr
+Davos Seaworth,Beric Dondarrion
+Davos Seaworth,Qyburn
+Davos Seaworth,Edmure Tully
+Davos Seaworth,Loras Tyrell
+Davos Seaworth,Rickard Karstark
+Davos Seaworth,Shireen Baratheon
+Davos Seaworth,Missandei
+Davos Seaworth,Grey Worm
+Davos Seaworth,Anguy
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Olyvar
+Davos Seaworth,Martyn Lannister
+Davos Seaworth,Willem Lannister
+Davos Seaworth,Jon Snow
+Davos Seaworth,Petyr 'Littlefinger' Baelish
+Davos Seaworth,Margaery Tyrell
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Orell
+Davos Seaworth,Brynden 'Blackfish' Tully
+Davos Seaworth,Tormund Giantsbane
+Davos Seaworth,Locke
+Davos Seaworth,Selyse Baratheon
+Stannis Baratheon,Talisa Stark
+Stannis Baratheon,Arya Stark
+Stannis Baratheon,Gendry
+Stannis Baratheon,Ygritte
+Stannis Baratheon,Sandor 'The Hound' Clegane
+Stannis Baratheon,Olenna Tyrell
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Barristan Selmy
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Thoros of Myr
+Stannis Baratheon,Beric Dondarrion
+Stannis Baratheon,Qyburn
+Stannis Baratheon,Edmure Tully
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Rickard Karstark
+Stannis Baratheon,Shireen Baratheon
+Stannis Baratheon,Missandei
+Stannis Baratheon,Grey Worm
+Stannis Baratheon,Anguy
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Olyvar
+Stannis Baratheon,Martyn Lannister
+Stannis Baratheon,Willem Lannister
+Stannis Baratheon,Jon Snow
+Stannis Baratheon,Petyr 'Littlefinger' Baelish
+Stannis Baratheon,Margaery Tyrell
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Orell
+Stannis Baratheon,Brynden 'Blackfish' Tully
+Stannis Baratheon,Tormund Giantsbane
+Stannis Baratheon,Locke
+Stannis Baratheon,Selyse Baratheon
+Talisa Stark,Arya Stark
+Talisa Stark,Gendry
+Talisa Stark,Ygritte
+Talisa Stark,Sandor 'The Hound' Clegane
+Talisa Stark,Olenna Tyrell
+Talisa Stark,Brienne of Tarth
+Talisa Stark,Barristan Selmy
+Talisa Stark,Roose Bolton
+Talisa Stark,Thoros of Myr
+Talisa Stark,Beric Dondarrion
+Talisa Stark,Qyburn
+Talisa Stark,Edmure Tully
+Talisa Stark,Loras Tyrell
+Talisa Stark,Rickard Karstark
+Talisa Stark,Shireen Baratheon
+Talisa Stark,Missandei
+Talisa Stark,Grey Worm
+Talisa Stark,Anguy
+Talisa Stark,Podrick Payne
+Talisa Stark,Olyvar
+Talisa Stark,Martyn Lannister
+Talisa Stark,Willem Lannister
+Talisa Stark,Jon Snow
+Talisa Stark,Petyr 'Littlefinger' Baelish
+Talisa Stark,Margaery Tyrell
+Talisa Stark,Sansa Stark
+Talisa Stark,Orell
+Talisa Stark,Brynden 'Blackfish' Tully
+Talisa Stark,Tormund Giantsbane
+Talisa Stark,Locke
+Talisa Stark,Selyse Baratheon
+Arya Stark,Gendry
+Arya Stark,Ygritte
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Olenna Tyrell
+Arya Stark,Brienne of Tarth
+Arya Stark,Barristan Selmy
+Arya Stark,Roose Bolton
+Arya Stark,Thoros of Myr
+Arya Stark,Beric Dondarrion
+Arya Stark,Qyburn
+Arya Stark,Edmure Tully
+Arya Stark,Loras Tyrell
+Arya Stark,Rickard Karstark
+Arya Stark,Shireen Baratheon
+Arya Stark,Missandei
+Arya Stark,Grey Worm
+Arya Stark,Anguy
+Arya Stark,Podrick Payne
+Arya Stark,Olyvar
+Arya Stark,Martyn Lannister
+Arya Stark,Willem Lannister
+Arya Stark,Jon Snow
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Margaery Tyrell
+Arya Stark,Sansa Stark
+Arya Stark,Orell
+Arya Stark,Brynden 'Blackfish' Tully
+Arya Stark,Tormund Giantsbane
+Arya Stark,Locke
+Arya Stark,Selyse Baratheon
+Gendry,Ygritte
+Gendry,Sandor 'The Hound' Clegane
+Gendry,Olenna Tyrell
+Gendry,Brienne of Tarth
+Gendry,Barristan Selmy
+Gendry,Roose Bolton
+Gendry,Thoros of Myr
+Gendry,Beric Dondarrion
+Gendry,Qyburn
+Gendry,Edmure Tully
+Gendry,Loras Tyrell
+Gendry,Rickard Karstark
+Gendry,Shireen Baratheon
+Gendry,Missandei
+Gendry,Grey Worm
+Gendry,Anguy
+Gendry,Podrick Payne
+Gendry,Olyvar
+Gendry,Martyn Lannister
+Gendry,Willem Lannister
+Gendry,Jon Snow
+Gendry,Petyr 'Littlefinger' Baelish
+Gendry,Margaery Tyrell
+Gendry,Sansa Stark
+Gendry,Orell
+Gendry,Brynden 'Blackfish' Tully
+Gendry,Tormund Giantsbane
+Gendry,Locke
+Gendry,Selyse Baratheon
+Ygritte,Sandor 'The Hound' Clegane
+Ygritte,Olenna Tyrell
+Ygritte,Brienne of Tarth
+Ygritte,Barristan Selmy
+Ygritte,Roose Bolton
+Ygritte,Thoros of Myr
+Ygritte,Beric Dondarrion
+Ygritte,Qyburn
+Ygritte,Edmure Tully
+Ygritte,Loras Tyrell
+Ygritte,Rickard Karstark
+Ygritte,Shireen Baratheon
+Ygritte,Missandei
+Ygritte,Grey Worm
+Ygritte,Anguy
+Ygritte,Podrick Payne
+Ygritte,Olyvar
+Ygritte,Martyn Lannister
+Ygritte,Willem Lannister
+Ygritte,Jon Snow
+Ygritte,Petyr 'Littlefinger' Baelish
+Ygritte,Margaery Tyrell
+Ygritte,Sansa Stark
+Ygritte,Orell
+Ygritte,Brynden 'Blackfish' Tully
+Ygritte,Tormund Giantsbane
+Ygritte,Locke
+Ygritte,Selyse Baratheon
+Sandor 'The Hound' Clegane,Olenna Tyrell
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Roose Bolton
+Sandor 'The Hound' Clegane,Thoros of Myr
+Sandor 'The Hound' Clegane,Beric Dondarrion
+Sandor 'The Hound' Clegane,Qyburn
+Sandor 'The Hound' Clegane,Edmure Tully
+Sandor 'The Hound' Clegane,Loras Tyrell
+Sandor 'The Hound' Clegane,Rickard Karstark
+Sandor 'The Hound' Clegane,Shireen Baratheon
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Anguy
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Olyvar
+Sandor 'The Hound' Clegane,Martyn Lannister
+Sandor 'The Hound' Clegane,Willem Lannister
+Sandor 'The Hound' Clegane,Jon Snow
+Sandor 'The Hound' Clegane,Petyr 'Littlefinger' Baelish
+Sandor 'The Hound' Clegane,Margaery Tyrell
+Sandor 'The Hound' Clegane,Sansa Stark
+Sandor 'The Hound' Clegane,Orell
+Sandor 'The Hound' Clegane,Brynden 'Blackfish' Tully
+Sandor 'The Hound' Clegane,Tormund Giantsbane
+Sandor 'The Hound' Clegane,Locke
+Sandor 'The Hound' Clegane,Selyse Baratheon
+Olenna Tyrell,Brienne of Tarth
+Olenna Tyrell,Barristan Selmy
+Olenna Tyrell,Roose Bolton
+Olenna Tyrell,Thoros of Myr
+Olenna Tyrell,Beric Dondarrion
+Olenna Tyrell,Qyburn
+Olenna Tyrell,Edmure Tully
+Olenna Tyrell,Loras Tyrell
+Olenna Tyrell,Rickard Karstark
+Olenna Tyrell,Shireen Baratheon
+Olenna Tyrell,Missandei
+Olenna Tyrell,Grey Worm
+Olenna Tyrell,Anguy
+Olenna Tyrell,Podrick Payne
+Olenna Tyrell,Olyvar
+Olenna Tyrell,Martyn Lannister
+Olenna Tyrell,Willem Lannister
+Olenna Tyrell,Jon Snow
+Olenna Tyrell,Petyr 'Littlefinger' Baelish
+Olenna Tyrell,Margaery Tyrell
+Olenna Tyrell,Sansa Stark
+Olenna Tyrell,Orell
+Olenna Tyrell,Brynden 'Blackfish' Tully
+Olenna Tyrell,Tormund Giantsbane
+Olenna Tyrell,Locke
+Olenna Tyrell,Selyse Baratheon
+Brienne of Tarth,Barristan Selmy
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Thoros of Myr
+Brienne of Tarth,Beric Dondarrion
+Brienne of Tarth,Qyburn
+Brienne of Tarth,Edmure Tully
+Brienne of Tarth,Loras Tyrell
+Brienne of Tarth,Rickard Karstark
+Brienne of Tarth,Shireen Baratheon
+Brienne of Tarth,Missandei
+Brienne of Tarth,Grey Worm
+Brienne of Tarth,Anguy
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Olyvar
+Brienne of Tarth,Martyn Lannister
+Brienne of Tarth,Willem Lannister
+Brienne of Tarth,Jon Snow
+Brienne of Tarth,Petyr 'Littlefinger' Baelish
+Brienne of Tarth,Margaery Tyrell
+Brienne of Tarth,Sansa Stark
+Brienne of Tarth,Orell
+Brienne of Tarth,Brynden 'Blackfish' Tully
+Brienne of Tarth,Tormund Giantsbane
+Brienne of Tarth,Locke
+Brienne of Tarth,Selyse Baratheon
+Barristan Selmy,Roose Bolton
+Barristan Selmy,Thoros of Myr
+Barristan Selmy,Beric Dondarrion
+Barristan Selmy,Qyburn
+Barristan Selmy,Edmure Tully
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Rickard Karstark
+Barristan Selmy,Shireen Baratheon
+Barristan Selmy,Missandei
+Barristan Selmy,Grey Worm
+Barristan Selmy,Anguy
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Olyvar
+Barristan Selmy,Martyn Lannister
+Barristan Selmy,Willem Lannister
+Barristan Selmy,Jon Snow
+Barristan Selmy,Petyr 'Littlefinger' Baelish
+Barristan Selmy,Margaery Tyrell
+Barristan Selmy,Sansa Stark
+Barristan Selmy,Orell
+Barristan Selmy,Brynden 'Blackfish' Tully
+Barristan Selmy,Tormund Giantsbane
+Barristan Selmy,Locke
+Barristan Selmy,Selyse Baratheon
+Roose Bolton,Thoros of Myr
+Roose Bolton,Beric Dondarrion
+Roose Bolton,Qyburn
+Roose Bolton,Edmure Tully
+Roose Bolton,Loras Tyrell
+Roose Bolton,Rickard Karstark
+Roose Bolton,Shireen Baratheon
+Roose Bolton,Missandei
+Roose Bolton,Grey Worm
+Roose Bolton,Anguy
+Roose Bolton,Podrick Payne
+Roose Bolton,Olyvar
+Roose Bolton,Martyn Lannister
+Roose Bolton,Willem Lannister
+Roose Bolton,Jon Snow
+Roose Bolton,Petyr 'Littlefinger' Baelish
+Roose Bolton,Margaery Tyrell
+Roose Bolton,Sansa Stark
+Roose Bolton,Orell
+Roose Bolton,Brynden 'Blackfish' Tully
+Roose Bolton,Tormund Giantsbane
+Roose Bolton,Locke
+Roose Bolton,Selyse Baratheon
+Thoros of Myr,Beric Dondarrion
+Thoros of Myr,Qyburn
+Thoros of Myr,Edmure Tully
+Thoros of Myr,Loras Tyrell
+Thoros of Myr,Rickard Karstark
+Thoros of Myr,Shireen Baratheon
+Thoros of Myr,Missandei
+Thoros of Myr,Grey Worm
+Thoros of Myr,Anguy
+Thoros of Myr,Podrick Payne
+Thoros of Myr,Olyvar
+Thoros of Myr,Martyn Lannister
+Thoros of Myr,Willem Lannister
+Thoros of Myr,Jon Snow
+Thoros of Myr,Petyr 'Littlefinger' Baelish
+Thoros of Myr,Margaery Tyrell
+Thoros of Myr,Sansa Stark
+Thoros of Myr,Orell
+Thoros of Myr,Brynden 'Blackfish' Tully
+Thoros of Myr,Tormund Giantsbane
+Thoros of Myr,Locke
+Thoros of Myr,Selyse Baratheon
+Beric Dondarrion,Qyburn
+Beric Dondarrion,Edmure Tully
+Beric Dondarrion,Loras Tyrell
+Beric Dondarrion,Rickard Karstark
+Beric Dondarrion,Shireen Baratheon
+Beric Dondarrion,Missandei
+Beric Dondarrion,Grey Worm
+Beric Dondarrion,Anguy
+Beric Dondarrion,Podrick Payne
+Beric Dondarrion,Olyvar
+Beric Dondarrion,Martyn Lannister
+Beric Dondarrion,Willem Lannister
+Beric Dondarrion,Jon Snow
+Beric Dondarrion,Petyr 'Littlefinger' Baelish
+Beric Dondarrion,Margaery Tyrell
+Beric Dondarrion,Sansa Stark
+Beric Dondarrion,Orell
+Beric Dondarrion,Brynden 'Blackfish' Tully
+Beric Dondarrion,Tormund Giantsbane
+Beric Dondarrion,Locke
+Beric Dondarrion,Selyse Baratheon
+Qyburn,Edmure Tully
+Qyburn,Loras Tyrell
+Qyburn,Rickard Karstark
+Qyburn,Shireen Baratheon
+Qyburn,Missandei
+Qyburn,Grey Worm
+Qyburn,Anguy
+Qyburn,Podrick Payne
+Qyburn,Olyvar
+Qyburn,Martyn Lannister
+Qyburn,Willem Lannister
+Qyburn,Jon Snow
+Qyburn,Petyr 'Littlefinger' Baelish
+Qyburn,Margaery Tyrell
+Qyburn,Sansa Stark
+Qyburn,Orell
+Qyburn,Brynden 'Blackfish' Tully
+Qyburn,Tormund Giantsbane
+Qyburn,Locke
+Qyburn,Selyse Baratheon
+Edmure Tully,Loras Tyrell
+Edmure Tully,Rickard Karstark
+Edmure Tully,Shireen Baratheon
+Edmure Tully,Missandei
+Edmure Tully,Grey Worm
+Edmure Tully,Anguy
+Edmure Tully,Podrick Payne
+Edmure Tully,Olyvar
+Edmure Tully,Martyn Lannister
+Edmure Tully,Willem Lannister
+Edmure Tully,Jon Snow
+Edmure Tully,Petyr 'Littlefinger' Baelish
+Edmure Tully,Margaery Tyrell
+Edmure Tully,Sansa Stark
+Edmure Tully,Orell
+Edmure Tully,Brynden 'Blackfish' Tully
+Edmure Tully,Tormund Giantsbane
+Edmure Tully,Locke
+Edmure Tully,Selyse Baratheon
+Loras Tyrell,Rickard Karstark
+Loras Tyrell,Shireen Baratheon
+Loras Tyrell,Missandei
+Loras Tyrell,Grey Worm
+Loras Tyrell,Anguy
+Loras Tyrell,Podrick Payne
+Loras Tyrell,Olyvar
+Loras Tyrell,Martyn Lannister
+Loras Tyrell,Willem Lannister
+Loras Tyrell,Jon Snow
+Loras Tyrell,Petyr 'Littlefinger' Baelish
+Loras Tyrell,Margaery Tyrell
+Loras Tyrell,Sansa Stark
+Loras Tyrell,Orell
+Loras Tyrell,Brynden 'Blackfish' Tully
+Loras Tyrell,Tormund Giantsbane
+Loras Tyrell,Locke
+Loras Tyrell,Selyse Baratheon
+Rickard Karstark,Shireen Baratheon
+Rickard Karstark,Missandei
+Rickard Karstark,Grey Worm
+Rickard Karstark,Anguy
+Rickard Karstark,Podrick Payne
+Rickard Karstark,Olyvar
+Rickard Karstark,Martyn Lannister
+Rickard Karstark,Willem Lannister
+Rickard Karstark,Jon Snow
+Rickard Karstark,Petyr 'Littlefinger' Baelish
+Rickard Karstark,Margaery Tyrell
+Rickard Karstark,Sansa Stark
+Rickard Karstark,Orell
+Rickard Karstark,Brynden 'Blackfish' Tully
+Rickard Karstark,Tormund Giantsbane
+Rickard Karstark,Locke
+Rickard Karstark,Selyse Baratheon
+Shireen Baratheon,Missandei
+Shireen Baratheon,Grey Worm
+Shireen Baratheon,Anguy
+Shireen Baratheon,Podrick Payne
+Shireen Baratheon,Olyvar
+Shireen Baratheon,Martyn Lannister
+Shireen Baratheon,Willem Lannister
+Shireen Baratheon,Jon Snow
+Shireen Baratheon,Petyr 'Littlefinger' Baelish
+Shireen Baratheon,Margaery Tyrell
+Shireen Baratheon,Sansa Stark
+Shireen Baratheon,Orell
+Shireen Baratheon,Brynden 'Blackfish' Tully
+Shireen Baratheon,Tormund Giantsbane
+Shireen Baratheon,Locke
+Shireen Baratheon,Selyse Baratheon
+Missandei,Grey Worm
+Missandei,Anguy
+Missandei,Podrick Payne
+Missandei,Olyvar
+Missandei,Martyn Lannister
+Missandei,Willem Lannister
+Missandei,Jon Snow
+Missandei,Petyr 'Littlefinger' Baelish
+Missandei,Margaery Tyrell
+Missandei,Sansa Stark
+Missandei,Orell
+Missandei,Brynden 'Blackfish' Tully
+Missandei,Tormund Giantsbane
+Missandei,Locke
+Missandei,Selyse Baratheon
+Grey Worm,Anguy
+Grey Worm,Podrick Payne
+Grey Worm,Olyvar
+Grey Worm,Martyn Lannister
+Grey Worm,Willem Lannister
+Grey Worm,Jon Snow
+Grey Worm,Petyr 'Littlefinger' Baelish
+Grey Worm,Margaery Tyrell
+Grey Worm,Sansa Stark
+Grey Worm,Orell
+Grey Worm,Brynden 'Blackfish' Tully
+Grey Worm,Tormund Giantsbane
+Grey Worm,Locke
+Grey Worm,Selyse Baratheon
+Anguy,Podrick Payne
+Anguy,Olyvar
+Anguy,Martyn Lannister
+Anguy,Willem Lannister
+Anguy,Jon Snow
+Anguy,Petyr 'Littlefinger' Baelish
+Anguy,Margaery Tyrell
+Anguy,Sansa Stark
+Anguy,Orell
+Anguy,Brynden 'Blackfish' Tully
+Anguy,Tormund Giantsbane
+Anguy,Locke
+Anguy,Selyse Baratheon
+Podrick Payne,Olyvar
+Podrick Payne,Martyn Lannister
+Podrick Payne,Willem Lannister
+Podrick Payne,Jon Snow
+Podrick Payne,Petyr 'Littlefinger' Baelish
+Podrick Payne,Margaery Tyrell
+Podrick Payne,Sansa Stark
+Podrick Payne,Orell
+Podrick Payne,Brynden 'Blackfish' Tully
+Podrick Payne,Tormund Giantsbane
+Podrick Payne,Locke
+Podrick Payne,Selyse Baratheon
+Olyvar,Martyn Lannister
+Olyvar,Willem Lannister
+Olyvar,Jon Snow
+Olyvar,Petyr 'Littlefinger' Baelish
+Olyvar,Margaery Tyrell
+Olyvar,Sansa Stark
+Olyvar,Orell
+Olyvar,Brynden 'Blackfish' Tully
+Olyvar,Tormund Giantsbane
+Olyvar,Locke
+Olyvar,Selyse Baratheon
+Martyn Lannister,Willem Lannister
+Martyn Lannister,Jon Snow
+Martyn Lannister,Petyr 'Littlefinger' Baelish
+Martyn Lannister,Margaery Tyrell
+Martyn Lannister,Sansa Stark
+Martyn Lannister,Orell
+Martyn Lannister,Brynden 'Blackfish' Tully
+Martyn Lannister,Tormund Giantsbane
+Martyn Lannister,Locke
+Martyn Lannister,Selyse Baratheon
+Willem Lannister,Jon Snow
+Willem Lannister,Petyr 'Littlefinger' Baelish
+Willem Lannister,Margaery Tyrell
+Willem Lannister,Sansa Stark
+Willem Lannister,Orell
+Willem Lannister,Brynden 'Blackfish' Tully
+Willem Lannister,Tormund Giantsbane
+Willem Lannister,Locke
+Willem Lannister,Selyse Baratheon
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Margaery Tyrell
+Jon Snow,Sansa Stark
+Jon Snow,Orell
+Jon Snow,Brynden 'Blackfish' Tully
+Jon Snow,Tormund Giantsbane
+Jon Snow,Locke
+Jon Snow,Selyse Baratheon
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Orell
+Petyr 'Littlefinger' Baelish,Brynden 'Blackfish' Tully
+Petyr 'Littlefinger' Baelish,Tormund Giantsbane
+Petyr 'Littlefinger' Baelish,Locke
+Petyr 'Littlefinger' Baelish,Selyse Baratheon
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Orell
+Margaery Tyrell,Brynden 'Blackfish' Tully
+Margaery Tyrell,Tormund Giantsbane
+Margaery Tyrell,Locke
+Margaery Tyrell,Selyse Baratheon
+Sansa Stark,Orell
+Sansa Stark,Brynden 'Blackfish' Tully
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Locke
+Sansa Stark,Selyse Baratheon
+Orell,Brynden 'Blackfish' Tully
+Orell,Tormund Giantsbane
+Orell,Locke
+Orell,Selyse Baratheon
+Brynden 'Blackfish' Tully,Tormund Giantsbane
+Brynden 'Blackfish' Tully,Locke
+Brynden 'Blackfish' Tully,Selyse Baratheon
+Tormund Giantsbane,Locke
+Tormund Giantsbane,Selyse Baratheon
+Locke,Selyse Baratheon

@@ -1,0 +1,562 @@
+NAME 1,NAME 2
+Jon Snow,Robb Stark
+Jon Snow,Jorah Mormont
+Jon Snow,Catelyn Stark
+Jon Snow,Bran Stark
+Jon Snow,Talisa Stark
+Jon Snow,Ygritte
+Jon Snow,Walder Frey
+Jon Snow,Orell
+Jon Snow,Roose Bolton
+Jon Snow,Barristan Selmy
+Jon Snow,Brynden 'Blackfish' Tully
+Jon Snow,Edmure Tully
+Jon Snow,Tormund Giantsbane
+Jon Snow,Jojen Reed
+Jon Snow,Daario Naharis
+Jon Snow,Black Walder Rivers
+Jon Snow,Roslin Frey
+Jon Snow,Joyeuse Frey
+Jon Snow,Marianne Frey
+Jon Snow,Daenerys Targaryen
+Jon Snow,Samwell Tarly
+Jon Snow,Arya Stark
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Osha
+Jon Snow,Meera Reed
+Jon Snow,Gilly
+Jon Snow,Grey Worm
+Jon Snow,Missandei
+Jon Snow,Hodor
+Jon Snow,Lothar Frey
+Jon Snow,Rickon Stark
+Jon Snow,Merry Frey
+Jon Snow,Wendel Manderly
+Robb Stark,Jorah Mormont
+Robb Stark,Catelyn Stark
+Robb Stark,Bran Stark
+Robb Stark,Talisa Stark
+Robb Stark,Ygritte
+Robb Stark,Walder Frey
+Robb Stark,Orell
+Robb Stark,Roose Bolton
+Robb Stark,Barristan Selmy
+Robb Stark,Brynden 'Blackfish' Tully
+Robb Stark,Edmure Tully
+Robb Stark,Tormund Giantsbane
+Robb Stark,Jojen Reed
+Robb Stark,Daario Naharis
+Robb Stark,Black Walder Rivers
+Robb Stark,Roslin Frey
+Robb Stark,Joyeuse Frey
+Robb Stark,Marianne Frey
+Robb Stark,Daenerys Targaryen
+Robb Stark,Samwell Tarly
+Robb Stark,Arya Stark
+Robb Stark,Sandor 'The Hound' Clegane
+Robb Stark,Osha
+Robb Stark,Meera Reed
+Robb Stark,Gilly
+Robb Stark,Grey Worm
+Robb Stark,Missandei
+Robb Stark,Hodor
+Robb Stark,Lothar Frey
+Robb Stark,Rickon Stark
+Robb Stark,Merry Frey
+Robb Stark,Wendel Manderly
+Jorah Mormont,Catelyn Stark
+Jorah Mormont,Bran Stark
+Jorah Mormont,Talisa Stark
+Jorah Mormont,Ygritte
+Jorah Mormont,Walder Frey
+Jorah Mormont,Orell
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Brynden 'Blackfish' Tully
+Jorah Mormont,Edmure Tully
+Jorah Mormont,Tormund Giantsbane
+Jorah Mormont,Jojen Reed
+Jorah Mormont,Daario Naharis
+Jorah Mormont,Black Walder Rivers
+Jorah Mormont,Roslin Frey
+Jorah Mormont,Joyeuse Frey
+Jorah Mormont,Marianne Frey
+Jorah Mormont,Daenerys Targaryen
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Arya Stark
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Osha
+Jorah Mormont,Meera Reed
+Jorah Mormont,Gilly
+Jorah Mormont,Grey Worm
+Jorah Mormont,Missandei
+Jorah Mormont,Hodor
+Jorah Mormont,Lothar Frey
+Jorah Mormont,Rickon Stark
+Jorah Mormont,Merry Frey
+Jorah Mormont,Wendel Manderly
+Catelyn Stark,Bran Stark
+Catelyn Stark,Talisa Stark
+Catelyn Stark,Ygritte
+Catelyn Stark,Walder Frey
+Catelyn Stark,Orell
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Barristan Selmy
+Catelyn Stark,Brynden 'Blackfish' Tully
+Catelyn Stark,Edmure Tully
+Catelyn Stark,Tormund Giantsbane
+Catelyn Stark,Jojen Reed
+Catelyn Stark,Daario Naharis
+Catelyn Stark,Black Walder Rivers
+Catelyn Stark,Roslin Frey
+Catelyn Stark,Joyeuse Frey
+Catelyn Stark,Marianne Frey
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Samwell Tarly
+Catelyn Stark,Arya Stark
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Osha
+Catelyn Stark,Meera Reed
+Catelyn Stark,Gilly
+Catelyn Stark,Grey Worm
+Catelyn Stark,Missandei
+Catelyn Stark,Hodor
+Catelyn Stark,Lothar Frey
+Catelyn Stark,Rickon Stark
+Catelyn Stark,Merry Frey
+Catelyn Stark,Wendel Manderly
+Bran Stark,Talisa Stark
+Bran Stark,Ygritte
+Bran Stark,Walder Frey
+Bran Stark,Orell
+Bran Stark,Roose Bolton
+Bran Stark,Barristan Selmy
+Bran Stark,Brynden 'Blackfish' Tully
+Bran Stark,Edmure Tully
+Bran Stark,Tormund Giantsbane
+Bran Stark,Jojen Reed
+Bran Stark,Daario Naharis
+Bran Stark,Black Walder Rivers
+Bran Stark,Roslin Frey
+Bran Stark,Joyeuse Frey
+Bran Stark,Marianne Frey
+Bran Stark,Daenerys Targaryen
+Bran Stark,Samwell Tarly
+Bran Stark,Arya Stark
+Bran Stark,Sandor 'The Hound' Clegane
+Bran Stark,Osha
+Bran Stark,Meera Reed
+Bran Stark,Gilly
+Bran Stark,Grey Worm
+Bran Stark,Missandei
+Bran Stark,Hodor
+Bran Stark,Lothar Frey
+Bran Stark,Rickon Stark
+Bran Stark,Merry Frey
+Bran Stark,Wendel Manderly
+Talisa Stark,Ygritte
+Talisa Stark,Walder Frey
+Talisa Stark,Orell
+Talisa Stark,Roose Bolton
+Talisa Stark,Barristan Selmy
+Talisa Stark,Brynden 'Blackfish' Tully
+Talisa Stark,Edmure Tully
+Talisa Stark,Tormund Giantsbane
+Talisa Stark,Jojen Reed
+Talisa Stark,Daario Naharis
+Talisa Stark,Black Walder Rivers
+Talisa Stark,Roslin Frey
+Talisa Stark,Joyeuse Frey
+Talisa Stark,Marianne Frey
+Talisa Stark,Daenerys Targaryen
+Talisa Stark,Samwell Tarly
+Talisa Stark,Arya Stark
+Talisa Stark,Sandor 'The Hound' Clegane
+Talisa Stark,Osha
+Talisa Stark,Meera Reed
+Talisa Stark,Gilly
+Talisa Stark,Grey Worm
+Talisa Stark,Missandei
+Talisa Stark,Hodor
+Talisa Stark,Lothar Frey
+Talisa Stark,Rickon Stark
+Talisa Stark,Merry Frey
+Talisa Stark,Wendel Manderly
+Ygritte,Walder Frey
+Ygritte,Orell
+Ygritte,Roose Bolton
+Ygritte,Barristan Selmy
+Ygritte,Brynden 'Blackfish' Tully
+Ygritte,Edmure Tully
+Ygritte,Tormund Giantsbane
+Ygritte,Jojen Reed
+Ygritte,Daario Naharis
+Ygritte,Black Walder Rivers
+Ygritte,Roslin Frey
+Ygritte,Joyeuse Frey
+Ygritte,Marianne Frey
+Ygritte,Daenerys Targaryen
+Ygritte,Samwell Tarly
+Ygritte,Arya Stark
+Ygritte,Sandor 'The Hound' Clegane
+Ygritte,Osha
+Ygritte,Meera Reed
+Ygritte,Gilly
+Ygritte,Grey Worm
+Ygritte,Missandei
+Ygritte,Hodor
+Ygritte,Lothar Frey
+Ygritte,Rickon Stark
+Ygritte,Merry Frey
+Ygritte,Wendel Manderly
+Walder Frey,Orell
+Walder Frey,Roose Bolton
+Walder Frey,Barristan Selmy
+Walder Frey,Brynden 'Blackfish' Tully
+Walder Frey,Edmure Tully
+Walder Frey,Tormund Giantsbane
+Walder Frey,Jojen Reed
+Walder Frey,Daario Naharis
+Walder Frey,Black Walder Rivers
+Walder Frey,Roslin Frey
+Walder Frey,Joyeuse Frey
+Walder Frey,Marianne Frey
+Walder Frey,Daenerys Targaryen
+Walder Frey,Samwell Tarly
+Walder Frey,Arya Stark
+Walder Frey,Sandor 'The Hound' Clegane
+Walder Frey,Osha
+Walder Frey,Meera Reed
+Walder Frey,Gilly
+Walder Frey,Grey Worm
+Walder Frey,Missandei
+Walder Frey,Hodor
+Walder Frey,Lothar Frey
+Walder Frey,Rickon Stark
+Walder Frey,Merry Frey
+Walder Frey,Wendel Manderly
+Orell,Roose Bolton
+Orell,Barristan Selmy
+Orell,Brynden 'Blackfish' Tully
+Orell,Edmure Tully
+Orell,Tormund Giantsbane
+Orell,Jojen Reed
+Orell,Daario Naharis
+Orell,Black Walder Rivers
+Orell,Roslin Frey
+Orell,Joyeuse Frey
+Orell,Marianne Frey
+Orell,Daenerys Targaryen
+Orell,Samwell Tarly
+Orell,Arya Stark
+Orell,Sandor 'The Hound' Clegane
+Orell,Osha
+Orell,Meera Reed
+Orell,Gilly
+Orell,Grey Worm
+Orell,Missandei
+Orell,Hodor
+Orell,Lothar Frey
+Orell,Rickon Stark
+Orell,Merry Frey
+Orell,Wendel Manderly
+Roose Bolton,Barristan Selmy
+Roose Bolton,Brynden 'Blackfish' Tully
+Roose Bolton,Edmure Tully
+Roose Bolton,Tormund Giantsbane
+Roose Bolton,Jojen Reed
+Roose Bolton,Daario Naharis
+Roose Bolton,Black Walder Rivers
+Roose Bolton,Roslin Frey
+Roose Bolton,Joyeuse Frey
+Roose Bolton,Marianne Frey
+Roose Bolton,Daenerys Targaryen
+Roose Bolton,Samwell Tarly
+Roose Bolton,Arya Stark
+Roose Bolton,Sandor 'The Hound' Clegane
+Roose Bolton,Osha
+Roose Bolton,Meera Reed
+Roose Bolton,Gilly
+Roose Bolton,Grey Worm
+Roose Bolton,Missandei
+Roose Bolton,Hodor
+Roose Bolton,Lothar Frey
+Roose Bolton,Rickon Stark
+Roose Bolton,Merry Frey
+Roose Bolton,Wendel Manderly
+Barristan Selmy,Brynden 'Blackfish' Tully
+Barristan Selmy,Edmure Tully
+Barristan Selmy,Tormund Giantsbane
+Barristan Selmy,Jojen Reed
+Barristan Selmy,Daario Naharis
+Barristan Selmy,Black Walder Rivers
+Barristan Selmy,Roslin Frey
+Barristan Selmy,Joyeuse Frey
+Barristan Selmy,Marianne Frey
+Barristan Selmy,Daenerys Targaryen
+Barristan Selmy,Samwell Tarly
+Barristan Selmy,Arya Stark
+Barristan Selmy,Sandor 'The Hound' Clegane
+Barristan Selmy,Osha
+Barristan Selmy,Meera Reed
+Barristan Selmy,Gilly
+Barristan Selmy,Grey Worm
+Barristan Selmy,Missandei
+Barristan Selmy,Hodor
+Barristan Selmy,Lothar Frey
+Barristan Selmy,Rickon Stark
+Barristan Selmy,Merry Frey
+Barristan Selmy,Wendel Manderly
+Brynden 'Blackfish' Tully,Edmure Tully
+Brynden 'Blackfish' Tully,Tormund Giantsbane
+Brynden 'Blackfish' Tully,Jojen Reed
+Brynden 'Blackfish' Tully,Daario Naharis
+Brynden 'Blackfish' Tully,Black Walder Rivers
+Brynden 'Blackfish' Tully,Roslin Frey
+Brynden 'Blackfish' Tully,Joyeuse Frey
+Brynden 'Blackfish' Tully,Marianne Frey
+Brynden 'Blackfish' Tully,Daenerys Targaryen
+Brynden 'Blackfish' Tully,Samwell Tarly
+Brynden 'Blackfish' Tully,Arya Stark
+Brynden 'Blackfish' Tully,Sandor 'The Hound' Clegane
+Brynden 'Blackfish' Tully,Osha
+Brynden 'Blackfish' Tully,Meera Reed
+Brynden 'Blackfish' Tully,Gilly
+Brynden 'Blackfish' Tully,Grey Worm
+Brynden 'Blackfish' Tully,Missandei
+Brynden 'Blackfish' Tully,Hodor
+Brynden 'Blackfish' Tully,Lothar Frey
+Brynden 'Blackfish' Tully,Rickon Stark
+Brynden 'Blackfish' Tully,Merry Frey
+Brynden 'Blackfish' Tully,Wendel Manderly
+Edmure Tully,Tormund Giantsbane
+Edmure Tully,Jojen Reed
+Edmure Tully,Daario Naharis
+Edmure Tully,Black Walder Rivers
+Edmure Tully,Roslin Frey
+Edmure Tully,Joyeuse Frey
+Edmure Tully,Marianne Frey
+Edmure Tully,Daenerys Targaryen
+Edmure Tully,Samwell Tarly
+Edmure Tully,Arya Stark
+Edmure Tully,Sandor 'The Hound' Clegane
+Edmure Tully,Osha
+Edmure Tully,Meera Reed
+Edmure Tully,Gilly
+Edmure Tully,Grey Worm
+Edmure Tully,Missandei
+Edmure Tully,Hodor
+Edmure Tully,Lothar Frey
+Edmure Tully,Rickon Stark
+Edmure Tully,Merry Frey
+Edmure Tully,Wendel Manderly
+Tormund Giantsbane,Jojen Reed
+Tormund Giantsbane,Daario Naharis
+Tormund Giantsbane,Black Walder Rivers
+Tormund Giantsbane,Roslin Frey
+Tormund Giantsbane,Joyeuse Frey
+Tormund Giantsbane,Marianne Frey
+Tormund Giantsbane,Daenerys Targaryen
+Tormund Giantsbane,Samwell Tarly
+Tormund Giantsbane,Arya Stark
+Tormund Giantsbane,Sandor 'The Hound' Clegane
+Tormund Giantsbane,Osha
+Tormund Giantsbane,Meera Reed
+Tormund Giantsbane,Gilly
+Tormund Giantsbane,Grey Worm
+Tormund Giantsbane,Missandei
+Tormund Giantsbane,Hodor
+Tormund Giantsbane,Lothar Frey
+Tormund Giantsbane,Rickon Stark
+Tormund Giantsbane,Merry Frey
+Tormund Giantsbane,Wendel Manderly
+Jojen Reed,Daario Naharis
+Jojen Reed,Black Walder Rivers
+Jojen Reed,Roslin Frey
+Jojen Reed,Joyeuse Frey
+Jojen Reed,Marianne Frey
+Jojen Reed,Daenerys Targaryen
+Jojen Reed,Samwell Tarly
+Jojen Reed,Arya Stark
+Jojen Reed,Sandor 'The Hound' Clegane
+Jojen Reed,Osha
+Jojen Reed,Meera Reed
+Jojen Reed,Gilly
+Jojen Reed,Grey Worm
+Jojen Reed,Missandei
+Jojen Reed,Hodor
+Jojen Reed,Lothar Frey
+Jojen Reed,Rickon Stark
+Jojen Reed,Merry Frey
+Jojen Reed,Wendel Manderly
+Daario Naharis,Black Walder Rivers
+Daario Naharis,Roslin Frey
+Daario Naharis,Joyeuse Frey
+Daario Naharis,Marianne Frey
+Daario Naharis,Daenerys Targaryen
+Daario Naharis,Samwell Tarly
+Daario Naharis,Arya Stark
+Daario Naharis,Sandor 'The Hound' Clegane
+Daario Naharis,Osha
+Daario Naharis,Meera Reed
+Daario Naharis,Gilly
+Daario Naharis,Grey Worm
+Daario Naharis,Missandei
+Daario Naharis,Hodor
+Daario Naharis,Lothar Frey
+Daario Naharis,Rickon Stark
+Daario Naharis,Merry Frey
+Daario Naharis,Wendel Manderly
+Black Walder Rivers,Roslin Frey
+Black Walder Rivers,Joyeuse Frey
+Black Walder Rivers,Marianne Frey
+Black Walder Rivers,Daenerys Targaryen
+Black Walder Rivers,Samwell Tarly
+Black Walder Rivers,Arya Stark
+Black Walder Rivers,Sandor 'The Hound' Clegane
+Black Walder Rivers,Osha
+Black Walder Rivers,Meera Reed
+Black Walder Rivers,Gilly
+Black Walder Rivers,Grey Worm
+Black Walder Rivers,Missandei
+Black Walder Rivers,Hodor
+Black Walder Rivers,Lothar Frey
+Black Walder Rivers,Rickon Stark
+Black Walder Rivers,Merry Frey
+Black Walder Rivers,Wendel Manderly
+Roslin Frey,Joyeuse Frey
+Roslin Frey,Marianne Frey
+Roslin Frey,Daenerys Targaryen
+Roslin Frey,Samwell Tarly
+Roslin Frey,Arya Stark
+Roslin Frey,Sandor 'The Hound' Clegane
+Roslin Frey,Osha
+Roslin Frey,Meera Reed
+Roslin Frey,Gilly
+Roslin Frey,Grey Worm
+Roslin Frey,Missandei
+Roslin Frey,Hodor
+Roslin Frey,Lothar Frey
+Roslin Frey,Rickon Stark
+Roslin Frey,Merry Frey
+Roslin Frey,Wendel Manderly
+Joyeuse Frey,Marianne Frey
+Joyeuse Frey,Daenerys Targaryen
+Joyeuse Frey,Samwell Tarly
+Joyeuse Frey,Arya Stark
+Joyeuse Frey,Sandor 'The Hound' Clegane
+Joyeuse Frey,Osha
+Joyeuse Frey,Meera Reed
+Joyeuse Frey,Gilly
+Joyeuse Frey,Grey Worm
+Joyeuse Frey,Missandei
+Joyeuse Frey,Hodor
+Joyeuse Frey,Lothar Frey
+Joyeuse Frey,Rickon Stark
+Joyeuse Frey,Merry Frey
+Joyeuse Frey,Wendel Manderly
+Marianne Frey,Daenerys Targaryen
+Marianne Frey,Samwell Tarly
+Marianne Frey,Arya Stark
+Marianne Frey,Sandor 'The Hound' Clegane
+Marianne Frey,Osha
+Marianne Frey,Meera Reed
+Marianne Frey,Gilly
+Marianne Frey,Grey Worm
+Marianne Frey,Missandei
+Marianne Frey,Hodor
+Marianne Frey,Lothar Frey
+Marianne Frey,Rickon Stark
+Marianne Frey,Merry Frey
+Marianne Frey,Wendel Manderly
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Meera Reed
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Lothar Frey
+Daenerys Targaryen,Rickon Stark
+Daenerys Targaryen,Merry Frey
+Daenerys Targaryen,Wendel Manderly
+Samwell Tarly,Arya Stark
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Osha
+Samwell Tarly,Meera Reed
+Samwell Tarly,Gilly
+Samwell Tarly,Grey Worm
+Samwell Tarly,Missandei
+Samwell Tarly,Hodor
+Samwell Tarly,Lothar Frey
+Samwell Tarly,Rickon Stark
+Samwell Tarly,Merry Frey
+Samwell Tarly,Wendel Manderly
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Osha
+Arya Stark,Meera Reed
+Arya Stark,Gilly
+Arya Stark,Grey Worm
+Arya Stark,Missandei
+Arya Stark,Hodor
+Arya Stark,Lothar Frey
+Arya Stark,Rickon Stark
+Arya Stark,Merry Frey
+Arya Stark,Wendel Manderly
+Sandor 'The Hound' Clegane,Osha
+Sandor 'The Hound' Clegane,Meera Reed
+Sandor 'The Hound' Clegane,Gilly
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Hodor
+Sandor 'The Hound' Clegane,Lothar Frey
+Sandor 'The Hound' Clegane,Rickon Stark
+Sandor 'The Hound' Clegane,Merry Frey
+Sandor 'The Hound' Clegane,Wendel Manderly
+Osha,Meera Reed
+Osha,Gilly
+Osha,Grey Worm
+Osha,Missandei
+Osha,Hodor
+Osha,Lothar Frey
+Osha,Rickon Stark
+Osha,Merry Frey
+Osha,Wendel Manderly
+Meera Reed,Gilly
+Meera Reed,Grey Worm
+Meera Reed,Missandei
+Meera Reed,Hodor
+Meera Reed,Lothar Frey
+Meera Reed,Rickon Stark
+Meera Reed,Merry Frey
+Meera Reed,Wendel Manderly
+Gilly,Grey Worm
+Gilly,Missandei
+Gilly,Hodor
+Gilly,Lothar Frey
+Gilly,Rickon Stark
+Gilly,Merry Frey
+Gilly,Wendel Manderly
+Grey Worm,Missandei
+Grey Worm,Hodor
+Grey Worm,Lothar Frey
+Grey Worm,Rickon Stark
+Grey Worm,Merry Frey
+Grey Worm,Wendel Manderly
+Missandei,Hodor
+Missandei,Lothar Frey
+Missandei,Rickon Stark
+Missandei,Merry Frey
+Missandei,Wendel Manderly
+Hodor,Lothar Frey
+Hodor,Rickon Stark
+Hodor,Merry Frey
+Hodor,Wendel Manderly
+Lothar Frey,Rickon Stark
+Lothar Frey,Merry Frey
+Lothar Frey,Wendel Manderly
+Rickon Stark,Merry Frey
+Rickon Stark,Wendel Manderly
+Merry Frey,Wendel Manderly

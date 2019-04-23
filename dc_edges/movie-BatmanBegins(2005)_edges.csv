@@ -1,0 +1,232 @@
+NAME 1,NAME 2
+Bruce Wayne / Batman,Alfred
+Bruce Wayne / Batman,Rachel Dawes
+Bruce Wayne / Batman,Jim Gordon
+Bruce Wayne / Batman,Dr. Jonathan Crane
+Bruce Wayne / Batman,Carmine Falcone
+Bruce Wayne / Batman,Earle
+Bruce Wayne / Batman,Ra's Al Ghul
+Bruce Wayne / Batman,Flass
+Bruce Wayne / Batman,Thomas Wayne
+Bruce Wayne / Batman,Lucius Fox
+Bruce Wayne / Batman,Finch
+Bruce Wayne / Batman,Loeb
+Bruce Wayne / Batman,Martha Wayne
+Bruce Wayne / Batman,Jessica
+Bruce Wayne / Batman,Fredericks
+Bruce Wayne / Batman,Judge Faden
+Bruce Wayne / Batman,Joe Chill
+Bruce Wayne / Batman,Captain Simonson
+Bruce Wayne / Batman,Mrs. Dawes
+Bruce Wayne / Batman,Victor Zsaz
+Bruce Wayne / Batman,Barbara Gordon
+Alfred,Rachel Dawes
+Alfred,Jim Gordon
+Alfred,Dr. Jonathan Crane
+Alfred,Carmine Falcone
+Alfred,Earle
+Alfred,Ra's Al Ghul
+Alfred,Flass
+Alfred,Thomas Wayne
+Alfred,Lucius Fox
+Alfred,Finch
+Alfred,Loeb
+Alfred,Martha Wayne
+Alfred,Jessica
+Alfred,Fredericks
+Alfred,Judge Faden
+Alfred,Joe Chill
+Alfred,Captain Simonson
+Alfred,Mrs. Dawes
+Alfred,Victor Zsaz
+Alfred,Barbara Gordon
+Rachel Dawes,Jim Gordon
+Rachel Dawes,Dr. Jonathan Crane
+Rachel Dawes,Carmine Falcone
+Rachel Dawes,Earle
+Rachel Dawes,Ra's Al Ghul
+Rachel Dawes,Flass
+Rachel Dawes,Thomas Wayne
+Rachel Dawes,Lucius Fox
+Rachel Dawes,Finch
+Rachel Dawes,Loeb
+Rachel Dawes,Martha Wayne
+Rachel Dawes,Jessica
+Rachel Dawes,Fredericks
+Rachel Dawes,Judge Faden
+Rachel Dawes,Joe Chill
+Rachel Dawes,Captain Simonson
+Rachel Dawes,Mrs. Dawes
+Rachel Dawes,Victor Zsaz
+Rachel Dawes,Barbara Gordon
+Jim Gordon,Dr. Jonathan Crane
+Jim Gordon,Carmine Falcone
+Jim Gordon,Earle
+Jim Gordon,Ra's Al Ghul
+Jim Gordon,Flass
+Jim Gordon,Thomas Wayne
+Jim Gordon,Lucius Fox
+Jim Gordon,Finch
+Jim Gordon,Loeb
+Jim Gordon,Martha Wayne
+Jim Gordon,Jessica
+Jim Gordon,Fredericks
+Jim Gordon,Judge Faden
+Jim Gordon,Joe Chill
+Jim Gordon,Captain Simonson
+Jim Gordon,Mrs. Dawes
+Jim Gordon,Victor Zsaz
+Jim Gordon,Barbara Gordon
+Dr. Jonathan Crane,Carmine Falcone
+Dr. Jonathan Crane,Earle
+Dr. Jonathan Crane,Ra's Al Ghul
+Dr. Jonathan Crane,Flass
+Dr. Jonathan Crane,Thomas Wayne
+Dr. Jonathan Crane,Lucius Fox
+Dr. Jonathan Crane,Finch
+Dr. Jonathan Crane,Loeb
+Dr. Jonathan Crane,Martha Wayne
+Dr. Jonathan Crane,Jessica
+Dr. Jonathan Crane,Fredericks
+Dr. Jonathan Crane,Judge Faden
+Dr. Jonathan Crane,Joe Chill
+Dr. Jonathan Crane,Captain Simonson
+Dr. Jonathan Crane,Mrs. Dawes
+Dr. Jonathan Crane,Victor Zsaz
+Dr. Jonathan Crane,Barbara Gordon
+Carmine Falcone,Earle
+Carmine Falcone,Ra's Al Ghul
+Carmine Falcone,Flass
+Carmine Falcone,Thomas Wayne
+Carmine Falcone,Lucius Fox
+Carmine Falcone,Finch
+Carmine Falcone,Loeb
+Carmine Falcone,Martha Wayne
+Carmine Falcone,Jessica
+Carmine Falcone,Fredericks
+Carmine Falcone,Judge Faden
+Carmine Falcone,Joe Chill
+Carmine Falcone,Captain Simonson
+Carmine Falcone,Mrs. Dawes
+Carmine Falcone,Victor Zsaz
+Carmine Falcone,Barbara Gordon
+Earle,Ra's Al Ghul
+Earle,Flass
+Earle,Thomas Wayne
+Earle,Lucius Fox
+Earle,Finch
+Earle,Loeb
+Earle,Martha Wayne
+Earle,Jessica
+Earle,Fredericks
+Earle,Judge Faden
+Earle,Joe Chill
+Earle,Captain Simonson
+Earle,Mrs. Dawes
+Earle,Victor Zsaz
+Earle,Barbara Gordon
+Ra's Al Ghul,Flass
+Ra's Al Ghul,Thomas Wayne
+Ra's Al Ghul,Lucius Fox
+Ra's Al Ghul,Finch
+Ra's Al Ghul,Loeb
+Ra's Al Ghul,Martha Wayne
+Ra's Al Ghul,Jessica
+Ra's Al Ghul,Fredericks
+Ra's Al Ghul,Judge Faden
+Ra's Al Ghul,Joe Chill
+Ra's Al Ghul,Captain Simonson
+Ra's Al Ghul,Mrs. Dawes
+Ra's Al Ghul,Victor Zsaz
+Ra's Al Ghul,Barbara Gordon
+Flass,Thomas Wayne
+Flass,Lucius Fox
+Flass,Finch
+Flass,Loeb
+Flass,Martha Wayne
+Flass,Jessica
+Flass,Fredericks
+Flass,Judge Faden
+Flass,Joe Chill
+Flass,Captain Simonson
+Flass,Mrs. Dawes
+Flass,Victor Zsaz
+Flass,Barbara Gordon
+Thomas Wayne,Lucius Fox
+Thomas Wayne,Finch
+Thomas Wayne,Loeb
+Thomas Wayne,Martha Wayne
+Thomas Wayne,Jessica
+Thomas Wayne,Fredericks
+Thomas Wayne,Judge Faden
+Thomas Wayne,Joe Chill
+Thomas Wayne,Captain Simonson
+Thomas Wayne,Mrs. Dawes
+Thomas Wayne,Victor Zsaz
+Thomas Wayne,Barbara Gordon
+Lucius Fox,Finch
+Lucius Fox,Loeb
+Lucius Fox,Martha Wayne
+Lucius Fox,Jessica
+Lucius Fox,Fredericks
+Lucius Fox,Judge Faden
+Lucius Fox,Joe Chill
+Lucius Fox,Captain Simonson
+Lucius Fox,Mrs. Dawes
+Lucius Fox,Victor Zsaz
+Lucius Fox,Barbara Gordon
+Finch,Loeb
+Finch,Martha Wayne
+Finch,Jessica
+Finch,Fredericks
+Finch,Judge Faden
+Finch,Joe Chill
+Finch,Captain Simonson
+Finch,Mrs. Dawes
+Finch,Victor Zsaz
+Finch,Barbara Gordon
+Loeb,Martha Wayne
+Loeb,Jessica
+Loeb,Fredericks
+Loeb,Judge Faden
+Loeb,Joe Chill
+Loeb,Captain Simonson
+Loeb,Mrs. Dawes
+Loeb,Victor Zsaz
+Loeb,Barbara Gordon
+Martha Wayne,Jessica
+Martha Wayne,Fredericks
+Martha Wayne,Judge Faden
+Martha Wayne,Joe Chill
+Martha Wayne,Captain Simonson
+Martha Wayne,Mrs. Dawes
+Martha Wayne,Victor Zsaz
+Martha Wayne,Barbara Gordon
+Jessica,Fredericks
+Jessica,Judge Faden
+Jessica,Joe Chill
+Jessica,Captain Simonson
+Jessica,Mrs. Dawes
+Jessica,Victor Zsaz
+Jessica,Barbara Gordon
+Fredericks,Judge Faden
+Fredericks,Joe Chill
+Fredericks,Captain Simonson
+Fredericks,Mrs. Dawes
+Fredericks,Victor Zsaz
+Fredericks,Barbara Gordon
+Judge Faden,Joe Chill
+Judge Faden,Captain Simonson
+Judge Faden,Mrs. Dawes
+Judge Faden,Victor Zsaz
+Judge Faden,Barbara Gordon
+Joe Chill,Captain Simonson
+Joe Chill,Mrs. Dawes
+Joe Chill,Victor Zsaz
+Joe Chill,Barbara Gordon
+Captain Simonson,Mrs. Dawes
+Captain Simonson,Victor Zsaz
+Captain Simonson,Barbara Gordon
+Mrs. Dawes,Victor Zsaz
+Mrs. Dawes,Barbara Gordon
+Victor Zsaz,Barbara Gordon

@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Pyat Pree
+Tyrion Lannister,Spice King
+Tyrion Lannister,Xaro Xhoan Daxos
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Talisa Maegyr
+Tyrion Lannister,Quaithe
+Tyrion Lannister,Alton Lannister
+Tyrion Lannister,Black Lorren
+Tyrion Lannister,Kovarro
+Tyrion Lannister,Gregor 'The Mountain' Clegane
+Tyrion Lannister,Silk King
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Shae
+Tyrion Lannister,Maester Luwin
+Tyrion Lannister,Osha
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Dagmer Cleftjaw
+Tyrion Lannister,Rickard Karstark
+Tyrion Lannister,Hodor
+Tyrion Lannister,Rickon Stark
+Tyrion Lannister,Winterfell Shepherd
+Tyrion Lannister,Bernadette
+Tyrion Lannister,Theon's Master of Hounds
+Tyrion Lannister,Torrhen Karstark
+Tyrion Lannister,Farlen
+Tyrion Lannister,Drennan
+Tyrion Lannister,Jacks
+Tyrion Lannister,Quent
+Cersei Lannister,Jaime Lannister
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Pyat Pree
+Cersei Lannister,Spice King
+Cersei Lannister,Xaro Xhoan Daxos
+Cersei Lannister,Ygritte
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Talisa Maegyr
+Cersei Lannister,Quaithe
+Cersei Lannister,Alton Lannister
+Cersei Lannister,Black Lorren
+Cersei Lannister,Kovarro
+Cersei Lannister,Gregor 'The Mountain' Clegane
+Cersei Lannister,Silk King
+Cersei Lannister,Jon Snow
+Cersei Lannister,Bran Stark
+Cersei Lannister,Robb Stark
+Cersei Lannister,Shae
+Cersei Lannister,Maester Luwin
+Cersei Lannister,Osha
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Dagmer Cleftjaw
+Cersei Lannister,Rickard Karstark
+Cersei Lannister,Hodor
+Cersei Lannister,Rickon Stark
+Cersei Lannister,Winterfell Shepherd
+Cersei Lannister,Bernadette
+Cersei Lannister,Theon's Master of Hounds
+Cersei Lannister,Torrhen Karstark
+Cersei Lannister,Farlen
+Cersei Lannister,Drennan
+Cersei Lannister,Jacks
+Cersei Lannister,Quent
+Jaime Lannister,Catelyn Stark
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Pyat Pree
+Jaime Lannister,Spice King
+Jaime Lannister,Xaro Xhoan Daxos
+Jaime Lannister,Ygritte
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Talisa Maegyr
+Jaime Lannister,Quaithe
+Jaime Lannister,Alton Lannister
+Jaime Lannister,Black Lorren
+Jaime Lannister,Kovarro
+Jaime Lannister,Gregor 'The Mountain' Clegane
+Jaime Lannister,Silk King
+Jaime Lannister,Jon Snow
+Jaime Lannister,Bran Stark
+Jaime Lannister,Robb Stark
+Jaime Lannister,Shae
+Jaime Lannister,Maester Luwin
+Jaime Lannister,Osha
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Dagmer Cleftjaw
+Jaime Lannister,Rickard Karstark
+Jaime Lannister,Hodor
+Jaime Lannister,Rickon Stark
+Jaime Lannister,Winterfell Shepherd
+Jaime Lannister,Bernadette
+Jaime Lannister,Theon's Master of Hounds
+Jaime Lannister,Torrhen Karstark
+Jaime Lannister,Farlen
+Jaime Lannister,Drennan
+Jaime Lannister,Jacks
+Jaime Lannister,Quent
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Jorah Mormont
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Sandor 'The Hound' Clegane
+Catelyn Stark,Pyat Pree
+Catelyn Stark,Spice King
+Catelyn Stark,Xaro Xhoan Daxos
+Catelyn Stark,Ygritte
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Talisa Maegyr
+Catelyn Stark,Quaithe
+Catelyn Stark,Alton Lannister
+Catelyn Stark,Black Lorren
+Catelyn Stark,Kovarro
+Catelyn Stark,Gregor 'The Mountain' Clegane
+Catelyn Stark,Silk King
+Catelyn Stark,Jon Snow
+Catelyn Stark,Bran Stark
+Catelyn Stark,Robb Stark
+Catelyn Stark,Shae
+Catelyn Stark,Maester Luwin
+Catelyn Stark,Osha
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Dagmer Cleftjaw
+Catelyn Stark,Rickard Karstark
+Catelyn Stark,Hodor
+Catelyn Stark,Rickon Stark
+Catelyn Stark,Winterfell Shepherd
+Catelyn Stark,Bernadette
+Catelyn Stark,Theon's Master of Hounds
+Catelyn Stark,Torrhen Karstark
+Catelyn Stark,Farlen
+Catelyn Stark,Drennan
+Catelyn Stark,Jacks
+Catelyn Stark,Quent
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Pyat Pree
+Daenerys Targaryen,Spice King
+Daenerys Targaryen,Xaro Xhoan Daxos
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Talisa Maegyr
+Daenerys Targaryen,Quaithe
+Daenerys Targaryen,Alton Lannister
+Daenerys Targaryen,Black Lorren
+Daenerys Targaryen,Kovarro
+Daenerys Targaryen,Gregor 'The Mountain' Clegane
+Daenerys Targaryen,Silk King
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Maester Luwin
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Dagmer Cleftjaw
+Daenerys Targaryen,Rickard Karstark
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Rickon Stark
+Daenerys Targaryen,Winterfell Shepherd
+Daenerys Targaryen,Bernadette
+Daenerys Targaryen,Theon's Master of Hounds
+Daenerys Targaryen,Torrhen Karstark
+Daenerys Targaryen,Farlen
+Daenerys Targaryen,Drennan
+Daenerys Targaryen,Jacks
+Daenerys Targaryen,Quent
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Pyat Pree
+Jorah Mormont,Spice King
+Jorah Mormont,Xaro Xhoan Daxos
+Jorah Mormont,Ygritte
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Talisa Maegyr
+Jorah Mormont,Quaithe
+Jorah Mormont,Alton Lannister
+Jorah Mormont,Black Lorren
+Jorah Mormont,Kovarro
+Jorah Mormont,Gregor 'The Mountain' Clegane
+Jorah Mormont,Silk King
+Jorah Mormont,Jon Snow
+Jorah Mormont,Bran Stark
+Jorah Mormont,Robb Stark
+Jorah Mormont,Shae
+Jorah Mormont,Maester Luwin
+Jorah Mormont,Osha
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Dagmer Cleftjaw
+Jorah Mormont,Rickard Karstark
+Jorah Mormont,Hodor
+Jorah Mormont,Rickon Stark
+Jorah Mormont,Winterfell Shepherd
+Jorah Mormont,Bernadette
+Jorah Mormont,Theon's Master of Hounds
+Jorah Mormont,Torrhen Karstark
+Jorah Mormont,Farlen
+Jorah Mormont,Drennan
+Jorah Mormont,Jacks
+Jorah Mormont,Quent
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Pyat Pree
+Tywin Lannister,Spice King
+Tywin Lannister,Xaro Xhoan Daxos
+Tywin Lannister,Ygritte
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Talisa Maegyr
+Tywin Lannister,Quaithe
+Tywin Lannister,Alton Lannister
+Tywin Lannister,Black Lorren
+Tywin Lannister,Kovarro
+Tywin Lannister,Gregor 'The Mountain' Clegane
+Tywin Lannister,Silk King
+Tywin Lannister,Jon Snow
+Tywin Lannister,Bran Stark
+Tywin Lannister,Robb Stark
+Tywin Lannister,Shae
+Tywin Lannister,Maester Luwin
+Tywin Lannister,Osha
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Dagmer Cleftjaw
+Tywin Lannister,Rickard Karstark
+Tywin Lannister,Hodor
+Tywin Lannister,Rickon Stark
+Tywin Lannister,Winterfell Shepherd
+Tywin Lannister,Bernadette
+Tywin Lannister,Theon's Master of Hounds
+Tywin Lannister,Torrhen Karstark
+Tywin Lannister,Farlen
+Tywin Lannister,Drennan
+Tywin Lannister,Jacks
+Tywin Lannister,Quent
+Sansa Stark,Arya Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Pyat Pree
+Sansa Stark,Spice King
+Sansa Stark,Xaro Xhoan Daxos
+Sansa Stark,Ygritte
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Talisa Maegyr
+Sansa Stark,Quaithe
+Sansa Stark,Alton Lannister
+Sansa Stark,Black Lorren
+Sansa Stark,Kovarro
+Sansa Stark,Gregor 'The Mountain' Clegane
+Sansa Stark,Silk King
+Sansa Stark,Jon Snow
+Sansa Stark,Bran Stark
+Sansa Stark,Robb Stark
+Sansa Stark,Shae
+Sansa Stark,Maester Luwin
+Sansa Stark,Osha
+Sansa Stark,Roose Bolton
+Sansa Stark,Dagmer Cleftjaw
+Sansa Stark,Rickard Karstark
+Sansa Stark,Hodor
+Sansa Stark,Rickon Stark
+Sansa Stark,Winterfell Shepherd
+Sansa Stark,Bernadette
+Sansa Stark,Theon's Master of Hounds
+Sansa Stark,Torrhen Karstark
+Sansa Stark,Farlen
+Sansa Stark,Drennan
+Sansa Stark,Jacks
+Sansa Stark,Quent
+Arya Stark,Theon Greyjoy
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Pyat Pree
+Arya Stark,Spice King
+Arya Stark,Xaro Xhoan Daxos
+Arya Stark,Ygritte
+Arya Stark,Brienne of Tarth
+Arya Stark,Talisa Maegyr
+Arya Stark,Quaithe
+Arya Stark,Alton Lannister
+Arya Stark,Black Lorren
+Arya Stark,Kovarro
+Arya Stark,Gregor 'The Mountain' Clegane
+Arya Stark,Silk King
+Arya Stark,Jon Snow
+Arya Stark,Bran Stark
+Arya Stark,Robb Stark
+Arya Stark,Shae
+Arya Stark,Maester Luwin
+Arya Stark,Osha
+Arya Stark,Roose Bolton
+Arya Stark,Dagmer Cleftjaw
+Arya Stark,Rickard Karstark
+Arya Stark,Hodor
+Arya Stark,Rickon Stark
+Arya Stark,Winterfell Shepherd
+Arya Stark,Bernadette
+Arya Stark,Theon's Master of Hounds
+Arya Stark,Torrhen Karstark
+Arya Stark,Farlen
+Arya Stark,Drennan
+Arya Stark,Jacks
+Arya Stark,Quent
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Pyat Pree
+Theon Greyjoy,Spice King
+Theon Greyjoy,Xaro Xhoan Daxos
+Theon Greyjoy,Ygritte
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Talisa Maegyr
+Theon Greyjoy,Quaithe
+Theon Greyjoy,Alton Lannister
+Theon Greyjoy,Black Lorren
+Theon Greyjoy,Kovarro
+Theon Greyjoy,Gregor 'The Mountain' Clegane
+Theon Greyjoy,Silk King
+Theon Greyjoy,Jon Snow
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Robb Stark
+Theon Greyjoy,Shae
+Theon Greyjoy,Maester Luwin
+Theon Greyjoy,Osha
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Dagmer Cleftjaw
+Theon Greyjoy,Rickard Karstark
+Theon Greyjoy,Hodor
+Theon Greyjoy,Rickon Stark
+Theon Greyjoy,Winterfell Shepherd
+Theon Greyjoy,Bernadette
+Theon Greyjoy,Theon's Master of Hounds
+Theon Greyjoy,Torrhen Karstark
+Theon Greyjoy,Farlen
+Theon Greyjoy,Drennan
+Theon Greyjoy,Jacks
+Theon Greyjoy,Quent
+Sandor 'The Hound' Clegane,Pyat Pree
+Sandor 'The Hound' Clegane,Spice King
+Sandor 'The Hound' Clegane,Xaro Xhoan Daxos
+Sandor 'The Hound' Clegane,Ygritte
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Talisa Maegyr
+Sandor 'The Hound' Clegane,Quaithe
+Sandor 'The Hound' Clegane,Alton Lannister
+Sandor 'The Hound' Clegane,Black Lorren
+Sandor 'The Hound' Clegane,Kovarro
+Sandor 'The Hound' Clegane,Gregor 'The Mountain' Clegane
+Sandor 'The Hound' Clegane,Silk King
+Sandor 'The Hound' Clegane,Jon Snow
+Sandor 'The Hound' Clegane,Bran Stark
+Sandor 'The Hound' Clegane,Robb Stark
+Sandor 'The Hound' Clegane,Shae
+Sandor 'The Hound' Clegane,Maester Luwin
+Sandor 'The Hound' Clegane,Osha
+Sandor 'The Hound' Clegane,Roose Bolton
+Sandor 'The Hound' Clegane,Dagmer Cleftjaw
+Sandor 'The Hound' Clegane,Rickard Karstark
+Sandor 'The Hound' Clegane,Hodor
+Sandor 'The Hound' Clegane,Rickon Stark
+Sandor 'The Hound' Clegane,Winterfell Shepherd
+Sandor 'The Hound' Clegane,Bernadette
+Sandor 'The Hound' Clegane,Theon's Master of Hounds
+Sandor 'The Hound' Clegane,Torrhen Karstark
+Sandor 'The Hound' Clegane,Farlen
+Sandor 'The Hound' Clegane,Drennan
+Sandor 'The Hound' Clegane,Jacks
+Sandor 'The Hound' Clegane,Quent
+Pyat Pree,Spice King
+Pyat Pree,Xaro Xhoan Daxos
+Pyat Pree,Ygritte
+Pyat Pree,Brienne of Tarth
+Pyat Pree,Talisa Maegyr
+Pyat Pree,Quaithe
+Pyat Pree,Alton Lannister
+Pyat Pree,Black Lorren
+Pyat Pree,Kovarro
+Pyat Pree,Gregor 'The Mountain' Clegane
+Pyat Pree,Silk King
+Pyat Pree,Jon Snow
+Pyat Pree,Bran Stark
+Pyat Pree,Robb Stark
+Pyat Pree,Shae
+Pyat Pree,Maester Luwin
+Pyat Pree,Osha
+Pyat Pree,Roose Bolton
+Pyat Pree,Dagmer Cleftjaw
+Pyat Pree,Rickard Karstark
+Pyat Pree,Hodor
+Pyat Pree,Rickon Stark
+Pyat Pree,Winterfell Shepherd
+Pyat Pree,Bernadette
+Pyat Pree,Theon's Master of Hounds
+Pyat Pree,Torrhen Karstark
+Pyat Pree,Farlen
+Pyat Pree,Drennan
+Pyat Pree,Jacks
+Pyat Pree,Quent
+Spice King,Xaro Xhoan Daxos
+Spice King,Ygritte
+Spice King,Brienne of Tarth
+Spice King,Talisa Maegyr
+Spice King,Quaithe
+Spice King,Alton Lannister
+Spice King,Black Lorren
+Spice King,Kovarro
+Spice King,Gregor 'The Mountain' Clegane
+Spice King,Silk King
+Spice King,Jon Snow
+Spice King,Bran Stark
+Spice King,Robb Stark
+Spice King,Shae
+Spice King,Maester Luwin
+Spice King,Osha
+Spice King,Roose Bolton
+Spice King,Dagmer Cleftjaw
+Spice King,Rickard Karstark
+Spice King,Hodor
+Spice King,Rickon Stark
+Spice King,Winterfell Shepherd
+Spice King,Bernadette
+Spice King,Theon's Master of Hounds
+Spice King,Torrhen Karstark
+Spice King,Farlen
+Spice King,Drennan
+Spice King,Jacks
+Spice King,Quent
+Xaro Xhoan Daxos,Ygritte
+Xaro Xhoan Daxos,Brienne of Tarth
+Xaro Xhoan Daxos,Talisa Maegyr
+Xaro Xhoan Daxos,Quaithe
+Xaro Xhoan Daxos,Alton Lannister
+Xaro Xhoan Daxos,Black Lorren
+Xaro Xhoan Daxos,Kovarro
+Xaro Xhoan Daxos,Gregor 'The Mountain' Clegane
+Xaro Xhoan Daxos,Silk King
+Xaro Xhoan Daxos,Jon Snow
+Xaro Xhoan Daxos,Bran Stark
+Xaro Xhoan Daxos,Robb Stark
+Xaro Xhoan Daxos,Shae
+Xaro Xhoan Daxos,Maester Luwin
+Xaro Xhoan Daxos,Osha
+Xaro Xhoan Daxos,Roose Bolton
+Xaro Xhoan Daxos,Dagmer Cleftjaw
+Xaro Xhoan Daxos,Rickard Karstark
+Xaro Xhoan Daxos,Hodor
+Xaro Xhoan Daxos,Rickon Stark
+Xaro Xhoan Daxos,Winterfell Shepherd
+Xaro Xhoan Daxos,Bernadette
+Xaro Xhoan Daxos,Theon's Master of Hounds
+Xaro Xhoan Daxos,Torrhen Karstark
+Xaro Xhoan Daxos,Farlen
+Xaro Xhoan Daxos,Drennan
+Xaro Xhoan Daxos,Jacks
+Xaro Xhoan Daxos,Quent
+Ygritte,Brienne of Tarth
+Ygritte,Talisa Maegyr
+Ygritte,Quaithe
+Ygritte,Alton Lannister
+Ygritte,Black Lorren
+Ygritte,Kovarro
+Ygritte,Gregor 'The Mountain' Clegane
+Ygritte,Silk King
+Ygritte,Jon Snow
+Ygritte,Bran Stark
+Ygritte,Robb Stark
+Ygritte,Shae
+Ygritte,Maester Luwin
+Ygritte,Osha
+Ygritte,Roose Bolton
+Ygritte,Dagmer Cleftjaw
+Ygritte,Rickard Karstark
+Ygritte,Hodor
+Ygritte,Rickon Stark
+Ygritte,Winterfell Shepherd
+Ygritte,Bernadette
+Ygritte,Theon's Master of Hounds
+Ygritte,Torrhen Karstark
+Ygritte,Farlen
+Ygritte,Drennan
+Ygritte,Jacks
+Ygritte,Quent
+Brienne of Tarth,Talisa Maegyr
+Brienne of Tarth,Quaithe
+Brienne of Tarth,Alton Lannister
+Brienne of Tarth,Black Lorren
+Brienne of Tarth,Kovarro
+Brienne of Tarth,Gregor 'The Mountain' Clegane
+Brienne of Tarth,Silk King
+Brienne of Tarth,Jon Snow
+Brienne of Tarth,Bran Stark
+Brienne of Tarth,Robb Stark
+Brienne of Tarth,Shae
+Brienne of Tarth,Maester Luwin
+Brienne of Tarth,Osha
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Dagmer Cleftjaw
+Brienne of Tarth,Rickard Karstark
+Brienne of Tarth,Hodor
+Brienne of Tarth,Rickon Stark
+Brienne of Tarth,Winterfell Shepherd
+Brienne of Tarth,Bernadette
+Brienne of Tarth,Theon's Master of Hounds
+Brienne of Tarth,Torrhen Karstark
+Brienne of Tarth,Farlen
+Brienne of Tarth,Drennan
+Brienne of Tarth,Jacks
+Brienne of Tarth,Quent
+Talisa Maegyr,Quaithe
+Talisa Maegyr,Alton Lannister
+Talisa Maegyr,Black Lorren
+Talisa Maegyr,Kovarro
+Talisa Maegyr,Gregor 'The Mountain' Clegane
+Talisa Maegyr,Silk King
+Talisa Maegyr,Jon Snow
+Talisa Maegyr,Bran Stark
+Talisa Maegyr,Robb Stark
+Talisa Maegyr,Shae
+Talisa Maegyr,Maester Luwin
+Talisa Maegyr,Osha
+Talisa Maegyr,Roose Bolton
+Talisa Maegyr,Dagmer Cleftjaw
+Talisa Maegyr,Rickard Karstark
+Talisa Maegyr,Hodor
+Talisa Maegyr,Rickon Stark
+Talisa Maegyr,Winterfell Shepherd
+Talisa Maegyr,Bernadette
+Talisa Maegyr,Theon's Master of Hounds
+Talisa Maegyr,Torrhen Karstark
+Talisa Maegyr,Farlen
+Talisa Maegyr,Drennan
+Talisa Maegyr,Jacks
+Talisa Maegyr,Quent
+Quaithe,Alton Lannister
+Quaithe,Black Lorren
+Quaithe,Kovarro
+Quaithe,Gregor 'The Mountain' Clegane
+Quaithe,Silk King
+Quaithe,Jon Snow
+Quaithe,Bran Stark
+Quaithe,Robb Stark
+Quaithe,Shae
+Quaithe,Maester Luwin
+Quaithe,Osha
+Quaithe,Roose Bolton
+Quaithe,Dagmer Cleftjaw
+Quaithe,Rickard Karstark
+Quaithe,Hodor
+Quaithe,Rickon Stark
+Quaithe,Winterfell Shepherd
+Quaithe,Bernadette
+Quaithe,Theon's Master of Hounds
+Quaithe,Torrhen Karstark
+Quaithe,Farlen
+Quaithe,Drennan
+Quaithe,Jacks
+Quaithe,Quent
+Alton Lannister,Black Lorren
+Alton Lannister,Kovarro
+Alton Lannister,Gregor 'The Mountain' Clegane
+Alton Lannister,Silk King
+Alton Lannister,Jon Snow
+Alton Lannister,Bran Stark
+Alton Lannister,Robb Stark
+Alton Lannister,Shae
+Alton Lannister,Maester Luwin
+Alton Lannister,Osha
+Alton Lannister,Roose Bolton
+Alton Lannister,Dagmer Cleftjaw
+Alton Lannister,Rickard Karstark
+Alton Lannister,Hodor
+Alton Lannister,Rickon Stark
+Alton Lannister,Winterfell Shepherd
+Alton Lannister,Bernadette
+Alton Lannister,Theon's Master of Hounds
+Alton Lannister,Torrhen Karstark
+Alton Lannister,Farlen
+Alton Lannister,Drennan
+Alton Lannister,Jacks
+Alton Lannister,Quent
+Black Lorren,Kovarro
+Black Lorren,Gregor 'The Mountain' Clegane
+Black Lorren,Silk King
+Black Lorren,Jon Snow
+Black Lorren,Bran Stark
+Black Lorren,Robb Stark
+Black Lorren,Shae
+Black Lorren,Maester Luwin
+Black Lorren,Osha
+Black Lorren,Roose Bolton
+Black Lorren,Dagmer Cleftjaw
+Black Lorren,Rickard Karstark
+Black Lorren,Hodor
+Black Lorren,Rickon Stark
+Black Lorren,Winterfell Shepherd
+Black Lorren,Bernadette
+Black Lorren,Theon's Master of Hounds
+Black Lorren,Torrhen Karstark
+Black Lorren,Farlen
+Black Lorren,Drennan
+Black Lorren,Jacks
+Black Lorren,Quent
+Kovarro,Gregor 'The Mountain' Clegane
+Kovarro,Silk King
+Kovarro,Jon Snow
+Kovarro,Bran Stark
+Kovarro,Robb Stark
+Kovarro,Shae
+Kovarro,Maester Luwin
+Kovarro,Osha
+Kovarro,Roose Bolton
+Kovarro,Dagmer Cleftjaw
+Kovarro,Rickard Karstark
+Kovarro,Hodor
+Kovarro,Rickon Stark
+Kovarro,Winterfell Shepherd
+Kovarro,Bernadette
+Kovarro,Theon's Master of Hounds
+Kovarro,Torrhen Karstark
+Kovarro,Farlen
+Kovarro,Drennan
+Kovarro,Jacks
+Kovarro,Quent
+Gregor 'The Mountain' Clegane,Silk King
+Gregor 'The Mountain' Clegane,Jon Snow
+Gregor 'The Mountain' Clegane,Bran Stark
+Gregor 'The Mountain' Clegane,Robb Stark
+Gregor 'The Mountain' Clegane,Shae
+Gregor 'The Mountain' Clegane,Maester Luwin
+Gregor 'The Mountain' Clegane,Osha
+Gregor 'The Mountain' Clegane,Roose Bolton
+Gregor 'The Mountain' Clegane,Dagmer Cleftjaw
+Gregor 'The Mountain' Clegane,Rickard Karstark
+Gregor 'The Mountain' Clegane,Hodor
+Gregor 'The Mountain' Clegane,Rickon Stark
+Gregor 'The Mountain' Clegane,Winterfell Shepherd
+Gregor 'The Mountain' Clegane,Bernadette
+Gregor 'The Mountain' Clegane,Theon's Master of Hounds
+Gregor 'The Mountain' Clegane,Torrhen Karstark
+Gregor 'The Mountain' Clegane,Farlen
+Gregor 'The Mountain' Clegane,Drennan
+Gregor 'The Mountain' Clegane,Jacks
+Gregor 'The Mountain' Clegane,Quent
+Silk King,Jon Snow
+Silk King,Bran Stark
+Silk King,Robb Stark
+Silk King,Shae
+Silk King,Maester Luwin
+Silk King,Osha
+Silk King,Roose Bolton
+Silk King,Dagmer Cleftjaw
+Silk King,Rickard Karstark
+Silk King,Hodor
+Silk King,Rickon Stark
+Silk King,Winterfell Shepherd
+Silk King,Bernadette
+Silk King,Theon's Master of Hounds
+Silk King,Torrhen Karstark
+Silk King,Farlen
+Silk King,Drennan
+Silk King,Jacks
+Silk King,Quent
+Jon Snow,Bran Stark
+Jon Snow,Robb Stark
+Jon Snow,Shae
+Jon Snow,Maester Luwin
+Jon Snow,Osha
+Jon Snow,Roose Bolton
+Jon Snow,Dagmer Cleftjaw
+Jon Snow,Rickard Karstark
+Jon Snow,Hodor
+Jon Snow,Rickon Stark
+Jon Snow,Winterfell Shepherd
+Jon Snow,Bernadette
+Jon Snow,Theon's Master of Hounds
+Jon Snow,Torrhen Karstark
+Jon Snow,Farlen
+Jon Snow,Drennan
+Jon Snow,Jacks
+Jon Snow,Quent
+Bran Stark,Robb Stark
+Bran Stark,Shae
+Bran Stark,Maester Luwin
+Bran Stark,Osha
+Bran Stark,Roose Bolton
+Bran Stark,Dagmer Cleftjaw
+Bran Stark,Rickard Karstark
+Bran Stark,Hodor
+Bran Stark,Rickon Stark
+Bran Stark,Winterfell Shepherd
+Bran Stark,Bernadette
+Bran Stark,Theon's Master of Hounds
+Bran Stark,Torrhen Karstark
+Bran Stark,Farlen
+Bran Stark,Drennan
+Bran Stark,Jacks
+Bran Stark,Quent
+Robb Stark,Shae
+Robb Stark,Maester Luwin
+Robb Stark,Osha
+Robb Stark,Roose Bolton
+Robb Stark,Dagmer Cleftjaw
+Robb Stark,Rickard Karstark
+Robb Stark,Hodor
+Robb Stark,Rickon Stark
+Robb Stark,Winterfell Shepherd
+Robb Stark,Bernadette
+Robb Stark,Theon's Master of Hounds
+Robb Stark,Torrhen Karstark
+Robb Stark,Farlen
+Robb Stark,Drennan
+Robb Stark,Jacks
+Robb Stark,Quent
+Shae,Maester Luwin
+Shae,Osha
+Shae,Roose Bolton
+Shae,Dagmer Cleftjaw
+Shae,Rickard Karstark
+Shae,Hodor
+Shae,Rickon Stark
+Shae,Winterfell Shepherd
+Shae,Bernadette
+Shae,Theon's Master of Hounds
+Shae,Torrhen Karstark
+Shae,Farlen
+Shae,Drennan
+Shae,Jacks
+Shae,Quent
+Maester Luwin,Osha
+Maester Luwin,Roose Bolton
+Maester Luwin,Dagmer Cleftjaw
+Maester Luwin,Rickard Karstark
+Maester Luwin,Hodor
+Maester Luwin,Rickon Stark
+Maester Luwin,Winterfell Shepherd
+Maester Luwin,Bernadette
+Maester Luwin,Theon's Master of Hounds
+Maester Luwin,Torrhen Karstark
+Maester Luwin,Farlen
+Maester Luwin,Drennan
+Maester Luwin,Jacks
+Maester Luwin,Quent
+Osha,Roose Bolton
+Osha,Dagmer Cleftjaw
+Osha,Rickard Karstark
+Osha,Hodor
+Osha,Rickon Stark
+Osha,Winterfell Shepherd
+Osha,Bernadette
+Osha,Theon's Master of Hounds
+Osha,Torrhen Karstark
+Osha,Farlen
+Osha,Drennan
+Osha,Jacks
+Osha,Quent
+Roose Bolton,Dagmer Cleftjaw
+Roose Bolton,Rickard Karstark
+Roose Bolton,Hodor
+Roose Bolton,Rickon Stark
+Roose Bolton,Winterfell Shepherd
+Roose Bolton,Bernadette
+Roose Bolton,Theon's Master of Hounds
+Roose Bolton,Torrhen Karstark
+Roose Bolton,Farlen
+Roose Bolton,Drennan
+Roose Bolton,Jacks
+Roose Bolton,Quent
+Dagmer Cleftjaw,Rickard Karstark
+Dagmer Cleftjaw,Hodor
+Dagmer Cleftjaw,Rickon Stark
+Dagmer Cleftjaw,Winterfell Shepherd
+Dagmer Cleftjaw,Bernadette
+Dagmer Cleftjaw,Theon's Master of Hounds
+Dagmer Cleftjaw,Torrhen Karstark
+Dagmer Cleftjaw,Farlen
+Dagmer Cleftjaw,Drennan
+Dagmer Cleftjaw,Jacks
+Dagmer Cleftjaw,Quent
+Rickard Karstark,Hodor
+Rickard Karstark,Rickon Stark
+Rickard Karstark,Winterfell Shepherd
+Rickard Karstark,Bernadette
+Rickard Karstark,Theon's Master of Hounds
+Rickard Karstark,Torrhen Karstark
+Rickard Karstark,Farlen
+Rickard Karstark,Drennan
+Rickard Karstark,Jacks
+Rickard Karstark,Quent
+Hodor,Rickon Stark
+Hodor,Winterfell Shepherd
+Hodor,Bernadette
+Hodor,Theon's Master of Hounds
+Hodor,Torrhen Karstark
+Hodor,Farlen
+Hodor,Drennan
+Hodor,Jacks
+Hodor,Quent
+Rickon Stark,Winterfell Shepherd
+Rickon Stark,Bernadette
+Rickon Stark,Theon's Master of Hounds
+Rickon Stark,Torrhen Karstark
+Rickon Stark,Farlen
+Rickon Stark,Drennan
+Rickon Stark,Jacks
+Rickon Stark,Quent
+Winterfell Shepherd,Bernadette
+Winterfell Shepherd,Theon's Master of Hounds
+Winterfell Shepherd,Torrhen Karstark
+Winterfell Shepherd,Farlen
+Winterfell Shepherd,Drennan
+Winterfell Shepherd,Jacks
+Winterfell Shepherd,Quent
+Bernadette,Theon's Master of Hounds
+Bernadette,Torrhen Karstark
+Bernadette,Farlen
+Bernadette,Drennan
+Bernadette,Jacks
+Bernadette,Quent
+Theon's Master of Hounds,Torrhen Karstark
+Theon's Master of Hounds,Farlen
+Theon's Master of Hounds,Drennan
+Theon's Master of Hounds,Jacks
+Theon's Master of Hounds,Quent
+Torrhen Karstark,Farlen
+Torrhen Karstark,Drennan
+Torrhen Karstark,Jacks
+Torrhen Karstark,Quent
+Farlen,Drennan
+Farlen,Jacks
+Farlen,Quent
+Drennan,Jacks
+Drennan,Quent
+Jacks,Quent

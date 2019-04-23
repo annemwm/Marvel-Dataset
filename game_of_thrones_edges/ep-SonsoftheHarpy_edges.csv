@@ -1,0 +1,667 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Ellaria Sand
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Bronn
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Missandei
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Lancel Lannister
+Tyrion Lannister,Obara Sand
+Tyrion Lannister,Tyene Sand
+Tyrion Lannister,Nymeria Sand
+Tyrion Lannister,Shireen Baratheon
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Margaery Tyrell
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Tommen Baratheon
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,High Sparrow
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Selyse Baratheon
+Tyrion Lannister,Mace Tyrell
+Tyrion Lannister,Meryn Trant
+Tyrion Lannister,Hizdahr zo Loraq
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Olly
+Tyrion Lannister,Olyvar
+Tyrion Lannister,Marei
+Tyrion Lannister,Vala
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Melisandre
+Jaime Lannister,Ellaria Sand
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Bronn
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Missandei
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Grey Worm
+Jaime Lannister,Lancel Lannister
+Jaime Lannister,Obara Sand
+Jaime Lannister,Tyene Sand
+Jaime Lannister,Nymeria Sand
+Jaime Lannister,Shireen Baratheon
+Jaime Lannister,Loras Tyrell
+Jaime Lannister,Margaery Tyrell
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Tommen Baratheon
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,High Sparrow
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Qyburn
+Jaime Lannister,Selyse Baratheon
+Jaime Lannister,Mace Tyrell
+Jaime Lannister,Meryn Trant
+Jaime Lannister,Hizdahr zo Loraq
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Olly
+Jaime Lannister,Olyvar
+Jaime Lannister,Marei
+Jaime Lannister,Vala
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Melisandre
+Cersei Lannister,Ellaria Sand
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Bronn
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Missandei
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Grey Worm
+Cersei Lannister,Lancel Lannister
+Cersei Lannister,Obara Sand
+Cersei Lannister,Tyene Sand
+Cersei Lannister,Nymeria Sand
+Cersei Lannister,Shireen Baratheon
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,High Sparrow
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Qyburn
+Cersei Lannister,Selyse Baratheon
+Cersei Lannister,Mace Tyrell
+Cersei Lannister,Meryn Trant
+Cersei Lannister,Hizdahr zo Loraq
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Olly
+Cersei Lannister,Olyvar
+Cersei Lannister,Marei
+Cersei Lannister,Vala
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Ellaria Sand
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Lancel Lannister
+Daenerys Targaryen,Obara Sand
+Daenerys Targaryen,Tyene Sand
+Daenerys Targaryen,Nymeria Sand
+Daenerys Targaryen,Shireen Baratheon
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Tommen Baratheon
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,High Sparrow
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Selyse Baratheon
+Daenerys Targaryen,Mace Tyrell
+Daenerys Targaryen,Meryn Trant
+Daenerys Targaryen,Hizdahr zo Loraq
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Olly
+Daenerys Targaryen,Olyvar
+Daenerys Targaryen,Marei
+Daenerys Targaryen,Vala
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Stannis Baratheon
+Jon Snow,Melisandre
+Jon Snow,Ellaria Sand
+Jon Snow,Sansa Stark
+Jon Snow,Bronn
+Jon Snow,Daario Naharis
+Jon Snow,Missandei
+Jon Snow,Barristan Selmy
+Jon Snow,Grey Worm
+Jon Snow,Lancel Lannister
+Jon Snow,Obara Sand
+Jon Snow,Tyene Sand
+Jon Snow,Nymeria Sand
+Jon Snow,Shireen Baratheon
+Jon Snow,Loras Tyrell
+Jon Snow,Margaery Tyrell
+Jon Snow,Samwell Tarly
+Jon Snow,Tommen Baratheon
+Jon Snow,Jorah Mormont
+Jon Snow,High Sparrow
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Qyburn
+Jon Snow,Selyse Baratheon
+Jon Snow,Mace Tyrell
+Jon Snow,Meryn Trant
+Jon Snow,Hizdahr zo Loraq
+Jon Snow,Eddison Tollett
+Jon Snow,Olly
+Jon Snow,Olyvar
+Jon Snow,Marei
+Jon Snow,Vala
+Petyr 'Littlefinger' Baelish,Stannis Baratheon
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Ellaria Sand
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Daario Naharis
+Petyr 'Littlefinger' Baelish,Missandei
+Petyr 'Littlefinger' Baelish,Barristan Selmy
+Petyr 'Littlefinger' Baelish,Grey Worm
+Petyr 'Littlefinger' Baelish,Lancel Lannister
+Petyr 'Littlefinger' Baelish,Obara Sand
+Petyr 'Littlefinger' Baelish,Tyene Sand
+Petyr 'Littlefinger' Baelish,Nymeria Sand
+Petyr 'Littlefinger' Baelish,Shireen Baratheon
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Margaery Tyrell
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Tommen Baratheon
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,High Sparrow
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Qyburn
+Petyr 'Littlefinger' Baelish,Selyse Baratheon
+Petyr 'Littlefinger' Baelish,Mace Tyrell
+Petyr 'Littlefinger' Baelish,Meryn Trant
+Petyr 'Littlefinger' Baelish,Hizdahr zo Loraq
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Olly
+Petyr 'Littlefinger' Baelish,Olyvar
+Petyr 'Littlefinger' Baelish,Marei
+Petyr 'Littlefinger' Baelish,Vala
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Ellaria Sand
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Bronn
+Stannis Baratheon,Daario Naharis
+Stannis Baratheon,Missandei
+Stannis Baratheon,Barristan Selmy
+Stannis Baratheon,Grey Worm
+Stannis Baratheon,Lancel Lannister
+Stannis Baratheon,Obara Sand
+Stannis Baratheon,Tyene Sand
+Stannis Baratheon,Nymeria Sand
+Stannis Baratheon,Shireen Baratheon
+Stannis Baratheon,Loras Tyrell
+Stannis Baratheon,Margaery Tyrell
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Tommen Baratheon
+Stannis Baratheon,Jorah Mormont
+Stannis Baratheon,High Sparrow
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Qyburn
+Stannis Baratheon,Selyse Baratheon
+Stannis Baratheon,Mace Tyrell
+Stannis Baratheon,Meryn Trant
+Stannis Baratheon,Hizdahr zo Loraq
+Stannis Baratheon,Eddison Tollett
+Stannis Baratheon,Olly
+Stannis Baratheon,Olyvar
+Stannis Baratheon,Marei
+Stannis Baratheon,Vala
+Melisandre,Ellaria Sand
+Melisandre,Sansa Stark
+Melisandre,Bronn
+Melisandre,Daario Naharis
+Melisandre,Missandei
+Melisandre,Barristan Selmy
+Melisandre,Grey Worm
+Melisandre,Lancel Lannister
+Melisandre,Obara Sand
+Melisandre,Tyene Sand
+Melisandre,Nymeria Sand
+Melisandre,Shireen Baratheon
+Melisandre,Loras Tyrell
+Melisandre,Margaery Tyrell
+Melisandre,Samwell Tarly
+Melisandre,Tommen Baratheon
+Melisandre,Jorah Mormont
+Melisandre,High Sparrow
+Melisandre,Grand Maester Pycelle
+Melisandre,Qyburn
+Melisandre,Selyse Baratheon
+Melisandre,Mace Tyrell
+Melisandre,Meryn Trant
+Melisandre,Hizdahr zo Loraq
+Melisandre,Eddison Tollett
+Melisandre,Olly
+Melisandre,Olyvar
+Melisandre,Marei
+Melisandre,Vala
+Ellaria Sand,Sansa Stark
+Ellaria Sand,Bronn
+Ellaria Sand,Daario Naharis
+Ellaria Sand,Missandei
+Ellaria Sand,Barristan Selmy
+Ellaria Sand,Grey Worm
+Ellaria Sand,Lancel Lannister
+Ellaria Sand,Obara Sand
+Ellaria Sand,Tyene Sand
+Ellaria Sand,Nymeria Sand
+Ellaria Sand,Shireen Baratheon
+Ellaria Sand,Loras Tyrell
+Ellaria Sand,Margaery Tyrell
+Ellaria Sand,Samwell Tarly
+Ellaria Sand,Tommen Baratheon
+Ellaria Sand,Jorah Mormont
+Ellaria Sand,High Sparrow
+Ellaria Sand,Grand Maester Pycelle
+Ellaria Sand,Qyburn
+Ellaria Sand,Selyse Baratheon
+Ellaria Sand,Mace Tyrell
+Ellaria Sand,Meryn Trant
+Ellaria Sand,Hizdahr zo Loraq
+Ellaria Sand,Eddison Tollett
+Ellaria Sand,Olly
+Ellaria Sand,Olyvar
+Ellaria Sand,Marei
+Ellaria Sand,Vala
+Sansa Stark,Bronn
+Sansa Stark,Daario Naharis
+Sansa Stark,Missandei
+Sansa Stark,Barristan Selmy
+Sansa Stark,Grey Worm
+Sansa Stark,Lancel Lannister
+Sansa Stark,Obara Sand
+Sansa Stark,Tyene Sand
+Sansa Stark,Nymeria Sand
+Sansa Stark,Shireen Baratheon
+Sansa Stark,Loras Tyrell
+Sansa Stark,Margaery Tyrell
+Sansa Stark,Samwell Tarly
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Jorah Mormont
+Sansa Stark,High Sparrow
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Qyburn
+Sansa Stark,Selyse Baratheon
+Sansa Stark,Mace Tyrell
+Sansa Stark,Meryn Trant
+Sansa Stark,Hizdahr zo Loraq
+Sansa Stark,Eddison Tollett
+Sansa Stark,Olly
+Sansa Stark,Olyvar
+Sansa Stark,Marei
+Sansa Stark,Vala
+Bronn,Daario Naharis
+Bronn,Missandei
+Bronn,Barristan Selmy
+Bronn,Grey Worm
+Bronn,Lancel Lannister
+Bronn,Obara Sand
+Bronn,Tyene Sand
+Bronn,Nymeria Sand
+Bronn,Shireen Baratheon
+Bronn,Loras Tyrell
+Bronn,Margaery Tyrell
+Bronn,Samwell Tarly
+Bronn,Tommen Baratheon
+Bronn,Jorah Mormont
+Bronn,High Sparrow
+Bronn,Grand Maester Pycelle
+Bronn,Qyburn
+Bronn,Selyse Baratheon
+Bronn,Mace Tyrell
+Bronn,Meryn Trant
+Bronn,Hizdahr zo Loraq
+Bronn,Eddison Tollett
+Bronn,Olly
+Bronn,Olyvar
+Bronn,Marei
+Bronn,Vala
+Daario Naharis,Missandei
+Daario Naharis,Barristan Selmy
+Daario Naharis,Grey Worm
+Daario Naharis,Lancel Lannister
+Daario Naharis,Obara Sand
+Daario Naharis,Tyene Sand
+Daario Naharis,Nymeria Sand
+Daario Naharis,Shireen Baratheon
+Daario Naharis,Loras Tyrell
+Daario Naharis,Margaery Tyrell
+Daario Naharis,Samwell Tarly
+Daario Naharis,Tommen Baratheon
+Daario Naharis,Jorah Mormont
+Daario Naharis,High Sparrow
+Daario Naharis,Grand Maester Pycelle
+Daario Naharis,Qyburn
+Daario Naharis,Selyse Baratheon
+Daario Naharis,Mace Tyrell
+Daario Naharis,Meryn Trant
+Daario Naharis,Hizdahr zo Loraq
+Daario Naharis,Eddison Tollett
+Daario Naharis,Olly
+Daario Naharis,Olyvar
+Daario Naharis,Marei
+Daario Naharis,Vala
+Missandei,Barristan Selmy
+Missandei,Grey Worm
+Missandei,Lancel Lannister
+Missandei,Obara Sand
+Missandei,Tyene Sand
+Missandei,Nymeria Sand
+Missandei,Shireen Baratheon
+Missandei,Loras Tyrell
+Missandei,Margaery Tyrell
+Missandei,Samwell Tarly
+Missandei,Tommen Baratheon
+Missandei,Jorah Mormont
+Missandei,High Sparrow
+Missandei,Grand Maester Pycelle
+Missandei,Qyburn
+Missandei,Selyse Baratheon
+Missandei,Mace Tyrell
+Missandei,Meryn Trant
+Missandei,Hizdahr zo Loraq
+Missandei,Eddison Tollett
+Missandei,Olly
+Missandei,Olyvar
+Missandei,Marei
+Missandei,Vala
+Barristan Selmy,Grey Worm
+Barristan Selmy,Lancel Lannister
+Barristan Selmy,Obara Sand
+Barristan Selmy,Tyene Sand
+Barristan Selmy,Nymeria Sand
+Barristan Selmy,Shireen Baratheon
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Margaery Tyrell
+Barristan Selmy,Samwell Tarly
+Barristan Selmy,Tommen Baratheon
+Barristan Selmy,Jorah Mormont
+Barristan Selmy,High Sparrow
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Qyburn
+Barristan Selmy,Selyse Baratheon
+Barristan Selmy,Mace Tyrell
+Barristan Selmy,Meryn Trant
+Barristan Selmy,Hizdahr zo Loraq
+Barristan Selmy,Eddison Tollett
+Barristan Selmy,Olly
+Barristan Selmy,Olyvar
+Barristan Selmy,Marei
+Barristan Selmy,Vala
+Grey Worm,Lancel Lannister
+Grey Worm,Obara Sand
+Grey Worm,Tyene Sand
+Grey Worm,Nymeria Sand
+Grey Worm,Shireen Baratheon
+Grey Worm,Loras Tyrell
+Grey Worm,Margaery Tyrell
+Grey Worm,Samwell Tarly
+Grey Worm,Tommen Baratheon
+Grey Worm,Jorah Mormont
+Grey Worm,High Sparrow
+Grey Worm,Grand Maester Pycelle
+Grey Worm,Qyburn
+Grey Worm,Selyse Baratheon
+Grey Worm,Mace Tyrell
+Grey Worm,Meryn Trant
+Grey Worm,Hizdahr zo Loraq
+Grey Worm,Eddison Tollett
+Grey Worm,Olly
+Grey Worm,Olyvar
+Grey Worm,Marei
+Grey Worm,Vala
+Lancel Lannister,Obara Sand
+Lancel Lannister,Tyene Sand
+Lancel Lannister,Nymeria Sand
+Lancel Lannister,Shireen Baratheon
+Lancel Lannister,Loras Tyrell
+Lancel Lannister,Margaery Tyrell
+Lancel Lannister,Samwell Tarly
+Lancel Lannister,Tommen Baratheon
+Lancel Lannister,Jorah Mormont
+Lancel Lannister,High Sparrow
+Lancel Lannister,Grand Maester Pycelle
+Lancel Lannister,Qyburn
+Lancel Lannister,Selyse Baratheon
+Lancel Lannister,Mace Tyrell
+Lancel Lannister,Meryn Trant
+Lancel Lannister,Hizdahr zo Loraq
+Lancel Lannister,Eddison Tollett
+Lancel Lannister,Olly
+Lancel Lannister,Olyvar
+Lancel Lannister,Marei
+Lancel Lannister,Vala
+Obara Sand,Tyene Sand
+Obara Sand,Nymeria Sand
+Obara Sand,Shireen Baratheon
+Obara Sand,Loras Tyrell
+Obara Sand,Margaery Tyrell
+Obara Sand,Samwell Tarly
+Obara Sand,Tommen Baratheon
+Obara Sand,Jorah Mormont
+Obara Sand,High Sparrow
+Obara Sand,Grand Maester Pycelle
+Obara Sand,Qyburn
+Obara Sand,Selyse Baratheon
+Obara Sand,Mace Tyrell
+Obara Sand,Meryn Trant
+Obara Sand,Hizdahr zo Loraq
+Obara Sand,Eddison Tollett
+Obara Sand,Olly
+Obara Sand,Olyvar
+Obara Sand,Marei
+Obara Sand,Vala
+Tyene Sand,Nymeria Sand
+Tyene Sand,Shireen Baratheon
+Tyene Sand,Loras Tyrell
+Tyene Sand,Margaery Tyrell
+Tyene Sand,Samwell Tarly
+Tyene Sand,Tommen Baratheon
+Tyene Sand,Jorah Mormont
+Tyene Sand,High Sparrow
+Tyene Sand,Grand Maester Pycelle
+Tyene Sand,Qyburn
+Tyene Sand,Selyse Baratheon
+Tyene Sand,Mace Tyrell
+Tyene Sand,Meryn Trant
+Tyene Sand,Hizdahr zo Loraq
+Tyene Sand,Eddison Tollett
+Tyene Sand,Olly
+Tyene Sand,Olyvar
+Tyene Sand,Marei
+Tyene Sand,Vala
+Nymeria Sand,Shireen Baratheon
+Nymeria Sand,Loras Tyrell
+Nymeria Sand,Margaery Tyrell
+Nymeria Sand,Samwell Tarly
+Nymeria Sand,Tommen Baratheon
+Nymeria Sand,Jorah Mormont
+Nymeria Sand,High Sparrow
+Nymeria Sand,Grand Maester Pycelle
+Nymeria Sand,Qyburn
+Nymeria Sand,Selyse Baratheon
+Nymeria Sand,Mace Tyrell
+Nymeria Sand,Meryn Trant
+Nymeria Sand,Hizdahr zo Loraq
+Nymeria Sand,Eddison Tollett
+Nymeria Sand,Olly
+Nymeria Sand,Olyvar
+Nymeria Sand,Marei
+Nymeria Sand,Vala
+Shireen Baratheon,Loras Tyrell
+Shireen Baratheon,Margaery Tyrell
+Shireen Baratheon,Samwell Tarly
+Shireen Baratheon,Tommen Baratheon
+Shireen Baratheon,Jorah Mormont
+Shireen Baratheon,High Sparrow
+Shireen Baratheon,Grand Maester Pycelle
+Shireen Baratheon,Qyburn
+Shireen Baratheon,Selyse Baratheon
+Shireen Baratheon,Mace Tyrell
+Shireen Baratheon,Meryn Trant
+Shireen Baratheon,Hizdahr zo Loraq
+Shireen Baratheon,Eddison Tollett
+Shireen Baratheon,Olly
+Shireen Baratheon,Olyvar
+Shireen Baratheon,Marei
+Shireen Baratheon,Vala
+Loras Tyrell,Margaery Tyrell
+Loras Tyrell,Samwell Tarly
+Loras Tyrell,Tommen Baratheon
+Loras Tyrell,Jorah Mormont
+Loras Tyrell,High Sparrow
+Loras Tyrell,Grand Maester Pycelle
+Loras Tyrell,Qyburn
+Loras Tyrell,Selyse Baratheon
+Loras Tyrell,Mace Tyrell
+Loras Tyrell,Meryn Trant
+Loras Tyrell,Hizdahr zo Loraq
+Loras Tyrell,Eddison Tollett
+Loras Tyrell,Olly
+Loras Tyrell,Olyvar
+Loras Tyrell,Marei
+Loras Tyrell,Vala
+Margaery Tyrell,Samwell Tarly
+Margaery Tyrell,Tommen Baratheon
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,High Sparrow
+Margaery Tyrell,Grand Maester Pycelle
+Margaery Tyrell,Qyburn
+Margaery Tyrell,Selyse Baratheon
+Margaery Tyrell,Mace Tyrell
+Margaery Tyrell,Meryn Trant
+Margaery Tyrell,Hizdahr zo Loraq
+Margaery Tyrell,Eddison Tollett
+Margaery Tyrell,Olly
+Margaery Tyrell,Olyvar
+Margaery Tyrell,Marei
+Margaery Tyrell,Vala
+Samwell Tarly,Tommen Baratheon
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,High Sparrow
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Qyburn
+Samwell Tarly,Selyse Baratheon
+Samwell Tarly,Mace Tyrell
+Samwell Tarly,Meryn Trant
+Samwell Tarly,Hizdahr zo Loraq
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Olly
+Samwell Tarly,Olyvar
+Samwell Tarly,Marei
+Samwell Tarly,Vala
+Tommen Baratheon,Jorah Mormont
+Tommen Baratheon,High Sparrow
+Tommen Baratheon,Grand Maester Pycelle
+Tommen Baratheon,Qyburn
+Tommen Baratheon,Selyse Baratheon
+Tommen Baratheon,Mace Tyrell
+Tommen Baratheon,Meryn Trant
+Tommen Baratheon,Hizdahr zo Loraq
+Tommen Baratheon,Eddison Tollett
+Tommen Baratheon,Olly
+Tommen Baratheon,Olyvar
+Tommen Baratheon,Marei
+Tommen Baratheon,Vala
+Jorah Mormont,High Sparrow
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Qyburn
+Jorah Mormont,Selyse Baratheon
+Jorah Mormont,Mace Tyrell
+Jorah Mormont,Meryn Trant
+Jorah Mormont,Hizdahr zo Loraq
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Olly
+Jorah Mormont,Olyvar
+Jorah Mormont,Marei
+Jorah Mormont,Vala
+High Sparrow,Grand Maester Pycelle
+High Sparrow,Qyburn
+High Sparrow,Selyse Baratheon
+High Sparrow,Mace Tyrell
+High Sparrow,Meryn Trant
+High Sparrow,Hizdahr zo Loraq
+High Sparrow,Eddison Tollett
+High Sparrow,Olly
+High Sparrow,Olyvar
+High Sparrow,Marei
+High Sparrow,Vala
+Grand Maester Pycelle,Qyburn
+Grand Maester Pycelle,Selyse Baratheon
+Grand Maester Pycelle,Mace Tyrell
+Grand Maester Pycelle,Meryn Trant
+Grand Maester Pycelle,Hizdahr zo Loraq
+Grand Maester Pycelle,Eddison Tollett
+Grand Maester Pycelle,Olly
+Grand Maester Pycelle,Olyvar
+Grand Maester Pycelle,Marei
+Grand Maester Pycelle,Vala
+Qyburn,Selyse Baratheon
+Qyburn,Mace Tyrell
+Qyburn,Meryn Trant
+Qyburn,Hizdahr zo Loraq
+Qyburn,Eddison Tollett
+Qyburn,Olly
+Qyburn,Olyvar
+Qyburn,Marei
+Qyburn,Vala
+Selyse Baratheon,Mace Tyrell
+Selyse Baratheon,Meryn Trant
+Selyse Baratheon,Hizdahr zo Loraq
+Selyse Baratheon,Eddison Tollett
+Selyse Baratheon,Olly
+Selyse Baratheon,Olyvar
+Selyse Baratheon,Marei
+Selyse Baratheon,Vala
+Mace Tyrell,Meryn Trant
+Mace Tyrell,Hizdahr zo Loraq
+Mace Tyrell,Eddison Tollett
+Mace Tyrell,Olly
+Mace Tyrell,Olyvar
+Mace Tyrell,Marei
+Mace Tyrell,Vala
+Meryn Trant,Hizdahr zo Loraq
+Meryn Trant,Eddison Tollett
+Meryn Trant,Olly
+Meryn Trant,Olyvar
+Meryn Trant,Marei
+Meryn Trant,Vala
+Hizdahr zo Loraq,Eddison Tollett
+Hizdahr zo Loraq,Olly
+Hizdahr zo Loraq,Olyvar
+Hizdahr zo Loraq,Marei
+Hizdahr zo Loraq,Vala
+Eddison Tollett,Olly
+Eddison Tollett,Olyvar
+Eddison Tollett,Marei
+Eddison Tollett,Vala
+Olly,Olyvar
+Olly,Marei
+Olly,Vala
+Olyvar,Marei
+Olyvar,Vala
+Marei,Vala

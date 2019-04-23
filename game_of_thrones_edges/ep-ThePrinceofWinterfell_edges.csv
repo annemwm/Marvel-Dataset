@@ -1,0 +1,991 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Bronn
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Jaqen H'ghar
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Yara Greyjoy
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Rickard Karstark
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Rattleshirt
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Shae
+Tyrion Lannister,Maester Luwin
+Tyrion Lannister,Osha
+Tyrion Lannister,Talisa Maegyr
+Tyrion Lannister,Qhorin Halfhand
+Tyrion Lannister,Gendry
+Tyrion Lannister,Dagmer Cleftjaw
+Tyrion Lannister,Kevan Lannister
+Tyrion Lannister,Grenn
+Tyrion Lannister,Hot Pie
+Tyrion Lannister,Ros
+Tyrion Lannister,Rorge
+Tyrion Lannister,Kovarro
+Tyrion Lannister,Hodor
+Tyrion Lannister,Biter
+Tyrion Lannister,Rickon Stark
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Gregor 'The Mountain' Clegane
+Tyrion Lannister,Matthos Seaworth
+Jaime Lannister,Catelyn Stark
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Jon Snow
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Robb Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Bronn
+Jaime Lannister,Lord Varys
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Jaqen H'ghar
+Jaime Lannister,Ygritte
+Jaime Lannister,Yara Greyjoy
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Rickard Karstark
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Rattleshirt
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Bran Stark
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Shae
+Jaime Lannister,Maester Luwin
+Jaime Lannister,Osha
+Jaime Lannister,Talisa Maegyr
+Jaime Lannister,Qhorin Halfhand
+Jaime Lannister,Gendry
+Jaime Lannister,Dagmer Cleftjaw
+Jaime Lannister,Kevan Lannister
+Jaime Lannister,Grenn
+Jaime Lannister,Hot Pie
+Jaime Lannister,Ros
+Jaime Lannister,Rorge
+Jaime Lannister,Kovarro
+Jaime Lannister,Hodor
+Jaime Lannister,Biter
+Jaime Lannister,Rickon Stark
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Gregor 'The Mountain' Clegane
+Jaime Lannister,Matthos Seaworth
+Catelyn Stark,Daenerys Targaryen
+Catelyn Stark,Jorah Mormont
+Catelyn Stark,Jon Snow
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Robb Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Bronn
+Catelyn Stark,Lord Varys
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Jaqen H'ghar
+Catelyn Stark,Ygritte
+Catelyn Stark,Yara Greyjoy
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Rickard Karstark
+Catelyn Stark,Eddison Tollett
+Catelyn Stark,Rattleshirt
+Catelyn Stark,Cersei Lannister
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Davos Seaworth
+Catelyn Stark,Bran Stark
+Catelyn Stark,Samwell Tarly
+Catelyn Stark,Stannis Baratheon
+Catelyn Stark,Shae
+Catelyn Stark,Maester Luwin
+Catelyn Stark,Osha
+Catelyn Stark,Talisa Maegyr
+Catelyn Stark,Qhorin Halfhand
+Catelyn Stark,Gendry
+Catelyn Stark,Dagmer Cleftjaw
+Catelyn Stark,Kevan Lannister
+Catelyn Stark,Grenn
+Catelyn Stark,Hot Pie
+Catelyn Stark,Ros
+Catelyn Stark,Rorge
+Catelyn Stark,Kovarro
+Catelyn Stark,Hodor
+Catelyn Stark,Biter
+Catelyn Stark,Rickon Stark
+Catelyn Stark,Podrick Payne
+Catelyn Stark,Gregor 'The Mountain' Clegane
+Catelyn Stark,Matthos Seaworth
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Robb Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Jaqen H'ghar
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Yara Greyjoy
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Rickard Karstark
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Rattleshirt
+Daenerys Targaryen,Cersei Lannister
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Maester Luwin
+Daenerys Targaryen,Osha
+Daenerys Targaryen,Talisa Maegyr
+Daenerys Targaryen,Qhorin Halfhand
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Dagmer Cleftjaw
+Daenerys Targaryen,Kevan Lannister
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Hot Pie
+Daenerys Targaryen,Ros
+Daenerys Targaryen,Rorge
+Daenerys Targaryen,Kovarro
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Biter
+Daenerys Targaryen,Rickon Stark
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Gregor 'The Mountain' Clegane
+Daenerys Targaryen,Matthos Seaworth
+Jorah Mormont,Jon Snow
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Robb Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Bronn
+Jorah Mormont,Lord Varys
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Jaqen H'ghar
+Jorah Mormont,Ygritte
+Jorah Mormont,Yara Greyjoy
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Rickard Karstark
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Rattleshirt
+Jorah Mormont,Cersei Lannister
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Bran Stark
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Stannis Baratheon
+Jorah Mormont,Shae
+Jorah Mormont,Maester Luwin
+Jorah Mormont,Osha
+Jorah Mormont,Talisa Maegyr
+Jorah Mormont,Qhorin Halfhand
+Jorah Mormont,Gendry
+Jorah Mormont,Dagmer Cleftjaw
+Jorah Mormont,Kevan Lannister
+Jorah Mormont,Grenn
+Jorah Mormont,Hot Pie
+Jorah Mormont,Ros
+Jorah Mormont,Rorge
+Jorah Mormont,Kovarro
+Jorah Mormont,Hodor
+Jorah Mormont,Biter
+Jorah Mormont,Rickon Stark
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Gregor 'The Mountain' Clegane
+Jorah Mormont,Matthos Seaworth
+Jon Snow,Joffrey Baratheon
+Jon Snow,Robb Stark
+Jon Snow,Arya Stark
+Jon Snow,Theon Greyjoy
+Jon Snow,Bronn
+Jon Snow,Lord Varys
+Jon Snow,Roose Bolton
+Jon Snow,Jaqen H'ghar
+Jon Snow,Ygritte
+Jon Snow,Yara Greyjoy
+Jon Snow,Brienne of Tarth
+Jon Snow,Rickard Karstark
+Jon Snow,Eddison Tollett
+Jon Snow,Rattleshirt
+Jon Snow,Cersei Lannister
+Jon Snow,Tywin Lannister
+Jon Snow,Davos Seaworth
+Jon Snow,Bran Stark
+Jon Snow,Samwell Tarly
+Jon Snow,Stannis Baratheon
+Jon Snow,Shae
+Jon Snow,Maester Luwin
+Jon Snow,Osha
+Jon Snow,Talisa Maegyr
+Jon Snow,Qhorin Halfhand
+Jon Snow,Gendry
+Jon Snow,Dagmer Cleftjaw
+Jon Snow,Kevan Lannister
+Jon Snow,Grenn
+Jon Snow,Hot Pie
+Jon Snow,Ros
+Jon Snow,Rorge
+Jon Snow,Kovarro
+Jon Snow,Hodor
+Jon Snow,Biter
+Jon Snow,Rickon Stark
+Jon Snow,Podrick Payne
+Jon Snow,Gregor 'The Mountain' Clegane
+Jon Snow,Matthos Seaworth
+Joffrey Baratheon,Robb Stark
+Joffrey Baratheon,Arya Stark
+Joffrey Baratheon,Theon Greyjoy
+Joffrey Baratheon,Bronn
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Jaqen H'ghar
+Joffrey Baratheon,Ygritte
+Joffrey Baratheon,Yara Greyjoy
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Rickard Karstark
+Joffrey Baratheon,Eddison Tollett
+Joffrey Baratheon,Rattleshirt
+Joffrey Baratheon,Cersei Lannister
+Joffrey Baratheon,Tywin Lannister
+Joffrey Baratheon,Davos Seaworth
+Joffrey Baratheon,Bran Stark
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Stannis Baratheon
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Maester Luwin
+Joffrey Baratheon,Osha
+Joffrey Baratheon,Talisa Maegyr
+Joffrey Baratheon,Qhorin Halfhand
+Joffrey Baratheon,Gendry
+Joffrey Baratheon,Dagmer Cleftjaw
+Joffrey Baratheon,Kevan Lannister
+Joffrey Baratheon,Grenn
+Joffrey Baratheon,Hot Pie
+Joffrey Baratheon,Ros
+Joffrey Baratheon,Rorge
+Joffrey Baratheon,Kovarro
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Biter
+Joffrey Baratheon,Rickon Stark
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Gregor 'The Mountain' Clegane
+Joffrey Baratheon,Matthos Seaworth
+Robb Stark,Arya Stark
+Robb Stark,Theon Greyjoy
+Robb Stark,Bronn
+Robb Stark,Lord Varys
+Robb Stark,Roose Bolton
+Robb Stark,Jaqen H'ghar
+Robb Stark,Ygritte
+Robb Stark,Yara Greyjoy
+Robb Stark,Brienne of Tarth
+Robb Stark,Rickard Karstark
+Robb Stark,Eddison Tollett
+Robb Stark,Rattleshirt
+Robb Stark,Cersei Lannister
+Robb Stark,Tywin Lannister
+Robb Stark,Davos Seaworth
+Robb Stark,Bran Stark
+Robb Stark,Samwell Tarly
+Robb Stark,Stannis Baratheon
+Robb Stark,Shae
+Robb Stark,Maester Luwin
+Robb Stark,Osha
+Robb Stark,Talisa Maegyr
+Robb Stark,Qhorin Halfhand
+Robb Stark,Gendry
+Robb Stark,Dagmer Cleftjaw
+Robb Stark,Kevan Lannister
+Robb Stark,Grenn
+Robb Stark,Hot Pie
+Robb Stark,Ros
+Robb Stark,Rorge
+Robb Stark,Kovarro
+Robb Stark,Hodor
+Robb Stark,Biter
+Robb Stark,Rickon Stark
+Robb Stark,Podrick Payne
+Robb Stark,Gregor 'The Mountain' Clegane
+Robb Stark,Matthos Seaworth
+Arya Stark,Theon Greyjoy
+Arya Stark,Bronn
+Arya Stark,Lord Varys
+Arya Stark,Roose Bolton
+Arya Stark,Jaqen H'ghar
+Arya Stark,Ygritte
+Arya Stark,Yara Greyjoy
+Arya Stark,Brienne of Tarth
+Arya Stark,Rickard Karstark
+Arya Stark,Eddison Tollett
+Arya Stark,Rattleshirt
+Arya Stark,Cersei Lannister
+Arya Stark,Tywin Lannister
+Arya Stark,Davos Seaworth
+Arya Stark,Bran Stark
+Arya Stark,Samwell Tarly
+Arya Stark,Stannis Baratheon
+Arya Stark,Shae
+Arya Stark,Maester Luwin
+Arya Stark,Osha
+Arya Stark,Talisa Maegyr
+Arya Stark,Qhorin Halfhand
+Arya Stark,Gendry
+Arya Stark,Dagmer Cleftjaw
+Arya Stark,Kevan Lannister
+Arya Stark,Grenn
+Arya Stark,Hot Pie
+Arya Stark,Ros
+Arya Stark,Rorge
+Arya Stark,Kovarro
+Arya Stark,Hodor
+Arya Stark,Biter
+Arya Stark,Rickon Stark
+Arya Stark,Podrick Payne
+Arya Stark,Gregor 'The Mountain' Clegane
+Arya Stark,Matthos Seaworth
+Theon Greyjoy,Bronn
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Jaqen H'ghar
+Theon Greyjoy,Ygritte
+Theon Greyjoy,Yara Greyjoy
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Rickard Karstark
+Theon Greyjoy,Eddison Tollett
+Theon Greyjoy,Rattleshirt
+Theon Greyjoy,Cersei Lannister
+Theon Greyjoy,Tywin Lannister
+Theon Greyjoy,Davos Seaworth
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Stannis Baratheon
+Theon Greyjoy,Shae
+Theon Greyjoy,Maester Luwin
+Theon Greyjoy,Osha
+Theon Greyjoy,Talisa Maegyr
+Theon Greyjoy,Qhorin Halfhand
+Theon Greyjoy,Gendry
+Theon Greyjoy,Dagmer Cleftjaw
+Theon Greyjoy,Kevan Lannister
+Theon Greyjoy,Grenn
+Theon Greyjoy,Hot Pie
+Theon Greyjoy,Ros
+Theon Greyjoy,Rorge
+Theon Greyjoy,Kovarro
+Theon Greyjoy,Hodor
+Theon Greyjoy,Biter
+Theon Greyjoy,Rickon Stark
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Gregor 'The Mountain' Clegane
+Theon Greyjoy,Matthos Seaworth
+Bronn,Lord Varys
+Bronn,Roose Bolton
+Bronn,Jaqen H'ghar
+Bronn,Ygritte
+Bronn,Yara Greyjoy
+Bronn,Brienne of Tarth
+Bronn,Rickard Karstark
+Bronn,Eddison Tollett
+Bronn,Rattleshirt
+Bronn,Cersei Lannister
+Bronn,Tywin Lannister
+Bronn,Davos Seaworth
+Bronn,Bran Stark
+Bronn,Samwell Tarly
+Bronn,Stannis Baratheon
+Bronn,Shae
+Bronn,Maester Luwin
+Bronn,Osha
+Bronn,Talisa Maegyr
+Bronn,Qhorin Halfhand
+Bronn,Gendry
+Bronn,Dagmer Cleftjaw
+Bronn,Kevan Lannister
+Bronn,Grenn
+Bronn,Hot Pie
+Bronn,Ros
+Bronn,Rorge
+Bronn,Kovarro
+Bronn,Hodor
+Bronn,Biter
+Bronn,Rickon Stark
+Bronn,Podrick Payne
+Bronn,Gregor 'The Mountain' Clegane
+Bronn,Matthos Seaworth
+Lord Varys,Roose Bolton
+Lord Varys,Jaqen H'ghar
+Lord Varys,Ygritte
+Lord Varys,Yara Greyjoy
+Lord Varys,Brienne of Tarth
+Lord Varys,Rickard Karstark
+Lord Varys,Eddison Tollett
+Lord Varys,Rattleshirt
+Lord Varys,Cersei Lannister
+Lord Varys,Tywin Lannister
+Lord Varys,Davos Seaworth
+Lord Varys,Bran Stark
+Lord Varys,Samwell Tarly
+Lord Varys,Stannis Baratheon
+Lord Varys,Shae
+Lord Varys,Maester Luwin
+Lord Varys,Osha
+Lord Varys,Talisa Maegyr
+Lord Varys,Qhorin Halfhand
+Lord Varys,Gendry
+Lord Varys,Dagmer Cleftjaw
+Lord Varys,Kevan Lannister
+Lord Varys,Grenn
+Lord Varys,Hot Pie
+Lord Varys,Ros
+Lord Varys,Rorge
+Lord Varys,Kovarro
+Lord Varys,Hodor
+Lord Varys,Biter
+Lord Varys,Rickon Stark
+Lord Varys,Podrick Payne
+Lord Varys,Gregor 'The Mountain' Clegane
+Lord Varys,Matthos Seaworth
+Roose Bolton,Jaqen H'ghar
+Roose Bolton,Ygritte
+Roose Bolton,Yara Greyjoy
+Roose Bolton,Brienne of Tarth
+Roose Bolton,Rickard Karstark
+Roose Bolton,Eddison Tollett
+Roose Bolton,Rattleshirt
+Roose Bolton,Cersei Lannister
+Roose Bolton,Tywin Lannister
+Roose Bolton,Davos Seaworth
+Roose Bolton,Bran Stark
+Roose Bolton,Samwell Tarly
+Roose Bolton,Stannis Baratheon
+Roose Bolton,Shae
+Roose Bolton,Maester Luwin
+Roose Bolton,Osha
+Roose Bolton,Talisa Maegyr
+Roose Bolton,Qhorin Halfhand
+Roose Bolton,Gendry
+Roose Bolton,Dagmer Cleftjaw
+Roose Bolton,Kevan Lannister
+Roose Bolton,Grenn
+Roose Bolton,Hot Pie
+Roose Bolton,Ros
+Roose Bolton,Rorge
+Roose Bolton,Kovarro
+Roose Bolton,Hodor
+Roose Bolton,Biter
+Roose Bolton,Rickon Stark
+Roose Bolton,Podrick Payne
+Roose Bolton,Gregor 'The Mountain' Clegane
+Roose Bolton,Matthos Seaworth
+Jaqen H'ghar,Ygritte
+Jaqen H'ghar,Yara Greyjoy
+Jaqen H'ghar,Brienne of Tarth
+Jaqen H'ghar,Rickard Karstark
+Jaqen H'ghar,Eddison Tollett
+Jaqen H'ghar,Rattleshirt
+Jaqen H'ghar,Cersei Lannister
+Jaqen H'ghar,Tywin Lannister
+Jaqen H'ghar,Davos Seaworth
+Jaqen H'ghar,Bran Stark
+Jaqen H'ghar,Samwell Tarly
+Jaqen H'ghar,Stannis Baratheon
+Jaqen H'ghar,Shae
+Jaqen H'ghar,Maester Luwin
+Jaqen H'ghar,Osha
+Jaqen H'ghar,Talisa Maegyr
+Jaqen H'ghar,Qhorin Halfhand
+Jaqen H'ghar,Gendry
+Jaqen H'ghar,Dagmer Cleftjaw
+Jaqen H'ghar,Kevan Lannister
+Jaqen H'ghar,Grenn
+Jaqen H'ghar,Hot Pie
+Jaqen H'ghar,Ros
+Jaqen H'ghar,Rorge
+Jaqen H'ghar,Kovarro
+Jaqen H'ghar,Hodor
+Jaqen H'ghar,Biter
+Jaqen H'ghar,Rickon Stark
+Jaqen H'ghar,Podrick Payne
+Jaqen H'ghar,Gregor 'The Mountain' Clegane
+Jaqen H'ghar,Matthos Seaworth
+Ygritte,Yara Greyjoy
+Ygritte,Brienne of Tarth
+Ygritte,Rickard Karstark
+Ygritte,Eddison Tollett
+Ygritte,Rattleshirt
+Ygritte,Cersei Lannister
+Ygritte,Tywin Lannister
+Ygritte,Davos Seaworth
+Ygritte,Bran Stark
+Ygritte,Samwell Tarly
+Ygritte,Stannis Baratheon
+Ygritte,Shae
+Ygritte,Maester Luwin
+Ygritte,Osha
+Ygritte,Talisa Maegyr
+Ygritte,Qhorin Halfhand
+Ygritte,Gendry
+Ygritte,Dagmer Cleftjaw
+Ygritte,Kevan Lannister
+Ygritte,Grenn
+Ygritte,Hot Pie
+Ygritte,Ros
+Ygritte,Rorge
+Ygritte,Kovarro
+Ygritte,Hodor
+Ygritte,Biter
+Ygritte,Rickon Stark
+Ygritte,Podrick Payne
+Ygritte,Gregor 'The Mountain' Clegane
+Ygritte,Matthos Seaworth
+Yara Greyjoy,Brienne of Tarth
+Yara Greyjoy,Rickard Karstark
+Yara Greyjoy,Eddison Tollett
+Yara Greyjoy,Rattleshirt
+Yara Greyjoy,Cersei Lannister
+Yara Greyjoy,Tywin Lannister
+Yara Greyjoy,Davos Seaworth
+Yara Greyjoy,Bran Stark
+Yara Greyjoy,Samwell Tarly
+Yara Greyjoy,Stannis Baratheon
+Yara Greyjoy,Shae
+Yara Greyjoy,Maester Luwin
+Yara Greyjoy,Osha
+Yara Greyjoy,Talisa Maegyr
+Yara Greyjoy,Qhorin Halfhand
+Yara Greyjoy,Gendry
+Yara Greyjoy,Dagmer Cleftjaw
+Yara Greyjoy,Kevan Lannister
+Yara Greyjoy,Grenn
+Yara Greyjoy,Hot Pie
+Yara Greyjoy,Ros
+Yara Greyjoy,Rorge
+Yara Greyjoy,Kovarro
+Yara Greyjoy,Hodor
+Yara Greyjoy,Biter
+Yara Greyjoy,Rickon Stark
+Yara Greyjoy,Podrick Payne
+Yara Greyjoy,Gregor 'The Mountain' Clegane
+Yara Greyjoy,Matthos Seaworth
+Brienne of Tarth,Rickard Karstark
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,Rattleshirt
+Brienne of Tarth,Cersei Lannister
+Brienne of Tarth,Tywin Lannister
+Brienne of Tarth,Davos Seaworth
+Brienne of Tarth,Bran Stark
+Brienne of Tarth,Samwell Tarly
+Brienne of Tarth,Stannis Baratheon
+Brienne of Tarth,Shae
+Brienne of Tarth,Maester Luwin
+Brienne of Tarth,Osha
+Brienne of Tarth,Talisa Maegyr
+Brienne of Tarth,Qhorin Halfhand
+Brienne of Tarth,Gendry
+Brienne of Tarth,Dagmer Cleftjaw
+Brienne of Tarth,Kevan Lannister
+Brienne of Tarth,Grenn
+Brienne of Tarth,Hot Pie
+Brienne of Tarth,Ros
+Brienne of Tarth,Rorge
+Brienne of Tarth,Kovarro
+Brienne of Tarth,Hodor
+Brienne of Tarth,Biter
+Brienne of Tarth,Rickon Stark
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Gregor 'The Mountain' Clegane
+Brienne of Tarth,Matthos Seaworth
+Rickard Karstark,Eddison Tollett
+Rickard Karstark,Rattleshirt
+Rickard Karstark,Cersei Lannister
+Rickard Karstark,Tywin Lannister
+Rickard Karstark,Davos Seaworth
+Rickard Karstark,Bran Stark
+Rickard Karstark,Samwell Tarly
+Rickard Karstark,Stannis Baratheon
+Rickard Karstark,Shae
+Rickard Karstark,Maester Luwin
+Rickard Karstark,Osha
+Rickard Karstark,Talisa Maegyr
+Rickard Karstark,Qhorin Halfhand
+Rickard Karstark,Gendry
+Rickard Karstark,Dagmer Cleftjaw
+Rickard Karstark,Kevan Lannister
+Rickard Karstark,Grenn
+Rickard Karstark,Hot Pie
+Rickard Karstark,Ros
+Rickard Karstark,Rorge
+Rickard Karstark,Kovarro
+Rickard Karstark,Hodor
+Rickard Karstark,Biter
+Rickard Karstark,Rickon Stark
+Rickard Karstark,Podrick Payne
+Rickard Karstark,Gregor 'The Mountain' Clegane
+Rickard Karstark,Matthos Seaworth
+Eddison Tollett,Rattleshirt
+Eddison Tollett,Cersei Lannister
+Eddison Tollett,Tywin Lannister
+Eddison Tollett,Davos Seaworth
+Eddison Tollett,Bran Stark
+Eddison Tollett,Samwell Tarly
+Eddison Tollett,Stannis Baratheon
+Eddison Tollett,Shae
+Eddison Tollett,Maester Luwin
+Eddison Tollett,Osha
+Eddison Tollett,Talisa Maegyr
+Eddison Tollett,Qhorin Halfhand
+Eddison Tollett,Gendry
+Eddison Tollett,Dagmer Cleftjaw
+Eddison Tollett,Kevan Lannister
+Eddison Tollett,Grenn
+Eddison Tollett,Hot Pie
+Eddison Tollett,Ros
+Eddison Tollett,Rorge
+Eddison Tollett,Kovarro
+Eddison Tollett,Hodor
+Eddison Tollett,Biter
+Eddison Tollett,Rickon Stark
+Eddison Tollett,Podrick Payne
+Eddison Tollett,Gregor 'The Mountain' Clegane
+Eddison Tollett,Matthos Seaworth
+Rattleshirt,Cersei Lannister
+Rattleshirt,Tywin Lannister
+Rattleshirt,Davos Seaworth
+Rattleshirt,Bran Stark
+Rattleshirt,Samwell Tarly
+Rattleshirt,Stannis Baratheon
+Rattleshirt,Shae
+Rattleshirt,Maester Luwin
+Rattleshirt,Osha
+Rattleshirt,Talisa Maegyr
+Rattleshirt,Qhorin Halfhand
+Rattleshirt,Gendry
+Rattleshirt,Dagmer Cleftjaw
+Rattleshirt,Kevan Lannister
+Rattleshirt,Grenn
+Rattleshirt,Hot Pie
+Rattleshirt,Ros
+Rattleshirt,Rorge
+Rattleshirt,Kovarro
+Rattleshirt,Hodor
+Rattleshirt,Biter
+Rattleshirt,Rickon Stark
+Rattleshirt,Podrick Payne
+Rattleshirt,Gregor 'The Mountain' Clegane
+Rattleshirt,Matthos Seaworth
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Bran Stark
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Shae
+Cersei Lannister,Maester Luwin
+Cersei Lannister,Osha
+Cersei Lannister,Talisa Maegyr
+Cersei Lannister,Qhorin Halfhand
+Cersei Lannister,Gendry
+Cersei Lannister,Dagmer Cleftjaw
+Cersei Lannister,Kevan Lannister
+Cersei Lannister,Grenn
+Cersei Lannister,Hot Pie
+Cersei Lannister,Ros
+Cersei Lannister,Rorge
+Cersei Lannister,Kovarro
+Cersei Lannister,Hodor
+Cersei Lannister,Biter
+Cersei Lannister,Rickon Stark
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Gregor 'The Mountain' Clegane
+Cersei Lannister,Matthos Seaworth
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Bran Stark
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Shae
+Tywin Lannister,Maester Luwin
+Tywin Lannister,Osha
+Tywin Lannister,Talisa Maegyr
+Tywin Lannister,Qhorin Halfhand
+Tywin Lannister,Gendry
+Tywin Lannister,Dagmer Cleftjaw
+Tywin Lannister,Kevan Lannister
+Tywin Lannister,Grenn
+Tywin Lannister,Hot Pie
+Tywin Lannister,Ros
+Tywin Lannister,Rorge
+Tywin Lannister,Kovarro
+Tywin Lannister,Hodor
+Tywin Lannister,Biter
+Tywin Lannister,Rickon Stark
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Gregor 'The Mountain' Clegane
+Tywin Lannister,Matthos Seaworth
+Davos Seaworth,Bran Stark
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Shae
+Davos Seaworth,Maester Luwin
+Davos Seaworth,Osha
+Davos Seaworth,Talisa Maegyr
+Davos Seaworth,Qhorin Halfhand
+Davos Seaworth,Gendry
+Davos Seaworth,Dagmer Cleftjaw
+Davos Seaworth,Kevan Lannister
+Davos Seaworth,Grenn
+Davos Seaworth,Hot Pie
+Davos Seaworth,Ros
+Davos Seaworth,Rorge
+Davos Seaworth,Kovarro
+Davos Seaworth,Hodor
+Davos Seaworth,Biter
+Davos Seaworth,Rickon Stark
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Gregor 'The Mountain' Clegane
+Davos Seaworth,Matthos Seaworth
+Bran Stark,Samwell Tarly
+Bran Stark,Stannis Baratheon
+Bran Stark,Shae
+Bran Stark,Maester Luwin
+Bran Stark,Osha
+Bran Stark,Talisa Maegyr
+Bran Stark,Qhorin Halfhand
+Bran Stark,Gendry
+Bran Stark,Dagmer Cleftjaw
+Bran Stark,Kevan Lannister
+Bran Stark,Grenn
+Bran Stark,Hot Pie
+Bran Stark,Ros
+Bran Stark,Rorge
+Bran Stark,Kovarro
+Bran Stark,Hodor
+Bran Stark,Biter
+Bran Stark,Rickon Stark
+Bran Stark,Podrick Payne
+Bran Stark,Gregor 'The Mountain' Clegane
+Bran Stark,Matthos Seaworth
+Samwell Tarly,Stannis Baratheon
+Samwell Tarly,Shae
+Samwell Tarly,Maester Luwin
+Samwell Tarly,Osha
+Samwell Tarly,Talisa Maegyr
+Samwell Tarly,Qhorin Halfhand
+Samwell Tarly,Gendry
+Samwell Tarly,Dagmer Cleftjaw
+Samwell Tarly,Kevan Lannister
+Samwell Tarly,Grenn
+Samwell Tarly,Hot Pie
+Samwell Tarly,Ros
+Samwell Tarly,Rorge
+Samwell Tarly,Kovarro
+Samwell Tarly,Hodor
+Samwell Tarly,Biter
+Samwell Tarly,Rickon Stark
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Gregor 'The Mountain' Clegane
+Samwell Tarly,Matthos Seaworth
+Stannis Baratheon,Shae
+Stannis Baratheon,Maester Luwin
+Stannis Baratheon,Osha
+Stannis Baratheon,Talisa Maegyr
+Stannis Baratheon,Qhorin Halfhand
+Stannis Baratheon,Gendry
+Stannis Baratheon,Dagmer Cleftjaw
+Stannis Baratheon,Kevan Lannister
+Stannis Baratheon,Grenn
+Stannis Baratheon,Hot Pie
+Stannis Baratheon,Ros
+Stannis Baratheon,Rorge
+Stannis Baratheon,Kovarro
+Stannis Baratheon,Hodor
+Stannis Baratheon,Biter
+Stannis Baratheon,Rickon Stark
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Gregor 'The Mountain' Clegane
+Stannis Baratheon,Matthos Seaworth
+Shae,Maester Luwin
+Shae,Osha
+Shae,Talisa Maegyr
+Shae,Qhorin Halfhand
+Shae,Gendry
+Shae,Dagmer Cleftjaw
+Shae,Kevan Lannister
+Shae,Grenn
+Shae,Hot Pie
+Shae,Ros
+Shae,Rorge
+Shae,Kovarro
+Shae,Hodor
+Shae,Biter
+Shae,Rickon Stark
+Shae,Podrick Payne
+Shae,Gregor 'The Mountain' Clegane
+Shae,Matthos Seaworth
+Maester Luwin,Osha
+Maester Luwin,Talisa Maegyr
+Maester Luwin,Qhorin Halfhand
+Maester Luwin,Gendry
+Maester Luwin,Dagmer Cleftjaw
+Maester Luwin,Kevan Lannister
+Maester Luwin,Grenn
+Maester Luwin,Hot Pie
+Maester Luwin,Ros
+Maester Luwin,Rorge
+Maester Luwin,Kovarro
+Maester Luwin,Hodor
+Maester Luwin,Biter
+Maester Luwin,Rickon Stark
+Maester Luwin,Podrick Payne
+Maester Luwin,Gregor 'The Mountain' Clegane
+Maester Luwin,Matthos Seaworth
+Osha,Talisa Maegyr
+Osha,Qhorin Halfhand
+Osha,Gendry
+Osha,Dagmer Cleftjaw
+Osha,Kevan Lannister
+Osha,Grenn
+Osha,Hot Pie
+Osha,Ros
+Osha,Rorge
+Osha,Kovarro
+Osha,Hodor
+Osha,Biter
+Osha,Rickon Stark
+Osha,Podrick Payne
+Osha,Gregor 'The Mountain' Clegane
+Osha,Matthos Seaworth
+Talisa Maegyr,Qhorin Halfhand
+Talisa Maegyr,Gendry
+Talisa Maegyr,Dagmer Cleftjaw
+Talisa Maegyr,Kevan Lannister
+Talisa Maegyr,Grenn
+Talisa Maegyr,Hot Pie
+Talisa Maegyr,Ros
+Talisa Maegyr,Rorge
+Talisa Maegyr,Kovarro
+Talisa Maegyr,Hodor
+Talisa Maegyr,Biter
+Talisa Maegyr,Rickon Stark
+Talisa Maegyr,Podrick Payne
+Talisa Maegyr,Gregor 'The Mountain' Clegane
+Talisa Maegyr,Matthos Seaworth
+Qhorin Halfhand,Gendry
+Qhorin Halfhand,Dagmer Cleftjaw
+Qhorin Halfhand,Kevan Lannister
+Qhorin Halfhand,Grenn
+Qhorin Halfhand,Hot Pie
+Qhorin Halfhand,Ros
+Qhorin Halfhand,Rorge
+Qhorin Halfhand,Kovarro
+Qhorin Halfhand,Hodor
+Qhorin Halfhand,Biter
+Qhorin Halfhand,Rickon Stark
+Qhorin Halfhand,Podrick Payne
+Qhorin Halfhand,Gregor 'The Mountain' Clegane
+Qhorin Halfhand,Matthos Seaworth
+Gendry,Dagmer Cleftjaw
+Gendry,Kevan Lannister
+Gendry,Grenn
+Gendry,Hot Pie
+Gendry,Ros
+Gendry,Rorge
+Gendry,Kovarro
+Gendry,Hodor
+Gendry,Biter
+Gendry,Rickon Stark
+Gendry,Podrick Payne
+Gendry,Gregor 'The Mountain' Clegane
+Gendry,Matthos Seaworth
+Dagmer Cleftjaw,Kevan Lannister
+Dagmer Cleftjaw,Grenn
+Dagmer Cleftjaw,Hot Pie
+Dagmer Cleftjaw,Ros
+Dagmer Cleftjaw,Rorge
+Dagmer Cleftjaw,Kovarro
+Dagmer Cleftjaw,Hodor
+Dagmer Cleftjaw,Biter
+Dagmer Cleftjaw,Rickon Stark
+Dagmer Cleftjaw,Podrick Payne
+Dagmer Cleftjaw,Gregor 'The Mountain' Clegane
+Dagmer Cleftjaw,Matthos Seaworth
+Kevan Lannister,Grenn
+Kevan Lannister,Hot Pie
+Kevan Lannister,Ros
+Kevan Lannister,Rorge
+Kevan Lannister,Kovarro
+Kevan Lannister,Hodor
+Kevan Lannister,Biter
+Kevan Lannister,Rickon Stark
+Kevan Lannister,Podrick Payne
+Kevan Lannister,Gregor 'The Mountain' Clegane
+Kevan Lannister,Matthos Seaworth
+Grenn,Hot Pie
+Grenn,Ros
+Grenn,Rorge
+Grenn,Kovarro
+Grenn,Hodor
+Grenn,Biter
+Grenn,Rickon Stark
+Grenn,Podrick Payne
+Grenn,Gregor 'The Mountain' Clegane
+Grenn,Matthos Seaworth
+Hot Pie,Ros
+Hot Pie,Rorge
+Hot Pie,Kovarro
+Hot Pie,Hodor
+Hot Pie,Biter
+Hot Pie,Rickon Stark
+Hot Pie,Podrick Payne
+Hot Pie,Gregor 'The Mountain' Clegane
+Hot Pie,Matthos Seaworth
+Ros,Rorge
+Ros,Kovarro
+Ros,Hodor
+Ros,Biter
+Ros,Rickon Stark
+Ros,Podrick Payne
+Ros,Gregor 'The Mountain' Clegane
+Ros,Matthos Seaworth
+Rorge,Kovarro
+Rorge,Hodor
+Rorge,Biter
+Rorge,Rickon Stark
+Rorge,Podrick Payne
+Rorge,Gregor 'The Mountain' Clegane
+Rorge,Matthos Seaworth
+Kovarro,Hodor
+Kovarro,Biter
+Kovarro,Rickon Stark
+Kovarro,Podrick Payne
+Kovarro,Gregor 'The Mountain' Clegane
+Kovarro,Matthos Seaworth
+Hodor,Biter
+Hodor,Rickon Stark
+Hodor,Podrick Payne
+Hodor,Gregor 'The Mountain' Clegane
+Hodor,Matthos Seaworth
+Biter,Rickon Stark
+Biter,Podrick Payne
+Biter,Gregor 'The Mountain' Clegane
+Biter,Matthos Seaworth
+Rickon Stark,Podrick Payne
+Rickon Stark,Gregor 'The Mountain' Clegane
+Rickon Stark,Matthos Seaworth
+Podrick Payne,Gregor 'The Mountain' Clegane
+Podrick Payne,Matthos Seaworth
+Gregor 'The Mountain' Clegane,Matthos Seaworth

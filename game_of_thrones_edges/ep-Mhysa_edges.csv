@@ -1,0 +1,862 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Davos Seaworth
+Tyrion Lannister,Stannis Baratheon
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Gendry
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Shae
+Tyrion Lannister,Walder Frey
+Tyrion Lannister,Balon Greyjoy
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Ramsay Snow
+Tyrion Lannister,Barristan Selmy
+Tyrion Lannister,Jojen Reed
+Tyrion Lannister,Yara Greyjoy
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Missandei
+Tyrion Lannister,Shireen Baratheon
+Tyrion Lannister,Maester Aemon
+Tyrion Lannister,Grand Maester Pycelle
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Qyburn
+Tyrion Lannister,Gilly
+Tyrion Lannister,Meera Reed
+Tyrion Lannister,Hodor
+Tyrion Lannister,Grey Worm
+Tyrion Lannister,Pypar
+Tyrion Lannister,Desmond Crakehall
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Jon Snow
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Tywin Lannister
+Jaime Lannister,Davos Seaworth
+Jaime Lannister,Stannis Baratheon
+Jaime Lannister,Melisandre
+Jaime Lannister,Bran Stark
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Theon Greyjoy
+Jaime Lannister,Joffrey Baratheon
+Jaime Lannister,Ygritte
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Gendry
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Lord Varys
+Jaime Lannister,Shae
+Jaime Lannister,Walder Frey
+Jaime Lannister,Balon Greyjoy
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Ramsay Snow
+Jaime Lannister,Barristan Selmy
+Jaime Lannister,Jojen Reed
+Jaime Lannister,Yara Greyjoy
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Missandei
+Jaime Lannister,Shireen Baratheon
+Jaime Lannister,Maester Aemon
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Qyburn
+Jaime Lannister,Gilly
+Jaime Lannister,Meera Reed
+Jaime Lannister,Hodor
+Jaime Lannister,Grey Worm
+Jaime Lannister,Pypar
+Jaime Lannister,Desmond Crakehall
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Davos Seaworth
+Cersei Lannister,Stannis Baratheon
+Cersei Lannister,Melisandre
+Cersei Lannister,Bran Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Ygritte
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Gendry
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Lord Varys
+Cersei Lannister,Shae
+Cersei Lannister,Walder Frey
+Cersei Lannister,Balon Greyjoy
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Ramsay Snow
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Jojen Reed
+Cersei Lannister,Yara Greyjoy
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Missandei
+Cersei Lannister,Shireen Baratheon
+Cersei Lannister,Maester Aemon
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Qyburn
+Cersei Lannister,Gilly
+Cersei Lannister,Meera Reed
+Cersei Lannister,Hodor
+Cersei Lannister,Grey Worm
+Cersei Lannister,Pypar
+Cersei Lannister,Desmond Crakehall
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Davos Seaworth
+Daenerys Targaryen,Stannis Baratheon
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Theon Greyjoy
+Daenerys Targaryen,Joffrey Baratheon
+Daenerys Targaryen,Ygritte
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Gendry
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Shae
+Daenerys Targaryen,Walder Frey
+Daenerys Targaryen,Balon Greyjoy
+Daenerys Targaryen,Roose Bolton
+Daenerys Targaryen,Ramsay Snow
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Jojen Reed
+Daenerys Targaryen,Yara Greyjoy
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Shireen Baratheon
+Daenerys Targaryen,Maester Aemon
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Qyburn
+Daenerys Targaryen,Gilly
+Daenerys Targaryen,Meera Reed
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Pypar
+Daenerys Targaryen,Desmond Crakehall
+Jon Snow,Jorah Mormont
+Jon Snow,Tywin Lannister
+Jon Snow,Davos Seaworth
+Jon Snow,Stannis Baratheon
+Jon Snow,Melisandre
+Jon Snow,Bran Stark
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Theon Greyjoy
+Jon Snow,Joffrey Baratheon
+Jon Snow,Ygritte
+Jon Snow,Samwell Tarly
+Jon Snow,Gendry
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Lord Varys
+Jon Snow,Shae
+Jon Snow,Walder Frey
+Jon Snow,Balon Greyjoy
+Jon Snow,Roose Bolton
+Jon Snow,Ramsay Snow
+Jon Snow,Barristan Selmy
+Jon Snow,Jojen Reed
+Jon Snow,Yara Greyjoy
+Jon Snow,Podrick Payne
+Jon Snow,Daario Naharis
+Jon Snow,Missandei
+Jon Snow,Shireen Baratheon
+Jon Snow,Maester Aemon
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Brienne of Tarth
+Jon Snow,Qyburn
+Jon Snow,Gilly
+Jon Snow,Meera Reed
+Jon Snow,Hodor
+Jon Snow,Grey Worm
+Jon Snow,Pypar
+Jon Snow,Desmond Crakehall
+Jorah Mormont,Tywin Lannister
+Jorah Mormont,Davos Seaworth
+Jorah Mormont,Stannis Baratheon
+Jorah Mormont,Melisandre
+Jorah Mormont,Bran Stark
+Jorah Mormont,Sansa Stark
+Jorah Mormont,Arya Stark
+Jorah Mormont,Theon Greyjoy
+Jorah Mormont,Joffrey Baratheon
+Jorah Mormont,Ygritte
+Jorah Mormont,Samwell Tarly
+Jorah Mormont,Gendry
+Jorah Mormont,Sandor 'The Hound' Clegane
+Jorah Mormont,Lord Varys
+Jorah Mormont,Shae
+Jorah Mormont,Walder Frey
+Jorah Mormont,Balon Greyjoy
+Jorah Mormont,Roose Bolton
+Jorah Mormont,Ramsay Snow
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Jojen Reed
+Jorah Mormont,Yara Greyjoy
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Daario Naharis
+Jorah Mormont,Missandei
+Jorah Mormont,Shireen Baratheon
+Jorah Mormont,Maester Aemon
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Qyburn
+Jorah Mormont,Gilly
+Jorah Mormont,Meera Reed
+Jorah Mormont,Hodor
+Jorah Mormont,Grey Worm
+Jorah Mormont,Pypar
+Jorah Mormont,Desmond Crakehall
+Tywin Lannister,Davos Seaworth
+Tywin Lannister,Stannis Baratheon
+Tywin Lannister,Melisandre
+Tywin Lannister,Bran Stark
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Ygritte
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Gendry
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Lord Varys
+Tywin Lannister,Shae
+Tywin Lannister,Walder Frey
+Tywin Lannister,Balon Greyjoy
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Ramsay Snow
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Jojen Reed
+Tywin Lannister,Yara Greyjoy
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Daario Naharis
+Tywin Lannister,Missandei
+Tywin Lannister,Shireen Baratheon
+Tywin Lannister,Maester Aemon
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Qyburn
+Tywin Lannister,Gilly
+Tywin Lannister,Meera Reed
+Tywin Lannister,Hodor
+Tywin Lannister,Grey Worm
+Tywin Lannister,Pypar
+Tywin Lannister,Desmond Crakehall
+Davos Seaworth,Stannis Baratheon
+Davos Seaworth,Melisandre
+Davos Seaworth,Bran Stark
+Davos Seaworth,Sansa Stark
+Davos Seaworth,Arya Stark
+Davos Seaworth,Theon Greyjoy
+Davos Seaworth,Joffrey Baratheon
+Davos Seaworth,Ygritte
+Davos Seaworth,Samwell Tarly
+Davos Seaworth,Gendry
+Davos Seaworth,Sandor 'The Hound' Clegane
+Davos Seaworth,Lord Varys
+Davos Seaworth,Shae
+Davos Seaworth,Walder Frey
+Davos Seaworth,Balon Greyjoy
+Davos Seaworth,Roose Bolton
+Davos Seaworth,Ramsay Snow
+Davos Seaworth,Barristan Selmy
+Davos Seaworth,Jojen Reed
+Davos Seaworth,Yara Greyjoy
+Davos Seaworth,Podrick Payne
+Davos Seaworth,Daario Naharis
+Davos Seaworth,Missandei
+Davos Seaworth,Shireen Baratheon
+Davos Seaworth,Maester Aemon
+Davos Seaworth,Grand Maester Pycelle
+Davos Seaworth,Brienne of Tarth
+Davos Seaworth,Qyburn
+Davos Seaworth,Gilly
+Davos Seaworth,Meera Reed
+Davos Seaworth,Hodor
+Davos Seaworth,Grey Worm
+Davos Seaworth,Pypar
+Davos Seaworth,Desmond Crakehall
+Stannis Baratheon,Melisandre
+Stannis Baratheon,Bran Stark
+Stannis Baratheon,Sansa Stark
+Stannis Baratheon,Arya Stark
+Stannis Baratheon,Theon Greyjoy
+Stannis Baratheon,Joffrey Baratheon
+Stannis Baratheon,Ygritte
+Stannis Baratheon,Samwell Tarly
+Stannis Baratheon,Gendry
+Stannis Baratheon,Sandor 'The Hound' Clegane
+Stannis Baratheon,Lord Varys
+Stannis Baratheon,Shae
+Stannis Baratheon,Walder Frey
+Stannis Baratheon,Balon Greyjoy
+Stannis Baratheon,Roose Bolton
+Stannis Baratheon,Ramsay Snow
+Stannis Baratheon,Barristan Selmy
+Stannis Baratheon,Jojen Reed
+Stannis Baratheon,Yara Greyjoy
+Stannis Baratheon,Podrick Payne
+Stannis Baratheon,Daario Naharis
+Stannis Baratheon,Missandei
+Stannis Baratheon,Shireen Baratheon
+Stannis Baratheon,Maester Aemon
+Stannis Baratheon,Grand Maester Pycelle
+Stannis Baratheon,Brienne of Tarth
+Stannis Baratheon,Qyburn
+Stannis Baratheon,Gilly
+Stannis Baratheon,Meera Reed
+Stannis Baratheon,Hodor
+Stannis Baratheon,Grey Worm
+Stannis Baratheon,Pypar
+Stannis Baratheon,Desmond Crakehall
+Melisandre,Bran Stark
+Melisandre,Sansa Stark
+Melisandre,Arya Stark
+Melisandre,Theon Greyjoy
+Melisandre,Joffrey Baratheon
+Melisandre,Ygritte
+Melisandre,Samwell Tarly
+Melisandre,Gendry
+Melisandre,Sandor 'The Hound' Clegane
+Melisandre,Lord Varys
+Melisandre,Shae
+Melisandre,Walder Frey
+Melisandre,Balon Greyjoy
+Melisandre,Roose Bolton
+Melisandre,Ramsay Snow
+Melisandre,Barristan Selmy
+Melisandre,Jojen Reed
+Melisandre,Yara Greyjoy
+Melisandre,Podrick Payne
+Melisandre,Daario Naharis
+Melisandre,Missandei
+Melisandre,Shireen Baratheon
+Melisandre,Maester Aemon
+Melisandre,Grand Maester Pycelle
+Melisandre,Brienne of Tarth
+Melisandre,Qyburn
+Melisandre,Gilly
+Melisandre,Meera Reed
+Melisandre,Hodor
+Melisandre,Grey Worm
+Melisandre,Pypar
+Melisandre,Desmond Crakehall
+Bran Stark,Sansa Stark
+Bran Stark,Arya Stark
+Bran Stark,Theon Greyjoy
+Bran Stark,Joffrey Baratheon
+Bran Stark,Ygritte
+Bran Stark,Samwell Tarly
+Bran Stark,Gendry
+Bran Stark,Sandor 'The Hound' Clegane
+Bran Stark,Lord Varys
+Bran Stark,Shae
+Bran Stark,Walder Frey
+Bran Stark,Balon Greyjoy
+Bran Stark,Roose Bolton
+Bran Stark,Ramsay Snow
+Bran Stark,Barristan Selmy
+Bran Stark,Jojen Reed
+Bran Stark,Yara Greyjoy
+Bran Stark,Podrick Payne
+Bran Stark,Daario Naharis
+Bran Stark,Missandei
+Bran Stark,Shireen Baratheon
+Bran Stark,Maester Aemon
+Bran Stark,Grand Maester Pycelle
+Bran Stark,Brienne of Tarth
+Bran Stark,Qyburn
+Bran Stark,Gilly
+Bran Stark,Meera Reed
+Bran Stark,Hodor
+Bran Stark,Grey Worm
+Bran Stark,Pypar
+Bran Stark,Desmond Crakehall
+Sansa Stark,Arya Stark
+Sansa Stark,Theon Greyjoy
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Ygritte
+Sansa Stark,Samwell Tarly
+Sansa Stark,Gendry
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Lord Varys
+Sansa Stark,Shae
+Sansa Stark,Walder Frey
+Sansa Stark,Balon Greyjoy
+Sansa Stark,Roose Bolton
+Sansa Stark,Ramsay Snow
+Sansa Stark,Barristan Selmy
+Sansa Stark,Jojen Reed
+Sansa Stark,Yara Greyjoy
+Sansa Stark,Podrick Payne
+Sansa Stark,Daario Naharis
+Sansa Stark,Missandei
+Sansa Stark,Shireen Baratheon
+Sansa Stark,Maester Aemon
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Qyburn
+Sansa Stark,Gilly
+Sansa Stark,Meera Reed
+Sansa Stark,Hodor
+Sansa Stark,Grey Worm
+Sansa Stark,Pypar
+Sansa Stark,Desmond Crakehall
+Arya Stark,Theon Greyjoy
+Arya Stark,Joffrey Baratheon
+Arya Stark,Ygritte
+Arya Stark,Samwell Tarly
+Arya Stark,Gendry
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Lord Varys
+Arya Stark,Shae
+Arya Stark,Walder Frey
+Arya Stark,Balon Greyjoy
+Arya Stark,Roose Bolton
+Arya Stark,Ramsay Snow
+Arya Stark,Barristan Selmy
+Arya Stark,Jojen Reed
+Arya Stark,Yara Greyjoy
+Arya Stark,Podrick Payne
+Arya Stark,Daario Naharis
+Arya Stark,Missandei
+Arya Stark,Shireen Baratheon
+Arya Stark,Maester Aemon
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Brienne of Tarth
+Arya Stark,Qyburn
+Arya Stark,Gilly
+Arya Stark,Meera Reed
+Arya Stark,Hodor
+Arya Stark,Grey Worm
+Arya Stark,Pypar
+Arya Stark,Desmond Crakehall
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Ygritte
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Gendry
+Theon Greyjoy,Sandor 'The Hound' Clegane
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Shae
+Theon Greyjoy,Walder Frey
+Theon Greyjoy,Balon Greyjoy
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Ramsay Snow
+Theon Greyjoy,Barristan Selmy
+Theon Greyjoy,Jojen Reed
+Theon Greyjoy,Yara Greyjoy
+Theon Greyjoy,Podrick Payne
+Theon Greyjoy,Daario Naharis
+Theon Greyjoy,Missandei
+Theon Greyjoy,Shireen Baratheon
+Theon Greyjoy,Maester Aemon
+Theon Greyjoy,Grand Maester Pycelle
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Qyburn
+Theon Greyjoy,Gilly
+Theon Greyjoy,Meera Reed
+Theon Greyjoy,Hodor
+Theon Greyjoy,Grey Worm
+Theon Greyjoy,Pypar
+Theon Greyjoy,Desmond Crakehall
+Joffrey Baratheon,Ygritte
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Gendry
+Joffrey Baratheon,Sandor 'The Hound' Clegane
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Walder Frey
+Joffrey Baratheon,Balon Greyjoy
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Ramsay Snow
+Joffrey Baratheon,Barristan Selmy
+Joffrey Baratheon,Jojen Reed
+Joffrey Baratheon,Yara Greyjoy
+Joffrey Baratheon,Podrick Payne
+Joffrey Baratheon,Daario Naharis
+Joffrey Baratheon,Missandei
+Joffrey Baratheon,Shireen Baratheon
+Joffrey Baratheon,Maester Aemon
+Joffrey Baratheon,Grand Maester Pycelle
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Qyburn
+Joffrey Baratheon,Gilly
+Joffrey Baratheon,Meera Reed
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Grey Worm
+Joffrey Baratheon,Pypar
+Joffrey Baratheon,Desmond Crakehall
+Ygritte,Samwell Tarly
+Ygritte,Gendry
+Ygritte,Sandor 'The Hound' Clegane
+Ygritte,Lord Varys
+Ygritte,Shae
+Ygritte,Walder Frey
+Ygritte,Balon Greyjoy
+Ygritte,Roose Bolton
+Ygritte,Ramsay Snow
+Ygritte,Barristan Selmy
+Ygritte,Jojen Reed
+Ygritte,Yara Greyjoy
+Ygritte,Podrick Payne
+Ygritte,Daario Naharis
+Ygritte,Missandei
+Ygritte,Shireen Baratheon
+Ygritte,Maester Aemon
+Ygritte,Grand Maester Pycelle
+Ygritte,Brienne of Tarth
+Ygritte,Qyburn
+Ygritte,Gilly
+Ygritte,Meera Reed
+Ygritte,Hodor
+Ygritte,Grey Worm
+Ygritte,Pypar
+Ygritte,Desmond Crakehall
+Samwell Tarly,Gendry
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Lord Varys
+Samwell Tarly,Shae
+Samwell Tarly,Walder Frey
+Samwell Tarly,Balon Greyjoy
+Samwell Tarly,Roose Bolton
+Samwell Tarly,Ramsay Snow
+Samwell Tarly,Barristan Selmy
+Samwell Tarly,Jojen Reed
+Samwell Tarly,Yara Greyjoy
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Daario Naharis
+Samwell Tarly,Missandei
+Samwell Tarly,Shireen Baratheon
+Samwell Tarly,Maester Aemon
+Samwell Tarly,Grand Maester Pycelle
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Qyburn
+Samwell Tarly,Gilly
+Samwell Tarly,Meera Reed
+Samwell Tarly,Hodor
+Samwell Tarly,Grey Worm
+Samwell Tarly,Pypar
+Samwell Tarly,Desmond Crakehall
+Gendry,Sandor 'The Hound' Clegane
+Gendry,Lord Varys
+Gendry,Shae
+Gendry,Walder Frey
+Gendry,Balon Greyjoy
+Gendry,Roose Bolton
+Gendry,Ramsay Snow
+Gendry,Barristan Selmy
+Gendry,Jojen Reed
+Gendry,Yara Greyjoy
+Gendry,Podrick Payne
+Gendry,Daario Naharis
+Gendry,Missandei
+Gendry,Shireen Baratheon
+Gendry,Maester Aemon
+Gendry,Grand Maester Pycelle
+Gendry,Brienne of Tarth
+Gendry,Qyburn
+Gendry,Gilly
+Gendry,Meera Reed
+Gendry,Hodor
+Gendry,Grey Worm
+Gendry,Pypar
+Gendry,Desmond Crakehall
+Sandor 'The Hound' Clegane,Lord Varys
+Sandor 'The Hound' Clegane,Shae
+Sandor 'The Hound' Clegane,Walder Frey
+Sandor 'The Hound' Clegane,Balon Greyjoy
+Sandor 'The Hound' Clegane,Roose Bolton
+Sandor 'The Hound' Clegane,Ramsay Snow
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Jojen Reed
+Sandor 'The Hound' Clegane,Yara Greyjoy
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Daario Naharis
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Shireen Baratheon
+Sandor 'The Hound' Clegane,Maester Aemon
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Qyburn
+Sandor 'The Hound' Clegane,Gilly
+Sandor 'The Hound' Clegane,Meera Reed
+Sandor 'The Hound' Clegane,Hodor
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Pypar
+Sandor 'The Hound' Clegane,Desmond Crakehall
+Lord Varys,Shae
+Lord Varys,Walder Frey
+Lord Varys,Balon Greyjoy
+Lord Varys,Roose Bolton
+Lord Varys,Ramsay Snow
+Lord Varys,Barristan Selmy
+Lord Varys,Jojen Reed
+Lord Varys,Yara Greyjoy
+Lord Varys,Podrick Payne
+Lord Varys,Daario Naharis
+Lord Varys,Missandei
+Lord Varys,Shireen Baratheon
+Lord Varys,Maester Aemon
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Brienne of Tarth
+Lord Varys,Qyburn
+Lord Varys,Gilly
+Lord Varys,Meera Reed
+Lord Varys,Hodor
+Lord Varys,Grey Worm
+Lord Varys,Pypar
+Lord Varys,Desmond Crakehall
+Shae,Walder Frey
+Shae,Balon Greyjoy
+Shae,Roose Bolton
+Shae,Ramsay Snow
+Shae,Barristan Selmy
+Shae,Jojen Reed
+Shae,Yara Greyjoy
+Shae,Podrick Payne
+Shae,Daario Naharis
+Shae,Missandei
+Shae,Shireen Baratheon
+Shae,Maester Aemon
+Shae,Grand Maester Pycelle
+Shae,Brienne of Tarth
+Shae,Qyburn
+Shae,Gilly
+Shae,Meera Reed
+Shae,Hodor
+Shae,Grey Worm
+Shae,Pypar
+Shae,Desmond Crakehall
+Walder Frey,Balon Greyjoy
+Walder Frey,Roose Bolton
+Walder Frey,Ramsay Snow
+Walder Frey,Barristan Selmy
+Walder Frey,Jojen Reed
+Walder Frey,Yara Greyjoy
+Walder Frey,Podrick Payne
+Walder Frey,Daario Naharis
+Walder Frey,Missandei
+Walder Frey,Shireen Baratheon
+Walder Frey,Maester Aemon
+Walder Frey,Grand Maester Pycelle
+Walder Frey,Brienne of Tarth
+Walder Frey,Qyburn
+Walder Frey,Gilly
+Walder Frey,Meera Reed
+Walder Frey,Hodor
+Walder Frey,Grey Worm
+Walder Frey,Pypar
+Walder Frey,Desmond Crakehall
+Balon Greyjoy,Roose Bolton
+Balon Greyjoy,Ramsay Snow
+Balon Greyjoy,Barristan Selmy
+Balon Greyjoy,Jojen Reed
+Balon Greyjoy,Yara Greyjoy
+Balon Greyjoy,Podrick Payne
+Balon Greyjoy,Daario Naharis
+Balon Greyjoy,Missandei
+Balon Greyjoy,Shireen Baratheon
+Balon Greyjoy,Maester Aemon
+Balon Greyjoy,Grand Maester Pycelle
+Balon Greyjoy,Brienne of Tarth
+Balon Greyjoy,Qyburn
+Balon Greyjoy,Gilly
+Balon Greyjoy,Meera Reed
+Balon Greyjoy,Hodor
+Balon Greyjoy,Grey Worm
+Balon Greyjoy,Pypar
+Balon Greyjoy,Desmond Crakehall
+Roose Bolton,Ramsay Snow
+Roose Bolton,Barristan Selmy
+Roose Bolton,Jojen Reed
+Roose Bolton,Yara Greyjoy
+Roose Bolton,Podrick Payne
+Roose Bolton,Daario Naharis
+Roose Bolton,Missandei
+Roose Bolton,Shireen Baratheon
+Roose Bolton,Maester Aemon
+Roose Bolton,Grand Maester Pycelle
+Roose Bolton,Brienne of Tarth
+Roose Bolton,Qyburn
+Roose Bolton,Gilly
+Roose Bolton,Meera Reed
+Roose Bolton,Hodor
+Roose Bolton,Grey Worm
+Roose Bolton,Pypar
+Roose Bolton,Desmond Crakehall
+Ramsay Snow,Barristan Selmy
+Ramsay Snow,Jojen Reed
+Ramsay Snow,Yara Greyjoy
+Ramsay Snow,Podrick Payne
+Ramsay Snow,Daario Naharis
+Ramsay Snow,Missandei
+Ramsay Snow,Shireen Baratheon
+Ramsay Snow,Maester Aemon
+Ramsay Snow,Grand Maester Pycelle
+Ramsay Snow,Brienne of Tarth
+Ramsay Snow,Qyburn
+Ramsay Snow,Gilly
+Ramsay Snow,Meera Reed
+Ramsay Snow,Hodor
+Ramsay Snow,Grey Worm
+Ramsay Snow,Pypar
+Ramsay Snow,Desmond Crakehall
+Barristan Selmy,Jojen Reed
+Barristan Selmy,Yara Greyjoy
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Daario Naharis
+Barristan Selmy,Missandei
+Barristan Selmy,Shireen Baratheon
+Barristan Selmy,Maester Aemon
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Brienne of Tarth
+Barristan Selmy,Qyburn
+Barristan Selmy,Gilly
+Barristan Selmy,Meera Reed
+Barristan Selmy,Hodor
+Barristan Selmy,Grey Worm
+Barristan Selmy,Pypar
+Barristan Selmy,Desmond Crakehall
+Jojen Reed,Yara Greyjoy
+Jojen Reed,Podrick Payne
+Jojen Reed,Daario Naharis
+Jojen Reed,Missandei
+Jojen Reed,Shireen Baratheon
+Jojen Reed,Maester Aemon
+Jojen Reed,Grand Maester Pycelle
+Jojen Reed,Brienne of Tarth
+Jojen Reed,Qyburn
+Jojen Reed,Gilly
+Jojen Reed,Meera Reed
+Jojen Reed,Hodor
+Jojen Reed,Grey Worm
+Jojen Reed,Pypar
+Jojen Reed,Desmond Crakehall
+Yara Greyjoy,Podrick Payne
+Yara Greyjoy,Daario Naharis
+Yara Greyjoy,Missandei
+Yara Greyjoy,Shireen Baratheon
+Yara Greyjoy,Maester Aemon
+Yara Greyjoy,Grand Maester Pycelle
+Yara Greyjoy,Brienne of Tarth
+Yara Greyjoy,Qyburn
+Yara Greyjoy,Gilly
+Yara Greyjoy,Meera Reed
+Yara Greyjoy,Hodor
+Yara Greyjoy,Grey Worm
+Yara Greyjoy,Pypar
+Yara Greyjoy,Desmond Crakehall
+Podrick Payne,Daario Naharis
+Podrick Payne,Missandei
+Podrick Payne,Shireen Baratheon
+Podrick Payne,Maester Aemon
+Podrick Payne,Grand Maester Pycelle
+Podrick Payne,Brienne of Tarth
+Podrick Payne,Qyburn
+Podrick Payne,Gilly
+Podrick Payne,Meera Reed
+Podrick Payne,Hodor
+Podrick Payne,Grey Worm
+Podrick Payne,Pypar
+Podrick Payne,Desmond Crakehall
+Daario Naharis,Missandei
+Daario Naharis,Shireen Baratheon
+Daario Naharis,Maester Aemon
+Daario Naharis,Grand Maester Pycelle
+Daario Naharis,Brienne of Tarth
+Daario Naharis,Qyburn
+Daario Naharis,Gilly
+Daario Naharis,Meera Reed
+Daario Naharis,Hodor
+Daario Naharis,Grey Worm
+Daario Naharis,Pypar
+Daario Naharis,Desmond Crakehall
+Missandei,Shireen Baratheon
+Missandei,Maester Aemon
+Missandei,Grand Maester Pycelle
+Missandei,Brienne of Tarth
+Missandei,Qyburn
+Missandei,Gilly
+Missandei,Meera Reed
+Missandei,Hodor
+Missandei,Grey Worm
+Missandei,Pypar
+Missandei,Desmond Crakehall
+Shireen Baratheon,Maester Aemon
+Shireen Baratheon,Grand Maester Pycelle
+Shireen Baratheon,Brienne of Tarth
+Shireen Baratheon,Qyburn
+Shireen Baratheon,Gilly
+Shireen Baratheon,Meera Reed
+Shireen Baratheon,Hodor
+Shireen Baratheon,Grey Worm
+Shireen Baratheon,Pypar
+Shireen Baratheon,Desmond Crakehall
+Maester Aemon,Grand Maester Pycelle
+Maester Aemon,Brienne of Tarth
+Maester Aemon,Qyburn
+Maester Aemon,Gilly
+Maester Aemon,Meera Reed
+Maester Aemon,Hodor
+Maester Aemon,Grey Worm
+Maester Aemon,Pypar
+Maester Aemon,Desmond Crakehall
+Grand Maester Pycelle,Brienne of Tarth
+Grand Maester Pycelle,Qyburn
+Grand Maester Pycelle,Gilly
+Grand Maester Pycelle,Meera Reed
+Grand Maester Pycelle,Hodor
+Grand Maester Pycelle,Grey Worm
+Grand Maester Pycelle,Pypar
+Grand Maester Pycelle,Desmond Crakehall
+Brienne of Tarth,Qyburn
+Brienne of Tarth,Gilly
+Brienne of Tarth,Meera Reed
+Brienne of Tarth,Hodor
+Brienne of Tarth,Grey Worm
+Brienne of Tarth,Pypar
+Brienne of Tarth,Desmond Crakehall
+Qyburn,Gilly
+Qyburn,Meera Reed
+Qyburn,Hodor
+Qyburn,Grey Worm
+Qyburn,Pypar
+Qyburn,Desmond Crakehall
+Gilly,Meera Reed
+Gilly,Hodor
+Gilly,Grey Worm
+Gilly,Pypar
+Gilly,Desmond Crakehall
+Meera Reed,Hodor
+Meera Reed,Grey Worm
+Meera Reed,Pypar
+Meera Reed,Desmond Crakehall
+Hodor,Grey Worm
+Hodor,Pypar
+Hodor,Desmond Crakehall
+Grey Worm,Pypar
+Grey Worm,Desmond Crakehall
+Pypar,Desmond Crakehall

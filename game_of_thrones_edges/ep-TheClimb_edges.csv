@@ -1,0 +1,821 @@
+NAME 1,NAME 2
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Robb Stark
+Tyrion Lannister,Catelyn Stark
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Tywin Lannister
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Theon Greyjoy
+Tyrion Lannister,Bran Stark
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Gendry
+Tyrion Lannister,Joffrey Baratheon
+Tyrion Lannister,Ygritte
+Tyrion Lannister,Lord Varys
+Tyrion Lannister,Shae
+Tyrion Lannister,Olenna Tyrell
+Tyrion Lannister,Thoros of Myr
+Tyrion Lannister,Beric Dondarrion
+Tyrion Lannister,Tormund Giantsbane
+Tyrion Lannister,Ramsay Snow
+Tyrion Lannister,Gilly
+Tyrion Lannister,Loras Tyrell
+Tyrion Lannister,Jojen Reed
+Tyrion Lannister,Meera Reed
+Tyrion Lannister,Anguy
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Roose Bolton
+Tyrion Lannister,Orell
+Tyrion Lannister,Osha
+Tyrion Lannister,Brynden 'Blackfish' Tully
+Tyrion Lannister,Edmure Tully
+Tyrion Lannister,Ros
+Tyrion Lannister,Hodor
+Tyrion Lannister,Lothar Frey
+Tyrion Lannister,Black Walder Rivers
+Tyrion Lannister,Bernadette
+Tyrion Lannister,Rickon Stark
+Cersei Lannister,Jon Snow
+Cersei Lannister,Robb Stark
+Cersei Lannister,Catelyn Stark
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Melisandre
+Cersei Lannister,Theon Greyjoy
+Cersei Lannister,Bran Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Gendry
+Cersei Lannister,Joffrey Baratheon
+Cersei Lannister,Ygritte
+Cersei Lannister,Lord Varys
+Cersei Lannister,Shae
+Cersei Lannister,Olenna Tyrell
+Cersei Lannister,Thoros of Myr
+Cersei Lannister,Beric Dondarrion
+Cersei Lannister,Tormund Giantsbane
+Cersei Lannister,Ramsay Snow
+Cersei Lannister,Gilly
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Jojen Reed
+Cersei Lannister,Meera Reed
+Cersei Lannister,Anguy
+Cersei Lannister,Jaime Lannister
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Roose Bolton
+Cersei Lannister,Orell
+Cersei Lannister,Osha
+Cersei Lannister,Brynden 'Blackfish' Tully
+Cersei Lannister,Edmure Tully
+Cersei Lannister,Ros
+Cersei Lannister,Hodor
+Cersei Lannister,Lothar Frey
+Cersei Lannister,Black Walder Rivers
+Cersei Lannister,Bernadette
+Cersei Lannister,Rickon Stark
+Jon Snow,Robb Stark
+Jon Snow,Catelyn Stark
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Tywin Lannister
+Jon Snow,Melisandre
+Jon Snow,Theon Greyjoy
+Jon Snow,Bran Stark
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Gendry
+Jon Snow,Joffrey Baratheon
+Jon Snow,Ygritte
+Jon Snow,Lord Varys
+Jon Snow,Shae
+Jon Snow,Olenna Tyrell
+Jon Snow,Thoros of Myr
+Jon Snow,Beric Dondarrion
+Jon Snow,Tormund Giantsbane
+Jon Snow,Ramsay Snow
+Jon Snow,Gilly
+Jon Snow,Loras Tyrell
+Jon Snow,Jojen Reed
+Jon Snow,Meera Reed
+Jon Snow,Anguy
+Jon Snow,Jaime Lannister
+Jon Snow,Samwell Tarly
+Jon Snow,Brienne of Tarth
+Jon Snow,Roose Bolton
+Jon Snow,Orell
+Jon Snow,Osha
+Jon Snow,Brynden 'Blackfish' Tully
+Jon Snow,Edmure Tully
+Jon Snow,Ros
+Jon Snow,Hodor
+Jon Snow,Lothar Frey
+Jon Snow,Black Walder Rivers
+Jon Snow,Bernadette
+Jon Snow,Rickon Stark
+Robb Stark,Catelyn Stark
+Robb Stark,Petyr 'Littlefinger' Baelish
+Robb Stark,Tywin Lannister
+Robb Stark,Melisandre
+Robb Stark,Theon Greyjoy
+Robb Stark,Bran Stark
+Robb Stark,Sansa Stark
+Robb Stark,Arya Stark
+Robb Stark,Gendry
+Robb Stark,Joffrey Baratheon
+Robb Stark,Ygritte
+Robb Stark,Lord Varys
+Robb Stark,Shae
+Robb Stark,Olenna Tyrell
+Robb Stark,Thoros of Myr
+Robb Stark,Beric Dondarrion
+Robb Stark,Tormund Giantsbane
+Robb Stark,Ramsay Snow
+Robb Stark,Gilly
+Robb Stark,Loras Tyrell
+Robb Stark,Jojen Reed
+Robb Stark,Meera Reed
+Robb Stark,Anguy
+Robb Stark,Jaime Lannister
+Robb Stark,Samwell Tarly
+Robb Stark,Brienne of Tarth
+Robb Stark,Roose Bolton
+Robb Stark,Orell
+Robb Stark,Osha
+Robb Stark,Brynden 'Blackfish' Tully
+Robb Stark,Edmure Tully
+Robb Stark,Ros
+Robb Stark,Hodor
+Robb Stark,Lothar Frey
+Robb Stark,Black Walder Rivers
+Robb Stark,Bernadette
+Robb Stark,Rickon Stark
+Catelyn Stark,Petyr 'Littlefinger' Baelish
+Catelyn Stark,Tywin Lannister
+Catelyn Stark,Melisandre
+Catelyn Stark,Theon Greyjoy
+Catelyn Stark,Bran Stark
+Catelyn Stark,Sansa Stark
+Catelyn Stark,Arya Stark
+Catelyn Stark,Gendry
+Catelyn Stark,Joffrey Baratheon
+Catelyn Stark,Ygritte
+Catelyn Stark,Lord Varys
+Catelyn Stark,Shae
+Catelyn Stark,Olenna Tyrell
+Catelyn Stark,Thoros of Myr
+Catelyn Stark,Beric Dondarrion
+Catelyn Stark,Tormund Giantsbane
+Catelyn Stark,Ramsay Snow
+Catelyn Stark,Gilly
+Catelyn Stark,Loras Tyrell
+Catelyn Stark,Jojen Reed
+Catelyn Stark,Meera Reed
+Catelyn Stark,Anguy
+Catelyn Stark,Jaime Lannister
+Catelyn Stark,Samwell Tarly
+Catelyn Stark,Brienne of Tarth
+Catelyn Stark,Roose Bolton
+Catelyn Stark,Orell
+Catelyn Stark,Osha
+Catelyn Stark,Brynden 'Blackfish' Tully
+Catelyn Stark,Edmure Tully
+Catelyn Stark,Ros
+Catelyn Stark,Hodor
+Catelyn Stark,Lothar Frey
+Catelyn Stark,Black Walder Rivers
+Catelyn Stark,Bernadette
+Catelyn Stark,Rickon Stark
+Petyr 'Littlefinger' Baelish,Tywin Lannister
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Theon Greyjoy
+Petyr 'Littlefinger' Baelish,Bran Stark
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Gendry
+Petyr 'Littlefinger' Baelish,Joffrey Baratheon
+Petyr 'Littlefinger' Baelish,Ygritte
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Shae
+Petyr 'Littlefinger' Baelish,Olenna Tyrell
+Petyr 'Littlefinger' Baelish,Thoros of Myr
+Petyr 'Littlefinger' Baelish,Beric Dondarrion
+Petyr 'Littlefinger' Baelish,Tormund Giantsbane
+Petyr 'Littlefinger' Baelish,Ramsay Snow
+Petyr 'Littlefinger' Baelish,Gilly
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Jojen Reed
+Petyr 'Littlefinger' Baelish,Meera Reed
+Petyr 'Littlefinger' Baelish,Anguy
+Petyr 'Littlefinger' Baelish,Jaime Lannister
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Roose Bolton
+Petyr 'Littlefinger' Baelish,Orell
+Petyr 'Littlefinger' Baelish,Osha
+Petyr 'Littlefinger' Baelish,Brynden 'Blackfish' Tully
+Petyr 'Littlefinger' Baelish,Edmure Tully
+Petyr 'Littlefinger' Baelish,Ros
+Petyr 'Littlefinger' Baelish,Hodor
+Petyr 'Littlefinger' Baelish,Lothar Frey
+Petyr 'Littlefinger' Baelish,Black Walder Rivers
+Petyr 'Littlefinger' Baelish,Bernadette
+Petyr 'Littlefinger' Baelish,Rickon Stark
+Tywin Lannister,Melisandre
+Tywin Lannister,Theon Greyjoy
+Tywin Lannister,Bran Stark
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Gendry
+Tywin Lannister,Joffrey Baratheon
+Tywin Lannister,Ygritte
+Tywin Lannister,Lord Varys
+Tywin Lannister,Shae
+Tywin Lannister,Olenna Tyrell
+Tywin Lannister,Thoros of Myr
+Tywin Lannister,Beric Dondarrion
+Tywin Lannister,Tormund Giantsbane
+Tywin Lannister,Ramsay Snow
+Tywin Lannister,Gilly
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Jojen Reed
+Tywin Lannister,Meera Reed
+Tywin Lannister,Anguy
+Tywin Lannister,Jaime Lannister
+Tywin Lannister,Samwell Tarly
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Roose Bolton
+Tywin Lannister,Orell
+Tywin Lannister,Osha
+Tywin Lannister,Brynden 'Blackfish' Tully
+Tywin Lannister,Edmure Tully
+Tywin Lannister,Ros
+Tywin Lannister,Hodor
+Tywin Lannister,Lothar Frey
+Tywin Lannister,Black Walder Rivers
+Tywin Lannister,Bernadette
+Tywin Lannister,Rickon Stark
+Melisandre,Theon Greyjoy
+Melisandre,Bran Stark
+Melisandre,Sansa Stark
+Melisandre,Arya Stark
+Melisandre,Gendry
+Melisandre,Joffrey Baratheon
+Melisandre,Ygritte
+Melisandre,Lord Varys
+Melisandre,Shae
+Melisandre,Olenna Tyrell
+Melisandre,Thoros of Myr
+Melisandre,Beric Dondarrion
+Melisandre,Tormund Giantsbane
+Melisandre,Ramsay Snow
+Melisandre,Gilly
+Melisandre,Loras Tyrell
+Melisandre,Jojen Reed
+Melisandre,Meera Reed
+Melisandre,Anguy
+Melisandre,Jaime Lannister
+Melisandre,Samwell Tarly
+Melisandre,Brienne of Tarth
+Melisandre,Roose Bolton
+Melisandre,Orell
+Melisandre,Osha
+Melisandre,Brynden 'Blackfish' Tully
+Melisandre,Edmure Tully
+Melisandre,Ros
+Melisandre,Hodor
+Melisandre,Lothar Frey
+Melisandre,Black Walder Rivers
+Melisandre,Bernadette
+Melisandre,Rickon Stark
+Theon Greyjoy,Bran Stark
+Theon Greyjoy,Sansa Stark
+Theon Greyjoy,Arya Stark
+Theon Greyjoy,Gendry
+Theon Greyjoy,Joffrey Baratheon
+Theon Greyjoy,Ygritte
+Theon Greyjoy,Lord Varys
+Theon Greyjoy,Shae
+Theon Greyjoy,Olenna Tyrell
+Theon Greyjoy,Thoros of Myr
+Theon Greyjoy,Beric Dondarrion
+Theon Greyjoy,Tormund Giantsbane
+Theon Greyjoy,Ramsay Snow
+Theon Greyjoy,Gilly
+Theon Greyjoy,Loras Tyrell
+Theon Greyjoy,Jojen Reed
+Theon Greyjoy,Meera Reed
+Theon Greyjoy,Anguy
+Theon Greyjoy,Jaime Lannister
+Theon Greyjoy,Samwell Tarly
+Theon Greyjoy,Brienne of Tarth
+Theon Greyjoy,Roose Bolton
+Theon Greyjoy,Orell
+Theon Greyjoy,Osha
+Theon Greyjoy,Brynden 'Blackfish' Tully
+Theon Greyjoy,Edmure Tully
+Theon Greyjoy,Ros
+Theon Greyjoy,Hodor
+Theon Greyjoy,Lothar Frey
+Theon Greyjoy,Black Walder Rivers
+Theon Greyjoy,Bernadette
+Theon Greyjoy,Rickon Stark
+Bran Stark,Sansa Stark
+Bran Stark,Arya Stark
+Bran Stark,Gendry
+Bran Stark,Joffrey Baratheon
+Bran Stark,Ygritte
+Bran Stark,Lord Varys
+Bran Stark,Shae
+Bran Stark,Olenna Tyrell
+Bran Stark,Thoros of Myr
+Bran Stark,Beric Dondarrion
+Bran Stark,Tormund Giantsbane
+Bran Stark,Ramsay Snow
+Bran Stark,Gilly
+Bran Stark,Loras Tyrell
+Bran Stark,Jojen Reed
+Bran Stark,Meera Reed
+Bran Stark,Anguy
+Bran Stark,Jaime Lannister
+Bran Stark,Samwell Tarly
+Bran Stark,Brienne of Tarth
+Bran Stark,Roose Bolton
+Bran Stark,Orell
+Bran Stark,Osha
+Bran Stark,Brynden 'Blackfish' Tully
+Bran Stark,Edmure Tully
+Bran Stark,Ros
+Bran Stark,Hodor
+Bran Stark,Lothar Frey
+Bran Stark,Black Walder Rivers
+Bran Stark,Bernadette
+Bran Stark,Rickon Stark
+Sansa Stark,Arya Stark
+Sansa Stark,Gendry
+Sansa Stark,Joffrey Baratheon
+Sansa Stark,Ygritte
+Sansa Stark,Lord Varys
+Sansa Stark,Shae
+Sansa Stark,Olenna Tyrell
+Sansa Stark,Thoros of Myr
+Sansa Stark,Beric Dondarrion
+Sansa Stark,Tormund Giantsbane
+Sansa Stark,Ramsay Snow
+Sansa Stark,Gilly
+Sansa Stark,Loras Tyrell
+Sansa Stark,Jojen Reed
+Sansa Stark,Meera Reed
+Sansa Stark,Anguy
+Sansa Stark,Jaime Lannister
+Sansa Stark,Samwell Tarly
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Roose Bolton
+Sansa Stark,Orell
+Sansa Stark,Osha
+Sansa Stark,Brynden 'Blackfish' Tully
+Sansa Stark,Edmure Tully
+Sansa Stark,Ros
+Sansa Stark,Hodor
+Sansa Stark,Lothar Frey
+Sansa Stark,Black Walder Rivers
+Sansa Stark,Bernadette
+Sansa Stark,Rickon Stark
+Arya Stark,Gendry
+Arya Stark,Joffrey Baratheon
+Arya Stark,Ygritte
+Arya Stark,Lord Varys
+Arya Stark,Shae
+Arya Stark,Olenna Tyrell
+Arya Stark,Thoros of Myr
+Arya Stark,Beric Dondarrion
+Arya Stark,Tormund Giantsbane
+Arya Stark,Ramsay Snow
+Arya Stark,Gilly
+Arya Stark,Loras Tyrell
+Arya Stark,Jojen Reed
+Arya Stark,Meera Reed
+Arya Stark,Anguy
+Arya Stark,Jaime Lannister
+Arya Stark,Samwell Tarly
+Arya Stark,Brienne of Tarth
+Arya Stark,Roose Bolton
+Arya Stark,Orell
+Arya Stark,Osha
+Arya Stark,Brynden 'Blackfish' Tully
+Arya Stark,Edmure Tully
+Arya Stark,Ros
+Arya Stark,Hodor
+Arya Stark,Lothar Frey
+Arya Stark,Black Walder Rivers
+Arya Stark,Bernadette
+Arya Stark,Rickon Stark
+Gendry,Joffrey Baratheon
+Gendry,Ygritte
+Gendry,Lord Varys
+Gendry,Shae
+Gendry,Olenna Tyrell
+Gendry,Thoros of Myr
+Gendry,Beric Dondarrion
+Gendry,Tormund Giantsbane
+Gendry,Ramsay Snow
+Gendry,Gilly
+Gendry,Loras Tyrell
+Gendry,Jojen Reed
+Gendry,Meera Reed
+Gendry,Anguy
+Gendry,Jaime Lannister
+Gendry,Samwell Tarly
+Gendry,Brienne of Tarth
+Gendry,Roose Bolton
+Gendry,Orell
+Gendry,Osha
+Gendry,Brynden 'Blackfish' Tully
+Gendry,Edmure Tully
+Gendry,Ros
+Gendry,Hodor
+Gendry,Lothar Frey
+Gendry,Black Walder Rivers
+Gendry,Bernadette
+Gendry,Rickon Stark
+Joffrey Baratheon,Ygritte
+Joffrey Baratheon,Lord Varys
+Joffrey Baratheon,Shae
+Joffrey Baratheon,Olenna Tyrell
+Joffrey Baratheon,Thoros of Myr
+Joffrey Baratheon,Beric Dondarrion
+Joffrey Baratheon,Tormund Giantsbane
+Joffrey Baratheon,Ramsay Snow
+Joffrey Baratheon,Gilly
+Joffrey Baratheon,Loras Tyrell
+Joffrey Baratheon,Jojen Reed
+Joffrey Baratheon,Meera Reed
+Joffrey Baratheon,Anguy
+Joffrey Baratheon,Jaime Lannister
+Joffrey Baratheon,Samwell Tarly
+Joffrey Baratheon,Brienne of Tarth
+Joffrey Baratheon,Roose Bolton
+Joffrey Baratheon,Orell
+Joffrey Baratheon,Osha
+Joffrey Baratheon,Brynden 'Blackfish' Tully
+Joffrey Baratheon,Edmure Tully
+Joffrey Baratheon,Ros
+Joffrey Baratheon,Hodor
+Joffrey Baratheon,Lothar Frey
+Joffrey Baratheon,Black Walder Rivers
+Joffrey Baratheon,Bernadette
+Joffrey Baratheon,Rickon Stark
+Ygritte,Lord Varys
+Ygritte,Shae
+Ygritte,Olenna Tyrell
+Ygritte,Thoros of Myr
+Ygritte,Beric Dondarrion
+Ygritte,Tormund Giantsbane
+Ygritte,Ramsay Snow
+Ygritte,Gilly
+Ygritte,Loras Tyrell
+Ygritte,Jojen Reed
+Ygritte,Meera Reed
+Ygritte,Anguy
+Ygritte,Jaime Lannister
+Ygritte,Samwell Tarly
+Ygritte,Brienne of Tarth
+Ygritte,Roose Bolton
+Ygritte,Orell
+Ygritte,Osha
+Ygritte,Brynden 'Blackfish' Tully
+Ygritte,Edmure Tully
+Ygritte,Ros
+Ygritte,Hodor
+Ygritte,Lothar Frey
+Ygritte,Black Walder Rivers
+Ygritte,Bernadette
+Ygritte,Rickon Stark
+Lord Varys,Shae
+Lord Varys,Olenna Tyrell
+Lord Varys,Thoros of Myr
+Lord Varys,Beric Dondarrion
+Lord Varys,Tormund Giantsbane
+Lord Varys,Ramsay Snow
+Lord Varys,Gilly
+Lord Varys,Loras Tyrell
+Lord Varys,Jojen Reed
+Lord Varys,Meera Reed
+Lord Varys,Anguy
+Lord Varys,Jaime Lannister
+Lord Varys,Samwell Tarly
+Lord Varys,Brienne of Tarth
+Lord Varys,Roose Bolton
+Lord Varys,Orell
+Lord Varys,Osha
+Lord Varys,Brynden 'Blackfish' Tully
+Lord Varys,Edmure Tully
+Lord Varys,Ros
+Lord Varys,Hodor
+Lord Varys,Lothar Frey
+Lord Varys,Black Walder Rivers
+Lord Varys,Bernadette
+Lord Varys,Rickon Stark
+Shae,Olenna Tyrell
+Shae,Thoros of Myr
+Shae,Beric Dondarrion
+Shae,Tormund Giantsbane
+Shae,Ramsay Snow
+Shae,Gilly
+Shae,Loras Tyrell
+Shae,Jojen Reed
+Shae,Meera Reed
+Shae,Anguy
+Shae,Jaime Lannister
+Shae,Samwell Tarly
+Shae,Brienne of Tarth
+Shae,Roose Bolton
+Shae,Orell
+Shae,Osha
+Shae,Brynden 'Blackfish' Tully
+Shae,Edmure Tully
+Shae,Ros
+Shae,Hodor
+Shae,Lothar Frey
+Shae,Black Walder Rivers
+Shae,Bernadette
+Shae,Rickon Stark
+Olenna Tyrell,Thoros of Myr
+Olenna Tyrell,Beric Dondarrion
+Olenna Tyrell,Tormund Giantsbane
+Olenna Tyrell,Ramsay Snow
+Olenna Tyrell,Gilly
+Olenna Tyrell,Loras Tyrell
+Olenna Tyrell,Jojen Reed
+Olenna Tyrell,Meera Reed
+Olenna Tyrell,Anguy
+Olenna Tyrell,Jaime Lannister
+Olenna Tyrell,Samwell Tarly
+Olenna Tyrell,Brienne of Tarth
+Olenna Tyrell,Roose Bolton
+Olenna Tyrell,Orell
+Olenna Tyrell,Osha
+Olenna Tyrell,Brynden 'Blackfish' Tully
+Olenna Tyrell,Edmure Tully
+Olenna Tyrell,Ros
+Olenna Tyrell,Hodor
+Olenna Tyrell,Lothar Frey
+Olenna Tyrell,Black Walder Rivers
+Olenna Tyrell,Bernadette
+Olenna Tyrell,Rickon Stark
+Thoros of Myr,Beric Dondarrion
+Thoros of Myr,Tormund Giantsbane
+Thoros of Myr,Ramsay Snow
+Thoros of Myr,Gilly
+Thoros of Myr,Loras Tyrell
+Thoros of Myr,Jojen Reed
+Thoros of Myr,Meera Reed
+Thoros of Myr,Anguy
+Thoros of Myr,Jaime Lannister
+Thoros of Myr,Samwell Tarly
+Thoros of Myr,Brienne of Tarth
+Thoros of Myr,Roose Bolton
+Thoros of Myr,Orell
+Thoros of Myr,Osha
+Thoros of Myr,Brynden 'Blackfish' Tully
+Thoros of Myr,Edmure Tully
+Thoros of Myr,Ros
+Thoros of Myr,Hodor
+Thoros of Myr,Lothar Frey
+Thoros of Myr,Black Walder Rivers
+Thoros of Myr,Bernadette
+Thoros of Myr,Rickon Stark
+Beric Dondarrion,Tormund Giantsbane
+Beric Dondarrion,Ramsay Snow
+Beric Dondarrion,Gilly
+Beric Dondarrion,Loras Tyrell
+Beric Dondarrion,Jojen Reed
+Beric Dondarrion,Meera Reed
+Beric Dondarrion,Anguy
+Beric Dondarrion,Jaime Lannister
+Beric Dondarrion,Samwell Tarly
+Beric Dondarrion,Brienne of Tarth
+Beric Dondarrion,Roose Bolton
+Beric Dondarrion,Orell
+Beric Dondarrion,Osha
+Beric Dondarrion,Brynden 'Blackfish' Tully
+Beric Dondarrion,Edmure Tully
+Beric Dondarrion,Ros
+Beric Dondarrion,Hodor
+Beric Dondarrion,Lothar Frey
+Beric Dondarrion,Black Walder Rivers
+Beric Dondarrion,Bernadette
+Beric Dondarrion,Rickon Stark
+Tormund Giantsbane,Ramsay Snow
+Tormund Giantsbane,Gilly
+Tormund Giantsbane,Loras Tyrell
+Tormund Giantsbane,Jojen Reed
+Tormund Giantsbane,Meera Reed
+Tormund Giantsbane,Anguy
+Tormund Giantsbane,Jaime Lannister
+Tormund Giantsbane,Samwell Tarly
+Tormund Giantsbane,Brienne of Tarth
+Tormund Giantsbane,Roose Bolton
+Tormund Giantsbane,Orell
+Tormund Giantsbane,Osha
+Tormund Giantsbane,Brynden 'Blackfish' Tully
+Tormund Giantsbane,Edmure Tully
+Tormund Giantsbane,Ros
+Tormund Giantsbane,Hodor
+Tormund Giantsbane,Lothar Frey
+Tormund Giantsbane,Black Walder Rivers
+Tormund Giantsbane,Bernadette
+Tormund Giantsbane,Rickon Stark
+Ramsay Snow,Gilly
+Ramsay Snow,Loras Tyrell
+Ramsay Snow,Jojen Reed
+Ramsay Snow,Meera Reed
+Ramsay Snow,Anguy
+Ramsay Snow,Jaime Lannister
+Ramsay Snow,Samwell Tarly
+Ramsay Snow,Brienne of Tarth
+Ramsay Snow,Roose Bolton
+Ramsay Snow,Orell
+Ramsay Snow,Osha
+Ramsay Snow,Brynden 'Blackfish' Tully
+Ramsay Snow,Edmure Tully
+Ramsay Snow,Ros
+Ramsay Snow,Hodor
+Ramsay Snow,Lothar Frey
+Ramsay Snow,Black Walder Rivers
+Ramsay Snow,Bernadette
+Ramsay Snow,Rickon Stark
+Gilly,Loras Tyrell
+Gilly,Jojen Reed
+Gilly,Meera Reed
+Gilly,Anguy
+Gilly,Jaime Lannister
+Gilly,Samwell Tarly
+Gilly,Brienne of Tarth
+Gilly,Roose Bolton
+Gilly,Orell
+Gilly,Osha
+Gilly,Brynden 'Blackfish' Tully
+Gilly,Edmure Tully
+Gilly,Ros
+Gilly,Hodor
+Gilly,Lothar Frey
+Gilly,Black Walder Rivers
+Gilly,Bernadette
+Gilly,Rickon Stark
+Loras Tyrell,Jojen Reed
+Loras Tyrell,Meera Reed
+Loras Tyrell,Anguy
+Loras Tyrell,Jaime Lannister
+Loras Tyrell,Samwell Tarly
+Loras Tyrell,Brienne of Tarth
+Loras Tyrell,Roose Bolton
+Loras Tyrell,Orell
+Loras Tyrell,Osha
+Loras Tyrell,Brynden 'Blackfish' Tully
+Loras Tyrell,Edmure Tully
+Loras Tyrell,Ros
+Loras Tyrell,Hodor
+Loras Tyrell,Lothar Frey
+Loras Tyrell,Black Walder Rivers
+Loras Tyrell,Bernadette
+Loras Tyrell,Rickon Stark
+Jojen Reed,Meera Reed
+Jojen Reed,Anguy
+Jojen Reed,Jaime Lannister
+Jojen Reed,Samwell Tarly
+Jojen Reed,Brienne of Tarth
+Jojen Reed,Roose Bolton
+Jojen Reed,Orell
+Jojen Reed,Osha
+Jojen Reed,Brynden 'Blackfish' Tully
+Jojen Reed,Edmure Tully
+Jojen Reed,Ros
+Jojen Reed,Hodor
+Jojen Reed,Lothar Frey
+Jojen Reed,Black Walder Rivers
+Jojen Reed,Bernadette
+Jojen Reed,Rickon Stark
+Meera Reed,Anguy
+Meera Reed,Jaime Lannister
+Meera Reed,Samwell Tarly
+Meera Reed,Brienne of Tarth
+Meera Reed,Roose Bolton
+Meera Reed,Orell
+Meera Reed,Osha
+Meera Reed,Brynden 'Blackfish' Tully
+Meera Reed,Edmure Tully
+Meera Reed,Ros
+Meera Reed,Hodor
+Meera Reed,Lothar Frey
+Meera Reed,Black Walder Rivers
+Meera Reed,Bernadette
+Meera Reed,Rickon Stark
+Anguy,Jaime Lannister
+Anguy,Samwell Tarly
+Anguy,Brienne of Tarth
+Anguy,Roose Bolton
+Anguy,Orell
+Anguy,Osha
+Anguy,Brynden 'Blackfish' Tully
+Anguy,Edmure Tully
+Anguy,Ros
+Anguy,Hodor
+Anguy,Lothar Frey
+Anguy,Black Walder Rivers
+Anguy,Bernadette
+Anguy,Rickon Stark
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Roose Bolton
+Jaime Lannister,Orell
+Jaime Lannister,Osha
+Jaime Lannister,Brynden 'Blackfish' Tully
+Jaime Lannister,Edmure Tully
+Jaime Lannister,Ros
+Jaime Lannister,Hodor
+Jaime Lannister,Lothar Frey
+Jaime Lannister,Black Walder Rivers
+Jaime Lannister,Bernadette
+Jaime Lannister,Rickon Stark
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Roose Bolton
+Samwell Tarly,Orell
+Samwell Tarly,Osha
+Samwell Tarly,Brynden 'Blackfish' Tully
+Samwell Tarly,Edmure Tully
+Samwell Tarly,Ros
+Samwell Tarly,Hodor
+Samwell Tarly,Lothar Frey
+Samwell Tarly,Black Walder Rivers
+Samwell Tarly,Bernadette
+Samwell Tarly,Rickon Stark
+Brienne of Tarth,Roose Bolton
+Brienne of Tarth,Orell
+Brienne of Tarth,Osha
+Brienne of Tarth,Brynden 'Blackfish' Tully
+Brienne of Tarth,Edmure Tully
+Brienne of Tarth,Ros
+Brienne of Tarth,Hodor
+Brienne of Tarth,Lothar Frey
+Brienne of Tarth,Black Walder Rivers
+Brienne of Tarth,Bernadette
+Brienne of Tarth,Rickon Stark
+Roose Bolton,Orell
+Roose Bolton,Osha
+Roose Bolton,Brynden 'Blackfish' Tully
+Roose Bolton,Edmure Tully
+Roose Bolton,Ros
+Roose Bolton,Hodor
+Roose Bolton,Lothar Frey
+Roose Bolton,Black Walder Rivers
+Roose Bolton,Bernadette
+Roose Bolton,Rickon Stark
+Orell,Osha
+Orell,Brynden 'Blackfish' Tully
+Orell,Edmure Tully
+Orell,Ros
+Orell,Hodor
+Orell,Lothar Frey
+Orell,Black Walder Rivers
+Orell,Bernadette
+Orell,Rickon Stark
+Osha,Brynden 'Blackfish' Tully
+Osha,Edmure Tully
+Osha,Ros
+Osha,Hodor
+Osha,Lothar Frey
+Osha,Black Walder Rivers
+Osha,Bernadette
+Osha,Rickon Stark
+Brynden 'Blackfish' Tully,Edmure Tully
+Brynden 'Blackfish' Tully,Ros
+Brynden 'Blackfish' Tully,Hodor
+Brynden 'Blackfish' Tully,Lothar Frey
+Brynden 'Blackfish' Tully,Black Walder Rivers
+Brynden 'Blackfish' Tully,Bernadette
+Brynden 'Blackfish' Tully,Rickon Stark
+Edmure Tully,Ros
+Edmure Tully,Hodor
+Edmure Tully,Lothar Frey
+Edmure Tully,Black Walder Rivers
+Edmure Tully,Bernadette
+Edmure Tully,Rickon Stark
+Ros,Hodor
+Ros,Lothar Frey
+Ros,Black Walder Rivers
+Ros,Bernadette
+Ros,Rickon Stark
+Hodor,Lothar Frey
+Hodor,Black Walder Rivers
+Hodor,Bernadette
+Hodor,Rickon Stark
+Lothar Frey,Black Walder Rivers
+Lothar Frey,Bernadette
+Lothar Frey,Rickon Stark
+Black Walder Rivers,Bernadette
+Black Walder Rivers,Rickon Stark
+Bernadette,Rickon Stark

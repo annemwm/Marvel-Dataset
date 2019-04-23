@@ -1,0 +1,704 @@
+NAME 1,NAME 2
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Jon Snow
+Cersei Lannister,Tywin Lannister
+Cersei Lannister,Margaery Tyrell
+Cersei Lannister,Bran Stark
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Oberyn Martell
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Karl Tanner
+Cersei Lannister,Lysa Arryn
+Cersei Lannister,Barristan Selmy
+Cersei Lannister,Jojen Reed
+Cersei Lannister,Morag
+Cersei Lannister,Sissy
+Cersei Lannister,Jaime Lannister
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Lord Varys
+Cersei Lannister,Grand Maester Pycelle
+Cersei Lannister,Locke
+Cersei Lannister,Mace Tyrell
+Cersei Lannister,Meera Reed
+Cersei Lannister,Missandei
+Cersei Lannister,Grey Worm
+Cersei Lannister,Tommen Baratheon
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Loras Tyrell
+Cersei Lannister,Hodor
+Cersei Lannister,Grenn
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Rast
+Cersei Lannister,Robin Arryn
+Cersei Lannister,High Septon
+Cersei Lannister,Donnel Waynwood
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Tywin Lannister
+Daenerys Targaryen,Margaery Tyrell
+Daenerys Targaryen,Bran Stark
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Oberyn Martell
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Karl Tanner
+Daenerys Targaryen,Lysa Arryn
+Daenerys Targaryen,Barristan Selmy
+Daenerys Targaryen,Jojen Reed
+Daenerys Targaryen,Morag
+Daenerys Targaryen,Sissy
+Daenerys Targaryen,Jaime Lannister
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Lord Varys
+Daenerys Targaryen,Grand Maester Pycelle
+Daenerys Targaryen,Locke
+Daenerys Targaryen,Mace Tyrell
+Daenerys Targaryen,Meera Reed
+Daenerys Targaryen,Missandei
+Daenerys Targaryen,Grey Worm
+Daenerys Targaryen,Tommen Baratheon
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Loras Tyrell
+Daenerys Targaryen,Hodor
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Rast
+Daenerys Targaryen,Robin Arryn
+Daenerys Targaryen,High Septon
+Daenerys Targaryen,Donnel Waynwood
+Jon Snow,Tywin Lannister
+Jon Snow,Margaery Tyrell
+Jon Snow,Bran Stark
+Jon Snow,Sansa Stark
+Jon Snow,Arya Stark
+Jon Snow,Sandor 'The Hound' Clegane
+Jon Snow,Jorah Mormont
+Jon Snow,Oberyn Martell
+Jon Snow,Daario Naharis
+Jon Snow,Karl Tanner
+Jon Snow,Lysa Arryn
+Jon Snow,Barristan Selmy
+Jon Snow,Jojen Reed
+Jon Snow,Morag
+Jon Snow,Sissy
+Jon Snow,Jaime Lannister
+Jon Snow,Petyr 'Littlefinger' Baelish
+Jon Snow,Brienne of Tarth
+Jon Snow,Lord Varys
+Jon Snow,Grand Maester Pycelle
+Jon Snow,Locke
+Jon Snow,Mace Tyrell
+Jon Snow,Meera Reed
+Jon Snow,Missandei
+Jon Snow,Grey Worm
+Jon Snow,Tommen Baratheon
+Jon Snow,Podrick Payne
+Jon Snow,Loras Tyrell
+Jon Snow,Hodor
+Jon Snow,Grenn
+Jon Snow,Eddison Tollett
+Jon Snow,Rast
+Jon Snow,Robin Arryn
+Jon Snow,High Septon
+Jon Snow,Donnel Waynwood
+Tywin Lannister,Margaery Tyrell
+Tywin Lannister,Bran Stark
+Tywin Lannister,Sansa Stark
+Tywin Lannister,Arya Stark
+Tywin Lannister,Sandor 'The Hound' Clegane
+Tywin Lannister,Jorah Mormont
+Tywin Lannister,Oberyn Martell
+Tywin Lannister,Daario Naharis
+Tywin Lannister,Karl Tanner
+Tywin Lannister,Lysa Arryn
+Tywin Lannister,Barristan Selmy
+Tywin Lannister,Jojen Reed
+Tywin Lannister,Morag
+Tywin Lannister,Sissy
+Tywin Lannister,Jaime Lannister
+Tywin Lannister,Petyr 'Littlefinger' Baelish
+Tywin Lannister,Brienne of Tarth
+Tywin Lannister,Lord Varys
+Tywin Lannister,Grand Maester Pycelle
+Tywin Lannister,Locke
+Tywin Lannister,Mace Tyrell
+Tywin Lannister,Meera Reed
+Tywin Lannister,Missandei
+Tywin Lannister,Grey Worm
+Tywin Lannister,Tommen Baratheon
+Tywin Lannister,Podrick Payne
+Tywin Lannister,Loras Tyrell
+Tywin Lannister,Hodor
+Tywin Lannister,Grenn
+Tywin Lannister,Eddison Tollett
+Tywin Lannister,Rast
+Tywin Lannister,Robin Arryn
+Tywin Lannister,High Septon
+Tywin Lannister,Donnel Waynwood
+Margaery Tyrell,Bran Stark
+Margaery Tyrell,Sansa Stark
+Margaery Tyrell,Arya Stark
+Margaery Tyrell,Sandor 'The Hound' Clegane
+Margaery Tyrell,Jorah Mormont
+Margaery Tyrell,Oberyn Martell
+Margaery Tyrell,Daario Naharis
+Margaery Tyrell,Karl Tanner
+Margaery Tyrell,Lysa Arryn
+Margaery Tyrell,Barristan Selmy
+Margaery Tyrell,Jojen Reed
+Margaery Tyrell,Morag
+Margaery Tyrell,Sissy
+Margaery Tyrell,Jaime Lannister
+Margaery Tyrell,Petyr 'Littlefinger' Baelish
+Margaery Tyrell,Brienne of Tarth
+Margaery Tyrell,Lord Varys
+Margaery Tyrell,Grand Maester Pycelle
+Margaery Tyrell,Locke
+Margaery Tyrell,Mace Tyrell
+Margaery Tyrell,Meera Reed
+Margaery Tyrell,Missandei
+Margaery Tyrell,Grey Worm
+Margaery Tyrell,Tommen Baratheon
+Margaery Tyrell,Podrick Payne
+Margaery Tyrell,Loras Tyrell
+Margaery Tyrell,Hodor
+Margaery Tyrell,Grenn
+Margaery Tyrell,Eddison Tollett
+Margaery Tyrell,Rast
+Margaery Tyrell,Robin Arryn
+Margaery Tyrell,High Septon
+Margaery Tyrell,Donnel Waynwood
+Bran Stark,Sansa Stark
+Bran Stark,Arya Stark
+Bran Stark,Sandor 'The Hound' Clegane
+Bran Stark,Jorah Mormont
+Bran Stark,Oberyn Martell
+Bran Stark,Daario Naharis
+Bran Stark,Karl Tanner
+Bran Stark,Lysa Arryn
+Bran Stark,Barristan Selmy
+Bran Stark,Jojen Reed
+Bran Stark,Morag
+Bran Stark,Sissy
+Bran Stark,Jaime Lannister
+Bran Stark,Petyr 'Littlefinger' Baelish
+Bran Stark,Brienne of Tarth
+Bran Stark,Lord Varys
+Bran Stark,Grand Maester Pycelle
+Bran Stark,Locke
+Bran Stark,Mace Tyrell
+Bran Stark,Meera Reed
+Bran Stark,Missandei
+Bran Stark,Grey Worm
+Bran Stark,Tommen Baratheon
+Bran Stark,Podrick Payne
+Bran Stark,Loras Tyrell
+Bran Stark,Hodor
+Bran Stark,Grenn
+Bran Stark,Eddison Tollett
+Bran Stark,Rast
+Bran Stark,Robin Arryn
+Bran Stark,High Septon
+Bran Stark,Donnel Waynwood
+Sansa Stark,Arya Stark
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Jorah Mormont
+Sansa Stark,Oberyn Martell
+Sansa Stark,Daario Naharis
+Sansa Stark,Karl Tanner
+Sansa Stark,Lysa Arryn
+Sansa Stark,Barristan Selmy
+Sansa Stark,Jojen Reed
+Sansa Stark,Morag
+Sansa Stark,Sissy
+Sansa Stark,Jaime Lannister
+Sansa Stark,Petyr 'Littlefinger' Baelish
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Lord Varys
+Sansa Stark,Grand Maester Pycelle
+Sansa Stark,Locke
+Sansa Stark,Mace Tyrell
+Sansa Stark,Meera Reed
+Sansa Stark,Missandei
+Sansa Stark,Grey Worm
+Sansa Stark,Tommen Baratheon
+Sansa Stark,Podrick Payne
+Sansa Stark,Loras Tyrell
+Sansa Stark,Hodor
+Sansa Stark,Grenn
+Sansa Stark,Eddison Tollett
+Sansa Stark,Rast
+Sansa Stark,Robin Arryn
+Sansa Stark,High Septon
+Sansa Stark,Donnel Waynwood
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Jorah Mormont
+Arya Stark,Oberyn Martell
+Arya Stark,Daario Naharis
+Arya Stark,Karl Tanner
+Arya Stark,Lysa Arryn
+Arya Stark,Barristan Selmy
+Arya Stark,Jojen Reed
+Arya Stark,Morag
+Arya Stark,Sissy
+Arya Stark,Jaime Lannister
+Arya Stark,Petyr 'Littlefinger' Baelish
+Arya Stark,Brienne of Tarth
+Arya Stark,Lord Varys
+Arya Stark,Grand Maester Pycelle
+Arya Stark,Locke
+Arya Stark,Mace Tyrell
+Arya Stark,Meera Reed
+Arya Stark,Missandei
+Arya Stark,Grey Worm
+Arya Stark,Tommen Baratheon
+Arya Stark,Podrick Payne
+Arya Stark,Loras Tyrell
+Arya Stark,Hodor
+Arya Stark,Grenn
+Arya Stark,Eddison Tollett
+Arya Stark,Rast
+Arya Stark,Robin Arryn
+Arya Stark,High Septon
+Arya Stark,Donnel Waynwood
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Oberyn Martell
+Sandor 'The Hound' Clegane,Daario Naharis
+Sandor 'The Hound' Clegane,Karl Tanner
+Sandor 'The Hound' Clegane,Lysa Arryn
+Sandor 'The Hound' Clegane,Barristan Selmy
+Sandor 'The Hound' Clegane,Jojen Reed
+Sandor 'The Hound' Clegane,Morag
+Sandor 'The Hound' Clegane,Sissy
+Sandor 'The Hound' Clegane,Jaime Lannister
+Sandor 'The Hound' Clegane,Petyr 'Littlefinger' Baelish
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Lord Varys
+Sandor 'The Hound' Clegane,Grand Maester Pycelle
+Sandor 'The Hound' Clegane,Locke
+Sandor 'The Hound' Clegane,Mace Tyrell
+Sandor 'The Hound' Clegane,Meera Reed
+Sandor 'The Hound' Clegane,Missandei
+Sandor 'The Hound' Clegane,Grey Worm
+Sandor 'The Hound' Clegane,Tommen Baratheon
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Loras Tyrell
+Sandor 'The Hound' Clegane,Hodor
+Sandor 'The Hound' Clegane,Grenn
+Sandor 'The Hound' Clegane,Eddison Tollett
+Sandor 'The Hound' Clegane,Rast
+Sandor 'The Hound' Clegane,Robin Arryn
+Sandor 'The Hound' Clegane,High Septon
+Sandor 'The Hound' Clegane,Donnel Waynwood
+Jorah Mormont,Oberyn Martell
+Jorah Mormont,Daario Naharis
+Jorah Mormont,Karl Tanner
+Jorah Mormont,Lysa Arryn
+Jorah Mormont,Barristan Selmy
+Jorah Mormont,Jojen Reed
+Jorah Mormont,Morag
+Jorah Mormont,Sissy
+Jorah Mormont,Jaime Lannister
+Jorah Mormont,Petyr 'Littlefinger' Baelish
+Jorah Mormont,Brienne of Tarth
+Jorah Mormont,Lord Varys
+Jorah Mormont,Grand Maester Pycelle
+Jorah Mormont,Locke
+Jorah Mormont,Mace Tyrell
+Jorah Mormont,Meera Reed
+Jorah Mormont,Missandei
+Jorah Mormont,Grey Worm
+Jorah Mormont,Tommen Baratheon
+Jorah Mormont,Podrick Payne
+Jorah Mormont,Loras Tyrell
+Jorah Mormont,Hodor
+Jorah Mormont,Grenn
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Rast
+Jorah Mormont,Robin Arryn
+Jorah Mormont,High Septon
+Jorah Mormont,Donnel Waynwood
+Oberyn Martell,Daario Naharis
+Oberyn Martell,Karl Tanner
+Oberyn Martell,Lysa Arryn
+Oberyn Martell,Barristan Selmy
+Oberyn Martell,Jojen Reed
+Oberyn Martell,Morag
+Oberyn Martell,Sissy
+Oberyn Martell,Jaime Lannister
+Oberyn Martell,Petyr 'Littlefinger' Baelish
+Oberyn Martell,Brienne of Tarth
+Oberyn Martell,Lord Varys
+Oberyn Martell,Grand Maester Pycelle
+Oberyn Martell,Locke
+Oberyn Martell,Mace Tyrell
+Oberyn Martell,Meera Reed
+Oberyn Martell,Missandei
+Oberyn Martell,Grey Worm
+Oberyn Martell,Tommen Baratheon
+Oberyn Martell,Podrick Payne
+Oberyn Martell,Loras Tyrell
+Oberyn Martell,Hodor
+Oberyn Martell,Grenn
+Oberyn Martell,Eddison Tollett
+Oberyn Martell,Rast
+Oberyn Martell,Robin Arryn
+Oberyn Martell,High Septon
+Oberyn Martell,Donnel Waynwood
+Daario Naharis,Karl Tanner
+Daario Naharis,Lysa Arryn
+Daario Naharis,Barristan Selmy
+Daario Naharis,Jojen Reed
+Daario Naharis,Morag
+Daario Naharis,Sissy
+Daario Naharis,Jaime Lannister
+Daario Naharis,Petyr 'Littlefinger' Baelish
+Daario Naharis,Brienne of Tarth
+Daario Naharis,Lord Varys
+Daario Naharis,Grand Maester Pycelle
+Daario Naharis,Locke
+Daario Naharis,Mace Tyrell
+Daario Naharis,Meera Reed
+Daario Naharis,Missandei
+Daario Naharis,Grey Worm
+Daario Naharis,Tommen Baratheon
+Daario Naharis,Podrick Payne
+Daario Naharis,Loras Tyrell
+Daario Naharis,Hodor
+Daario Naharis,Grenn
+Daario Naharis,Eddison Tollett
+Daario Naharis,Rast
+Daario Naharis,Robin Arryn
+Daario Naharis,High Septon
+Daario Naharis,Donnel Waynwood
+Karl Tanner,Lysa Arryn
+Karl Tanner,Barristan Selmy
+Karl Tanner,Jojen Reed
+Karl Tanner,Morag
+Karl Tanner,Sissy
+Karl Tanner,Jaime Lannister
+Karl Tanner,Petyr 'Littlefinger' Baelish
+Karl Tanner,Brienne of Tarth
+Karl Tanner,Lord Varys
+Karl Tanner,Grand Maester Pycelle
+Karl Tanner,Locke
+Karl Tanner,Mace Tyrell
+Karl Tanner,Meera Reed
+Karl Tanner,Missandei
+Karl Tanner,Grey Worm
+Karl Tanner,Tommen Baratheon
+Karl Tanner,Podrick Payne
+Karl Tanner,Loras Tyrell
+Karl Tanner,Hodor
+Karl Tanner,Grenn
+Karl Tanner,Eddison Tollett
+Karl Tanner,Rast
+Karl Tanner,Robin Arryn
+Karl Tanner,High Septon
+Karl Tanner,Donnel Waynwood
+Lysa Arryn,Barristan Selmy
+Lysa Arryn,Jojen Reed
+Lysa Arryn,Morag
+Lysa Arryn,Sissy
+Lysa Arryn,Jaime Lannister
+Lysa Arryn,Petyr 'Littlefinger' Baelish
+Lysa Arryn,Brienne of Tarth
+Lysa Arryn,Lord Varys
+Lysa Arryn,Grand Maester Pycelle
+Lysa Arryn,Locke
+Lysa Arryn,Mace Tyrell
+Lysa Arryn,Meera Reed
+Lysa Arryn,Missandei
+Lysa Arryn,Grey Worm
+Lysa Arryn,Tommen Baratheon
+Lysa Arryn,Podrick Payne
+Lysa Arryn,Loras Tyrell
+Lysa Arryn,Hodor
+Lysa Arryn,Grenn
+Lysa Arryn,Eddison Tollett
+Lysa Arryn,Rast
+Lysa Arryn,Robin Arryn
+Lysa Arryn,High Septon
+Lysa Arryn,Donnel Waynwood
+Barristan Selmy,Jojen Reed
+Barristan Selmy,Morag
+Barristan Selmy,Sissy
+Barristan Selmy,Jaime Lannister
+Barristan Selmy,Petyr 'Littlefinger' Baelish
+Barristan Selmy,Brienne of Tarth
+Barristan Selmy,Lord Varys
+Barristan Selmy,Grand Maester Pycelle
+Barristan Selmy,Locke
+Barristan Selmy,Mace Tyrell
+Barristan Selmy,Meera Reed
+Barristan Selmy,Missandei
+Barristan Selmy,Grey Worm
+Barristan Selmy,Tommen Baratheon
+Barristan Selmy,Podrick Payne
+Barristan Selmy,Loras Tyrell
+Barristan Selmy,Hodor
+Barristan Selmy,Grenn
+Barristan Selmy,Eddison Tollett
+Barristan Selmy,Rast
+Barristan Selmy,Robin Arryn
+Barristan Selmy,High Septon
+Barristan Selmy,Donnel Waynwood
+Jojen Reed,Morag
+Jojen Reed,Sissy
+Jojen Reed,Jaime Lannister
+Jojen Reed,Petyr 'Littlefinger' Baelish
+Jojen Reed,Brienne of Tarth
+Jojen Reed,Lord Varys
+Jojen Reed,Grand Maester Pycelle
+Jojen Reed,Locke
+Jojen Reed,Mace Tyrell
+Jojen Reed,Meera Reed
+Jojen Reed,Missandei
+Jojen Reed,Grey Worm
+Jojen Reed,Tommen Baratheon
+Jojen Reed,Podrick Payne
+Jojen Reed,Loras Tyrell
+Jojen Reed,Hodor
+Jojen Reed,Grenn
+Jojen Reed,Eddison Tollett
+Jojen Reed,Rast
+Jojen Reed,Robin Arryn
+Jojen Reed,High Septon
+Jojen Reed,Donnel Waynwood
+Morag,Sissy
+Morag,Jaime Lannister
+Morag,Petyr 'Littlefinger' Baelish
+Morag,Brienne of Tarth
+Morag,Lord Varys
+Morag,Grand Maester Pycelle
+Morag,Locke
+Morag,Mace Tyrell
+Morag,Meera Reed
+Morag,Missandei
+Morag,Grey Worm
+Morag,Tommen Baratheon
+Morag,Podrick Payne
+Morag,Loras Tyrell
+Morag,Hodor
+Morag,Grenn
+Morag,Eddison Tollett
+Morag,Rast
+Morag,Robin Arryn
+Morag,High Septon
+Morag,Donnel Waynwood
+Sissy,Jaime Lannister
+Sissy,Petyr 'Littlefinger' Baelish
+Sissy,Brienne of Tarth
+Sissy,Lord Varys
+Sissy,Grand Maester Pycelle
+Sissy,Locke
+Sissy,Mace Tyrell
+Sissy,Meera Reed
+Sissy,Missandei
+Sissy,Grey Worm
+Sissy,Tommen Baratheon
+Sissy,Podrick Payne
+Sissy,Loras Tyrell
+Sissy,Hodor
+Sissy,Grenn
+Sissy,Eddison Tollett
+Sissy,Rast
+Sissy,Robin Arryn
+Sissy,High Septon
+Sissy,Donnel Waynwood
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Lord Varys
+Jaime Lannister,Grand Maester Pycelle
+Jaime Lannister,Locke
+Jaime Lannister,Mace Tyrell
+Jaime Lannister,Meera Reed
+Jaime Lannister,Missandei
+Jaime Lannister,Grey Worm
+Jaime Lannister,Tommen Baratheon
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Loras Tyrell
+Jaime Lannister,Hodor
+Jaime Lannister,Grenn
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Rast
+Jaime Lannister,Robin Arryn
+Jaime Lannister,High Septon
+Jaime Lannister,Donnel Waynwood
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Lord Varys
+Petyr 'Littlefinger' Baelish,Grand Maester Pycelle
+Petyr 'Littlefinger' Baelish,Locke
+Petyr 'Littlefinger' Baelish,Mace Tyrell
+Petyr 'Littlefinger' Baelish,Meera Reed
+Petyr 'Littlefinger' Baelish,Missandei
+Petyr 'Littlefinger' Baelish,Grey Worm
+Petyr 'Littlefinger' Baelish,Tommen Baratheon
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Loras Tyrell
+Petyr 'Littlefinger' Baelish,Hodor
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Rast
+Petyr 'Littlefinger' Baelish,Robin Arryn
+Petyr 'Littlefinger' Baelish,High Septon
+Petyr 'Littlefinger' Baelish,Donnel Waynwood
+Brienne of Tarth,Lord Varys
+Brienne of Tarth,Grand Maester Pycelle
+Brienne of Tarth,Locke
+Brienne of Tarth,Mace Tyrell
+Brienne of Tarth,Meera Reed
+Brienne of Tarth,Missandei
+Brienne of Tarth,Grey Worm
+Brienne of Tarth,Tommen Baratheon
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Loras Tyrell
+Brienne of Tarth,Hodor
+Brienne of Tarth,Grenn
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,Rast
+Brienne of Tarth,Robin Arryn
+Brienne of Tarth,High Septon
+Brienne of Tarth,Donnel Waynwood
+Lord Varys,Grand Maester Pycelle
+Lord Varys,Locke
+Lord Varys,Mace Tyrell
+Lord Varys,Meera Reed
+Lord Varys,Missandei
+Lord Varys,Grey Worm
+Lord Varys,Tommen Baratheon
+Lord Varys,Podrick Payne
+Lord Varys,Loras Tyrell
+Lord Varys,Hodor
+Lord Varys,Grenn
+Lord Varys,Eddison Tollett
+Lord Varys,Rast
+Lord Varys,Robin Arryn
+Lord Varys,High Septon
+Lord Varys,Donnel Waynwood
+Grand Maester Pycelle,Locke
+Grand Maester Pycelle,Mace Tyrell
+Grand Maester Pycelle,Meera Reed
+Grand Maester Pycelle,Missandei
+Grand Maester Pycelle,Grey Worm
+Grand Maester Pycelle,Tommen Baratheon
+Grand Maester Pycelle,Podrick Payne
+Grand Maester Pycelle,Loras Tyrell
+Grand Maester Pycelle,Hodor
+Grand Maester Pycelle,Grenn
+Grand Maester Pycelle,Eddison Tollett
+Grand Maester Pycelle,Rast
+Grand Maester Pycelle,Robin Arryn
+Grand Maester Pycelle,High Septon
+Grand Maester Pycelle,Donnel Waynwood
+Locke,Mace Tyrell
+Locke,Meera Reed
+Locke,Missandei
+Locke,Grey Worm
+Locke,Tommen Baratheon
+Locke,Podrick Payne
+Locke,Loras Tyrell
+Locke,Hodor
+Locke,Grenn
+Locke,Eddison Tollett
+Locke,Rast
+Locke,Robin Arryn
+Locke,High Septon
+Locke,Donnel Waynwood
+Mace Tyrell,Meera Reed
+Mace Tyrell,Missandei
+Mace Tyrell,Grey Worm
+Mace Tyrell,Tommen Baratheon
+Mace Tyrell,Podrick Payne
+Mace Tyrell,Loras Tyrell
+Mace Tyrell,Hodor
+Mace Tyrell,Grenn
+Mace Tyrell,Eddison Tollett
+Mace Tyrell,Rast
+Mace Tyrell,Robin Arryn
+Mace Tyrell,High Septon
+Mace Tyrell,Donnel Waynwood
+Meera Reed,Missandei
+Meera Reed,Grey Worm
+Meera Reed,Tommen Baratheon
+Meera Reed,Podrick Payne
+Meera Reed,Loras Tyrell
+Meera Reed,Hodor
+Meera Reed,Grenn
+Meera Reed,Eddison Tollett
+Meera Reed,Rast
+Meera Reed,Robin Arryn
+Meera Reed,High Septon
+Meera Reed,Donnel Waynwood
+Missandei,Grey Worm
+Missandei,Tommen Baratheon
+Missandei,Podrick Payne
+Missandei,Loras Tyrell
+Missandei,Hodor
+Missandei,Grenn
+Missandei,Eddison Tollett
+Missandei,Rast
+Missandei,Robin Arryn
+Missandei,High Septon
+Missandei,Donnel Waynwood
+Grey Worm,Tommen Baratheon
+Grey Worm,Podrick Payne
+Grey Worm,Loras Tyrell
+Grey Worm,Hodor
+Grey Worm,Grenn
+Grey Worm,Eddison Tollett
+Grey Worm,Rast
+Grey Worm,Robin Arryn
+Grey Worm,High Septon
+Grey Worm,Donnel Waynwood
+Tommen Baratheon,Podrick Payne
+Tommen Baratheon,Loras Tyrell
+Tommen Baratheon,Hodor
+Tommen Baratheon,Grenn
+Tommen Baratheon,Eddison Tollett
+Tommen Baratheon,Rast
+Tommen Baratheon,Robin Arryn
+Tommen Baratheon,High Septon
+Tommen Baratheon,Donnel Waynwood
+Podrick Payne,Loras Tyrell
+Podrick Payne,Hodor
+Podrick Payne,Grenn
+Podrick Payne,Eddison Tollett
+Podrick Payne,Rast
+Podrick Payne,Robin Arryn
+Podrick Payne,High Septon
+Podrick Payne,Donnel Waynwood
+Loras Tyrell,Hodor
+Loras Tyrell,Grenn
+Loras Tyrell,Eddison Tollett
+Loras Tyrell,Rast
+Loras Tyrell,Robin Arryn
+Loras Tyrell,High Septon
+Loras Tyrell,Donnel Waynwood
+Hodor,Grenn
+Hodor,Eddison Tollett
+Hodor,Rast
+Hodor,Robin Arryn
+Hodor,High Septon
+Hodor,Donnel Waynwood
+Grenn,Eddison Tollett
+Grenn,Rast
+Grenn,Robin Arryn
+Grenn,High Septon
+Grenn,Donnel Waynwood
+Eddison Tollett,Rast
+Eddison Tollett,Robin Arryn
+Eddison Tollett,High Septon
+Eddison Tollett,Donnel Waynwood
+Rast,Robin Arryn
+Rast,High Septon
+Rast,Donnel Waynwood
+Robin Arryn,High Septon
+Robin Arryn,Donnel Waynwood
+High Septon,Donnel Waynwood

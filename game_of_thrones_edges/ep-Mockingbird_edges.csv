@@ -1,0 +1,466 @@
+NAME 1,NAME 2
+Tyrion Lannister,Jaime Lannister
+Tyrion Lannister,Cersei Lannister
+Tyrion Lannister,Daenerys Targaryen
+Tyrion Lannister,Petyr 'Littlefinger' Baelish
+Tyrion Lannister,Melisandre
+Tyrion Lannister,Samwell Tarly
+Tyrion Lannister,Sansa Stark
+Tyrion Lannister,Arya Stark
+Tyrion Lannister,Sandor 'The Hound' Clegane
+Tyrion Lannister,Brienne of Tarth
+Tyrion Lannister,Bronn
+Tyrion Lannister,Oberyn Martell
+Tyrion Lannister,Daario Naharis
+Tyrion Lannister,Selyse Baratheon
+Tyrion Lannister,Lysa Arryn
+Tyrion Lannister,Podrick Payne
+Tyrion Lannister,Robin Arryn
+Tyrion Lannister,Rorge
+Tyrion Lannister,Hot Pie
+Tyrion Lannister,Gregor Clegane
+Tyrion Lannister,Biter
+Tyrion Lannister,Jon Snow
+Tyrion Lannister,Jorah Mormont
+Tyrion Lannister,Alliser Thorne
+Tyrion Lannister,Janos Slynt
+Tyrion Lannister,Grenn
+Tyrion Lannister,Eddison Tollett
+Tyrion Lannister,Pypar
+Tyrion Lannister,Olly
+Tyrion Lannister,Othell Yarwyck
+Jaime Lannister,Cersei Lannister
+Jaime Lannister,Daenerys Targaryen
+Jaime Lannister,Petyr 'Littlefinger' Baelish
+Jaime Lannister,Melisandre
+Jaime Lannister,Samwell Tarly
+Jaime Lannister,Sansa Stark
+Jaime Lannister,Arya Stark
+Jaime Lannister,Sandor 'The Hound' Clegane
+Jaime Lannister,Brienne of Tarth
+Jaime Lannister,Bronn
+Jaime Lannister,Oberyn Martell
+Jaime Lannister,Daario Naharis
+Jaime Lannister,Selyse Baratheon
+Jaime Lannister,Lysa Arryn
+Jaime Lannister,Podrick Payne
+Jaime Lannister,Robin Arryn
+Jaime Lannister,Rorge
+Jaime Lannister,Hot Pie
+Jaime Lannister,Gregor Clegane
+Jaime Lannister,Biter
+Jaime Lannister,Jon Snow
+Jaime Lannister,Jorah Mormont
+Jaime Lannister,Alliser Thorne
+Jaime Lannister,Janos Slynt
+Jaime Lannister,Grenn
+Jaime Lannister,Eddison Tollett
+Jaime Lannister,Pypar
+Jaime Lannister,Olly
+Jaime Lannister,Othell Yarwyck
+Cersei Lannister,Daenerys Targaryen
+Cersei Lannister,Petyr 'Littlefinger' Baelish
+Cersei Lannister,Melisandre
+Cersei Lannister,Samwell Tarly
+Cersei Lannister,Sansa Stark
+Cersei Lannister,Arya Stark
+Cersei Lannister,Sandor 'The Hound' Clegane
+Cersei Lannister,Brienne of Tarth
+Cersei Lannister,Bronn
+Cersei Lannister,Oberyn Martell
+Cersei Lannister,Daario Naharis
+Cersei Lannister,Selyse Baratheon
+Cersei Lannister,Lysa Arryn
+Cersei Lannister,Podrick Payne
+Cersei Lannister,Robin Arryn
+Cersei Lannister,Rorge
+Cersei Lannister,Hot Pie
+Cersei Lannister,Gregor Clegane
+Cersei Lannister,Biter
+Cersei Lannister,Jon Snow
+Cersei Lannister,Jorah Mormont
+Cersei Lannister,Alliser Thorne
+Cersei Lannister,Janos Slynt
+Cersei Lannister,Grenn
+Cersei Lannister,Eddison Tollett
+Cersei Lannister,Pypar
+Cersei Lannister,Olly
+Cersei Lannister,Othell Yarwyck
+Daenerys Targaryen,Petyr 'Littlefinger' Baelish
+Daenerys Targaryen,Melisandre
+Daenerys Targaryen,Samwell Tarly
+Daenerys Targaryen,Sansa Stark
+Daenerys Targaryen,Arya Stark
+Daenerys Targaryen,Sandor 'The Hound' Clegane
+Daenerys Targaryen,Brienne of Tarth
+Daenerys Targaryen,Bronn
+Daenerys Targaryen,Oberyn Martell
+Daenerys Targaryen,Daario Naharis
+Daenerys Targaryen,Selyse Baratheon
+Daenerys Targaryen,Lysa Arryn
+Daenerys Targaryen,Podrick Payne
+Daenerys Targaryen,Robin Arryn
+Daenerys Targaryen,Rorge
+Daenerys Targaryen,Hot Pie
+Daenerys Targaryen,Gregor Clegane
+Daenerys Targaryen,Biter
+Daenerys Targaryen,Jon Snow
+Daenerys Targaryen,Jorah Mormont
+Daenerys Targaryen,Alliser Thorne
+Daenerys Targaryen,Janos Slynt
+Daenerys Targaryen,Grenn
+Daenerys Targaryen,Eddison Tollett
+Daenerys Targaryen,Pypar
+Daenerys Targaryen,Olly
+Daenerys Targaryen,Othell Yarwyck
+Petyr 'Littlefinger' Baelish,Melisandre
+Petyr 'Littlefinger' Baelish,Samwell Tarly
+Petyr 'Littlefinger' Baelish,Sansa Stark
+Petyr 'Littlefinger' Baelish,Arya Stark
+Petyr 'Littlefinger' Baelish,Sandor 'The Hound' Clegane
+Petyr 'Littlefinger' Baelish,Brienne of Tarth
+Petyr 'Littlefinger' Baelish,Bronn
+Petyr 'Littlefinger' Baelish,Oberyn Martell
+Petyr 'Littlefinger' Baelish,Daario Naharis
+Petyr 'Littlefinger' Baelish,Selyse Baratheon
+Petyr 'Littlefinger' Baelish,Lysa Arryn
+Petyr 'Littlefinger' Baelish,Podrick Payne
+Petyr 'Littlefinger' Baelish,Robin Arryn
+Petyr 'Littlefinger' Baelish,Rorge
+Petyr 'Littlefinger' Baelish,Hot Pie
+Petyr 'Littlefinger' Baelish,Gregor Clegane
+Petyr 'Littlefinger' Baelish,Biter
+Petyr 'Littlefinger' Baelish,Jon Snow
+Petyr 'Littlefinger' Baelish,Jorah Mormont
+Petyr 'Littlefinger' Baelish,Alliser Thorne
+Petyr 'Littlefinger' Baelish,Janos Slynt
+Petyr 'Littlefinger' Baelish,Grenn
+Petyr 'Littlefinger' Baelish,Eddison Tollett
+Petyr 'Littlefinger' Baelish,Pypar
+Petyr 'Littlefinger' Baelish,Olly
+Petyr 'Littlefinger' Baelish,Othell Yarwyck
+Melisandre,Samwell Tarly
+Melisandre,Sansa Stark
+Melisandre,Arya Stark
+Melisandre,Sandor 'The Hound' Clegane
+Melisandre,Brienne of Tarth
+Melisandre,Bronn
+Melisandre,Oberyn Martell
+Melisandre,Daario Naharis
+Melisandre,Selyse Baratheon
+Melisandre,Lysa Arryn
+Melisandre,Podrick Payne
+Melisandre,Robin Arryn
+Melisandre,Rorge
+Melisandre,Hot Pie
+Melisandre,Gregor Clegane
+Melisandre,Biter
+Melisandre,Jon Snow
+Melisandre,Jorah Mormont
+Melisandre,Alliser Thorne
+Melisandre,Janos Slynt
+Melisandre,Grenn
+Melisandre,Eddison Tollett
+Melisandre,Pypar
+Melisandre,Olly
+Melisandre,Othell Yarwyck
+Samwell Tarly,Sansa Stark
+Samwell Tarly,Arya Stark
+Samwell Tarly,Sandor 'The Hound' Clegane
+Samwell Tarly,Brienne of Tarth
+Samwell Tarly,Bronn
+Samwell Tarly,Oberyn Martell
+Samwell Tarly,Daario Naharis
+Samwell Tarly,Selyse Baratheon
+Samwell Tarly,Lysa Arryn
+Samwell Tarly,Podrick Payne
+Samwell Tarly,Robin Arryn
+Samwell Tarly,Rorge
+Samwell Tarly,Hot Pie
+Samwell Tarly,Gregor Clegane
+Samwell Tarly,Biter
+Samwell Tarly,Jon Snow
+Samwell Tarly,Jorah Mormont
+Samwell Tarly,Alliser Thorne
+Samwell Tarly,Janos Slynt
+Samwell Tarly,Grenn
+Samwell Tarly,Eddison Tollett
+Samwell Tarly,Pypar
+Samwell Tarly,Olly
+Samwell Tarly,Othell Yarwyck
+Sansa Stark,Arya Stark
+Sansa Stark,Sandor 'The Hound' Clegane
+Sansa Stark,Brienne of Tarth
+Sansa Stark,Bronn
+Sansa Stark,Oberyn Martell
+Sansa Stark,Daario Naharis
+Sansa Stark,Selyse Baratheon
+Sansa Stark,Lysa Arryn
+Sansa Stark,Podrick Payne
+Sansa Stark,Robin Arryn
+Sansa Stark,Rorge
+Sansa Stark,Hot Pie
+Sansa Stark,Gregor Clegane
+Sansa Stark,Biter
+Sansa Stark,Jon Snow
+Sansa Stark,Jorah Mormont
+Sansa Stark,Alliser Thorne
+Sansa Stark,Janos Slynt
+Sansa Stark,Grenn
+Sansa Stark,Eddison Tollett
+Sansa Stark,Pypar
+Sansa Stark,Olly
+Sansa Stark,Othell Yarwyck
+Arya Stark,Sandor 'The Hound' Clegane
+Arya Stark,Brienne of Tarth
+Arya Stark,Bronn
+Arya Stark,Oberyn Martell
+Arya Stark,Daario Naharis
+Arya Stark,Selyse Baratheon
+Arya Stark,Lysa Arryn
+Arya Stark,Podrick Payne
+Arya Stark,Robin Arryn
+Arya Stark,Rorge
+Arya Stark,Hot Pie
+Arya Stark,Gregor Clegane
+Arya Stark,Biter
+Arya Stark,Jon Snow
+Arya Stark,Jorah Mormont
+Arya Stark,Alliser Thorne
+Arya Stark,Janos Slynt
+Arya Stark,Grenn
+Arya Stark,Eddison Tollett
+Arya Stark,Pypar
+Arya Stark,Olly
+Arya Stark,Othell Yarwyck
+Sandor 'The Hound' Clegane,Brienne of Tarth
+Sandor 'The Hound' Clegane,Bronn
+Sandor 'The Hound' Clegane,Oberyn Martell
+Sandor 'The Hound' Clegane,Daario Naharis
+Sandor 'The Hound' Clegane,Selyse Baratheon
+Sandor 'The Hound' Clegane,Lysa Arryn
+Sandor 'The Hound' Clegane,Podrick Payne
+Sandor 'The Hound' Clegane,Robin Arryn
+Sandor 'The Hound' Clegane,Rorge
+Sandor 'The Hound' Clegane,Hot Pie
+Sandor 'The Hound' Clegane,Gregor Clegane
+Sandor 'The Hound' Clegane,Biter
+Sandor 'The Hound' Clegane,Jon Snow
+Sandor 'The Hound' Clegane,Jorah Mormont
+Sandor 'The Hound' Clegane,Alliser Thorne
+Sandor 'The Hound' Clegane,Janos Slynt
+Sandor 'The Hound' Clegane,Grenn
+Sandor 'The Hound' Clegane,Eddison Tollett
+Sandor 'The Hound' Clegane,Pypar
+Sandor 'The Hound' Clegane,Olly
+Sandor 'The Hound' Clegane,Othell Yarwyck
+Brienne of Tarth,Bronn
+Brienne of Tarth,Oberyn Martell
+Brienne of Tarth,Daario Naharis
+Brienne of Tarth,Selyse Baratheon
+Brienne of Tarth,Lysa Arryn
+Brienne of Tarth,Podrick Payne
+Brienne of Tarth,Robin Arryn
+Brienne of Tarth,Rorge
+Brienne of Tarth,Hot Pie
+Brienne of Tarth,Gregor Clegane
+Brienne of Tarth,Biter
+Brienne of Tarth,Jon Snow
+Brienne of Tarth,Jorah Mormont
+Brienne of Tarth,Alliser Thorne
+Brienne of Tarth,Janos Slynt
+Brienne of Tarth,Grenn
+Brienne of Tarth,Eddison Tollett
+Brienne of Tarth,Pypar
+Brienne of Tarth,Olly
+Brienne of Tarth,Othell Yarwyck
+Bronn,Oberyn Martell
+Bronn,Daario Naharis
+Bronn,Selyse Baratheon
+Bronn,Lysa Arryn
+Bronn,Podrick Payne
+Bronn,Robin Arryn
+Bronn,Rorge
+Bronn,Hot Pie
+Bronn,Gregor Clegane
+Bronn,Biter
+Bronn,Jon Snow
+Bronn,Jorah Mormont
+Bronn,Alliser Thorne
+Bronn,Janos Slynt
+Bronn,Grenn
+Bronn,Eddison Tollett
+Bronn,Pypar
+Bronn,Olly
+Bronn,Othell Yarwyck
+Oberyn Martell,Daario Naharis
+Oberyn Martell,Selyse Baratheon
+Oberyn Martell,Lysa Arryn
+Oberyn Martell,Podrick Payne
+Oberyn Martell,Robin Arryn
+Oberyn Martell,Rorge
+Oberyn Martell,Hot Pie
+Oberyn Martell,Gregor Clegane
+Oberyn Martell,Biter
+Oberyn Martell,Jon Snow
+Oberyn Martell,Jorah Mormont
+Oberyn Martell,Alliser Thorne
+Oberyn Martell,Janos Slynt
+Oberyn Martell,Grenn
+Oberyn Martell,Eddison Tollett
+Oberyn Martell,Pypar
+Oberyn Martell,Olly
+Oberyn Martell,Othell Yarwyck
+Daario Naharis,Selyse Baratheon
+Daario Naharis,Lysa Arryn
+Daario Naharis,Podrick Payne
+Daario Naharis,Robin Arryn
+Daario Naharis,Rorge
+Daario Naharis,Hot Pie
+Daario Naharis,Gregor Clegane
+Daario Naharis,Biter
+Daario Naharis,Jon Snow
+Daario Naharis,Jorah Mormont
+Daario Naharis,Alliser Thorne
+Daario Naharis,Janos Slynt
+Daario Naharis,Grenn
+Daario Naharis,Eddison Tollett
+Daario Naharis,Pypar
+Daario Naharis,Olly
+Daario Naharis,Othell Yarwyck
+Selyse Baratheon,Lysa Arryn
+Selyse Baratheon,Podrick Payne
+Selyse Baratheon,Robin Arryn
+Selyse Baratheon,Rorge
+Selyse Baratheon,Hot Pie
+Selyse Baratheon,Gregor Clegane
+Selyse Baratheon,Biter
+Selyse Baratheon,Jon Snow
+Selyse Baratheon,Jorah Mormont
+Selyse Baratheon,Alliser Thorne
+Selyse Baratheon,Janos Slynt
+Selyse Baratheon,Grenn
+Selyse Baratheon,Eddison Tollett
+Selyse Baratheon,Pypar
+Selyse Baratheon,Olly
+Selyse Baratheon,Othell Yarwyck
+Lysa Arryn,Podrick Payne
+Lysa Arryn,Robin Arryn
+Lysa Arryn,Rorge
+Lysa Arryn,Hot Pie
+Lysa Arryn,Gregor Clegane
+Lysa Arryn,Biter
+Lysa Arryn,Jon Snow
+Lysa Arryn,Jorah Mormont
+Lysa Arryn,Alliser Thorne
+Lysa Arryn,Janos Slynt
+Lysa Arryn,Grenn
+Lysa Arryn,Eddison Tollett
+Lysa Arryn,Pypar
+Lysa Arryn,Olly
+Lysa Arryn,Othell Yarwyck
+Podrick Payne,Robin Arryn
+Podrick Payne,Rorge
+Podrick Payne,Hot Pie
+Podrick Payne,Gregor Clegane
+Podrick Payne,Biter
+Podrick Payne,Jon Snow
+Podrick Payne,Jorah Mormont
+Podrick Payne,Alliser Thorne
+Podrick Payne,Janos Slynt
+Podrick Payne,Grenn
+Podrick Payne,Eddison Tollett
+Podrick Payne,Pypar
+Podrick Payne,Olly
+Podrick Payne,Othell Yarwyck
+Robin Arryn,Rorge
+Robin Arryn,Hot Pie
+Robin Arryn,Gregor Clegane
+Robin Arryn,Biter
+Robin Arryn,Jon Snow
+Robin Arryn,Jorah Mormont
+Robin Arryn,Alliser Thorne
+Robin Arryn,Janos Slynt
+Robin Arryn,Grenn
+Robin Arryn,Eddison Tollett
+Robin Arryn,Pypar
+Robin Arryn,Olly
+Robin Arryn,Othell Yarwyck
+Rorge,Hot Pie
+Rorge,Gregor Clegane
+Rorge,Biter
+Rorge,Jon Snow
+Rorge,Jorah Mormont
+Rorge,Alliser Thorne
+Rorge,Janos Slynt
+Rorge,Grenn
+Rorge,Eddison Tollett
+Rorge,Pypar
+Rorge,Olly
+Rorge,Othell Yarwyck
+Hot Pie,Gregor Clegane
+Hot Pie,Biter
+Hot Pie,Jon Snow
+Hot Pie,Jorah Mormont
+Hot Pie,Alliser Thorne
+Hot Pie,Janos Slynt
+Hot Pie,Grenn
+Hot Pie,Eddison Tollett
+Hot Pie,Pypar
+Hot Pie,Olly
+Hot Pie,Othell Yarwyck
+Gregor Clegane,Biter
+Gregor Clegane,Jon Snow
+Gregor Clegane,Jorah Mormont
+Gregor Clegane,Alliser Thorne
+Gregor Clegane,Janos Slynt
+Gregor Clegane,Grenn
+Gregor Clegane,Eddison Tollett
+Gregor Clegane,Pypar
+Gregor Clegane,Olly
+Gregor Clegane,Othell Yarwyck
+Biter,Jon Snow
+Biter,Jorah Mormont
+Biter,Alliser Thorne
+Biter,Janos Slynt
+Biter,Grenn
+Biter,Eddison Tollett
+Biter,Pypar
+Biter,Olly
+Biter,Othell Yarwyck
+Jon Snow,Jorah Mormont
+Jon Snow,Alliser Thorne
+Jon Snow,Janos Slynt
+Jon Snow,Grenn
+Jon Snow,Eddison Tollett
+Jon Snow,Pypar
+Jon Snow,Olly
+Jon Snow,Othell Yarwyck
+Jorah Mormont,Alliser Thorne
+Jorah Mormont,Janos Slynt
+Jorah Mormont,Grenn
+Jorah Mormont,Eddison Tollett
+Jorah Mormont,Pypar
+Jorah Mormont,Olly
+Jorah Mormont,Othell Yarwyck
+Alliser Thorne,Janos Slynt
+Alliser Thorne,Grenn
+Alliser Thorne,Eddison Tollett
+Alliser Thorne,Pypar
+Alliser Thorne,Olly
+Alliser Thorne,Othell Yarwyck
+Janos Slynt,Grenn
+Janos Slynt,Eddison Tollett
+Janos Slynt,Pypar
+Janos Slynt,Olly
+Janos Slynt,Othell Yarwyck
+Grenn,Eddison Tollett
+Grenn,Pypar
+Grenn,Olly
+Grenn,Othell Yarwyck
+Eddison Tollett,Pypar
+Eddison Tollett,Olly
+Eddison Tollett,Othell Yarwyck
+Pypar,Olly
+Pypar,Othell Yarwyck
+Olly,Othell Yarwyck
